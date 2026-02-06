@@ -3,9 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>De Rijkste Belgen — Lead Dashboard</title>
+  <title>De Rijkste Belgen — Lead Wiki</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
   <script>
@@ -13,492 +12,635 @@
       theme: {
         extend: {
           fontFamily: { sans: ['Inter', 'system-ui', 'sans-serif'] },
-          colors: {
-            brand: { 50:'#f0f9ff', 100:'#e0f2fe', 200:'#bae6fd', 300:'#7dd3fc', 400:'#38bdf8', 500:'#0ea5e9', 600:'#0284c7', 700:'#0369a1', 800:'#075985', 900:'#0c4a6e' },
-            surface: { 0:'#ffffff', 1:'#f8fafc', 2:'#f1f5f9', 3:'#e2e8f0' },
-            ink: { 0:'#0f172a', 1:'#334155', 2:'#64748b', 3:'#94a3b8' }
-          }
         }
       }
     }
   </script>
   <style>
     * { box-sizing: border-box; }
-    body { font-family: 'Inter', system-ui, sans-serif; background: #f8fafc; color: #0f172a; }
-    .tab-btn { transition: all 150ms ease; }
-    .tab-btn.active { background: #0ea5e9; color: white; box-shadow: 0 2px 8px rgba(14,165,233,0.3); }
-    .tab-btn:not(.active):hover { background: #e2e8f0; }
-    .card { background: white; border: 1px solid #e2e8f0; border-radius: 0.75rem; transition: box-shadow 150ms ease; }
-    .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.06); }
-    .badge { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 9999px; font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; }
-    .link-pill { display: inline-flex; align-items: center; gap: 4px; padding: 3px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 500; text-decoration: none; transition: all 150ms; }
-    .link-pill:hover { filter: brightness(0.92); }
-    .search-input { transition: border-color 150ms, box-shadow 150ms; }
-    .search-input:focus { border-color: #0ea5e9; box-shadow: 0 0 0 3px rgba(14,165,233,0.15); outline: none; }
-    select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%2364748b' viewBox='0 0 16 16'%3E%3Cpath d='M8 11L3 6h10z'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 0.75rem center; padding-right: 2.25rem; }
-    .fade-in { animation: fadeIn 300ms ease-out; }
-    @keyframes fadeIn { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
-    .stat-card { background: linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%); }
-    .stat-card-alt { background: linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%); }
-    .stat-card-warm { background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); }
-    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    body { font-family: 'Inter', system-ui, sans-serif; background: #0f172a; color: #e2e8f0; min-height: 100vh; }
+    
+    /* Scrollbar */
+    ::-webkit-scrollbar { width: 5px; }
     ::-webkit-scrollbar-track { background: transparent; }
-    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
-    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
-    .table-row { transition: background 100ms; }
-    .table-row:hover { background: #f1f5f9; }
-    .expand-btn { transition: transform 200ms; }
-    .expand-btn.open { transform: rotate(180deg); }
+    ::-webkit-scrollbar-thumb { background: #334155; border-radius: 3px; }
+
+    /* Sidebar */
+    .sidebar { background: #1e293b; border-right: 1px solid #334155; width: 280px; min-width: 280px; }
+    .sidebar-link { display: flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 6px; font-size: 0.8125rem; color: #94a3b8; transition: all 120ms; cursor: pointer; }
+    .sidebar-link:hover { background: #334155; color: #e2e8f0; }
+    .sidebar-link.active { background: #0ea5e9; color: white; }
+
+    /* Cards */
+    .card { background: #1e293b; border: 1px solid #334155; border-radius: 0.75rem; }
+    .card-hover:hover { border-color: #475569; box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
+
+    /* Wiki link */
+    .wiki-link { color: #38bdf8; text-decoration: none; cursor: pointer; transition: color 120ms; }
+    .wiki-link:hover { color: #7dd3fc; text-decoration: underline; }
+
+    /* Badges */
+    .badge { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 9999px; font-size: 0.6875rem; font-weight: 600; letter-spacing: 0.02em; }
+    .badge-family { background: #312e81; color: #a5b4fc; }
+    .badge-company { background: #4c1d95; color: #c4b5fd; }
+    .badge-person { background: #064e3b; color: #6ee7b7; }
+    .badge-wealth { background: #78350f; color: #fcd34d; }
+
+    /* Pill links */
+    .pill { display: inline-flex; align-items: center; gap: 4px; padding: 4px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 500; text-decoration: none; transition: all 120ms; }
+    .pill-linkedin { background: #1e3a5f; color: #60a5fa; }
+    .pill-linkedin:hover { background: #1e40af; }
+    .pill-email { background: #064e3b; color: #6ee7b7; }
+    .pill-email:hover { background: #065f46; }
+    .pill-web { background: #3f3f46; color: #d4d4d8; }
+    .pill-web:hover { background: #52525b; }
+
+    /* Entity cards in grid */
+    .entity-card { transition: all 150ms; cursor: pointer; }
+    .entity-card:hover { transform: translateY(-2px); border-color: #475569; }
+
+    /* Stat pills */
+    .stat-pill { background: linear-gradient(135deg, #0ea5e9, #0369a1); padding: 2px 10px; border-radius: 999px; font-size: 0.75rem; font-weight: 700; color: white; }
+
+    /* Search */
+    .search-box { background: #1e293b; border: 1px solid #334155; transition: border-color 150ms, box-shadow 150ms; }
+    .search-box:focus { border-color: #0ea5e9; box-shadow: 0 0 0 3px rgba(14,165,233,0.2); outline: none; }
+
+    /* Fade in */
+    .fade-in { animation: fadeIn 250ms ease-out; }
+    @keyframes fadeIn { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:translateY(0); } }
+
+    /* Table */
+    .wiki-table { width: 100%; }
+    .wiki-table th { text-align: left; padding: 8px 12px; font-size: 0.6875rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #64748b; border-bottom: 1px solid #334155; }
+    .wiki-table td { padding: 8px 12px; font-size: 0.8125rem; border-bottom: 1px solid #1e293b; }
+    .wiki-table tr:hover td { background: #1e293b; }
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      .sidebar { display: none; }
+      .sidebar.open { display: flex; position: fixed; top: 0; left: 0; bottom: 0; z-index: 100; }
+    }
+
+    /* Section headers */
+    .section-label { font-size: 0.625rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: #475569; padding: 0 12px; margin-bottom: 4px; margin-top: 16px; }
   </style>
 </head>
-<body class="min-h-screen">
+<body>
 
-  <!-- Header -->
-  <header class="bg-white border-b border-surface-3 sticky top-0 z-50">
-    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
-      <div class="flex items-center gap-3">
-        <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-brand-500 to-brand-700 flex items-center justify-center text-white font-bold text-sm">RB</div>
+<div class="flex min-h-screen">
+
+  <!-- Sidebar -->
+  <aside id="sidebar" class="sidebar flex flex-col h-screen sticky top-0 overflow-hidden">
+    <!-- Header -->
+    <div class="p-4 border-b border-[#334155]">
+      <div class="flex items-center gap-2 mb-3">
+        <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-sky-500 to-blue-700 flex items-center justify-center text-white font-bold text-xs">RB</div>
         <div>
-          <h1 class="text-lg font-bold leading-tight">De Rijkste Belgen</h1>
-          <p class="text-xs text-ink-2">Lead Dashboard — VibeLab</p>
+          <h1 class="text-sm font-bold text-white leading-tight">Rijkste Belgen</h1>
+          <p class="text-[10px] text-slate-400">Lead Wiki — VibeLab</p>
         </div>
       </div>
-      <div class="flex items-center gap-2">
-        <span id="lastUpdate" class="text-xs text-ink-3"></span>
-      </div>
+      <input id="sidebarSearch" type="text" placeholder="Search…" class="search-box w-full rounded-lg px-3 py-1.5 text-sm text-slate-200" />
     </div>
-  </header>
 
-  <!-- Stats -->
-  <section class="max-w-[1400px] mx-auto px-4 sm:px-6 py-6">
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-      <div class="stat-card rounded-xl p-5 text-white">
-        <p class="text-sm font-medium opacity-80">Families</p>
-        <p id="statFamilies" class="text-3xl font-extrabold mt-1">—</p>
-        <p class="text-xs opacity-60 mt-1">Ranked by wealth</p>
-      </div>
-      <div class="stat-card-alt rounded-xl p-5 text-white">
-        <p class="text-sm font-medium opacity-80">Companies</p>
-        <p id="statCompanies" class="text-3xl font-extrabold mt-1">—</p>
-        <p class="text-xs opacity-60 mt-1">Extracted entities</p>
-      </div>
-      <div class="stat-card-warm rounded-xl p-5 text-white">
-        <p class="text-sm font-medium opacity-80">People (w/ email)</p>
-        <p id="statPeople" class="text-3xl font-extrabold mt-1">—</p>
-        <p class="text-xs opacity-60 mt-1">Apollo-enriched contacts</p>
-      </div>
+    <!-- Nav -->
+    <nav id="sidebarNav" class="flex-1 overflow-y-auto p-2">
+      <!-- Populated by JS -->
+    </nav>
+
+    <!-- Stats footer -->
+    <div class="p-3 border-t border-[#334155] text-[10px] text-slate-500 flex gap-3">
+      <span id="sFam">—</span>
+      <span id="sComp">—</span>
+      <span id="sPpl">—</span>
     </div>
-  </section>
+  </aside>
 
-  <!-- Tabs -->
-  <section class="max-w-[1400px] mx-auto px-4 sm:px-6">
-    <div class="flex gap-2 mb-4">
-      <button class="tab-btn active px-4 py-2 rounded-lg text-sm font-semibold" data-tab="families">👑 Families</button>
-      <button class="tab-btn px-4 py-2 rounded-lg text-sm font-semibold" data-tab="companies">🏢 Companies</button>
-      <button class="tab-btn px-4 py-2 rounded-lg text-sm font-semibold" data-tab="people">👤 People</button>
+  <!-- Main -->
+  <main class="flex-1 min-w-0">
+    <!-- Top bar (mobile) -->
+    <div class="md:hidden sticky top-0 z-50 bg-[#0f172a] border-b border-[#334155] px-4 py-3 flex items-center gap-3">
+      <button id="menuBtn" class="text-slate-400 hover:text-white"><i data-lucide="menu" class="w-5 h-5"></i></button>
+      <input id="topSearch" type="text" placeholder="Search…" class="search-box flex-1 rounded-lg px-3 py-1.5 text-sm text-slate-200" />
     </div>
-  </section>
 
-  <!-- Filters -->
-  <section class="max-w-[1400px] mx-auto px-4 sm:px-6 mb-4">
-    <div class="card p-4 flex flex-wrap gap-3 items-end">
-      <div class="flex-1 min-w-[200px]">
-        <label class="block text-xs font-medium text-ink-2 mb-1">Search</label>
-        <input id="searchInput" type="text" placeholder="Type to search…" class="search-input w-full border border-surface-3 rounded-lg px-3 py-2 text-sm">
-      </div>
-      <div id="filterFamily" class="min-w-[180px]">
-        <label class="block text-xs font-medium text-ink-2 mb-1">Family</label>
-        <select id="familySelect" class="w-full border border-surface-3 rounded-lg px-3 py-2 text-sm bg-white">
-          <option value="">All families</option>
-        </select>
-      </div>
-      <div id="filterCompany" class="min-w-[180px] hidden">
-        <label class="block text-xs font-medium text-ink-2 mb-1">Company</label>
-        <select id="companySelect" class="w-full border border-surface-3 rounded-lg px-3 py-2 text-sm bg-white">
-          <option value="">All companies</option>
-        </select>
-      </div>
-      <div id="filterWealthRange" class="min-w-[160px]">
-        <label class="block text-xs font-medium text-ink-2 mb-1">Min Wealth</label>
-        <select id="wealthSelect" class="w-full border border-surface-3 rounded-lg px-3 py-2 text-sm bg-white">
-          <option value="0">Any</option>
-          <option value="100000000">€100M+</option>
-          <option value="500000000">€500M+</option>
-          <option value="1000000000">€1B+</option>
-          <option value="5000000000">€5B+</option>
-        </select>
-      </div>
-      <button id="resetBtn" class="px-4 py-2 rounded-lg text-sm font-medium text-ink-2 hover:bg-surface-2 border border-surface-3 transition">Reset</button>
-      <span id="resultCount" class="text-xs text-ink-3 self-center ml-auto"></span>
+    <div id="mainContent" class="p-4 sm:p-6 max-w-[1100px] mx-auto fade-in">
+      <!-- Rendered by JS -->
     </div>
-  </section>
+  </main>
+</div>
 
-  <!-- Content -->
-  <section class="max-w-[1400px] mx-auto px-4 sm:px-6 pb-12">
-    <div id="content" class="fade-in"></div>
-  </section>
+<script>
+// ═══════════════════════════════════════
+// DATA & STATE
+// ═══════════════════════════════════════
+let G = { families:[], companies:[], people:[] };
+let IDX = { families:{}, companies:{}, people:{} };
+let STATE = { view:'home', id:null };
 
-  <script>
-  let DATA = { families: [], companies: [], people: [] };
-  let currentTab = 'families';
-  let expandedRows = new Set();
+async function boot() {
+  const d = await fetch('data/graph.json').then(r=>r.json());
+  G = d;
+  G.families.forEach(f => IDX.families[f.id] = f);
+  G.companies.forEach(c => IDX.companies[c.id] = c);
+  G.people.forEach(p => IDX.people[p.id] = p);
 
-  // Load data
-  async function loadData() {
-    const [f, c, p] = await Promise.all([
-      fetch('data/families.json').then(r => r.json()),
-      fetch('data/companies.json').then(r => r.json()),
-      fetch('data/people.json').then(r => r.json()),
-    ]);
-    DATA.families = f;
-    DATA.companies = c;
-    DATA.people = p;
+  document.getElementById('sFam').textContent = G.families.length + ' families';
+  document.getElementById('sComp').textContent = G.companies.length + ' companies';
+  document.getElementById('sPpl').textContent = G.people.length + ' people';
 
-    document.getElementById('statFamilies').textContent = f.length.toLocaleString();
-    document.getElementById('statCompanies').textContent = c.length.toLocaleString();
-    document.getElementById('statPeople').textContent = p.length.toLocaleString();
-    document.getElementById('lastUpdate').textContent = 'Data: ' + new Date().toLocaleDateString('nl-BE');
+  // Handle hash routing
+  window.addEventListener('hashchange', route);
+  route();
+  buildSidebar();
+}
 
-    populateDropdowns();
-    render();
-  }
+function route() {
+  const h = location.hash.slice(1);
+  if (!h) { STATE = {view:'home', id:null}; }
+  else if (h === 'families') { STATE = {view:'list', type:'families'}; }
+  else if (h === 'companies') { STATE = {view:'list', type:'companies'}; }
+  else if (h === 'people') { STATE = {view:'list', type:'people'}; }
+  else if (h.startsWith('family/')) { STATE = {view:'family', id:h.slice(7)}; }
+  else if (h.startsWith('company/')) { STATE = {view:'company', id:h.slice(8)}; }
+  else if (h.startsWith('person/')) { STATE = {view:'person', id:h.slice(7)}; }
+  else { STATE = {view:'home'}; }
+  render();
+  updateSidebarActive();
+}
 
-  function parseWealth(s) {
-    if (!s) return 0;
-    return parseFloat(s.replace(/\./g, '').replace(',', '.')) || 0;
-  }
+function nav(hash) { location.hash = hash; }
 
-  function formatWealth(n) {
-    if (n >= 1e9) return '€' + (n / 1e9).toFixed(1) + 'B';
-    if (n >= 1e6) return '€' + (n / 1e6).toFixed(0) + 'M';
-    if (n >= 1e3) return '€' + (n / 1e3).toFixed(0) + 'K';
-    return '€' + n;
-  }
+// ═══════════════════════════════════════
+// SIDEBAR
+// ═══════════════════════════════════════
+function buildSidebar(filter='') {
+  const el = document.getElementById('sidebarNav');
+  const q = filter.toLowerCase();
+  let html = '';
 
-  function cleanName(s) {
-    if (!s) return '';
-    // Split concatenated name+company
-    return s.replace(/([a-zà-ÿ])([A-Z])/g, '$1 — $2');
-  }
+  // Home
+  html += `<div class="sidebar-link ${STATE.view==='home'?'active':''}" onclick="nav('')">
+    <i data-lucide="home" class="w-4 h-4"></i> Home
+  </div>`;
 
-  function populateDropdowns() {
-    // Family dropdown
-    const familySet = new Set();
-    DATA.families.forEach(f => {
-      const n = cleanName(f['Name/Family']);
-      if (n) familySet.add(n);
-    });
-    const fSel = document.getElementById('familySelect');
-    [...familySet].sort().forEach(name => {
-      const o = document.createElement('option');
-      o.value = name; o.textContent = name.length > 50 ? name.slice(0, 47) + '…' : name;
-      fSel.appendChild(o);
-    });
+  // Families section
+  html += `<div class="section-label">Families (${G.families.length})</div>`;
+  html += `<div class="sidebar-link" onclick="nav('families')"><i data-lucide="crown" class="w-4 h-4"></i> All Families</div>`;
+  const fams = q ? G.families.filter(f => f.name.toLowerCase().includes(q)) : G.families.slice(0, 30);
+  fams.forEach(f => {
+    const active = STATE.view==='family' && STATE.id===f.id;
+    html += `<div class="sidebar-link ${active?'active':''}" onclick="nav('family/${f.id}')">
+      <span class="truncate">#${f.rank} ${f.name}</span>
+    </div>`;
+  });
+  if (!q && G.families.length > 30) html += `<div class="sidebar-link text-slate-500" onclick="nav('families')">+ ${G.families.length - 30} more…</div>`;
 
-    // Company dropdown (unique)
-    const compSet = new Set();
-    DATA.companies.forEach(c => {
-      const n = c['Company'];
-      if (n) compSet.add(n);
-    });
-    const cSel = document.getElementById('companySelect');
-    [...compSet].sort().forEach(name => {
-      const o = document.createElement('option');
-      o.value = name; o.textContent = name.length > 50 ? name.slice(0, 47) + '…' : name;
-      cSel.appendChild(o);
-    });
-  }
-
-  // Tabs
-  document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentTab = btn.dataset.tab;
-      expandedRows.clear();
-
-      // Show/hide relevant filters
-      document.getElementById('filterFamily').classList.toggle('hidden', currentTab === 'companies');
-      document.getElementById('filterCompany').classList.toggle('hidden', currentTab !== 'companies' && currentTab !== 'people');
-      document.getElementById('filterWealthRange').classList.toggle('hidden', currentTab !== 'families');
-
-      render();
-    });
+  // Companies section
+  html += `<div class="section-label">Companies (${G.companies.length})</div>`;
+  html += `<div class="sidebar-link" onclick="nav('companies')"><i data-lucide="building-2" class="w-4 h-4"></i> All Companies</div>`;
+  const comps = q ? G.companies.filter(c => c.name.toLowerCase().includes(q)).slice(0, 30) : G.companies.slice(0, 15);
+  comps.forEach(c => {
+    const active = STATE.view==='company' && STATE.id===c.id;
+    html += `<div class="sidebar-link ${active?'active':''}" onclick="nav('company/${c.id}')">
+      <span class="truncate">${c.name}</span>
+    </div>`;
   });
 
-  // Filters
-  ['searchInput', 'familySelect', 'companySelect', 'wealthSelect'].forEach(id => {
-    document.getElementById(id).addEventListener('input', () => render());
-    document.getElementById(id).addEventListener('change', () => render());
-  });
-  document.getElementById('resetBtn').addEventListener('click', () => {
-    document.getElementById('searchInput').value = '';
-    document.getElementById('familySelect').value = '';
-    document.getElementById('companySelect').value = '';
-    document.getElementById('wealthSelect').value = '0';
-    expandedRows.clear();
-    render();
+  // People section
+  html += `<div class="section-label">People (${G.people.length})</div>`;
+  html += `<div class="sidebar-link" onclick="nav('people')"><i data-lucide="users" class="w-4 h-4"></i> All People</div>`;
+  const ppls = q ? G.people.filter(p => p.name.toLowerCase().includes(q)).slice(0, 30) : G.people.slice(0, 15);
+  ppls.forEach(p => {
+    const active = STATE.view==='person' && STATE.id===p.id;
+    html += `<div class="sidebar-link ${active?'active':''}" onclick="nav('person/${p.id}')">
+      <span class="truncate">${p.name}</span>
+    </div>`;
   });
 
-  function getFilters() {
-    return {
-      search: document.getElementById('searchInput').value.toLowerCase().trim(),
-      family: document.getElementById('familySelect').value,
-      company: document.getElementById('companySelect').value,
-      minWealth: parseFloat(document.getElementById('wealthSelect').value) || 0,
-    };
+  el.innerHTML = html;
+  lucide.createIcons();
+}
+
+function updateSidebarActive() { buildSidebar(document.getElementById('sidebarSearch').value); }
+
+document.getElementById('sidebarSearch').addEventListener('input', e => buildSidebar(e.target.value));
+document.getElementById('menuBtn')?.addEventListener('click', () => document.getElementById('sidebar').classList.toggle('open'));
+
+// ═══════════════════════════════════════
+// RENDER
+// ═══════════════════════════════════════
+function render() {
+  const el = document.getElementById('mainContent');
+  el.classList.remove('fade-in');
+  void el.offsetWidth;
+  el.classList.add('fade-in');
+
+  if (STATE.view === 'home') el.innerHTML = renderHome();
+  else if (STATE.view === 'list') el.innerHTML = renderList(STATE.type);
+  else if (STATE.view === 'family') el.innerHTML = renderFamily(STATE.id);
+  else if (STATE.view === 'company') el.innerHTML = renderCompany(STATE.id);
+  else if (STATE.view === 'person') el.innerHTML = renderPerson(STATE.id);
+  else el.innerHTML = '<div class="text-center py-20 text-slate-400">Page not found</div>';
+
+  lucide.createIcons();
+  window.scrollTo(0, 0);
+}
+
+// ── Helpers ──
+function parseWealth(s) { return parseFloat((s||'').replace(/\./g,'').replace(',','.')) || 0; }
+function fmtWealth(n) {
+  if (n >= 1e9) return '€' + (n/1e9).toFixed(1) + 'B';
+  if (n >= 1e6) return '€' + (n/1e6).toFixed(0) + 'M';
+  return '€' + n.toLocaleString();
+}
+function famLink(id) { const f = IDX.families[id]; return f ? `<a class="wiki-link" onclick="nav('family/${id}')">${f.name}</a>` : id; }
+function compLink(id) { const c = IDX.companies[id]; return c ? `<a class="wiki-link" onclick="nav('company/${id}')">${c.name}</a>` : id; }
+function personLink(id) { const p = IDX.people[id]; return p ? `<a class="wiki-link" onclick="nav('person/${id}')">${p.name}</a>` : id; }
+function liPill(url) { return url ? `<a href="${url}" target="_blank" class="pill pill-linkedin"><i data-lucide="linkedin" class="w-3 h-3"></i>LinkedIn</a>` : ''; }
+function emailPill(e) { return e ? `<a href="mailto:${e}" class="pill pill-email"><i data-lucide="mail" class="w-3 h-3"></i>${e}</a>` : ''; }
+function webPill(u) { return u ? `<a href="${u}" target="_blank" class="pill pill-web"><i data-lucide="globe" class="w-3 h-3"></i>Website</a>` : ''; }
+function extPill(u, label) { return u ? `<a href="${u}" target="_blank" class="pill pill-web"><i data-lucide="external-link" class="w-3 h-3"></i>${label}</a>` : ''; }
+
+// ═══════════════════════════════════════
+// HOME
+// ═══════════════════════════════════════
+function renderHome() {
+  const topFamilies = G.families.slice(0, 10);
+  const topPeople = G.people.filter(p=>p.email).slice(0, 8);
+
+  return `
+    <div class="mb-8">
+      <h1 class="text-3xl font-extrabold text-white mb-2">De Rijkste Belgen</h1>
+      <p class="text-slate-400">Interactive lead wiki — ${G.families.length} families · ${G.companies.length} companies · ${G.people.length} contacts</p>
+    </div>
+
+    <!-- Stats -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+      <div class="card p-5 cursor-pointer card-hover" onclick="nav('families')">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 rounded-lg bg-indigo-500/20 flex items-center justify-center"><i data-lucide="crown" class="w-5 h-5 text-indigo-400"></i></div>
+          <div>
+            <p class="text-2xl font-extrabold text-white">${G.families.length}</p>
+            <p class="text-xs text-slate-400">Families</p>
+          </div>
+        </div>
+      </div>
+      <div class="card p-5 cursor-pointer card-hover" onclick="nav('companies')">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 rounded-lg bg-purple-500/20 flex items-center justify-center"><i data-lucide="building-2" class="w-5 h-5 text-purple-400"></i></div>
+          <div>
+            <p class="text-2xl font-extrabold text-white">${G.companies.length}</p>
+            <p class="text-xs text-slate-400">Companies</p>
+          </div>
+        </div>
+      </div>
+      <div class="card p-5 cursor-pointer card-hover" onclick="nav('people')">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 rounded-lg bg-emerald-500/20 flex items-center justify-center"><i data-lucide="users" class="w-5 h-5 text-emerald-400"></i></div>
+          <div>
+            <p class="text-2xl font-extrabold text-white">${G.people.length}</p>
+            <p class="text-xs text-slate-400">Contacts w/ email</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Top Families -->
+    <h2 class="text-lg font-bold text-white mb-3">👑 Top 10 Wealthiest</h2>
+    <div class="card overflow-hidden mb-8">
+      <table class="wiki-table">
+        <thead><tr><th>#</th><th>Family</th><th>Wealth</th><th>Companies</th><th>Contacts</th></tr></thead>
+        <tbody>
+          ${topFamilies.map(f => `
+            <tr class="cursor-pointer" onclick="nav('family/${f.id}')">
+              <td class="font-mono text-slate-500">${f.rank}</td>
+              <td><span class="wiki-link font-semibold">${f.name}</span><br><span class="text-xs text-slate-500">${f.location}</span></td>
+              <td><span class="badge badge-wealth">${fmtWealth(parseWealth(f.wealth))}</span></td>
+              <td><span class="badge badge-company">${f.companyIds.length}</span></td>
+              <td><span class="badge badge-person">${f.personIds.length}</span></td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Recent contacts -->
+    <h2 class="text-lg font-bold text-white mb-3">📧 Recent Contacts</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      ${topPeople.map(p => `
+        <div class="card p-4 entity-card card-hover" onclick="nav('person/${p.id}')">
+          <div class="font-semibold text-white text-sm">${p.name}</div>
+          <div class="text-xs text-slate-400 mt-0.5">${p.role || 'N/A'} · ${p.company || ''}</div>
+          <div class="flex flex-wrap gap-1.5 mt-2">
+            ${liPill(p.linkedin)}
+            ${emailPill(p.email)}
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+// ═══════════════════════════════════════
+// LIST VIEWS
+// ═══════════════════════════════════════
+function renderList(type) {
+  const titles = { families:'👑 All Families', companies:'🏢 All Companies', people:'👤 All People' };
+  let html = `
+    <div class="flex items-center justify-between mb-4">
+      <h1 class="text-2xl font-bold text-white">${titles[type]}</h1>
+      <input id="listSearch" type="text" placeholder="Filter…" class="search-box rounded-lg px-3 py-1.5 text-sm text-slate-200 w-60" oninput="filterList('${type}')">
+    </div>
+    <div id="listBody"></div>
+  `;
+  setTimeout(() => filterList(type), 0);
+  return html;
+}
+
+function filterList(type) {
+  const q = (document.getElementById('listSearch')?.value || '').toLowerCase();
+  const el = document.getElementById('listBody');
+  if (!el) return;
+
+  if (type === 'families') {
+    let items = G.families.filter(f => !q || f.name.toLowerCase().includes(q) || (f.summary||'').toLowerCase().includes(q));
+    el.innerHTML = `
+      <div class="card overflow-hidden">
+        <table class="wiki-table">
+          <thead><tr><th>#</th><th>Family</th><th>Location</th><th>Wealth</th><th>Companies</th><th>Contacts</th></tr></thead>
+          <tbody>${items.slice(0,200).map(f => `
+            <tr class="cursor-pointer" onclick="nav('family/${f.id}')">
+              <td class="font-mono text-slate-500 text-xs">${f.rank}</td>
+              <td><span class="wiki-link">${f.name}</span></td>
+              <td class="text-slate-400 text-xs">${f.location}</td>
+              <td><span class="badge badge-wealth">${fmtWealth(parseWealth(f.wealth))}</span></td>
+              <td class="text-center"><span class="badge badge-company">${f.companyIds.length}</span></td>
+              <td class="text-center"><span class="badge badge-person">${f.personIds.length}</span></td>
+            </tr>
+          `).join('')}</tbody>
+        </table>
+        <div class="p-2 text-center text-xs text-slate-500">${items.length} results${items.length>200?' (showing 200)':''}</div>
+      </div>`;
+  } else if (type === 'companies') {
+    let items = G.companies.filter(c => !q || c.name.toLowerCase().includes(q));
+    el.innerHTML = `
+      <div class="card overflow-hidden">
+        <table class="wiki-table">
+          <thead><tr><th>Company</th><th>Families</th><th>People</th><th>Links</th></tr></thead>
+          <tbody>${items.slice(0,300).map(c => `
+            <tr class="cursor-pointer" onclick="nav('company/${c.id}')">
+              <td><span class="wiki-link font-semibold">${c.name}</span></td>
+              <td>${c.familyIds.slice(0,3).map(fid => `<span class="badge badge-family mr-1">${(IDX.families[fid]||{}).name||fid}</span>`).join('')}</td>
+              <td class="text-center"><span class="badge badge-person">${c.personIds.length}</span></td>
+              <td>${liPill(c.linkedin)} ${webPill(c.website)}</td>
+            </tr>
+          `).join('')}</tbody>
+        </table>
+        <div class="p-2 text-center text-xs text-slate-500">${items.length} results${items.length>300?' (showing 300)':''}</div>
+      </div>`;
+  } else {
+    let items = G.people.filter(p => !q || p.name.toLowerCase().includes(q) || (p.company||'').toLowerCase().includes(q) || (p.role||'').toLowerCase().includes(q));
+    el.innerHTML = `
+      <div class="card overflow-hidden">
+        <table class="wiki-table">
+          <thead><tr><th>Person</th><th>Role</th><th>Company</th><th>LinkedIn</th><th>Email</th></tr></thead>
+          <tbody>${items.slice(0,300).map(p => `
+            <tr class="cursor-pointer" onclick="nav('person/${p.id}')">
+              <td><span class="wiki-link font-semibold">${p.name}</span></td>
+              <td class="text-slate-400 text-xs">${p.role||'—'}</td>
+              <td class="text-slate-400 text-xs">${p.company||'—'}</td>
+              <td>${liPill(p.linkedin)}</td>
+              <td>${emailPill(p.email)}</td>
+            </tr>
+          `).join('')}</tbody>
+        </table>
+        <div class="p-2 text-center text-xs text-slate-500">${items.length} results${items.length>300?' (showing 300)':''}</div>
+      </div>`;
   }
+  lucide.createIcons();
+}
 
-  function matchSearch(text, q) {
-    if (!q) return true;
-    return (text || '').toLowerCase().includes(q);
-  }
+// ═══════════════════════════════════════
+// DETAIL: FAMILY
+// ═══════════════════════════════════════
+function renderFamily(id) {
+  const f = IDX.families[id];
+  if (!f) return '<div class="py-20 text-center text-slate-400">Family not found</div>';
 
-  // Render
-  function render() {
-    const filters = getFilters();
-    const el = document.getElementById('content');
+  const wealth = parseWealth(f.wealth);
+  const companies = f.companyIds.map(cid => IDX.companies[cid]).filter(Boolean);
+  const people = f.personIds.map(pid => IDX.people[pid]).filter(Boolean);
 
-    if (currentTab === 'families') el.innerHTML = renderFamilies(filters);
-    else if (currentTab === 'companies') el.innerHTML = renderCompanies(filters);
-    else el.innerHTML = renderPeople(filters);
+  return `
+    <nav class="text-xs text-slate-500 mb-4">
+      <a class="wiki-link" onclick="nav('')">Home</a> / 
+      <a class="wiki-link" onclick="nav('families')">Families</a> / 
+      <span class="text-slate-300">${f.name}</span>
+    </nav>
 
-    // Re-attach expand listeners
-    el.querySelectorAll('[data-expand]').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const key = btn.dataset.expand;
-        if (expandedRows.has(key)) expandedRows.delete(key);
-        else expandedRows.add(key);
-        render();
-      });
-    });
+    <div class="card p-6 mb-6">
+      <div class="flex flex-wrap items-start justify-between gap-4">
+        <div>
+          <span class="badge badge-wealth mb-2">Rank #${f.rank}</span>
+          <h1 class="text-2xl font-extrabold text-white mt-1">${f.name}</h1>
+          <p class="text-sm text-slate-400 mt-1">${f.location}</p>
+        </div>
+        <div class="text-right">
+          <p class="text-3xl font-extrabold text-amber-400">${fmtWealth(wealth)}</p>
+          <p class="text-xs text-slate-500">Estimated wealth</p>
+        </div>
+      </div>
+      ${f.summary ? `<p class="text-sm text-slate-300 mt-4 leading-relaxed border-l-2 border-sky-600 pl-4">${f.summary}</p>` : ''}
+      ${f.familyMembers ? `<p class="text-xs text-slate-400 mt-3"><strong class="text-slate-300">Family members:</strong> ${f.familyMembers}</p>` : ''}
+      <div class="flex flex-wrap gap-2 mt-4">
+        ${extPill(f.profileUrl, 'Source profile')}
+      </div>
+    </div>
 
-    lucide.createIcons();
-  }
-
-  function linkedinIcon(url) {
-    if (!url) return '';
-    return `<a href="${url}" target="_blank" class="link-pill bg-blue-100 text-blue-700 hover:bg-blue-200"><i data-lucide="linkedin" class="w-3 h-3"></i> LinkedIn</a>`;
-  }
-
-  function profileIcon(url) {
-    if (!url) return '';
-    return `<a href="${url}" target="_blank" class="link-pill bg-amber-100 text-amber-700 hover:bg-amber-200"><i data-lucide="external-link" class="w-3 h-3"></i> Profile</a>`;
-  }
-
-  function emailIcon(email) {
-    if (!email) return '';
-    return `<a href="mailto:${email}" class="link-pill bg-emerald-100 text-emerald-700 hover:bg-emerald-200"><i data-lucide="mail" class="w-3 h-3"></i> ${email}</a>`;
-  }
-
-  // ─── FAMILIES TAB ───
-  function renderFamilies(f) {
-    let items = DATA.families.filter(fam => {
-      const name = cleanName(fam['Name/Family']);
-      const wealth = parseWealth(fam['Wealth (EUR)']);
-      if (f.minWealth && wealth < f.minWealth) return false;
-      if (f.family && name !== f.family) return false;
-      if (f.search && !matchSearch(name + ' ' + (fam['Summary (meta description)'] || '') + ' ' + (fam['Companies (auto)'] || ''), f.search)) return false;
-      return true;
-    });
-
-    document.getElementById('resultCount').textContent = `${items.length} results`;
-
-    if (!items.length) return '<div class="card p-8 text-center text-ink-3">No families match your filters.</div>';
-
-    let rows = items.slice(0, 200).map((fam, i) => {
-      const name = cleanName(fam['Name/Family']);
-      const rank = fam['Rank'] || '';
-      const wealth = parseWealth(fam['Wealth (EUR)']);
-      const wealthStr = formatWealth(wealth);
-      const loc = fam['Company/Location (from list)'] || '';
-      const summary = fam['Summary (meta description)'] || '';
-      const profileUrl = fam['Profile URL'] || '';
-      const key = 'fam-' + i;
-      const isOpen = expandedRows.has(key);
-
-      // Find linked companies & people
-      const rawName = fam['Name/Family'] || '';
-      const linkedCompanies = DATA.companies.filter(c => c['Family/Entry'] === rawName);
-      const linkedPeople = DATA.people.filter(p => p['Family/Entry'] && rawName.includes(p['Family/Entry'].split('/')[0].trim().split(' ').pop()));
-
-      const expandContent = isOpen ? `
-        <tr><td colspan="6" class="px-4 pb-4 bg-surface-1 border-b border-surface-3">
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2 fade-in">
-            <div>
-              <p class="text-xs font-semibold text-ink-2 uppercase tracking-wide mb-2">Summary</p>
-              <p class="text-sm text-ink-1 leading-relaxed">${summary || '<span class="text-ink-3 italic">No summary</span>'}</p>
-              <div class="mt-3 flex flex-wrap gap-2">
-                ${profileIcon(profileUrl)}
-              </div>
-            </div>
-            <div>
-              <p class="text-xs font-semibold text-ink-2 uppercase tracking-wide mb-2">Linked Companies (${linkedCompanies.length})</p>
-              <div class="flex flex-wrap gap-1 mb-3">
-                ${linkedCompanies.length ? linkedCompanies.slice(0, 15).map(c => `<span class="badge bg-purple-100 text-purple-700">${c['Company']}</span>`).join('') : '<span class="text-xs text-ink-3 italic">None found</span>'}
-              </div>
-              <p class="text-xs font-semibold text-ink-2 uppercase tracking-wide mb-2">Linked People (${linkedPeople.length})</p>
-              <div class="flex flex-wrap gap-1">
-                ${linkedPeople.length ? linkedPeople.slice(0, 10).map(p => `<span class="badge bg-emerald-100 text-emerald-700">${p['Person']} — ${p['Role'] || 'N/A'}</span>`).join('') : '<span class="text-xs text-ink-3 italic">None found</span>'}
-              </div>
+    <!-- Companies -->
+    <h2 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+      <i data-lucide="building-2" class="w-5 h-5 text-purple-400"></i>
+      Companies (${companies.length})
+    </h2>
+    ${companies.length ? `
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-8">
+        ${companies.map(c => `
+          <div class="card p-4 entity-card card-hover" onclick="nav('company/${c.id}')">
+            <div class="font-semibold text-white text-sm">${c.name}</div>
+            ${c.industry ? `<div class="text-xs text-slate-400 mt-0.5">${c.industry}</div>` : ''}
+            <div class="flex flex-wrap gap-1 mt-2">
+              ${liPill(c.linkedin)} ${webPill(c.website)}
+              <span class="badge badge-person">${c.personIds.length} contacts</span>
             </div>
           </div>
-        </td></tr>
-      ` : '';
-
-      return `
-        <tr class="table-row border-b border-surface-3 cursor-pointer" data-expand="${key}">
-          <td class="px-4 py-3 text-sm font-mono text-ink-3 w-12">${rank}</td>
-          <td class="px-4 py-3">
-            <div class="text-sm font-semibold text-ink-0">${name}</div>
-            <div class="text-xs text-ink-2 mt-0.5">${loc}</div>
-          </td>
-          <td class="px-4 py-3 text-right">
-            <span class="text-sm font-bold text-ink-0">${wealthStr}</span>
-          </td>
-          <td class="px-4 py-3 text-center">
-            <span class="badge bg-purple-100 text-purple-700">${linkedCompanies.length}</span>
-          </td>
-          <td class="px-4 py-3 text-center">
-            <span class="badge bg-emerald-100 text-emerald-700">${linkedPeople.length}</span>
-          </td>
-          <td class="px-4 py-3 text-center">
-            <i data-lucide="chevron-down" class="w-4 h-4 text-ink-3 expand-btn ${isOpen ? 'open' : ''} inline-block"></i>
-          </td>
-        </tr>
-        ${expandContent}
-      `;
-    }).join('');
-
-    return `
-      <div class="card overflow-hidden">
-        <div class="overflow-x-auto">
-          <table class="w-full">
-            <thead class="bg-surface-2 text-xs text-ink-2 uppercase tracking-wide">
-              <tr>
-                <th class="px-4 py-3 text-left">Rank</th>
-                <th class="px-4 py-3 text-left">Family / Entry</th>
-                <th class="px-4 py-3 text-right">Wealth</th>
-                <th class="px-4 py-3 text-center">Companies</th>
-                <th class="px-4 py-3 text-center">People</th>
-                <th class="px-4 py-3 w-10"></th>
-              </tr>
-            </thead>
-            <tbody>${rows}</tbody>
-          </table>
-        </div>
-        ${items.length > 200 ? '<div class="p-3 text-center text-xs text-ink-3">Showing first 200 of ' + items.length + '</div>' : ''}
+        `).join('')}
       </div>
-    `;
-  }
+    ` : '<div class="card p-4 mb-8 text-slate-500 text-sm">No companies linked yet.</div>'}
 
-  // ─── COMPANIES TAB ───
-  function renderCompanies(f) {
-    let items = DATA.companies.filter(c => {
-      if (f.company && c['Company'] !== f.company) return false;
-      if (f.search && !matchSearch(c['Company'] + ' ' + c['Family/Entry'] + ' ' + (c['Industry'] || ''), f.search)) return false;
-      return true;
-    });
+    <!-- People -->
+    <h2 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+      <i data-lucide="users" class="w-5 h-5 text-emerald-400"></i>
+      People (${people.length})
+    </h2>
+    ${people.length ? `
+      <div class="card overflow-hidden mb-8">
+        <table class="wiki-table">
+          <thead><tr><th>Person</th><th>Role</th><th>Company</th><th>LinkedIn</th><th>Email</th></tr></thead>
+          <tbody>${people.map(p => `
+            <tr class="cursor-pointer" onclick="nav('person/${p.id}')">
+              <td><span class="wiki-link font-semibold">${p.name}</span></td>
+              <td class="text-slate-400 text-xs">${p.role||'—'}</td>
+              <td class="text-slate-400 text-xs">${p.company||'—'}</td>
+              <td>${liPill(p.linkedin)}</td>
+              <td>${emailPill(p.email)}</td>
+            </tr>
+          `).join('')}</tbody>
+        </table>
+      </div>
+    ` : '<div class="card p-4 mb-8 text-slate-500 text-sm">No contacts linked yet.</div>'}
+  `;
+}
 
-    document.getElementById('resultCount').textContent = `${items.length} results`;
+// ═══════════════════════════════════════
+// DETAIL: COMPANY
+// ═══════════════════════════════════════
+function renderCompany(id) {
+  const c = IDX.companies[id];
+  if (!c) return '<div class="py-20 text-center text-slate-400">Company not found</div>';
 
-    if (!items.length) return '<div class="card p-8 text-center text-ink-3">No companies match your filters.</div>';
+  const fams = c.familyIds.map(fid => IDX.families[fid]).filter(Boolean);
+  const people = c.personIds.map(pid => IDX.people[pid]).filter(Boolean);
 
-    let rows = items.slice(0, 300).map(c => {
-      const li = c['Company LinkedIn'] || '';
-      const web = c['Website'] || '';
-      const evidence = c['Evidence'] || '';
-      return `
-        <tr class="table-row border-b border-surface-3">
-          <td class="px-4 py-3 text-sm font-semibold text-ink-0">${c['Company'] || ''}</td>
-          <td class="px-4 py-3 text-sm text-ink-1">${cleanName(c['Family/Entry'] || '')}</td>
-          <td class="px-4 py-3 text-sm text-ink-2">${c['Industry'] || '—'}</td>
-          <td class="px-4 py-3 text-sm text-ink-2">${c['HQ'] || '—'}</td>
-          <td class="px-4 py-3">
-            <div class="flex flex-wrap gap-1">
-              ${linkedinIcon(li)}
-              ${web ? `<a href="${web}" target="_blank" class="link-pill bg-gray-100 text-gray-700 hover:bg-gray-200"><i data-lucide="globe" class="w-3 h-3"></i> Web</a>` : ''}
-              ${evidence ? `<a href="${evidence}" target="_blank" class="link-pill bg-amber-50 text-amber-600 hover:bg-amber-100"><i data-lucide="external-link" class="w-3 h-3"></i> Source</a>` : ''}
+  return `
+    <nav class="text-xs text-slate-500 mb-4">
+      <a class="wiki-link" onclick="nav('')">Home</a> / 
+      <a class="wiki-link" onclick="nav('companies')">Companies</a> / 
+      <span class="text-slate-300">${c.name}</span>
+    </nav>
+
+    <div class="card p-6 mb-6">
+      <h1 class="text-2xl font-extrabold text-white">${c.name}</h1>
+      ${c.industry ? `<p class="text-sm text-slate-400 mt-1">${c.industry}</p>` : ''}
+      ${c.hq ? `<p class="text-xs text-slate-500 mt-1">HQ: ${c.hq}</p>` : ''}
+      ${c.employees ? `<p class="text-xs text-slate-500">Employees: ${c.employees}</p>` : ''}
+      <div class="flex flex-wrap gap-2 mt-4">
+        ${liPill(c.linkedin)} ${webPill(c.website)} ${extPill(c.evidence, 'Source')}
+      </div>
+    </div>
+
+    <!-- Linked Families -->
+    <h2 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+      <i data-lucide="crown" class="w-5 h-5 text-indigo-400"></i>
+      Owner Families (${fams.length})
+    </h2>
+    ${fams.length ? `
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
+        ${fams.map(f => `
+          <div class="card p-4 entity-card card-hover" onclick="nav('family/${f.id}')">
+            <div class="flex items-center gap-2">
+              <span class="badge badge-wealth">#${f.rank}</span>
+              <span class="font-semibold text-white text-sm">${f.name}</span>
             </div>
-          </td>
-        </tr>
-      `;
-    }).join('');
-
-    return `
-      <div class="card overflow-hidden">
-        <div class="overflow-x-auto">
-          <table class="w-full">
-            <thead class="bg-surface-2 text-xs text-ink-2 uppercase tracking-wide">
-              <tr>
-                <th class="px-4 py-3 text-left">Company</th>
-                <th class="px-4 py-3 text-left">Family</th>
-                <th class="px-4 py-3 text-left">Industry</th>
-                <th class="px-4 py-3 text-left">HQ</th>
-                <th class="px-4 py-3 text-left">Links</th>
-              </tr>
-            </thead>
-            <tbody>${rows}</tbody>
-          </table>
-        </div>
-        ${items.length > 300 ? '<div class="p-3 text-center text-xs text-ink-3">Showing first 300 of ' + items.length + '</div>' : ''}
+            <div class="text-xs text-slate-400 mt-1">${fmtWealth(parseWealth(f.wealth))} · ${f.location}</div>
+          </div>
+        `).join('')}
       </div>
-    `;
-  }
+    ` : '<div class="card p-4 mb-8 text-slate-500 text-sm">No families linked.</div>'}
 
-  // ─── PEOPLE TAB ───
-  function renderPeople(f) {
-    let items = DATA.people.filter(p => {
-      if (f.company && p['Company'] !== f.company) return false;
-      if (f.search && !matchSearch(p['Person'] + ' ' + p['Role'] + ' ' + p['Company'] + ' ' + (p['Email'] || ''), f.search)) return false;
-      return true;
-    });
-
-    document.getElementById('resultCount').textContent = `${items.length} results`;
-
-    if (!items.length) return '<div class="card p-8 text-center text-ink-3">No people match your filters.</div>';
-
-    let rows = items.slice(0, 300).map(p => {
-      return `
-        <tr class="table-row border-b border-surface-3">
-          <td class="px-4 py-3">
-            <div class="text-sm font-semibold text-ink-0">${p['Person'] || ''}</div>
-          </td>
-          <td class="px-4 py-3 text-sm text-ink-1">${p['Role'] || '—'}</td>
-          <td class="px-4 py-3 text-sm text-ink-1">${p['Company'] || '—'}</td>
-          <td class="px-4 py-3">
-            ${linkedinIcon(p['LinkedIn'])}
-          </td>
-          <td class="px-4 py-3">
-            ${emailIcon(p['Email'])}
-          </td>
-        </tr>
-      `;
-    }).join('');
-
-    return `
-      <div class="card overflow-hidden">
-        <div class="overflow-x-auto">
-          <table class="w-full">
-            <thead class="bg-surface-2 text-xs text-ink-2 uppercase tracking-wide">
-              <tr>
-                <th class="px-4 py-3 text-left">Person</th>
-                <th class="px-4 py-3 text-left">Role</th>
-                <th class="px-4 py-3 text-left">Company</th>
-                <th class="px-4 py-3 text-left">LinkedIn</th>
-                <th class="px-4 py-3 text-left">Email</th>
-              </tr>
-            </thead>
-            <tbody>${rows}</tbody>
-          </table>
-        </div>
-        ${items.length > 300 ? '<div class="p-3 text-center text-xs text-ink-3">Showing first 300 of ' + items.length + '</div>' : ''}
+    <!-- People at this company -->
+    <h2 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+      <i data-lucide="users" class="w-5 h-5 text-emerald-400"></i>
+      Contacts (${people.length})
+    </h2>
+    ${people.length ? `
+      <div class="card overflow-hidden mb-8">
+        <table class="wiki-table">
+          <thead><tr><th>Person</th><th>Role</th><th>LinkedIn</th><th>Email</th></tr></thead>
+          <tbody>${people.map(p => `
+            <tr class="cursor-pointer" onclick="nav('person/${p.id}')">
+              <td><span class="wiki-link font-semibold">${p.name}</span></td>
+              <td class="text-slate-400 text-xs">${p.role||'—'}</td>
+              <td>${liPill(p.linkedin)}</td>
+              <td>${emailPill(p.email)}</td>
+            </tr>
+          `).join('')}</tbody>
+        </table>
       </div>
-    `;
-  }
+    ` : '<div class="card p-4 mb-8 text-slate-500 text-sm">No contacts found yet.</div>'}
+  `;
+}
 
-  // Boot
-  loadData();
-  </script>
+// ═══════════════════════════════════════
+// DETAIL: PERSON
+// ═══════════════════════════════════════
+function renderPerson(id) {
+  const p = IDX.people[id];
+  if (!p) return '<div class="py-20 text-center text-slate-400">Person not found</div>';
+
+  const fams = p.familyIds.map(fid => IDX.families[fid]).filter(Boolean);
+  const comps = p.companyIds.map(cid => IDX.companies[cid]).filter(Boolean);
+
+  return `
+    <nav class="text-xs text-slate-500 mb-4">
+      <a class="wiki-link" onclick="nav('')">Home</a> / 
+      <a class="wiki-link" onclick="nav('people')">People</a> / 
+      <span class="text-slate-300">${p.name}</span>
+    </nav>
+
+    <div class="card p-6 mb-6">
+      <h1 class="text-2xl font-extrabold text-white">${p.name}</h1>
+      ${p.role ? `<p class="text-sm text-slate-400 mt-1">${p.role}</p>` : ''}
+      ${p.company ? `<p class="text-xs text-slate-500 mt-1">@ ${p.company}</p>` : ''}
+      <div class="flex flex-wrap gap-2 mt-4">
+        ${liPill(p.linkedin)}
+        ${emailPill(p.email)}
+      </div>
+    </div>
+
+    <!-- Linked Families -->
+    ${fams.length ? `
+      <h2 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+        <i data-lucide="crown" class="w-5 h-5 text-indigo-400"></i>
+        Connected Families (${fams.length})
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
+        ${fams.map(f => `
+          <div class="card p-4 entity-card card-hover" onclick="nav('family/${f.id}')">
+            <div class="flex items-center gap-2">
+              <span class="badge badge-wealth">#${f.rank}</span>
+              <span class="font-semibold text-white text-sm">${f.name}</span>
+            </div>
+            <div class="text-xs text-slate-400 mt-1">${fmtWealth(parseWealth(f.wealth))} · ${f.location}</div>
+          </div>
+        `).join('')}
+      </div>
+    ` : ''}
+
+    <!-- Linked Companies -->
+    ${comps.length ? `
+      <h2 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+        <i data-lucide="building-2" class="w-5 h-5 text-purple-400"></i>
+        Companies (${comps.length})
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
+        ${comps.map(c => `
+          <div class="card p-4 entity-card card-hover" onclick="nav('company/${c.id}')">
+            <div class="font-semibold text-white text-sm">${c.name}</div>
+            ${c.industry ? `<div class="text-xs text-slate-400 mt-0.5">${c.industry}</div>` : ''}
+            <div class="flex flex-wrap gap-1 mt-2">
+              ${liPill(c.linkedin)} ${webPill(c.website)}
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    ` : ''}
+  `;
+}
+
+// Boot
+boot();
+</script>
 </body>
 </html>
