@@ -4,7 +4,7 @@
   "families": 699,
   "companies": 757,
   "people": 1393,
-  "linkedinProfiles": 202,
+  "linkedinProfiles": 790,
   "peopleWithFamilyLinks": 1381
  },
  "families": [
@@ -17436,7 +17436,7 @@
    "name": "Olivier Périer",
    "role": "Former Deputy Chairman (sold stake in 2024), managed family wealth",
    "company": "D'Ieteren Group / SPDG",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/olivierperier/",
    "notes": "",
    "families": [
     "familie-perier-dieteren"
@@ -17462,7 +17462,7 @@
    "name": "Guillaume Voortman",
    "role": "Board Director (family representative)",
    "company": "Etex",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guillaume-voortman-71013434/",
    "notes": "",
    "families": [
     "de-families-andre-emsens-voortman-de-cartier-de-marchienne-en-van-der-rest"
@@ -17558,7 +17558,7 @@
    "name": "Jef Colruyt",
    "role": "Chairman of the Board (former CEO until 2023)",
    "company": "Colruyt Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jef-colruyt-3a54a6326/",
    "notes": "",
    "families": [
     "familie-colruyt"
@@ -17572,7 +17572,7 @@
    "name": "Stefan Goethaert",
    "role": "CEO (since 2023)",
    "company": "Colruyt Group",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/stefan-goethaert-4848156",
    "notes": "",
    "families": [
     "familie-colruyt"
@@ -17614,7 +17614,7 @@
    "name": "Harold Boël",
    "role": "Chief Executive Officer",
    "company": "Sofina",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/harold-bo%C3%ABl-b27a883/",
    "notes": "",
    "families": [
     "familie-boel"
@@ -17668,7 +17668,7 @@
    "name": "Philipp Niemann",
    "role": "CEO (current)",
    "company": "Lhoist Group",
-   "linkedin": null,
+   "linkedin": "https://de.linkedin.com/in/philippniemann",
    "notes": "",
    "families": [
     "familie-lhoist-berghmans"
@@ -17694,7 +17694,7 @@
    "name": "Karine Huts",
    "role": "Co-owner",
    "company": "Katoen Natie",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/karine-huts-9a0a05147/",
    "notes": "",
    "families": [
     "fernand-en-karine-huts"
@@ -17720,7 +17720,7 @@
    "name": "Bart Van Rompuy",
    "role": "Family representative, controls 86% via Investar with brother Dirk",
    "company": "Argenta / Investar",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-van-rompuy-b322a179/",
    "notes": "",
    "families": [
     "familie-van-rompuy"
@@ -17732,7 +17732,7 @@
    "name": "Dirk Van Rompuy",
    "role": "Family representative, controls 86% via Investar with brother Bart",
    "company": "Argenta / Investar",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dirk-van-rompuy-39696570/",
    "notes": "",
    "families": [
     "familie-van-rompuy"
@@ -17744,7 +17744,7 @@
    "name": "Karel Van Rompuy",
    "role": "Founder of Argenta",
    "company": "Argenta",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/karelvanrompuy/",
    "notes": "",
    "families": [
     "familie-van-rompuy"
@@ -17758,7 +17758,7 @@
    "name": "Christian Van Thillo",
    "role": "Executive Chairman (former CEO until 2020)",
    "company": "DPG Media",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/christian-van-thillo-2672675",
    "notes": "",
    "families": [
     "familie-van-thillo"
@@ -17772,7 +17772,7 @@
    "name": "Erik Roddenhof",
    "role": "CEO (since 2020)",
    "company": "DPG Media",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/erik-roddenhof-b7a45a",
    "notes": "",
    "families": [
     "familie-van-thillo"
@@ -17800,7 +17800,7 @@
    "name": "Ann De Raedt",
    "role": "Daughter",
    "company": "Family",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/ann-de-raedt-80b2bb32",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17812,7 +17812,7 @@
    "name": "Carl-Philip de Villegas",
    "role": "CEO Straco Real Estate",
    "company": "Straco Real Estate",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/carl-philip-de-villegas-60994a7/",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17824,7 +17824,7 @@
    "name": "David de Klerk",
    "role": "Senior Investment Associate",
    "company": "Straco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/david-de-klerk/",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17836,7 +17836,7 @@
    "name": "Emile van Elen",
    "role": "Investment Director",
    "company": "Straco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/emilevanelen/",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17896,7 +17896,7 @@
    "name": "Lauren Willen",
    "role": "Head of Legal",
    "company": "Straco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lauren-willen-2bb5918b/",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17908,7 +17908,7 @@
    "name": "Louis Faveere",
    "role": "Senior Associate",
    "company": "Straco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louis-faveere/",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17920,7 +17920,7 @@
    "name": "Maarten Peers",
    "role": "Managing Partner",
    "company": "Straco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/maarten-peers-9b0b0910/",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17944,7 +17944,7 @@
    "name": "Nicolas Groenen",
    "role": "Investment Manager",
    "company": "Straco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nicolas-groenen-851707102/",
    "notes": "",
    "families": [
     "familie-de-raedt-verheyden"
@@ -17968,7 +17968,7 @@
    "name": "Marieke Höfte",
    "role": "Partner",
    "company": "Stayen",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/marieke-h%C3%B6fte-b74b2211",
    "notes": "",
    "families": [
     "familie-roland-duchatelet"
@@ -17980,7 +17980,7 @@
    "name": "Roderick Duchâtelet",
    "role": "Son",
    "company": "Family",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/roderickduchatelet/",
    "notes": "",
    "families": [
     "familie-roland-duchatelet"
@@ -18004,7 +18004,7 @@
    "name": "Ann Thermote",
    "role": "Family shareholder (60%)",
    "company": "TVH",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ann-thermote-7810891b/",
    "notes": "",
    "families": [
     "familie-thermote"
@@ -18052,7 +18052,7 @@
    "name": "Camille Cigrang",
    "role": "Stanvader",
    "company": "Cobelfret",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/camille-cigrang-437599109/",
    "notes": "",
    "families": [
     "familie-cigrang"
@@ -18124,7 +18124,7 @@
    "name": "Aurélie Tack",
    "role": "Daughter (photography/design)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/aur%C3%A9lie-tack-8a481069/",
    "notes": "",
    "families": [
     "familie-luc-tack"
@@ -18160,7 +18160,7 @@
    "name": "Gregory Tack",
    "role": "Son, active in textile group",
    "company": "Textile group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gregory-tack-4641052/",
    "notes": "",
    "families": [
     "familie-luc-tack"
@@ -18172,7 +18172,7 @@
    "name": "Laurie Tack",
    "role": "Daughter, CEO Clarysse, Director Tessenderlo, responsible for Harmony Industries",
    "company": "Clarysse/Tessenderlo/Harmony",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/laurietack/",
    "notes": "",
    "families": [
     "familie-luc-tack"
@@ -18184,7 +18184,7 @@
    "name": "Louis Tack",
    "role": "Son, International for Picanol",
    "company": "Picanol",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louistack/",
    "notes": "",
    "families": [
     "familie-luc-tack"
@@ -18222,7 +18222,7 @@
    "name": "Françoise Chombar",
    "role": "Chairman Board of Directors (former CEO)",
    "company": "Melexis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/fchombar/",
    "notes": "",
    "families": [
     "rudi-de-winter-en-francoise-chombar"
@@ -18234,7 +18234,7 @@
    "name": "Rudi De Winter",
    "role": "Co-owner/Shareholder",
    "company": "Sensinnovat/Melexis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/schepmans-nancy-35368865/",
    "notes": "",
    "families": [
     "rudi-de-winter-en-francoise-chombar"
@@ -18246,7 +18246,7 @@
    "name": "Filip Balcaen",
    "role": "Founder/Investor",
    "company": "ex-Balta/IVC",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/filip-balcaen-1a4b9a315/",
    "notes": "",
    "families": [
     "familie-balcaen"
@@ -18258,7 +18258,7 @@
    "name": "Louis Balcaen",
    "role": "Son",
    "company": "Family",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louis-balcaen-0505ab50/",
    "notes": "",
    "families": [
     "familie-balcaen"
@@ -18270,7 +18270,7 @@
    "name": "Simon Balcaen",
    "role": "Son",
    "company": "Family",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/simon-balcaen-a414a761/",
    "notes": "",
    "families": [
     "familie-balcaen"
@@ -18294,7 +18294,7 @@
    "name": "François Van Belle",
    "role": "Pater familias/Chairman",
    "company": "Puratos",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/fran%C3%A7ois-van-belle-4baa2767/",
    "notes": "",
    "families": [
     "families-van-belle-en-demanet"
@@ -18306,7 +18306,7 @@
    "name": "Michel Eeckhout",
    "role": "Board member (ex-Delhaize director)",
    "company": "Puratos",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/michel-eeckhout-8274982",
    "notes": "",
    "families": [
     "families-van-belle-en-demanet"
@@ -18356,7 +18356,7 @@
    "name": "Charles Beauduin",
    "role": "CEO Michel Van de Wiele, Co-CEO Barco, Chairman Board Barco",
    "company": "Michel Van de Wiele/Barco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/charles-beauduin-a5132423/",
    "notes": "",
    "families": [
     "familie-beauduin"
@@ -18368,7 +18368,7 @@
    "name": "Lucien Beauduin",
    "role": "Father of Charles, Board member",
    "company": "Michel Van de Wiele",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lucien-beauduin-6618b091/",
    "notes": "",
    "families": [
     "familie-beauduin"
@@ -18404,7 +18404,7 @@
    "name": "Joost Uwents",
    "role": "CEO/Financial Director",
    "company": "WDP",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/joost-uwents-5b2443",
    "notes": "",
    "families": [
     "familie-tony-de-pauw"
@@ -18428,7 +18428,7 @@
    "name": "Kathleen De Pauw",
    "role": "Sister of Tony",
    "company": "Family",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/kathleen-de-pauw-4b6968264/",
    "notes": "",
    "families": [
     "familie-tony-de-pauw"
@@ -18452,7 +18452,7 @@
    "name": "Robert De Pauw",
    "role": "Brother of Tony",
    "company": "Family",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/robert-de-pauw-5534921a",
    "notes": "",
    "families": [
     "familie-tony-de-pauw"
@@ -18488,7 +18488,7 @@
    "name": "Dirk Coorevits",
    "role": "CEO",
    "company": "Soudal",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dirk-coorevits-a4738a13/",
    "notes": "",
    "families": [
     "familie-swerts"
@@ -18536,7 +18536,7 @@
    "name": "Alexander Saverys",
    "role": "CEO Euronav/CMB.Tech",
    "company": "Euronav/CMB",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/alexander-saverys-586bb942",
    "notes": "",
    "families": [
     "familie-marc-saverys"
@@ -18560,7 +18560,7 @@
    "name": "Marc Saverys",
    "role": "Chairman",
    "company": "CMB",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/marc-saverys-a013659/",
    "notes": "",
    "families": [
     "familie-marc-saverys"
@@ -18588,7 +18588,7 @@
    "name": "Sebastiaan Saverys",
    "role": "Director Durabilis Foundation (Peru)",
    "company": "Durabilis",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/sebastiaan-saverys-2260a25",
    "notes": "",
    "families": [
     "familie-marc-saverys"
@@ -18612,7 +18612,7 @@
    "name": "Christian Vandemoortele",
    "role": "Board member",
    "company": "Vandemoortele",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christian-vandemoortele-11b554123/",
    "notes": "",
    "families": [
     "familie-vandemoortele"
@@ -18636,7 +18636,7 @@
    "name": "Eric Swenden",
    "role": "Former leader (retired)",
    "company": "Vandemoortele",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/eric-swenden-64b9463/",
    "notes": "",
    "families": [
     "familie-vandemoortele"
@@ -18648,7 +18648,7 @@
    "name": "François Casier",
    "role": "Board member",
    "company": "Vandemoortele",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/fran%C3%A7ois-casier-938b61116",
    "notes": "",
    "families": [
     "familie-vandemoortele"
@@ -18722,7 +18722,7 @@
    "name": "Barbara De Saedeleer",
    "role": "Former Board Member BIG",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/barbara-de-saedeleer-9b481629/",
    "notes": "",
    "families": [
     "familie-de-clerck"
@@ -18734,7 +18734,7 @@
    "name": "Dirk Vanderschrick",
    "role": "Chairman CKV",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dirk-vanderschrick-5191ba85/",
    "notes": "",
    "families": [
     "familie-de-clerck"
@@ -18770,7 +18770,7 @@
    "name": "Inge Ampe",
    "role": "CKV",
    "company": "CKV Bank",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/inge-ampe/",
    "notes": "",
    "families": [
     "familie-de-clerck"
@@ -18782,7 +18782,7 @@
    "name": "Jan Vander Stichele",
    "role": "Board Member BIG, Chairman Lotus Bakeries",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-vander-stichele-8782901/",
    "notes": "",
    "families": [
     "familie-de-clerck"
@@ -18794,7 +18794,7 @@
    "name": "Jean-Baptiste De Ruyck",
    "role": "CEO Beaulieu International Group (2025)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-baptiste-de-ruyck-2534403/",
    "notes": "",
    "families": [
     "familie-de-clerck"
@@ -18818,7 +18818,7 @@
    "name": "Eric van Rijckevorsel",
    "role": "Family member, married to Béatrice Verhaeghe de Naeyer",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ericvr/",
    "notes": "",
    "families": [
     "de-bekaert-families"
@@ -18842,7 +18842,7 @@
    "name": "Yves Kerstens",
    "role": "CEO Bekaert (since September 2023)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/yves-kerstens-6aaa1925/",
    "notes": "",
    "families": [
     "de-bekaert-families"
@@ -18866,7 +18866,7 @@
    "name": "Griet Van Malderen",
    "role": "Sister of Bart, winemaker (sold Château de Lussac)",
    "company": "Château Franc Mayne, LVM & Family",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/griet-van-malderen-laviale-1642b130/",
    "notes": "",
    "families": [
     "familie-van-malderen"
@@ -18878,7 +18878,7 @@
    "name": "Paul Van Malderen",
    "role": "Father, founder of Ontex",
    "company": "Ontex",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/paul-van-malderen-6b93146",
    "notes": "",
    "families": [
     "familie-van-malderen"
@@ -18890,7 +18890,7 @@
    "name": "Anthony De Clerck",
    "role": "Son, Domo Real Estate Spain",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/anthony-de-clerck-9b0792313/",
    "notes": "",
    "families": [
     "familie-jan-de-clerck"
@@ -18902,7 +18902,7 @@
    "name": "Gregory De Clerck",
    "role": "Son, active in Domo Group",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gregory-de-clerck-b9455397/",
    "notes": "",
    "families": [
     "familie-jan-de-clerck"
@@ -18914,7 +18914,7 @@
    "name": "Jan De Clerck",
    "role": "Owner Domo Group",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jan-de-clerck-56090b80",
    "notes": "",
    "families": [
     "familie-jan-de-clerck"
@@ -18962,7 +18962,7 @@
    "name": "Eline Talboom",
    "role": "Co-founder We are Jane",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/elinetalboom/",
    "notes": "",
    "families": [
     "familie-conny-vandendriessche"
@@ -18974,7 +18974,7 @@
    "name": "Muriel Uytterhaegen",
    "role": "Co-founder We are Jane",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/murieluytterhaegen",
    "notes": "",
    "families": [
     "familie-conny-vandendriessche"
@@ -19010,7 +19010,7 @@
    "name": "Marc du Bois",
    "role": "CEO Spadel (since 2000), 90% shareholder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/marc-du-bois-348097214/",
    "notes": "",
    "families": [
     "familie-du-bois"
@@ -19022,7 +19022,7 @@
    "name": "Guido Dumarey",
    "role": "Founder & CEO Punch Motive/Creacorp",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/guido-dumarey-a70b335",
    "notes": "",
    "families": [
     "familie-dumarey"
@@ -19034,7 +19034,7 @@
    "name": "Guillaume Dumarey",
    "role": "Son, shareholder Punch Motive",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guillaumedumarey/",
    "notes": "",
    "families": [
     "familie-dumarey"
@@ -19046,7 +19046,7 @@
    "name": "Louise Dumarey",
    "role": "Daughter, shareholder Punch Motive",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louise-dumarey-2929651b7/",
    "notes": "",
    "families": [
     "familie-dumarey"
@@ -19058,7 +19058,7 @@
    "name": "Maxime Dumarey",
    "role": "Son, shareholder Punch Motive",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/maxime-dumarey-85a8b34a/",
    "notes": "",
    "families": [
     "familie-dumarey"
@@ -19070,7 +19070,7 @@
    "name": "Christian Dumolin",
    "role": "Owner Koramic Investment Group",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christian-dumolin-6a773a106/",
    "notes": "",
    "families": [
     "christian-dumolin"
@@ -19082,7 +19082,7 @@
    "name": "Danielle Sioen",
    "role": "Daughter, shareholder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/danielle-sioen-0539634a",
    "notes": "",
    "families": [
     "familie-sioen"
@@ -19130,7 +19130,7 @@
    "name": "Pascale Sioen",
    "role": "Daughter, shareholder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/pascale-sioen-27546a44",
    "notes": "",
    "families": [
     "familie-sioen"
@@ -19154,7 +19154,7 @@
    "name": "Frederik Vandermarliere",
    "role": "Son, CEO J. Cortès",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frederik-vandermarliere-1a1a9b/",
    "notes": "",
    "families": [
     "familie-vandermarliere"
@@ -19166,7 +19166,7 @@
    "name": "Guido Vandermarliere",
    "role": "Founder, Owner J. Cortès",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guido-vandermarliere-252b7816/",
    "notes": "",
    "families": [
     "familie-vandermarliere"
@@ -19178,7 +19178,7 @@
    "name": "Katrien Vandermarliere",
    "role": "Daughter, CFO GT & Co",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/katrien-vandermarliere-8047a67/",
    "notes": "",
    "families": [
     "familie-vandermarliere"
@@ -19190,7 +19190,7 @@
    "name": "Sofie Vandermarliere",
    "role": "Daughter, Real Estate Manager GT & Co",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/sofie-vandermarliere-3140b176/",
    "notes": "",
    "families": [
     "familie-vandermarliere"
@@ -19202,7 +19202,7 @@
    "name": "Charles Adriaenssen",
    "role": "Shareholder AB-Inbev via marriage, investor",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/charles-adriaenssen-51259b35/",
    "notes": "",
    "families": [
     "familie-adriaenssen-de-spoelberch"
@@ -19214,7 +19214,7 @@
    "name": "Diane de Spoelberch",
    "role": "Wife, AB-Inbev heiress",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/diane-de-spoelberch-1b0a9ba7",
    "notes": "",
    "families": [
     "familie-adriaenssen-de-spoelberch"
@@ -19250,7 +19250,7 @@
    "name": "Els Thermote",
    "role": "20% shareholder via The Nest, Board Member",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/elsthermote/",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19262,7 +19262,7 @@
    "name": "Emilie Haspeslagh",
    "role": "3rd generation, manager at Ardo",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/emilie-haspeslagh-6516a7b",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19286,7 +19286,7 @@
    "name": "Jan Haspeslagh",
    "role": "Son of Edward, Board Member",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-haspeslagh-86497b301/",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19298,7 +19298,7 @@
    "name": "Jules Noten",
    "role": "Independent Board Member (ex-Vandemoortele)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jules-noten-a79aa37",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19310,7 +19310,7 @@
    "name": "Liesbeth Haspeslagh",
    "role": "3rd generation, Board Member Ardo",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/liesbeth-haspeslagh-3b7bb85a/?_l=en",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19334,7 +19334,7 @@
    "name": "Margot Haspeslagh",
    "role": "3rd generation, manager at Ardo",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/margot-haspeslagh-59b40a5/",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19346,7 +19346,7 @@
    "name": "Michel Haspeslagh",
    "role": "3rd generation, Board Member Ardo",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-haspeslagh-48097221/",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19358,7 +19358,7 @@
    "name": "Paul Haspeslagh",
    "role": "Son of Richard, former operational role",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/paul-haspeslagh-67023494/",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19370,7 +19370,7 @@
    "name": "Philippe Haspeslagh",
    "role": "Board Member Ardo, son of Richard",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/philippehaspeslagh",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19382,7 +19382,7 @@
    "name": "Quinten Haspeslagh",
    "role": "3rd generation, manager at Ardo",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/quinten-haspeslagh/",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19394,7 +19394,7 @@
    "name": "Stefaan Decraene",
    "role": "Independent Board Member (Rabobank)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/stefaandecraene",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19406,7 +19406,7 @@
    "name": "Xavier Haspeslagh",
    "role": "Son of Edward, sold stake, founder Stockhabo",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/xavier-haspeslagh-6309a4101/",
    "notes": "",
    "families": [
     "familie-haspeslagh"
@@ -19430,7 +19430,7 @@
    "name": "Filip Wallays",
    "role": "Son of Antoon, CEO Agristo (since 2018)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/filip-wallays-9590324/",
    "notes": "",
    "families": [
     "families-wallays-raes"
@@ -19466,7 +19466,7 @@
    "name": "André Knaepen",
    "role": "Founder & 70% owner Cegeka",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/andr%C3%A9-knaepen-6303096/",
    "notes": "",
    "families": [
     "de-familie-knaepen"
@@ -19478,7 +19478,7 @@
    "name": "Sam Knaepen",
    "role": "Son, Commercial AI Cegeka",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/sam-knaepen-432373234/",
    "notes": "",
    "families": [
     "de-familie-knaepen"
@@ -19514,7 +19514,7 @@
    "name": "Tom Knaepen",
    "role": "Son, Vice President Applications Cegeka",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/tomknaepen/",
    "notes": "",
    "families": [
     "de-familie-knaepen"
@@ -19526,7 +19526,7 @@
    "name": "Wendy Knaepen",
    "role": "Daughter, Sales & Relations Cegeka",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/wendy-knaepen-3a190b2",
    "notes": "",
    "families": [
     "de-familie-knaepen"
@@ -19538,7 +19538,7 @@
    "name": "Philippe de Moerloose",
    "role": "Founder & Owner SDA/SMT Holdings",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippedemoerloose/",
    "notes": "",
    "families": [
     "philippe-de-moerloose"
@@ -19550,7 +19550,7 @@
    "name": "Bart Van Camp",
    "role": "Board Member FC Antwerp, N-VA strategist",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-van-camp-116a90109/",
    "notes": "",
    "families": [
     "familie-paul-gheysens"
@@ -19562,7 +19562,7 @@
    "name": "Jacques Vandermeiren",
    "role": "Board Member FC Antwerp, CEO Port of Antwerp",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jacquesvandermeiren/",
    "notes": "",
    "families": [
     "familie-paul-gheysens"
@@ -19574,7 +19574,7 @@
    "name": "Marie-Julie Gheysens",
    "role": "Daughter, Board Member FC Antwerp, real estate developer",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://uk.linkedin.com/in/marie-julie-gheysens-05048214b",
    "notes": "",
    "families": [
     "familie-paul-gheysens"
@@ -19598,7 +19598,7 @@
    "name": "Philippe Muyters",
    "role": "Board Member FC Antwerp, former N-VA minister",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-muyters-204431117/",
    "notes": "",
    "families": [
     "familie-paul-gheysens"
@@ -19610,7 +19610,7 @@
    "name": "Ria Gheysens",
    "role": "Wife, Board Member FC Antwerp",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/ria-gheysens-156750177",
    "notes": "",
    "families": [
     "familie-paul-gheysens"
@@ -19634,7 +19634,7 @@
    "name": "Olivier Lippens",
    "role": "CEO Finasucre",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/olivier-lippens-be123/",
    "notes": "",
    "families": [
     "familie-olivier-en-paul-lippens"
@@ -19646,7 +19646,7 @@
    "name": "Paul Lippens",
    "role": "Brother, Real Estate Manager",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-paul-lippens-006311129/",
    "notes": "",
    "families": [
     "familie-olivier-en-paul-lippens"
@@ -19658,7 +19658,7 @@
    "name": "Hugo Van Geet",
    "role": "Father, business auditor",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/hugo-van-geet-35b91572",
    "notes": "",
    "families": [
     "familie-van-geet"
@@ -19670,7 +19670,7 @@
    "name": "Jan Van Geet",
    "role": "Founder VGP, 12% shareholder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/janvangeet",
    "notes": "",
    "families": [
     "familie-van-geet"
@@ -19682,7 +19682,7 @@
    "name": "Dominiek Dumoulin",
    "role": "CEO United Petfood, 27% shareholder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/dominiek-dumoulin-99841210",
    "notes": "",
    "families": [
     "familie-dumoulin"
@@ -19694,7 +19694,7 @@
    "name": "Dries Eeckhout",
    "role": "Nephew, Co-CEO United Petfood",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/drieseeckhout/",
    "notes": "",
    "families": [
     "familie-dumoulin"
@@ -19706,7 +19706,7 @@
    "name": "Georges Dumoulin",
    "role": "Father",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/georges-dumoulin-80960b8/",
    "notes": "",
    "families": [
     "familie-dumoulin"
@@ -19718,7 +19718,7 @@
    "name": "Michel Dumoulin",
    "role": "Grandfather, founder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-dumoulin-979970176/",
    "notes": "",
    "families": [
     "familie-dumoulin"
@@ -19730,7 +19730,7 @@
    "name": "Bernard Piron",
    "role": "Brother, Engineer",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/bernard-piron-531926209",
    "notes": "",
    "families": [
     "familie-piron"
@@ -19742,7 +19742,7 @@
    "name": "Charles Thomas",
    "role": "Co-founder (bought out)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/charlesth/",
    "notes": "",
    "families": [
     "familie-piron"
@@ -19754,7 +19754,7 @@
    "name": "Louis-Marie Piron",
    "role": "Founder & Owner Thomas & Piron",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louis-marie-piron-033437b0/",
    "notes": "",
    "families": [
     "familie-piron"
@@ -19766,7 +19766,7 @@
    "name": "Bert Vandeurzen",
    "role": "Son",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/bert-vandeurzen-8844b236",
    "notes": "",
    "families": [
     "urbain-vandeurzen"
@@ -19778,7 +19778,7 @@
    "name": "Dirk Boogmans",
    "role": "Former CEO Gimv, Manager Smile Invest",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dirk-boogmans-37a21b5/",
    "notes": "",
    "families": [
     "urbain-vandeurzen"
@@ -19790,7 +19790,7 @@
    "name": "Jan Leuridan",
    "role": "Co-founder LMS",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-leuridan/",
    "notes": "",
    "families": [
     "urbain-vandeurzen"
@@ -19802,7 +19802,7 @@
    "name": "Katrien Vandeurzen",
    "role": "Daughter",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/katrien-vandeurzen-52b16624a",
    "notes": "",
    "families": [
     "urbain-vandeurzen"
@@ -19840,7 +19840,7 @@
    "name": "Eddy Duquenne",
    "role": "CEO Kinepolis (since 2008)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/eddy-duquenne-4a4352118/",
    "notes": "",
    "families": [
     "familie-bert"
@@ -19946,7 +19946,7 @@
    "name": "Jürgen Ingels",
    "role": "Fintech investor",
    "company": "SmartFin Capital",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jurgeningels",
    "notes": "",
    "families": [
     "jos-sluys",
@@ -19975,7 +19975,7 @@
    "name": "Geert Noels",
    "role": "Former expert (left 2009)",
    "company": "Petercam",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/geert-noels-032396196/",
    "notes": "",
    "families": [
     "de-families-peterbroeck-en-van-campenhout"
@@ -20017,7 +20017,7 @@
    "name": "Christine Hurbain",
    "role": "Shareholder (wife of Bernard Marchant)",
    "company": "Rossel",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christine-hurbain-851532230/",
    "notes": "",
    "families": [
     "familie-hurbain"
@@ -20097,7 +20097,7 @@
    "name": "Bart Verhaeghe",
    "role": "Founder / CEO",
    "company": "Uplace",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/bart-verhaeghe",
    "notes": "",
    "families": [
     "familie-verhaeghe"
@@ -20111,7 +20111,7 @@
    "name": "Jan Van Lancker",
    "role": "CEO Uplace",
    "company": "Uplace",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-van-lancker-55a44819/",
    "notes": "",
    "families": [
     "familie-verhaeghe"
@@ -20125,7 +20125,7 @@
    "name": "Julie Verhaeghe",
    "role": "Daughter (Belgian swimming champion)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/julie-verhaeghe-446933180",
    "notes": "",
    "families": [
     "familie-verhaeghe"
@@ -20137,7 +20137,7 @@
    "name": "Lisa Verhaeghe",
    "role": "Daughter (Belgian swimming champion)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lisa-verhaeghe24021997/",
    "notes": "",
    "families": [
     "familie-verhaeghe"
@@ -20149,7 +20149,7 @@
    "name": "Lucas Verhaeghe",
    "role": "Son (footballer at KV Mechelen)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lucas-verhaeghe/",
    "notes": "",
    "families": [
     "familie-verhaeghe"
@@ -20161,7 +20161,7 @@
    "name": "Vincent Mannaert",
    "role": "CEO Club Brugge",
    "company": "Club Brugge",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/vincent-mannaert-a2b1955",
    "notes": "",
    "families": [
     "familie-verhaeghe"
@@ -20175,7 +20175,7 @@
    "name": "Jan De Nys",
    "role": "Independent Board Member",
    "company": "Group Maes",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jan-de-nys-b4271810",
    "notes": "",
    "families": [
     "familie-maes-group-maes"
@@ -20189,7 +20189,7 @@
    "name": "Louis Verbeke",
    "role": "Independent Board Member / Former Chairman Vlerick",
    "company": "Group Maes",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louis-verbeke-aa893486/",
    "notes": "",
    "families": [
     "familie-maes-group-maes"
@@ -20203,7 +20203,7 @@
    "name": "Luc Van den Bossche",
    "role": "Independent Board Member (ex-SP.a politician)",
    "company": "Group Maes",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-van-den-bossche-b8b26416/",
    "notes": "",
    "families": [
     "familie-maes-group-maes"
@@ -20217,7 +20217,7 @@
    "name": "Sophie Maes",
    "role": "CEO (5th generation)",
    "company": "Group Maes",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/sophieticomaes/",
    "notes": "",
    "families": [
     "familie-maes-group-maes"
@@ -20245,7 +20245,7 @@
    "name": "Jean-Marc Heynderickx",
    "role": "Partner / Shareholder",
    "company": "Louis Delhaize",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jean-marc-heynderickx-52813718",
    "notes": "",
    "families": [
     "familie-pierre-delhaize"
@@ -20259,7 +20259,7 @@
    "name": "Pierre Delhaize",
    "role": "Former CEO (until 1994)",
    "company": "Louis Delhaize",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pierre-delhaize-51b6b022a/",
    "notes": "",
    "families": [
     "familie-pierre-delhaize"
@@ -20315,7 +20315,7 @@
    "name": "Ettore Falvo",
    "role": "Former owner Avignonesi",
    "company": "Avignonesi",
-   "linkedin": null,
+   "linkedin": "https://it.linkedin.com/in/ettore-falvo-83a834141",
    "notes": "",
    "families": [
     "familie-virginie-saverys"
@@ -20329,7 +20329,7 @@
    "name": "Jan Baert",
    "role": "Family representative",
    "company": "Concentra / Mediahuis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-baert-0ab1b7152/",
    "notes": "",
    "families": [
     "familie-baert"
@@ -20367,7 +20367,7 @@
    "name": "Didier Kerckhof",
    "role": "Son / Real Estate Director",
    "company": "Vabeld",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/didier-kerckhof-254b5b205/",
    "notes": "",
    "families": [
     "familie-kerckhof"
@@ -20395,7 +20395,7 @@
    "name": "Roger Lefevere",
    "role": "Former partner (father of Patrick Lefevere)",
    "company": "Euro Shop",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/rogerlefevere/",
    "notes": "",
    "families": [
     "familie-kerckhof"
@@ -20475,7 +20475,7 @@
    "name": "Joris Ide",
    "role": "Founder",
    "company": "Joris Ide",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/stephane-fraisse-108630128/",
    "notes": "",
    "families": [
     "familie-joris-ide"
@@ -20513,7 +20513,7 @@
    "name": "Diego Du Monceau",
    "role": "Family head",
    "company": "Financière de Tubize",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/diego-du-monceau-302ba115/",
    "notes": "",
    "families": [
     "familie-du-monceau-de-bergendal"
@@ -20527,7 +20527,7 @@
    "name": "Evelyne Janssen",
    "role": "Wife of Diego (Solvay heiress)",
    "company": "UCB",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/evelyne-janssen-van-dam-188a5913/",
    "notes": "",
    "families": [
     "familie-du-monceau-de-bergendal"
@@ -20595,7 +20595,7 @@
    "name": "Koen Quaghebeur",
    "role": "Co-founder",
    "company": "Globachem",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/koen-quaghebeur-60bb7b1b9/",
    "notes": "",
    "families": [
     "familie-quaghebeur"
@@ -20609,7 +20609,7 @@
    "name": "Alain Faymonville",
    "role": "Son / Co-owner",
    "company": "Faymonville Group",
-   "linkedin": null,
+   "linkedin": "https://lu.linkedin.com/in/alain-faymonville-53759a203",
    "notes": "",
    "families": [
     "familie-faymonville"
@@ -20635,7 +20635,7 @@
    "name": "Roland Jost",
    "role": "Board member",
    "company": "Max International",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/roland-jost-21504a9",
    "notes": "",
    "families": [
     "familie-faymonville"
@@ -20663,7 +20663,7 @@
    "name": "Gaëtan Waucquez",
    "role": "CEO Floridienne",
    "company": "Floridienne",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ga%C3%ABtan-waucquez-200a82157/",
    "notes": "",
    "families": [
     "familie-waucquez"
@@ -20701,7 +20701,7 @@
    "name": "Dirk Deroose",
    "role": "CEO Willy Naessens Build / 5% shareholder",
    "company": "Willy Naessens Build",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dirk-deroose-33347b60",
    "notes": "",
    "families": [
     "familie-willy-naessens"
@@ -20729,7 +20729,7 @@
    "name": "Marie-Jeanne Naessens",
    "role": "Wife / Co-owner",
    "company": "Willy Naessens Group",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/marie-jeanne-naessens-a51463144",
    "notes": "",
    "families": [
     "familie-willy-naessens"
@@ -20783,7 +20783,7 @@
    "name": "Luc Vansteenkiste",
    "role": "Independent Board Member / Former VBO Chairman",
    "company": "Recticel / Bois Sauvage",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/luc-vansteenkiste-aba3abb5",
    "notes": "",
    "families": [
     "familie-paquot"
@@ -20795,7 +20795,7 @@
    "name": "Valérie Paquot",
    "role": "Daughter / Operational Leader",
    "company": "Bois Sauvage",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/val%C3%A9rie-paquot-16776382",
    "notes": "",
    "families": [
     "familie-paquot"
@@ -20807,7 +20807,7 @@
    "name": "Vincent Doumier",
    "role": "Former CEO",
    "company": "Bois Sauvage",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/vincent-doumier-59a07360/",
    "notes": "",
    "families": [
     "familie-paquot"
@@ -20819,7 +20819,7 @@
    "name": "Jan Dhollander",
    "role": "CEO/Co-owner",
    "company": "Dhollandia",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-dhollander-88929844/",
    "notes": "Leads company together with sister Nancy",
    "families": [
     "familie-dhollander"
@@ -20875,7 +20875,7 @@
    "name": "Anne De Clercq",
    "role": "Co-owner",
    "company": "AYDC / Imocobel",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/anne-de-clercq-0951205/",
    "notes": "Daughter of Claude De Clercq, 50% owner AYDC",
    "families": [
     "familie-de-clercq"
@@ -20899,7 +20899,7 @@
    "name": "Yves De Clercq",
    "role": "Co-owner",
    "company": "AYDC / Imocobel",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/yves-de-clercq-20aa966b",
    "notes": "Son of Claude De Clercq, 50% owner AYDC",
    "families": [
     "familie-de-clercq"
@@ -20953,7 +20953,7 @@
    "name": "Bruno Vande Vyvere",
    "role": "Co-owner (49%)",
    "company": "Matexi",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bruno-vande-vyvere-2a2317a0/",
    "notes": "Controls 49% with sister Bénédicte",
    "families": [
     "familie-vande-vyvere-matexi"
@@ -20981,7 +20981,7 @@
    "name": "Gaëtan Hannecart",
    "role": "CEO",
    "company": "Matexi",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ga%C3%ABtan-hannecart-9127a4b/",
    "notes": "Non-family CEO leading third generation",
    "families": [
     "familie-vande-vyvere-matexi"
@@ -21021,7 +21021,7 @@
    "name": "Carl Liekens",
    "role": "Co-owner/Financial director",
    "company": "Hubo / Teweka",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/carlliekens",
    "notes": "Took control in 1992, handles finance",
    "families": [
     "carl-liekens-en-erwin-van-osta"
@@ -21033,7 +21033,7 @@
    "name": "Max Scheirs",
    "role": "Historical minority shareholder",
    "company": "Teweka",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/max-scheirs",
    "notes": "Family Scheirs holds minority stake",
    "families": [
     "carl-liekens-en-erwin-van-osta"
@@ -21045,7 +21045,7 @@
    "name": "Alex De Cuyper",
    "role": "Founder (previous generation)",
    "company": "Resilux",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/alex-de-cuyper-3129303b",
    "notes": "Founded Resilux in 1992 with sons",
    "families": [
     "familie-de-cuyper"
@@ -21057,7 +21057,7 @@
    "name": "Dirk De Cuyper",
    "role": "Co-CEO (15% owner after 2021 sale)",
    "company": "Resilux",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dirk-de-cuyper-55087020",
    "notes": "Sold 57% to Vanhalst for €282M, retained 15% and stayed as co-CEO",
    "families": [
     "familie-de-cuyper"
@@ -21069,7 +21069,7 @@
    "name": "Peter De Cuyper",
    "role": "Co-CEO (15% owner after 2021 sale)",
    "company": "Resilux",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/peter-de-cuyper-2018",
    "notes": "Co-leads with brother Dirk",
    "families": [
     "familie-de-cuyper"
@@ -21081,7 +21081,7 @@
    "name": "Gino Coorevits",
    "role": "Owner/Real estate investor",
    "company": "Portus",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gino-coorevits-ab111a7b/",
    "notes": "Textile and real estate investor, held 1.49% KBC Ancora, now Austria-based",
    "families": [
     "gino-coorevits"
@@ -21095,7 +21095,7 @@
    "name": "Luc Deconinck",
    "role": "CEO Portus",
    "company": "Portus",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-luc-deconinck-8a8b2517/",
    "notes": "N-VA mayor Sint-Pieters-Leeuw, manages Portus",
    "families": [
     "gino-coorevits"
@@ -21163,7 +21163,7 @@
    "name": "Eric De Vocht",
    "role": "Owner/Architect/Developer",
    "company": "Iret Development",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/eric-de-vocht-82231ba9",
    "notes": "Real estate visionary, developed Tour & Taxis, Post X, 5-star hotels, based Switzerland",
    "families": [
     "eric-de-vocht"
@@ -21189,7 +21189,7 @@
    "name": "Amit Bhansali",
    "role": "Topman",
    "company": "Rosy Blue",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/amit-bhansali-b86a7116/",
    "notes": "Senior executive quoted in article",
    "families": [
     "familie-mehta-rosy-blue"
@@ -21203,7 +21203,7 @@
    "name": "Dilip Mehta",
    "role": "Founder (retired 2012, knighted 2006)",
    "company": "Rosy Blue",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dilip-mehta-a45960a/",
    "notes": "Built largest Antwerp diamond company, 10k+ employees globally, retired 2012",
    "families": [
     "familie-mehta-rosy-blue"
@@ -21245,7 +21245,7 @@
    "name": "Frans Sarens",
    "role": "Founder (post-WWII)",
    "company": "Sarens",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frans-sarens-8a3a5680/",
    "notes": "Grandfather, started with logging and transport after WWII",
    "families": [
     "familie-sarens"
@@ -21259,7 +21259,7 @@
    "name": "Hendrik Sarens",
    "role": "Executive/spokesperson",
    "company": "Sarens",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/hendrik-sarens-6713671/",
    "notes": "Quoted executive, third generation",
    "families": [
     "familie-sarens"
@@ -21299,7 +21299,7 @@
    "name": "Jean van Rijckevorsel",
    "role": "Family patriarch",
    "company": "Financière de Tubize",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jean-van-rijckevorsel-0067b9168",
    "notes": "Married Bridget Janssen (1968), bringing wealth from Janssen family",
    "families": [
     "familie-van-rijckevorsel"
@@ -21313,7 +21313,7 @@
    "name": "Gert Bervoets",
    "role": "CEO",
    "company": "H. Essers",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gert-bervoets-241527b/",
    "notes": "Current CEO, non-family professional management",
    "families": [
     "familie-essers"
@@ -21337,7 +21337,7 @@
    "name": "Hilde Essers",
    "role": "Family owner",
    "company": "H. Essers",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/hildeessers",
    "notes": "Current generation family owner",
    "families": [
     "familie-essers"
@@ -21349,7 +21349,7 @@
    "name": "Ivo Marechal",
    "role": "Former CEO",
    "company": "H. Essers",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ivo-marechal-a959154a/connections/shared",
    "notes": "CEO when won 'Onderneming van het Jaar' 2007",
    "families": [
     "familie-essers"
@@ -21411,7 +21411,7 @@
    "name": "Antoine Vandeputte",
    "role": "Previous generation owner",
    "company": "Galloo",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/antoine-vandeputte-956a6094",
    "notes": "Married Joseph Galloo's daughter (1965), handed over in 2012",
    "families": [
     "familie-vandeputte"
@@ -21423,7 +21423,7 @@
    "name": "Jan Vandeputte",
    "role": "Co-CEO (since 2012)",
    "company": "Galloo",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-vandeputte-14874a127/",
    "notes": "Adopted son of Antoine, co-leads with Pierre",
    "families": [
     "familie-vandeputte"
@@ -21459,7 +21459,7 @@
    "name": "Eric Everard",
    "role": "Founder/CEO (90% owner via Everex)",
    "company": "Easyfairs / Artexis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ericeverard/",
    "notes": "Built expo/events empire, sold 66% to de Spoelberch family + Inflexion ~2024 for €600M+",
    "families": [
     "familie-everard"
@@ -21497,7 +21497,7 @@
    "name": "Philippe de Somer",
    "role": "Chairman (5th generation)",
    "company": "Van Genechten",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-de-somer-a0b549a4/",
    "notes": "Ridder (knight), father of Frederic, chairman family holding",
    "families": [
     "familie-de-somer"
@@ -21511,7 +21511,7 @@
    "name": "Stefaan Merckx",
    "role": "Executive (quoted on acquisitions)",
    "company": "Carta Mundi",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/stefaan-merckx-6b2236",
    "notes": "Senior executive handling USPC acquisition",
    "families": [
     "familie-de-somer"
@@ -21537,7 +21537,7 @@
    "name": "Peter Blijweert",
    "role": "Founder Aliplast (1984)",
    "company": "Aliplast / Corialis",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/peter-blijweert-63947aa",
    "notes": "Founded Aliplast 1984, hired Verstrepen as CEO 1995",
    "families": [
     "johan-verstrepen"
@@ -21549,7 +21549,7 @@
    "name": "Paul Renson",
    "role": "CEO (4th generation)",
    "company": "Renson",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/paul-renson-98b12586",
    "notes": "Marketeer, 4th generation, leads innovation strategy (75% revenue from products <3 years old)",
    "families": [
     "familie-renson-waregem"
@@ -21615,7 +21615,7 @@
    "name": "Patrick Steverlynck",
    "role": "Former chairman/current shareholder",
    "company": "Picanol",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/patrick-steverlynck-a0bba73/",
    "notes": "Scandal 2005 (expenses), family reduced role, sided with Luc Tack after buyout",
    "families": [
     "familie-patrick-steverlynck"
@@ -21655,7 +21655,7 @@
    "name": "Frans Lauwers",
    "role": "Oprichter (broer van Albert)",
    "company": "FAL",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frans-lauwers-5969b7/",
    "notes": "Begonnen in 1938 met metaalverwerkend bedrijf",
    "families": [
     "familie-lauwers"
@@ -21679,7 +21679,7 @@
    "name": "Mieke Michiels",
    "role": "CEO / Hoofd van de groep",
    "company": "Fico",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/mieke-michiels-130b8a184",
    "notes": "Dochter van Willy - leidt nu de vastgoedgroep",
    "families": [
     "familie-willy-michiels"
@@ -21693,7 +21693,7 @@
    "name": "Veerle Michiels",
    "role": "Aandeelhouder",
    "company": "Fico",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/veerlemichiels",
    "notes": "Dochter van Willy - samen met Mieke erfgename",
    "families": [
     "familie-willy-michiels"
@@ -21719,7 +21719,7 @@
    "name": "Anja Van Mensel",
    "role": "CEO Studio 100 Benelux",
    "company": "Studio 100",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/anja-van-mensel-8ba767116/",
    "notes": "CEO sinds 16 november 2013",
    "families": [
     "hans-bourlon-en-gert-verhulst"
@@ -21789,7 +21789,7 @@
    "name": "Jacques Reynders",
    "role": "Bestuurder (2e generatie)",
    "company": "Reynders Label Printing",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jacques-reynders-b656bb18/",
    "notes": "Broer van Marc en Paul",
    "families": [
     "familie-reynders"
@@ -21883,7 +21883,7 @@
    "name": "Brigitte de Vet-Veithen",
    "role": "CEO (vanaf 2024)",
    "company": "Materialise",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/brigittedevet/",
    "notes": "Opvolgster van Wilfried Vancraen als CEO per 1 januari 2024",
    "families": [
     "familie-vancraen"
@@ -21937,7 +21937,7 @@
    "name": "Piet Dossche",
    "role": "Oprichter / Voormalig aandeelhouder (60%)",
    "company": "US Floors",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/piet-dossche-969395121/",
    "notes": "Opgericht in 2001, verkocht aan Shaw in 2017 voor ~250 miljoen dollar",
    "families": [
     "jan-en-piet-dossche"
@@ -21963,7 +21963,7 @@
    "name": "Luc Hoflack",
    "role": "Bestuurder / Manager",
    "company": "Horafrost",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-hoflack-6324896b/",
    "notes": "Zoon van Michel, runt bedrijf met broers",
    "families": [
     "familie-michel-hoflack"
@@ -22017,7 +22017,7 @@
    "name": "Claude Froidbise",
    "role": "Familielid / Aandeelhouder",
    "company": "Anglo Belgian Corporation",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/claude-froidbise-62788893/",
    "notes": "Via holding Ogepar eigenaar sinds jaren 80",
    "families": [
     "familie-froidbise"
@@ -22041,7 +22041,7 @@
    "name": "Francisco de Murga",
    "role": "Voormalig eigenaar ACP",
    "company": "ACP",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/francisco-de-murga-b360535",
    "notes": "Gehuwd met Solange du Bois, nam ACP over in 1966",
    "families": [
     "familie-de-murga"
@@ -22105,7 +22105,7 @@
    "name": "Frans Mintjens",
    "role": "Mede-oprichter",
    "company": "Mintjens",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/frans-mintjens-937477110",
    "notes": "Broer van Karel en Jules",
    "families": [
     "familie-mintjens"
@@ -22211,7 +22211,7 @@
    "name": "Caroline Baudier",
    "role": "CEO",
    "company": "Laboratoires SMB",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/caroline-baudier-bb751887",
    "notes": "Dochter van Philippe, huidige CEO",
    "families": [
     "familie-baudier"
@@ -22225,7 +22225,7 @@
    "name": "Philippe Baudier",
    "role": "Voormalig CEO (vanaf 1978)",
    "company": "Laboratoires SMB",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-baudier-330a5a/",
    "notes": "Overnam in 1978, woont nu in Marokko",
    "families": [
     "familie-baudier"
@@ -22253,7 +22253,7 @@
    "name": "Stefan Verbeeck",
    "role": "Familielid / Medewerker",
    "company": "Golazo",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/stefan-verbeeck-5379977a/",
    "notes": "Zoon van Bob, betrokken bij nieuwe bio-incubator project",
    "families": [
     "robert-bob-verbeeck"
@@ -22267,7 +22267,7 @@
    "name": "Catherine Anspach",
    "role": "Ex-echtgenote",
    "company": "N/A",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/catherine-anspach-811a4b13/",
    "notes": "Ex-echtgenote van Pierre, woont in Knokke met kinderen",
    "families": [
     "pierre-lagrange"
@@ -22279,7 +22279,7 @@
    "name": "Pierre Lagrange",
    "role": "Voormalig fondsbeheerder",
    "company": "GLG",
-   "linkedin": null,
+   "linkedin": "https://uk.linkedin.com/in/pierrelagrange1",
    "notes": "Geboren 1962, verkocht GLG in 2010 voor 1,3 miljard euro, gescheiden van Catherine Anspach",
    "families": [
     "pierre-lagrange"
@@ -22291,7 +22291,7 @@
    "name": "Frederic Boone",
    "role": "CEO",
    "company": "Versele-Laga",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/frederic-boone-11a1819",
    "notes": "CEO van Versele-Laga",
    "families": [
     "familie-versele"
@@ -22319,7 +22319,7 @@
    "name": "Lode Versele",
    "role": "Supply Chain Manager",
    "company": "Versele-Laga",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/lode-versele-91657b4",
    "notes": "3e generatie familie",
    "families": [
     "familie-versele"
@@ -22345,7 +22345,7 @@
    "name": "Stefan Versele",
    "role": "Sales Manager",
    "company": "Versele-Laga",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/stefan-versele-5b70689",
    "notes": "3e generatie familie",
    "families": [
     "familie-versele"
@@ -22385,7 +22385,7 @@
    "name": "Eric Verbeeck",
    "role": "Onafhankelijk bestuurder",
    "company": "QRS",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/eric-verbeeck-b143646/",
    "notes": "Voormalig projectontwikkelaar, vertrouweling Christian Van Thillo",
    "families": [
     "familie-janssen-arts"
@@ -22399,7 +22399,7 @@
    "name": "Frank Arts",
    "role": "Sleutelfiguur vermogensbeheer",
    "company": "Dr. Paul Janssen International",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frank-arts/",
    "notes": "Schoonbroer van Paul Janssen",
    "families": [
     "familie-janssen-arts"
@@ -22485,7 +22485,7 @@
    "name": "Hervé Doret",
    "role": "Familielid",
    "company": "N/A",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/herv%C3%A9-doret-619a0a67/",
    "notes": "Gehuwd met Jacqueline de Mevius",
    "families": [
     "familie-doret"
@@ -22497,7 +22497,7 @@
    "name": "Michel Doret",
    "role": "Vermogensbeheerder",
    "company": "Participatie AB InBev",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-doret-2a927948/",
    "notes": "Mede-oprichter business angels netwerk Solvay Business School",
    "families": [
     "familie-doret"
@@ -22535,7 +22535,7 @@
    "name": "Hubert Plouvier",
    "role": "Sterke man binnen groep",
    "company": "G&C Kreglinger / Fin.Co",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/hubertplouvier/",
    "notes": "Lid familiaal syndicaat Almanij (Kredietbank/KB Lux)",
    "families": [
     "familie-plouvier"
@@ -22561,7 +22561,7 @@
    "name": "Christophe Van Parys",
    "role": "Bestuurder",
    "company": "Sobinco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christophe-van-parys-b126241a8/",
    "notes": "Zoon van Remi",
    "families": [
     "familie-van-parys"
@@ -22575,7 +22575,7 @@
    "name": "Emmanuel Van Parys",
    "role": "Bestuurder",
    "company": "Sobinco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/emmanuel-van-parys-5478272b8/",
    "notes": "Zoon van Remi",
    "families": [
     "familie-van-parys"
@@ -22589,7 +22589,7 @@
    "name": "Harold Van Parys",
    "role": "Bestuurder",
    "company": "Sobinco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/harold-van-parys-1544aa43/",
    "notes": "Zoon van Remi",
    "families": [
     "familie-van-parys"
@@ -22631,7 +22631,7 @@
    "name": "Hugo van Heuverswyn",
    "role": "Mede-oprichter Innogenetics",
    "company": "Innogenetics",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/hugovh/",
    "notes": "Zocht in 1985 risicokapitaal bij Rudi Mariën",
    "families": [
     "rudi-marien"
@@ -22703,7 +22703,7 @@
    "name": "Michiel Beers",
    "role": "Co-founder & Owner",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/michiel-beers-0956a312",
    "notes": "Brothers who founded Tomorrowland festival in 2005",
    "families": [
     "manu-en-michiel-beers"
@@ -22715,7 +22715,7 @@
    "name": "Yvan Vindevogel",
    "role": "Founder/Owner",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/yvan-vindevogel-3a4225b6",
    "notes": "Co-founder of Omega Pharma with Frank De Geyter, later founded Vemedia. Also launched Copperhead Gin",
    "families": [
     "familie-vindevogel"
@@ -22739,7 +22739,7 @@
    "name": "Robert Taub",
    "role": "Serial entrepreneur",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/robert-taub-856bb15/",
    "notes": "Sold Omrix to Johnson & Johnson for $400M+. Founded Nyxoah (sleep apnea treatment). Was chairman of Neuroderm (sold to Mitsubishi Tanabe for $1.1B)",
    "families": [
     "familie-robert-taub"
@@ -22751,7 +22751,7 @@
    "name": "Guillaume De Paepe",
    "role": "Family member",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/guillaume-de-paepe-126008132",
    "notes": "Son, company MG named after children",
    "families": [
     "ignace-de-paepe"
@@ -22763,7 +22763,7 @@
    "name": "Ignace De Paepe",
    "role": "Owner/Developer",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ignace-de-paepe/",
    "notes": "Built KBC tower (Arteveldetoren) in Gent - tallest building in Flanders. Children: Margot and Guillaume",
    "families": [
     "ignace-de-paepe"
@@ -22787,7 +22787,7 @@
    "name": "Catherine Gilain-Pycke",
    "role": "CEO",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/catherine-gilain-pycke-b58535116",
    "notes": "Daughter of Herman, married to Christophe Gilain (partner of Thomas Spitaels in TPF)",
    "families": [
     "familie-pycke"
@@ -22799,7 +22799,7 @@
    "name": "Christophe Gilain",
    "role": "Related through marriage",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christophe-gilain-4a6b7a103/",
    "notes": "Married to Catherine, partner in TPF group",
    "families": [
     "familie-pycke"
@@ -22811,7 +22811,7 @@
    "name": "Daisy Davignon-Pycke",
    "role": "Owner",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/daisy-davignon-pycke-6a58a8a2",
    "notes": "Daughter of Herman, married to Vincent Davignon (son of Etienne Davignon)",
    "families": [
     "familie-pycke"
@@ -22835,7 +22835,7 @@
    "name": "Werner Pycke",
    "role": "Former family member (exited 2015)",
    "company": "Top Bronnen Holding",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/werner-pycke-a7b2794a/",
    "notes": "Son of Herman, married to Françoise Santens, took Top Bronnen in Brakel",
    "families": [
     "familie-pycke"
@@ -22847,7 +22847,7 @@
    "name": "Mireille Gram",
    "role": "Family member/Daughter",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/mireille-gram-a32385105/",
    "notes": "Daughter",
    "families": [
     "tony-gram"
@@ -22859,7 +22859,7 @@
    "name": "Rudy Gram",
    "role": "Son",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/rudy-gram-61454621/",
    "notes": "Active in Florida with construction company Deltona",
    "families": [
     "tony-gram"
@@ -22871,7 +22871,7 @@
    "name": "Tony Gram",
    "role": "Owner/Entrepreneur",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://ca.linkedin.com/in/tony-gram-575762113",
    "notes": "Founded Gramyco in 1975. Bought/sold Kipling twice. Known for turnarounds",
    "families": [
     "tony-gram"
@@ -22895,7 +22895,7 @@
    "name": "Louis Machiels",
    "role": "Leader",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louis-machiels-80ba7a158/",
    "notes": "Leads JM Recycling. Working on major project in Maastricht (3 residential towers)",
    "families": [
     "familie-machiels"
@@ -22919,7 +22919,7 @@
    "name": "Inge Demeyere",
    "role": "CEO (appointed 2026)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/inge-demeyere-113ab76/",
    "notes": "Former Cargill manager, new CEO",
    "families": [
     "familie-popelier-castelein"
@@ -22931,7 +22931,7 @@
    "name": "Luc Popelier",
    "role": "Co-founder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/luc-popelier-bbab4059",
    "notes": "Founded Poppies in 1976 with Frans Castelein",
    "families": [
     "familie-popelier-castelein"
@@ -22979,7 +22979,7 @@
    "name": "Johan Beerlandt",
    "role": "CEO/Chairman",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/johan-beerlandt-6027525/",
    "notes": "Led management buyout in 2004. Built Burj Khalifa. Became chairman in 2017, back to CEO in 2020",
    "families": [
     "de-familie-beerlandt"
@@ -23003,7 +23003,7 @@
    "name": "Rik Vandenberghe",
    "role": "Former CEO (2017-2020)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/rik-vandenberghe-3a0ab615/",
    "notes": "Former ING banker, succeeded Beerlandt as CEO",
    "families": [
     "de-familie-beerlandt"
@@ -23015,7 +23015,7 @@
    "name": "Michael Lavrysen",
    "role": "Related through marriage",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michael-lavrysen-73669b/",
    "notes": "Married to Titia, topman at CVC Belgium",
    "families": [
     "familie-van-waeyenberge"
@@ -23027,7 +23027,7 @@
    "name": "Piet Van Waeyenberge",
    "role": "Patriarch/Former leader",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/piet-van-waeyenberge-a179a9a",
    "notes": "Former Fortis board member. Sold Ecoval to Louis Dreyfus in 2012. Active in Flagey project",
    "families": [
     "familie-van-waeyenberge"
@@ -23051,7 +23051,7 @@
    "name": "Guy Van den Broeke",
    "role": "Former owner",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guyvandenbroeke/",
    "notes": "Brother. Sold Lutosa to Pinguin in 2007",
    "families": [
     "familie-van-den-broeke"
@@ -23075,7 +23075,7 @@
    "name": "Pierre-Olivier Beckers",
    "role": "Former CEO",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/pierre-olivier-beckers-vieujant-650260174",
    "notes": "Great-great-grandson of Jules Vieujant. CEO until Ahold merger in 2016. Also chairman Belgian Olympic Committee",
    "families": [
     "de-delhaize-families"
@@ -23087,7 +23087,7 @@
    "name": "Luc Van Hoecke",
    "role": "Founder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-van-hoecke-71332a82/",
    "notes": "Started in 1967 in Sint-Niklaas",
    "families": [
     "familie-van-hoecke"
@@ -23099,7 +23099,7 @@
    "name": "Peter Van Hoecke",
    "role": "CEO (sold to Blum 2024)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/petervanhoecke/",
    "notes": "60-year-old CEO. Sold company to Blum in 2024 for €135M+ exit",
    "families": [
     "familie-van-hoecke"
@@ -23135,7 +23135,7 @@
    "name": "Michel Delmelle",
    "role": "Professor/Original founder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-delmelle-3b239034/",
    "notes": "Professor at Liège University. Founded Physiol as university spin-off",
    "families": [
     "familie-nolet-de-brauwere-van-steeland"
@@ -23159,7 +23159,7 @@
    "name": "Dirk Cavens",
    "role": "Owner/Developer",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dirk-cavens-b795b3a4",
    "notes": "Real estate developer. Merged with Paeleman family in Triple Living (2018). Major projects: Nieuw Zuid Antwerp",
    "families": [
     "familie-dirk-cavens"
@@ -23171,7 +23171,7 @@
    "name": "Jeff Cavens",
    "role": "Next generation leader",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jeff-cavens-a67b3b3",
    "notes": "Son, board member Triple Living",
    "families": [
     "familie-dirk-cavens"
@@ -23257,7 +23257,7 @@
    "name": "Erol Kandiyoti",
    "role": "Owner (33%)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ekaerol-kandiyoti-57643668/",
    "notes": "Equal ownership with brothers",
    "families": [
     "familie-kandiyoti"
@@ -23269,7 +23269,7 @@
    "name": "Metin Kandiyoti",
    "role": "Owner (33%)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/metin-kandiyoti/",
    "notes": "Equal ownership with brothers",
    "families": [
     "familie-kandiyoti"
@@ -23293,7 +23293,7 @@
    "name": "Ashit Mehta",
    "role": "Founder/Owner",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ashit-mehta/",
    "notes": "Son of Vasantlal Mehta (Blue Star founder). Founded Arjav Diamonds in 1981 in Antwerp. Top-3 diamond dealer in Antwerp",
    "families": [
     "familie-mehta"
@@ -23317,7 +23317,7 @@
    "name": "Bart Tans",
    "role": "Son/Residential developer",
    "company": "Tans Group (residential division)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-tans/",
    "notes": "Founded Kolmont Woonprojecten in 2000. Focuses on high-end residential",
    "families": [
     "familie-bart-tans"
@@ -23329,7 +23329,7 @@
    "name": "Frank Tans",
    "role": "Son/Retail developer",
    "company": "Tans Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frank-tans-4011b848/",
    "notes": "Brother of Bart. Focuses on shopping centers",
    "families": [
     "familie-bart-tans"
@@ -23355,7 +23355,7 @@
    "name": "Albert Moorkens",
    "role": "Founder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-albert-moorkens-b9410430/",
    "notes": "Founder of Alcopa",
    "families": [
     "familie-dominique-moorkens"
@@ -23367,7 +23367,7 @@
    "name": "Dominique Moorkens",
    "role": "Chairman (Baron)",
    "company": "Alcopa",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dominique-moorkens-509365a/",
    "notes": "Moved to chairman in 2009. Made Baron by King Albert in 2009",
    "families": [
     "familie-dominique-moorkens"
@@ -23381,7 +23381,7 @@
    "name": "François Hinfray",
    "role": "CEO",
    "company": "Alcopa",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/fran%C3%A7ois-hinfray-a74180138/",
    "notes": "First external CEO. Former Renault commercial director and BCG consultant",
    "families": [
     "familie-dominique-moorkens"
@@ -23419,7 +23419,7 @@
    "name": "Paul Haelterman",
    "role": "Brother/Carlsberg & Tao",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/paul-haelterman-b001539b",
    "notes": "Responsible for Carlsberg import/distribution and Tao health drink",
    "families": [
     "familie-haelterman"
@@ -23431,7 +23431,7 @@
    "name": "Carl Mestdagh",
    "role": "Voorzitter raad van bestuur / Vastgoedverantwoordelijke",
    "company": "Fidagh",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/carl-mestdagh-0a396119",
    "notes": "Neef van Eric en John, vierde generatie",
    "families": [
     "familie-mestdagh"
@@ -23457,7 +23457,7 @@
    "name": "John Mestdagh",
    "role": "Co-bestuurder - Verantwoordelijk voor aankoop, marketing en technische ondersteuning",
    "company": "Mestdagh Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/john-mestdagh-91113567/",
    "notes": "Broer van Eric, vierde generatie",
    "families": [
     "familie-mestdagh"
@@ -23483,7 +23483,7 @@
    "name": "Jan Degroote",
    "role": "Co-CEO",
    "company": "Vastgoedgroep Degroote",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-degroote-3071ba19b/",
    "notes": "Zoon, verantwoordelijk voor technische dienst",
    "families": [
     "familie-degroote"
@@ -23509,7 +23509,7 @@
    "name": "Xavier Degroote",
    "role": "Oprichter (1975)",
    "company": "Vastgoedgroep Degroote",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/xavier-degroote-55220595/",
    "notes": "Vader, familie gesplitst in 2022",
    "families": [
     "familie-degroote"
@@ -23523,7 +23523,7 @@
    "name": "Herman Van de Velde",
    "role": "Familie aandeelhouder",
    "company": "Van de Velde",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/herman-van-de-velde-14498920/",
    "notes": "Derde generatie leiding",
    "families": [
     "familie-van-de-velde-laureys"
@@ -23535,7 +23535,7 @@
    "name": "Karel Van de Velde",
    "role": "Ontwerp en productontwikkeling (tot 2004)",
    "company": "Van de Velde",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/karelvandevelde",
    "notes": "Broer, derde generatie",
    "families": [
     "familie-van-de-velde-laureys"
@@ -23597,7 +23597,7 @@
    "name": "Olivier Alsteens",
    "role": "Directeur-generaal",
    "company": "Fondation George Arthur Forrest",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/olivier-alsteens-abb76415",
    "notes": "Voorheen gewerkt voor Louis Michel en Guy Verhofstadt",
    "families": [
     "familie-george-forrest"
@@ -23611,7 +23611,7 @@
    "name": "Pierre Chevalier",
    "role": "Bestuurder",
    "company": "Group Forrest",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/pierre-chevalier-845a5342",
    "notes": "Ex-staatssecretaris, belangrijke adviseur",
    "families": [
     "familie-george-forrest"
@@ -23685,7 +23685,7 @@
    "name": "Jo De Wolf",
    "role": "CEO",
    "company": "Montea",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jodewolf/",
    "notes": "CEO, lanceerde Stockspots platform",
    "families": [
     "familie-de-pauw-montea"
@@ -23697,7 +23697,7 @@
    "name": "Pierre De Pauw",
    "role": "Oprichter",
    "company": "Montea",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pierre-de-pauw-9737996b/",
    "notes": "Vader, kocht magazijnen sinds jaren 60",
    "families": [
     "familie-de-pauw-montea"
@@ -23709,7 +23709,7 @@
    "name": "Geert Van Cauwenberge",
    "role": "Co-eigenaar",
    "company": "Vanca Belgium",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/geertvancauwenberge/",
    "notes": "Zoon, tweelingbroer van Joost",
    "families": [
     "familie-van-cauwenberge"
@@ -23763,7 +23763,7 @@
    "name": "Frederik Snauwaert",
    "role": "CFO",
    "company": "Xior",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frederik-snauwaert-61628b45/",
    "notes": "CFO, begeleidde beursgang in 2015",
    "families": [
     "christian-teunissen"
@@ -23775,7 +23775,7 @@
    "name": "Luc Christiaen",
    "role": "CEO",
    "company": "ECA",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/jean-luc-christiaen-64263b30",
    "notes": "Zoon van Paul, leidt bedrijf",
    "families": [
     "familie-christiaen"
@@ -23817,7 +23817,7 @@
    "name": "Bart Vaessen",
    "role": "Familielid",
    "company": "Familie bedrijven",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bartvaessen/",
    "notes": "Zoon",
    "families": [
     "familie-vaessen"
@@ -23829,7 +23829,7 @@
    "name": "Ben Vaessen",
    "role": "Eigenaar",
    "company": "Kreon / Limeparts",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ben-vaessen-74583b52/",
    "notes": "Zoon, leidt verlichtingsbedrijf en gevelfabrikant",
    "families": [
     "familie-vaessen"
@@ -23841,7 +23841,7 @@
    "name": "Jos Vaessen",
    "role": "Oprichter Vasco (1975)",
    "company": "E-Max / Kreon",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jos-vaessen-981807a6/",
    "notes": "Vader, ex-voorzitter KRC Genk, verkocht Vasco twee keer",
    "families": [
     "familie-vaessen"
@@ -23867,7 +23867,7 @@
    "name": "Ivan Remels",
    "role": "Commercieel Directeur",
    "company": "Asco Industries",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ivan-remels-076381131/",
    "notes": "Management",
    "families": [
     "familie-boas"
@@ -23905,7 +23905,7 @@
    "name": "Nicolas Leonard",
    "role": "Co-oprichter",
    "company": "Allin1 / Gaming1",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nicolas-leonard-7532216/",
    "notes": "Co-stichter met Meuwissen",
    "families": [
     "familie-emmanuel-meuwissen"
@@ -23917,7 +23917,7 @@
    "name": "Geert Verstraete",
    "role": "Gedelegeerd bestuurder",
    "company": "Verstraete IML",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/geert-verstraete-eiv/",
    "notes": "Verkocht aan Multi-Colors (US) in 2017",
    "families": [
     "familie-verstraete"
@@ -23945,7 +23945,7 @@
    "name": "Dirk De Graeve",
    "role": "Operationeel bestuurder",
    "company": "SDGB / Immogra",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dirk-de-graeve-4616465",
    "notes": "Zoon, tweelingbroer van Frank",
    "families": [
     "familie-de-graeve"
@@ -23957,7 +23957,7 @@
    "name": "Frank De Graeve",
    "role": "Operationeel bestuurder",
    "company": "SDGB / Immogra",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frankdegraeve/",
    "notes": "Zoon, tweelingbroer van Dirk",
    "families": [
     "familie-de-graeve"
@@ -23981,7 +23981,7 @@
    "name": "Georges Bia",
    "role": "Oprichter (1902)",
    "company": "BIA",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/georges-biaux-892a6ba5/",
    "notes": "Overgrootvader, mijnbouwingenieur, actief in Congo",
    "families": [
     "familie-bia"
@@ -24007,7 +24007,7 @@
    "name": "Vincent Bia",
    "role": "Voorzitter (ex-CEO)",
    "company": "BIA / Ariozo",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/vincent-bia-42651875/",
    "notes": "Kleinzoon van Georges, droeg CEO-rol over in 2024",
    "families": [
     "familie-bia"
@@ -24031,7 +24031,7 @@
    "name": "Joris Claeys",
    "role": "CEO / Beheerder",
    "company": "Cennini / West Wing Credit",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jorisclaeys/nl",
    "notes": "Zoon, leidt heroriëntatie naar vastgoed en bedrijfsinvesteringen",
    "families": [
     "familie-claeys-cennini"
@@ -24043,7 +24043,7 @@
    "name": "Leo Claeys",
    "role": "Patriarch / ex-aandeelhouder Roularta",
    "company": "Cennini",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/leoclaeys/",
    "notes": "Schoonbroer Rik De Nolf, getrouwd met Caroline De Nolf, verkocht Roularta in 2018",
    "families": [
     "familie-claeys-cennini"
@@ -24055,7 +24055,7 @@
    "name": "Frédéric Heymans",
    "role": "Ex-voorzitter Raad der Aandeelhouders",
    "company": "Alcopa",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-heymans-10b09467/",
    "notes": "Kleinzoon Albert Moorkens, familiaal verbonden met familie Moorkens",
    "families": [
     "familie-heymans"
@@ -24069,7 +24069,7 @@
    "name": "Antoine Bosteels",
    "role": "CEO / Eigenaar (zevende generatie)",
    "company": "Brouwerij Bosteels",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/antoine-bosteels-426b3066",
    "notes": "Zevende generatie, verkocht aan AB-Inbev in 2016",
    "families": [
     "familie-bosteels"
@@ -24105,7 +24105,7 @@
    "name": "Jean-Marie Laurent Josi",
    "role": "CEO",
    "company": "Cobepa / Group Josi",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jean-marie-laurent-josi-9362206",
    "notes": "Kleinzoon, sterke man van Cobepa, goede contacten met familie de Spoelberch",
    "families": [
     "familie-laurent-josi"
@@ -24165,7 +24165,7 @@
    "name": "Isabelle Hayen",
    "role": "Dochter, gedomicilieerd Monaco",
    "company": "First Way",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/isabelle-hayen-22799919/",
    "notes": "",
    "families": [
     "familie-hayen"
@@ -24203,7 +24203,7 @@
    "name": "Xavier Vandamme",
    "role": "Huidige bestuurder/contactpersoon",
    "company": "Oliefabriek Vandamme",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/xavier-vandamme/",
    "notes": "",
    "families": [
     "familie-vandamme"
@@ -24231,7 +24231,7 @@
    "name": "Rocco Marotta",
    "role": "Eigenaar winkelpanden Nieuwstraat (Brussel) en Meir (Antwerpen)",
    "company": "Vastgoedportefeuille",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/rocco-marotta-52b3b424a/",
    "notes": "",
    "families": [
     "rocco-marotta"
@@ -24257,7 +24257,7 @@
    "name": "Mark Leysen",
    "role": "Bestuursvoorzitter en gedelegeerd bestuurder",
    "company": "Vanbreda Risk & Benefits",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ria-de-wit-7a25b0a/",
    "notes": "",
    "families": [
     "families-mark-leysen"
@@ -24285,7 +24285,7 @@
    "name": "Carole Maes",
    "role": "Dochter, bestuurder (46 jaar in 2022)",
    "company": "Latexco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/carole-maes-0147735a/",
    "notes": "",
    "families": [
     "familie-maes-latexco"
@@ -24297,7 +24297,7 @@
    "name": "Luc Maes",
    "role": "Voormalig eigenaar (81 jaar in 2022)",
    "company": "Latexco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-maes-41675613/",
    "notes": "",
    "families": [
     "familie-maes-latexco"
@@ -24359,7 +24359,7 @@
    "name": "Nico Renmans",
    "role": "Zoon, bestuurder",
    "company": "Renmans",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/nico-renmans-4b9952197",
    "notes": "",
    "families": [
     "familie-renmans"
@@ -24371,7 +24371,7 @@
    "name": "Nicole Albert",
    "role": "Echtgenote Henri Renmans, bestuurder",
    "company": "Renmans",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nicolealbert/",
    "notes": "",
    "families": [
     "familie-renmans"
@@ -24383,7 +24383,7 @@
    "name": "Rik Renmans",
    "role": "Zoon, CEO",
    "company": "Renmans",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/rik-renmans-b6614836",
    "notes": "",
    "families": [
     "familie-renmans"
@@ -24421,7 +24421,7 @@
    "name": "Christian Rousseaux",
    "role": "Oprichter Immoweb & Produpress",
    "company": "Immoweb",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/christianrousseaux",
    "notes": "",
    "families": [
     "familie-rousseaux"
@@ -24445,7 +24445,7 @@
    "name": "Tanguy Rousseaux",
    "role": "Zoon, mede-bestuurder",
    "company": "Immoweb / Produpress",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/tanguy-rousseaux-aa639012",
    "notes": "",
    "families": [
     "familie-rousseaux"
@@ -24481,7 +24481,7 @@
    "name": "Eva Dedecker",
    "role": "Dochter, bestuurder",
    "company": "Desco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/eva-dedecker-a44b985/",
    "notes": "",
    "families": [
     "familie-dedecker"
@@ -24495,7 +24495,7 @@
    "name": "Frank Dedecker",
    "role": "Zaakvoerder",
    "company": "Desco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frank-dedecker-b2293a1a/",
    "notes": "",
    "families": [
     "familie-dedecker"
@@ -24509,7 +24509,7 @@
    "name": "Karen Dedecker",
    "role": "Dochter, bestuurder",
    "company": "Desco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/karen-dedecker-1b7b88100/",
    "notes": "",
    "families": [
     "familie-dedecker"
@@ -24523,7 +24523,7 @@
    "name": "Kris Dedecker",
    "role": "Dochter, bestuurder",
    "company": "Desco",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/kris-dedecker-6028256",
    "notes": "",
    "families": [
     "familie-dedecker"
@@ -24549,7 +24549,7 @@
    "name": "Gery De Cloedt",
    "role": "Eigenaar, ingenieur",
    "company": "Group De Cloedt",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gery-de-cloedt-56a16a1b0/",
    "notes": "",
    "families": [
     "familie-gery-de-cloedt"
@@ -24577,7 +24577,7 @@
    "name": "Jean Vande Vyvere",
    "role": "Partner",
    "company": "Vybros Capital Partners",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-vande-vyvere-591b6645/?_l=en",
    "notes": "",
    "families": [
     "familie-philippe-vande-vyvere"
@@ -24605,7 +24605,7 @@
    "name": "Matthias Hoornaert",
    "role": "Bestuurder",
    "company": "Artes Group",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/matthias-hoornaert-4a259219",
    "notes": "",
    "families": [
     "familie-robert-hoornaert"
@@ -24633,7 +24633,7 @@
    "name": "Alizée Lanckriet",
    "role": "Dochter, actief in bedrijf",
    "company": "ECS",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/aliz%C3%A9elanckriet/",
    "notes": "",
    "families": [
     "christine-de-dijcker-en-marc-lanckriet"
@@ -24661,7 +24661,7 @@
    "name": "Cédric Lanckriet",
    "role": "Zoon, actief in bedrijf",
    "company": "ECS",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/c%C3%A9dric-lanckriet-852a0558/",
    "notes": "",
    "families": [
     "christine-de-dijcker-en-marc-lanckriet"
@@ -24703,7 +24703,7 @@
    "name": "Leopold Moorkens",
    "role": "Eigenaar",
    "company": "Alcopa",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/leopold-moorkens-488a4ab0/",
    "notes": "",
    "families": [
     "familie-leopold-moorkens"
@@ -24717,7 +24717,7 @@
    "name": "Robert Levy",
    "role": "Eigenaar (85% Century 21)",
    "company": "Century 21 Benelux",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/robert-levy-1a838721/",
    "notes": "",
    "families": [
     "robert-levy"
@@ -24745,7 +24745,7 @@
    "name": "Luc Verelst",
    "role": "Investeerder & filantroop",
    "company": "Droia / LakeSprings",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-verelst-223b8174/",
    "notes": "",
    "families": [
     "familie-luc-verelst"
@@ -24757,7 +24757,7 @@
    "name": "Frank Van Biesen",
    "role": "Co-founder",
    "company": "FL Studio",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/frank-van-biesen-b8996780",
    "notes": "See rank #230 for details. Partner of Jean-Marie Cannie in FL Studio.",
    "families": [
     "jean-marie-cannie-fl-studio"
@@ -24817,7 +24817,7 @@
    "name": "Caroline Depré",
    "role": "Family member / Board member",
    "company": "Voeders Depré",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/caroline-depr%C3%A9-0a40881b",
    "notes": "Daughter of Edward Depré. Lives with father in Beernem village center.",
    "families": [
     "familie-depre-voeders-depre"
@@ -24829,7 +24829,7 @@
    "name": "Edward Depré",
    "role": "Co-owner",
    "company": "Voeders Depré",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/edward-depr%C3%A9-6772094/",
    "notes": "Also called 'Eddy'. Brother of Hans. Active in local Harmonie Sint-Cecilia in Beernem.",
    "families": [
     "familie-depre-voeders-depre"
@@ -24853,7 +24853,7 @@
    "name": "Caroline De Clerck",
    "role": "Board member",
    "company": "Beaulieu International Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/caroline-de-clerck-7b5943259/",
    "notes": "Daughter of Francis De Clerck (Dominiek's brother). Now manages her father's stake in Beaulieu.",
    "families": [
     "dominiek-de-clerck-ckv"
@@ -24901,7 +24901,7 @@
    "name": "Willy Oeyen",
    "role": "Co-owner",
    "company": "Sopraco",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/willy-oeyen-6216b213",
    "notes": "Son of Paul Oeyen. In legal dispute with brother Jan over family holdings.",
    "families": [
     "familie-oeyen-sopraco"
@@ -24925,7 +24925,7 @@
    "name": "Kelly De Dijcker",
    "role": "Former co-owner (sold 2022)",
    "company": "ECS",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/kelly-de-dijcker-0791a025b/",
    "notes": "Sister of Christine. Sold ECS shares to Christine in 2022. Was married to Pieter Balcaen.",
    "families": [
     "kelly-de-dijcker-en-pieter-balcaen-ex-ecs"
@@ -24939,7 +24939,7 @@
    "name": "Pieter Balcaen",
    "role": "Former co-owner (sold 2022)",
    "company": "Real estate (Carrefour, Brico, A.S.Adventure locations)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pieterbalcaen/",
    "notes": "Husband of Kelly De Dijcker. Exited ECS in 2022. Active in real estate with retail properties.",
    "families": [
     "kelly-de-dijcker-en-pieter-balcaen-ex-ecs"
@@ -24951,7 +24951,7 @@
    "name": "Yves Noël",
    "role": "Chairman",
    "company": "NMC / Noaminvest holding",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/yves-no%C3%ABl-97b207292/",
    "notes": "Son of founder Gert Noël. Chairman of NMC. Family owns 95% via Noaminvest holding. Company has 1600+ employees, €260M+ revenue.",
    "families": [
     "familie-noel-nmc"
@@ -24963,7 +24963,7 @@
    "name": "Christophe De Pauw",
    "role": "Son of Patrick",
    "company": "Family wealth management",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christophe-de-pauw-81a62611/",
    "notes": "Son of Patrick De Pauw. Was married to Isabella Hervey (daughter of 6th Marquess of Bristol), divorced 2023.",
    "families": [
     "familie-patrick-de-pauw-cdp"
@@ -24975,7 +24975,7 @@
    "name": "Patrick De Pauw",
    "role": "Former co-owner",
    "company": "CDP (sold stake to brother Alain 2014)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/patrick-de-pauw-75357552/",
    "notes": "Brother of Alain De Pauw. Son of Charly De Pauw. Sold his CDP shares to brother Alain in 2014.",
    "families": [
     "familie-patrick-de-pauw-cdp"
@@ -24987,7 +24987,7 @@
    "name": "Beatrice Vanhoutte",
    "role": "Daughter / Board member",
    "company": "KBC Securities",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/beatrice-vanhoutte-7b165815a/",
    "notes": "Daughter of Hendrik Vanhoutte. Board member at KBC Securities. Married to John Dubaere (owner of Omexco, design wallpaper company).",
    "families": [
     "de-familie-hendrik-vanhoutte-onbekend-aandeelhouder-kbc"
@@ -24999,7 +24999,7 @@
    "name": "Cecile Colle",
    "role": "Spouse",
    "company": "N/A",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/cecile-colle-07506878/",
    "notes": "Wife of Hendrik Vanhoutte. Granddaughter of René Colle (brewer, former mayor of Tielt).",
    "families": [
     "de-familie-hendrik-vanhoutte-onbekend-aandeelhouder-kbc"
@@ -25023,7 +25023,7 @@
    "name": "John Dubaere",
    "role": "Owner",
    "company": "Omexco (design wallpaper)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/john-dubaere-a7190a8/",
    "notes": "Husband of Beatrice Vanhoutte. Owner of Omexco wallpaper company.",
    "families": [
     "de-familie-hendrik-vanhoutte-onbekend-aandeelhouder-kbc"
@@ -25071,7 +25071,7 @@
    "name": "Guido Van der Schueren",
    "role": "Investor / Co-founder",
    "company": "Artwork Systems",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guidov1/",
    "notes": "Early investor and co-founder with Denoo brothers. Part of tax settlement in 2003.",
    "families": [
     "bart-denoo-artwork-systems"
@@ -25083,7 +25083,7 @@
    "name": "Peter Denoo",
    "role": "Co-founder",
    "company": "Artwork Systems",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/peterdenoo/",
    "notes": "See rank #250 for details. Brother of Bart.",
    "families": [
     "bart-denoo-artwork-systems"
@@ -25155,7 +25155,7 @@
    "name": "Steven Geirnaert",
    "role": "CFO",
    "company": "Fedrus International",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/steven-geirnaert-7625563/",
    "notes": "CFO of Fedrus Group. Part of management team alongside Mark Vandecruys.",
    "families": [
     "familie-vandecruys-fedrus-invest"
@@ -25227,7 +25227,7 @@
    "name": "Dominique Valcke",
    "role": "CEO / Owner",
    "company": "Stadsbader-Flamand",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dominique-valcke-6187029/",
    "notes": "Stepson of Désiré Stadsbader Jr. Acquired company via management buyout. Now leads construction group (civil engineering, construction, environment sectors).",
    "families": [
     "familie-desire-stadsbader-valcke-stadsbader-flamand"
@@ -25275,7 +25275,7 @@
    "name": "Lieven Brutsaert",
    "role": "CEO / Owner",
    "company": "Brustor",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lieven-brutsaert-84a78118a/",
    "notes": "Son of founder Louis Brutsaert. Took over Brustor brand in 2001 when Louis sold Omnistor to Buy Out Fund/Gimv. Makes awnings, veranda systems. 100% Belgian production in Gullegem (40,000m²) and Kortrijk Evolis site.",
    "families": [
     "familie-brutsaert-brustor-en-prostor"
@@ -25299,7 +25299,7 @@
    "name": "Sofie Baert",
    "role": "Owner",
    "company": "Prostor",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/sofie-baert/",
    "notes": "Runs Prostor, specialist in parasol systems for hospitality and private clients. Separate from but related to Brustor family business.",
    "families": [
     "familie-brutsaert-brustor-en-prostor"
@@ -25323,7 +25323,7 @@
    "name": "Koen Deprez",
    "role": "Brother",
    "company": "N/A",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/koendeprez/",
    "notes": "Brother of Hein and Veerle Deprez. Less active in business.",
    "families": [
     "familie-deprez-greenyard-foods"
@@ -25335,7 +25335,7 @@
    "name": "Veerle Deprez",
    "role": "Co-owner / Major shareholder",
    "company": "Greenyard Foods",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/veerle-deprez-07a37672",
    "notes": "Sister of Hein. Co-controls ~50% of listed Greenyard Foods alongside brother.",
    "families": [
     "familie-deprez-greenyard-foods"
@@ -25407,7 +25407,7 @@
    "name": "André De Meuter",
    "role": "Co-founder (1977), Bestuurder",
    "company": "G&A De Meuter NV",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frederic-de-medts-605b297/",
    "notes": "",
    "families": [
     "familie-de-meuter-de-meuter"
@@ -25431,7 +25431,7 @@
    "name": "Filip De Meuter",
    "role": "Bestuurder",
    "company": "De Meuter NV",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/filip-de-meuter-39538812/",
    "notes": "",
    "families": [
     "familie-de-meuter-de-meuter"
@@ -25455,7 +25455,7 @@
    "name": "Kevin De Bruyne",
    "role": "Professional Footballer",
    "company": "Manchester City",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/kevin-de-bruyne-a49620154/",
    "notes": "",
    "families": [
     "kevin-de-bruyne-kevin-de-bruyne"
@@ -25467,7 +25467,7 @@
    "name": "Lieven Stubbe",
    "role": "Zaakvoerder (since 2006)",
    "company": "Stubbe Tobacco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lieven-stubbe-7788276a/",
    "notes": "",
    "families": [
     "familie-stubbe-the-turner-rancho"
@@ -25479,7 +25479,7 @@
    "name": "Maurice Stubbe",
    "role": "Founder (grandfather)",
    "company": "Stubbe Tobacco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/maurice-stubbe-95476413b/",
    "notes": "",
    "families": [
     "familie-stubbe-the-turner-rancho"
@@ -25491,7 +25491,7 @@
    "name": "Erwin Beerens",
    "role": "CEO, took over 1994",
    "company": "Groep Beerens",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/erwin-beerens-08960475",
    "notes": "",
    "families": [
     "familie-beerens-beerens-groep"
@@ -25503,7 +25503,7 @@
    "name": "Marcel Beerens",
    "role": "Founder (father), started as baker",
    "company": "Groep Beerens",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/marcel-beerens-20523a16",
    "notes": "",
    "families": [
     "familie-beerens-beerens-groep"
@@ -25515,7 +25515,7 @@
    "name": "Antoon Van Eeckhout",
    "role": "Second generation ('Tone Beton')",
    "company": "Van Eeckhout Beton",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/antoon-van-eeckhout-01a63716",
    "notes": "",
    "families": [
     "familie-van-eeckhout-vanden-avenne4energy"
@@ -25575,7 +25575,7 @@
    "name": "Lieven Bonamie",
    "role": "CEO Jobfixers",
    "company": "Jobfixers",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/lievenbonamie",
    "notes": "",
    "families": [
     "de-familie-cracco-accent-jobs"
@@ -25587,7 +25587,7 @@
    "name": "Marie-Julie-Pascale Cracco",
    "role": "Daughter, next generation (21 in 2020)",
    "company": "Jobfixers",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/marie-julie-pascale-cracco/",
    "notes": "",
    "families": [
     "de-familie-cracco-accent-jobs"
@@ -25611,7 +25611,7 @@
    "name": "Pieter-Jan-Michiel Cracco",
    "role": "Son, next generation (24 in 2020)",
    "company": "Jobfixers",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pieter-jan-michiel-cracco-0557b6140/",
    "notes": "",
    "families": [
     "de-familie-cracco-accent-jobs"
@@ -25635,7 +25635,7 @@
    "name": "Jos Claeys",
    "role": "Current CEO (4th generation)",
    "company": "Westvlees, Belgian Pork Group",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jos-claeys-b6009b34",
    "notes": "",
    "families": [
     "familie-claeys-westvleeswestvlees"
@@ -25647,7 +25647,7 @@
    "name": "Bart Paeleman",
    "role": "Son, next generation bestuurder",
    "company": "Triple Living Holding",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/bart-paeleman-a10bb5124",
    "notes": "",
    "families": [
     "familie-paeleman-wilmarc-invest"
@@ -25661,7 +25661,7 @@
    "name": "Marc Paeleman",
    "role": "Co-founder (73 in 2018)",
    "company": "Wilmarc Invest, Triple Living Holding",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/marc-paeleman-89878235/",
    "notes": "",
    "families": [
     "familie-paeleman-wilmarc-invest"
@@ -25673,7 +25673,7 @@
    "name": "Stefan Paeleman",
    "role": "Son, next generation bestuurder",
    "company": "Triple Living",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/stefan-paeleman-2602b0177/",
    "notes": "",
    "families": [
     "familie-paeleman-wilmarc-invest"
@@ -25685,7 +25685,7 @@
    "name": "Gilbert Maes",
    "role": "Former CEO & owner (1978-1999)",
    "company": "Televic",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gilbertmaesfriscosalesrep/",
    "notes": "",
    "families": [
     "lieven-danneels-en-thomas-verstraeten-televic"
@@ -25697,7 +25697,7 @@
    "name": "Lieven Danneels",
    "role": "Co-owner & CEO (since 1998)",
    "company": "Televic",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lieven-danneels-3674a39/",
    "notes": "",
    "families": [
     "lieven-danneels-en-thomas-verstraeten-televic"
@@ -25709,7 +25709,7 @@
    "name": "Thomas Verstraeten",
    "role": "Co-owner & CEO (since 1998)",
    "company": "Televic",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/thomas-verstraeten-1b11191b2/",
    "notes": "",
    "families": [
     "lieven-danneels-en-thomas-verstraeten-televic"
@@ -25745,7 +25745,7 @@
    "name": "Jacques Crahay",
    "role": "Family member",
    "company": "Cosucra",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jacques-crahay-a336112/",
    "notes": "",
    "families": [
     "familie-crahay-cosucra"
@@ -25781,7 +25781,7 @@
    "name": "Bart Van Acker",
    "role": "Founder & CEO (started 2011)",
    "company": "QbD",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/vanackerbart/",
    "notes": "",
    "families": [
     "bart-van-acker-qbd"
@@ -25793,7 +25793,7 @@
    "name": "Joost Danneels",
    "role": "Founder (1974, with wife Lia)",
    "company": "Danneels Bouw",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/joost-danneels-02433a137",
    "notes": "",
    "families": [
     "familie-pascal-danneels-danneels"
@@ -25805,7 +25805,7 @@
    "name": "Karsten Foekens",
    "role": "CEO (since 2020, non-family)",
    "company": "Danneels Bouw",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/karstenfoekens/",
    "notes": "",
    "families": [
     "familie-pascal-danneels-danneels"
@@ -25829,7 +25829,7 @@
    "name": "Pascal Danneels",
    "role": "Former CEO (son, since 1987)",
    "company": "Danneels Bouw",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pascal-danneels-271b2316/",
    "notes": "",
    "families": [
     "familie-pascal-danneels-danneels"
@@ -25853,7 +25853,7 @@
    "name": "Guido Bernaerts",
    "role": "CEO & Owner",
    "company": "Imobe",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/guido-bernaerts-4130a5149",
    "notes": "",
    "families": [
     "familie-bernaerts-imobe"
@@ -25877,7 +25877,7 @@
    "name": "Els De Ceuster",
    "role": "Shareholder (daughter)",
    "company": "DCM",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/els-de-ceuster-62a66533/",
    "notes": "",
    "families": [
     "familie-de-ceuster-de-ceuster-meststoffen-dcm"
@@ -25901,7 +25901,7 @@
    "name": "Tom De Ceuster",
    "role": "CEO (son)",
    "company": "DCM",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/tom-de-ceuster-3888512a3",
    "notes": "",
    "families": [
     "familie-de-ceuster-de-ceuster-meststoffen-dcm"
@@ -25927,7 +25927,7 @@
    "name": "François le Hodey",
    "role": "Son, Bestuurder",
    "company": "IPM, Koningin Elisabethwedstrijd",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/fran%C3%A7ois-le-hodey-06215a126",
    "notes": "",
    "families": [
     "familie-le-hodey-la-derniere-heure"
@@ -25953,7 +25953,7 @@
    "name": "Patrice le Hodey",
    "role": "Son, Comics/animation enthusiast",
    "company": "IPM",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/patricel/",
    "notes": "",
    "families": [
     "familie-le-hodey-la-derniere-heure"
@@ -25993,7 +25993,7 @@
    "name": "Benedikte Boone",
    "role": "Wife of Francis",
    "company": "Deceuninck",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/benedikte-boone-73804296/",
    "notes": "",
    "families": [
     "familie-van-eeckhout-boone-deceuninck-plastics"
@@ -26005,7 +26005,7 @@
    "name": "Hervé Laviale",
    "role": "Husband of Griet, French radio journalist",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/hlaviale/",
    "notes": "",
    "families": [
     "griet-van-malderen-onbekend"
@@ -26017,7 +26017,7 @@
    "name": "Baudouin van der Kelen",
    "role": "Son of Frédéric, former CEO (until 2025)",
    "company": "Brouwerij Haacht",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-van-gelder-5964988/",
    "notes": "",
    "families": [
     "familie-van-der-kelen-primus"
@@ -26065,7 +26065,7 @@
    "name": "Nils Van Dam",
    "role": "CEO (since 2025, first non-family)",
    "company": "Brouwerij Haacht",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nils-van-dam-3a7b879/",
    "notes": "",
    "families": [
     "familie-van-der-kelen-primus"
@@ -26101,7 +26101,7 @@
    "name": "Peter Van Marcke",
    "role": "Co-owner/Management",
    "company": "Van Marcke",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/petervanmarcke/",
    "notes": "Son of Carl Van Marcke, leads together with Caroline",
    "families": [
     "familie-van-marcke-van-marcke-sanitair-vam"
@@ -26125,7 +26125,7 @@
    "name": "Ludo Pissens",
    "role": "Management (3rd generation)",
    "company": "Pacapime",
-   "linkedin": null,
+   "linkedin": "https://hu.linkedin.com/in/ludo-pissens-5bb667a4",
    "notes": "One of three brothers managing since early 1980s",
    "families": [
     "familie-pissens-pacapime"
@@ -26137,7 +26137,7 @@
    "name": "Paul Pissens",
    "role": "Management (3rd generation)",
    "company": "Pacapime",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/tom-pissens-a92b441b7/",
    "notes": "One of three brothers managing since early 1980s",
    "families": [
     "familie-pissens-pacapime"
@@ -26173,7 +26173,7 @@
    "name": "Luc De Bruyckere",
    "role": "Former CEO",
    "company": "Ter Beke",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/luc-de-bruyckere-3065285",
    "notes": "Took over in 1980, former chairman of Voka, left 2014",
    "families": [
     "familie-coopman-ter-beke"
@@ -26185,7 +26185,7 @@
    "name": "Bernard Thiers",
    "role": "Management",
    "company": "Unilin",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bernard-thiers-950b4223/",
    "notes": "Paul's nephew, stayed as manager at Unilin after sale to Mohawk",
    "families": [
     "familie-paul-thiers-ex-unilin"
@@ -26209,7 +26209,7 @@
    "name": "Kris Baert",
    "role": "Business Communication Manager",
    "company": "Brouwerij Moortgat",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/baertkris/",
    "notes": "Husband of Veerle Deheegher",
    "families": [
     "veerle-deheegher-baert-duvel"
@@ -26233,7 +26233,7 @@
    "name": "Koenraad Belsack",
    "role": "Co-founder/CEO",
    "company": "Upgrade Estate (UpKot)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/koenraadbelsack/",
    "notes": "Co-founder in 1999, manages 2200+ student rooms and 400 flats",
    "families": [
     "koenraad-belsack-en-nele-vandamme-up-kot"
@@ -26245,7 +26245,7 @@
    "name": "Nele Vandamme",
    "role": "Co-founder",
    "company": "Upgrade Estate (UpKot)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nele-vandamme-960377113/",
    "notes": "Wife of Koenraad, co-founder, also invested in hotel real estate in Blankenberge",
    "families": [
     "koenraad-belsack-en-nele-vandamme-up-kot"
@@ -26257,7 +26257,7 @@
    "name": "Frank Deceuninck",
    "role": "Aandeelhouder",
    "company": "Deceuninck",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/frankdeceuninck/en",
    "notes": "Son of founder Roger Deceuninck, minority shareholder (5.45%), also involved in Wever & Ducré (real estate)",
    "families": [
     "frank-deceuninck-deceuninck"
@@ -26281,7 +26281,7 @@
    "name": "Marie-Christine Maas",
    "role": "Former owner",
    "company": "Manuchar (sold)",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/marie-christine-maas-951a0b1a1",
    "notes": "Sister of Anthony, co-owner who sold stake",
    "families": [
     "de-familie-maas-ex-manuchar"
@@ -26341,7 +26341,7 @@
    "name": "Gérald Croonenberghs",
    "role": "Aandeelhouder",
    "company": "Texaf",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/g%C3%A9rald-croonenberghs-69b3674a/",
    "notes": "Son of Philippe, owns 25% of 62% family stake",
    "families": [
     "philippe-croonenberghs-texaf"
@@ -26353,7 +26353,7 @@
    "name": "William Croonenberghs",
    "role": "Aandeelhouder",
    "company": "Texaf",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/william-croonenberghs",
    "notes": "Son of Philippe, owns 25% of 62% family stake",
    "families": [
     "philippe-croonenberghs-texaf"
@@ -26365,7 +26365,7 @@
    "name": "Dirk Dewitte",
    "role": "Management",
    "company": "WEBA Gent",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dirk-dewitte-3ab17b2/",
    "notes": "Son of founder Raf Dewitte, manages Gent location",
    "families": [
     "familie-dewitte-weba"
@@ -26377,7 +26377,7 @@
    "name": "Jan Dewitte",
    "role": "Management",
    "company": "WEBA Deinze",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-dewitte-4227ba60/",
    "notes": "Son of Raf, manages Deinze location",
    "families": [
     "familie-dewitte-weba"
@@ -26401,7 +26401,7 @@
    "name": "Stefaan Couvreur",
    "role": "Woordvoerder",
    "company": "WEBA",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/stefaan-couvreur-b0a75016b",
    "notes": "Husband of Lieve Dewitte, spokesperson",
    "families": [
     "familie-dewitte-weba"
@@ -26437,7 +26437,7 @@
    "name": "Pascal Weerts",
    "role": "Co-CEO/Management",
    "company": "Weerts Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pascal-weerts-a7867923/",
    "notes": "Cousin of Yves, former Allen & Overy lawyer, now co-manages with Yves",
    "families": [
     "familie-weerts-weerts-group"
@@ -26449,7 +26449,7 @@
    "name": "Yves Weerts",
    "role": "CEO",
    "company": "Weerts Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/yves-weerts-9612598b/",
    "notes": "Son of Pierre, became CEO at 26 in 1994 after father's death",
    "families": [
     "familie-weerts-weerts-group"
@@ -26461,7 +26461,7 @@
    "name": "Louis De Bruyn",
    "role": "Management (latest generation)",
    "company": "Ploegsteert (bricks)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/louisdebruyn/",
    "notes": "Current generation managing brick production and Ceratec",
    "families": [
     "familie-de-bruyn-ploegsteert"
@@ -26473,7 +26473,7 @@
    "name": "Maxime Busschaert",
    "role": "Management (latest generation)",
    "company": "Ploegsteert",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/maxime-busschaert-523899a",
    "notes": "Cousin of Louis, current generation",
    "families": [
     "familie-de-bruyn-ploegsteert"
@@ -26511,7 +26511,7 @@
    "name": "Alexander Talpe",
    "role": "Former CEO",
    "company": "E5-Mode/Shopinvest",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/alexander-talpe-a015542/",
    "notes": "Nephew of Etienne, bought 50.1% in 2017, sold to Frédéric Helderweirt in 2018",
    "families": [
     "etienne-kaesteker-e5-mode"
@@ -26523,7 +26523,7 @@
    "name": "Etienne Kaesteker",
    "role": "Founder (sold)",
    "company": "E5-Mode/Shopinvest",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/etienne-kaesteker-232a7b44/",
    "notes": "Founded E5-Mode, sold 50.1% to nephew Alexander Talpe in 2017",
    "families": [
     "etienne-kaesteker-e5-mode"
@@ -26547,7 +26547,7 @@
    "name": "Didier De Witte",
    "role": "Founder/CEO",
    "company": "CCR (Creative Construction and Renovation)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/didierdewitte/",
    "notes": "Age 71, owns 7 hotels including 4 Historic Hotels (3 Gent, 1 Aalst) and 3 in Brussels",
    "families": [
     "familie-de-witte-bouwbedrijf-ccrcreative-construction-and-renovation-ccr"
@@ -26559,7 +26559,7 @@
    "name": "Florence De Witte",
    "role": "Owner",
    "company": "CCR",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/florence-de-witte-1b682a14b/",
    "notes": "Daughter of Didier, officially owns the group with brother Thomas",
    "families": [
     "familie-de-witte-bouwbedrijf-ccrcreative-construction-and-renovation-ccr"
@@ -26571,7 +26571,7 @@
    "name": "Thomas De Witte",
    "role": "Owner",
    "company": "CCR",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/thomasdewitte",
    "notes": "Son of Didier, officially owns the group with sister Florence",
    "families": [
     "familie-de-witte-bouwbedrijf-ccrcreative-construction-and-renovation-ccr"
@@ -26583,7 +26583,7 @@
    "name": "Annie Vereecken",
    "role": "Investor/Former owner",
    "company": "Medical lab (sold to Sonic Healthcare)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/annie-vereecken-7a454a24/",
    "notes": "Clinical biologist/pharmacist, sold medical lab to Sonic Healthcare in 2010, now biotech investor (Biocartis, Argenx, Cartagenia)",
    "families": [
     "annie-vereecken-annie-vereecken"
@@ -26595,7 +26595,7 @@
    "name": "Dirk Vanhoutteghem",
    "role": "Co-owner",
    "company": "Gosselin Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dirk-vanhoutteghem-7b7343a4/",
    "notes": "Former owner Molenbergnatie (sold to Cor Boonstra 2011), external director Gosselin, bought company with Marc Smet in 2018",
    "families": [
     "marc-smet-en-dirk-vanhoutteghem-gosselin"
@@ -26679,7 +26679,7 @@
    "name": "Joseph M. Lebon",
    "role": "CEO",
    "company": "Allia/Opex",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/joseph-m-lebon-89771765/",
    "notes": "Leidt verzekeringsmakelaar Allia, tweede grootste onafhankelijke makelaar in België",
    "families": [
     "familie-lebon-allia"
@@ -26691,7 +26691,7 @@
    "name": "Laurence Lebon",
    "role": "Board Member",
    "company": "Allia/Opex",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/laurence-lebon-631a5b93/",
    "notes": "Bestuurder, nieuwe generatie in familiebedrijf",
    "families": [
     "familie-lebon-allia"
@@ -26799,7 +26799,7 @@
    "name": "Thibault Jonnaert",
    "role": "Board Member",
    "company": "TH Group",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/thibaultjonnaert",
    "notes": "Bestuurder, derde generatie (zoon van Inge Hoet)",
    "families": [
     "familie-hoet-turbos-hoet"
@@ -26823,7 +26823,7 @@
    "name": "Dominique Van Etterijk",
    "role": "Co-owner",
    "company": "Dyls",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dominique-van-etterijk-a79b0339/",
    "notes": "Co-eigenaar Dyls",
    "families": [
     "yves-puttemans-en-dominique-van-etterijk-dyls"
@@ -26847,7 +26847,7 @@
    "name": "Charles Casimir-Lambert",
    "role": "Board Member",
    "company": "Solvay",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/charles-casimir-lambert-a8b15b1/",
    "notes": "Volgde Pierre op als Solvay bestuurder in 2003, carrière bij Deutsche Bank en Citigroup, resideert in VS",
    "families": [
     "familie-casimir-lambert-onbekend"
@@ -26897,7 +26897,7 @@
    "name": "Michel Verhaeghe de Naeyer",
    "role": "Shareholder",
    "company": "SCR-Sibelco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-verhaeghe-de-naeyer-615a8269/",
    "notes": "Oude aandeelhouder SCR-Sibelco (mijnontginning en exploitatie grondstoffen), wijngaard in Bousval",
    "families": [
     "familie-verhaeghe-de-naeyer-scr-sibelco"
@@ -26933,7 +26933,7 @@
    "name": "Ann Danis",
    "role": "Owner",
    "company": "Danis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ann-danis-0766191b",
    "notes": "Dochter van Joseph Danis, gehuwd met Stefaan Lambrecht",
    "families": [
     "familie-danis-danis"
@@ -26945,7 +26945,7 @@
    "name": "Joris Brams",
    "role": "CEO",
    "company": "Danis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/joris-brams-232b256/",
    "notes": "Huidige CEO sinds 2024/2025, nam over van Stefaan Lambrecht",
    "families": [
     "familie-danis-danis"
@@ -26969,7 +26969,7 @@
    "name": "Stefaan Lambrecht",
    "role": "Former CEO",
    "company": "Danis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/stefaan-lambrecht-2569391/",
    "notes": "Schoonzoon van Joseph (gehuwd met Ann Danis), leidde bedrijf 38 jaar, stapte over in 2024/2025",
    "families": [
     "familie-danis-danis"
@@ -27005,7 +27005,7 @@
    "name": "Bernard Serin",
    "role": "Owner",
    "company": "CMI",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bernard-serin-50190a31/",
    "notes": "Ex-topman Cockerill-Sambre, kocht CMI samen met Meyers in 2002, huidige eigenaar",
    "families": [
     "familie-meyers-cmi"
@@ -27017,7 +27017,7 @@
    "name": "Pierre Meyers",
    "role": "Former Owner",
    "company": "CMI",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/pierre-meyers-80177740",
    "notes": "Ex-financieel directeur Cockerill-Sambre, kocht CMI in 2002 met Bernard Serin, verkocht aan familie Serin, onafhankelijk bestuurder",
    "families": [
     "familie-meyers-cmi"
@@ -27029,7 +27029,7 @@
    "name": "Daniëlle Bostoen",
    "role": "Owner",
    "company": "Bostoen",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dani%C3%ABlle-bostoen-011480a",
    "notes": "Zus van Stephan, mede-eigenaar",
    "families": [
     "familie-bostoen-villabouw-francis-bostoen"
@@ -27161,7 +27161,7 @@
    "name": "Gary Neiman",
    "role": "Co-founder, Chair Bru Textiles",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gary-neiman-33261415/",
    "notes": "South African brothers, founded Bru Textiles in 1995, textile convertor, exports to 80 countries",
    "families": [
     "familie-neiman-bru-textiles"
@@ -27173,7 +27173,7 @@
    "name": "Jason Neiman",
    "role": "Co-founder, Board Member, Managing Director",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jason-neiman-a20347172/",
    "notes": "Textile engineering degree from Leeds University, board member Bru Textiles",
    "families": [
     "familie-neiman-bru-textiles"
@@ -27233,7 +27233,7 @@
    "name": "Philippe Meeus",
    "role": "Founder Alcotra (1994)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-meeus-28524647/",
    "notes": "Bio-ethanol trading, Swiss-based with offices in Geneva/Rio/Singapore/Mexico/Houston, 70% from Brazil",
    "families": [
     "familie-meeus-alcotra"
@@ -27269,7 +27269,7 @@
    "name": "Joe Lano",
    "role": "CEO Lano (2009-present, sold majority to Belgotex 2022)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/joe-lano-67193834/",
    "notes": "Son of Pierre Lano, former Boston Consulting, carpet manufacturing, now partner with Stephan Colle/Belgotex",
    "families": [
     "familie-lano-lano"
@@ -27293,7 +27293,7 @@
    "name": "Jef Van Roey",
    "role": "Board member, 50% shareholder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jef-van-roey-216a24102/",
    "notes": "8th generation, construction company founded 1740, recovered after Franki disaster, 266M euro turnover",
    "families": [
     "familie-van-roey-van-roey"
@@ -27317,7 +27317,7 @@
    "name": "Priscilla Bracht",
    "role": "Shareholder (inherited 2013)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/priscilla-bracht-8ba2464/",
    "notes": "Daughter of Baron Theo Bracht, inherited shares with sisters, Sipef plantation holding, Ackermans & van Haaren is main shareholder 26.8%",
    "families": [
     "familie-bracht-sipef"
@@ -27353,7 +27353,7 @@
    "name": "Roger Dick",
    "role": "Founder Dicogel (1980), Roger & Roger (1999)",
    "company": "Westfro / Dicogel",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/roger-dick-1447341/",
    "notes": "Frozen vegetables & chips, acquired Greenyard Hungary 2019, board member with Claire Dick, Anja Bossuyt, Marie Lafaut (wife), Hein Dick",
    "families": [
     "familie-roger-dick-dicogel-en-roger-roger"
@@ -27377,7 +27377,7 @@
    "name": "Hendrik Danneels",
    "role": "Owner Sea Coast real estate",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/hendrik-danneels-3b9246126/",
    "notes": "Real estate developer at Belgian coast, father was banker/Landbouwkantoor, brother Filip co-investor in Le Pain Quotidien, Belrom Romania retail parks",
    "families": [
     "familie-danneels-sea-coast"
@@ -27413,7 +27413,7 @@
    "name": "Jean-Charles Wibo",
    "role": "Owner Vlassenroot Group",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jean-charles-wibo-63630b13",
    "notes": "Bought out family 1996, founded 1926, XXL steel processing, Europe's longest press brake 24m, Erasmus bridge Rotterdam, Millau viaduct France, also owns Buildmat, Wasbedrijf Dekeukelaere",
    "families": [
     "familie-wibo-vlassenroot"
@@ -27437,7 +27437,7 @@
    "name": "Philippe Gillion",
    "role": "3rd generation, construction & real estate",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-gillion-4455a060/",
    "notes": "Son of Jean-René Gillion, Toison d'Or gallery (sold 2012), Ets. Gen. F. Gillion & Fils construction, founded 1918 by René Gillion",
    "families": [
     "familie-gillion-toison-dor"
@@ -27449,7 +27449,7 @@
    "name": "Rodrigue Gillion",
    "role": "3rd generation, construction & real estate",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/rodrigue-gillion-76b50815b/",
    "notes": "Son of Michel Gillion, brothers Jean-René/Roland/Michel are 70s generation",
    "families": [
     "familie-gillion-toison-dor"
@@ -27485,7 +27485,7 @@
    "name": "Laurent Drion",
    "role": "Founder E-Merge investment fund",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/laurentdrion",
    "notes": "Former Skynet shareholder (sold 1997), internet pioneer, 30% stake in Ogone (sold 2010 to Summit Partners), son of Pierre Drion (Petercam)",
    "families": [
     "laurent-drion-e-merge"
@@ -27593,7 +27593,7 @@
    "name": "Pieter Blomme",
    "role": "Founder / CEO",
    "company": "Woningbouw Blomme",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pieter-blomme-62a00879/",
    "notes": "25+ years active in construction, started 1995 as contractor, now building promoter",
    "families": [
     "familie-blomme-woningbouw-blomme"
@@ -27617,7 +27617,7 @@
    "name": "Hubert Bonnet",
    "role": "Investor",
    "company": "Real estate and art investments",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/hubert-bonnet-6153286/?_l=en",
    "notes": "Real estate investor, art collector, lives in Verbier Switzerland, manages €40M real estate portfolio in Belgium",
    "families": [
     "de-familie-bonnet-onbekend"
@@ -27629,7 +27629,7 @@
    "name": "Ingrid Bonnet",
    "role": "Investor",
    "company": "Family holdings",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/ingrid-bonnet-7a418118b",
    "notes": "Sister of Hubert, rentier, family holds stakes in Cobepa and Groupe Josi",
    "families": [
     "de-familie-bonnet-onbekend"
@@ -27641,7 +27641,7 @@
    "name": "Johan Verhelst",
    "role": "Co-owner",
    "company": "Verhelst Aannemingen",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/johan-verhelst-7a31a494/",
    "notes": "Co-owner with sister Kathleen, specializes in demolition, infrastructure and earthworks",
    "families": [
     "familie-verhelst-verhelst-aannemingen"
@@ -27653,7 +27653,7 @@
    "name": "Kathleen Verhelst",
    "role": "Co-owner",
    "company": "Verhelst Aannemingen",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/kathleen-verhelst-54b91231",
    "notes": "Co-owner, was 2nd on Open VLD list for 2019 parliamentary elections, investor in Robur Capital fund",
    "families": [
     "familie-verhelst-verhelst-aannemingen"
@@ -27665,7 +27665,7 @@
    "name": "Dimitri Damman",
    "role": "Next generation",
    "company": "Groep Damman",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dimitri-damman-b5a859213/",
    "notes": "Son being prepared to lead company past 100-year milestone",
    "families": [
     "familie-damman-damman-bouwonderneming"
@@ -27677,7 +27677,7 @@
    "name": "Dirk Damman",
    "role": "Current business leader",
    "company": "Bouwgroep Damman",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dirk-damman-175b2457",
    "notes": "Son of Gilbert, current leader of Damman construction group, 250 employees",
    "families": [
     "familie-damman-damman-bouwonderneming"
@@ -27869,7 +27869,7 @@
    "name": "Paul Plasschaert",
    "role": "Former owner",
    "company": "RBK / Artes Group",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/paulplasschaert",
    "notes": "Civil engineer, former chairman NCMV, divested from Artes Group 2023, family now focused on real estate",
    "families": [
     "familie-plasschaert-niet-gekend"
@@ -27893,7 +27893,7 @@
    "name": "Boris Vervoordt",
    "role": "Art & antiques director",
    "company": "Axel Vervoordt",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/boris-vervoordt-88b09230/",
    "notes": "Son of Axel, runs art and antiques side of family business",
    "families": [
     "familie-vervoordt-axel-vervoordt"
@@ -27905,7 +27905,7 @@
    "name": "Dick Vervoordt",
    "role": "Real estate director",
    "company": "Axel Vervoordt",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dick-vervoordt-358b6712/",
    "notes": "Son of Axel, handles real estate side of family business",
    "families": [
     "familie-vervoordt-axel-vervoordt"
@@ -27977,7 +27977,7 @@
    "name": "Ann Claes",
    "role": "Co-eigenaar/Bestuurder JBC",
    "company": "JBC",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ann-claes-65304b9/",
    "notes": "Daughter of Jean-Baptist Claes, co-leads JBC with brother Bart",
    "families": [
     "familie-claes-jbcjbc"
@@ -27989,7 +27989,7 @@
    "name": "Bart Claes",
    "role": "Co-eigenaar/Bestuurder JBC",
    "company": "JBC",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-claes-20295a80/",
    "notes": "Son of Jean-Baptist Claes, co-leads JBC with sister Ann",
    "families": [
     "familie-claes-jbcjbc"
@@ -28001,7 +28001,7 @@
    "name": "Philippe Lhomme",
    "role": "Hoofdaandeelhouder en CEO Defi",
    "company": "Defi / Crazy Horse / Batibouw",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-lhomme-8076b73/",
    "notes": "Jurist en socioloog, owner of Crazy Horse cabaret Paris and Batibouw",
    "families": [
     "familie-philippe-lhomme-crazy-horse-en-batibouw"
@@ -28037,7 +28037,7 @@
    "name": "Jacques Delen",
    "role": "Voorzitter Raad van Bestuur Bank Delen",
    "company": "Bank Delen",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jacques-delen-6651097",
    "notes": "Founder with brother Paul, sold to AvH in 1992, still chairman",
    "families": [
     "de-familie-delen-bank-delen"
@@ -28049,7 +28049,7 @@
    "name": "Paul De Winter",
    "role": "CEO Bank Delen (since 2014)",
    "company": "Bank Delen",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dewinterpaul",
    "notes": "First non-Delen family CEO, appointed 2014",
    "families": [
     "de-familie-delen-bank-delen"
@@ -28085,7 +28085,7 @@
    "name": "Thomas Baert",
    "role": "Owner/CEO Chinafloors & Rugmax",
    "company": "Chinafloors / Rugmax / Lamett",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bruno-descamps-4aa39333/",
    "notes": "West-Flemish entrepreneur, founded Chinafloors in Shanghai and Rugmax in Beijing",
    "families": [
     "thomas-baert-chinafloors"
@@ -28109,7 +28109,7 @@
    "name": "Gilles-Olivier Moury",
    "role": "4th generation, current leadership Moury Construct",
    "company": "Moury Construct",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gilles-olivier-moury-904912a9/",
    "notes": "Joined in 1999, 4th generation of family business",
    "families": [
     "familie-moury-moury-construct"
@@ -28133,7 +28133,7 @@
    "name": "Maurits Vanden Avenne",
    "role": "Next generation Vanden Avenne",
    "company": "Vanden Avenne",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/maurits-vanden-avenne-601040b3",
    "notes": "Son of Patrick, active in the business",
    "families": [
     "familie-patrick-vanden-avenne-vanden-avenne"
@@ -28157,7 +28157,7 @@
    "name": "Thomas Vanden Avenne",
    "role": "Next generation Vanden Avenne",
    "company": "Vanden Avenne",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/thomas-vanden-avenne-b15437b3/",
    "notes": "Son of Patrick, active in the business",
    "families": [
     "familie-patrick-vanden-avenne-vanden-avenne"
@@ -28193,7 +28193,7 @@
    "name": "Henri Appelstein",
    "role": "Co-founder LolaLiza",
    "company": "LolaLiza",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/henri-appelstein-504438108",
    "notes": "Older brother, co-founded with Jacques",
    "families": [
     "de-familie-appelstein-lolaliza"
@@ -28217,7 +28217,7 @@
    "name": "Stephan Jeger",
    "role": "Schoonbroer, Co-owner LolaLiza",
    "company": "LolaLiza",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/stephan-jeger-7b9488",
    "notes": "Brother-in-law of the Appelsteins",
    "families": [
     "de-familie-appelstein-lolaliza"
@@ -28229,7 +28229,7 @@
    "name": "Tom Baelden",
    "role": "COO LolaLiza",
    "company": "LolaLiza",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/tom-baelden-6850083",
    "notes": "Chief Operating Officer of LolaLiza",
    "families": [
     "de-familie-appelstein-lolaliza"
@@ -28241,7 +28241,7 @@
    "name": "Matthieu Soubry",
    "role": "Co-CEO Soubry",
    "company": "Soubry",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/matthieu-soubry-7b6a8ba5/",
    "notes": "Son of Pierre, leads with brother Michel",
    "families": [
     "familie-soubry-soubry"
@@ -28253,7 +28253,7 @@
    "name": "Michel Soubry",
    "role": "Co-CEO Soubry",
    "company": "Soubry",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-soubry-4214b119/",
    "notes": "Son of Pierre, leads with brother Matthieu",
    "families": [
     "familie-soubry-soubry"
@@ -28301,7 +28301,7 @@
    "name": "Guy Pieters",
    "role": "Art dealer, Gallery owner",
    "company": "Guy Pieters Gallery",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guy-pieters-b28294211/",
    "notes": "Self-made art dealer, galleries in Knokke and Saint-Tropez",
    "families": [
     "guy-en-linda-pieters-guy-pieters"
@@ -28313,7 +28313,7 @@
    "name": "Linda Pieters",
    "role": "Co-owner Guy Pieters Gallery",
    "company": "Guy Pieters Gallery",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/linda-pieters/",
    "notes": "Née Gussé, second wife of Guy",
    "families": [
     "guy-en-linda-pieters-guy-pieters"
@@ -28337,7 +28337,7 @@
    "name": "Bart De Neef",
    "role": "Managing family investments",
    "company": "Union Betco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-de-neef-1a279a66/",
    "notes": "Son of Herman, taking over investment management",
    "families": [
     "familie-de-neef-tdn-group"
@@ -28373,7 +28373,7 @@
    "name": "Hubert De Backer",
    "role": "Founder HDB (1932)",
    "company": "Hubert De Backer NV",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/stijn-de-backer-7a61a843/",
    "notes": "Founded 1932, family business producing pharmaceutical packaging",
    "families": [
     "familie-de-backer-hdb"
@@ -28385,7 +28385,7 @@
    "name": "Christophe Verstraete",
    "role": "Co-founder Vesta Group",
    "company": "Vesta / Verstraete Development",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/christophe-verstraete-2a9b21158",
    "notes": "Founded Verstraete Vastgoed 2011, merged with Patricia to form Vesta 2022",
    "families": [
     "christophe-en-patricia-verstraete-schautteet-vesta"
@@ -28459,7 +28459,7 @@
    "name": "Pieter De Backere",
    "role": "Next generation D'Arta",
    "company": "D'Arta",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pieter-de-backere-95516555/",
    "notes": "Son flanking the founders",
    "families": [
     "families-talpe-en-de-backere-darta"
@@ -28495,7 +28495,7 @@
    "name": "Léon Seynaeve",
    "role": "Co-founder Vente-Exclusive",
    "company": "Vente-Exclusive / Mitiska",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/leon-seynaeve-88110311/",
    "notes": "Founded Vente-Exclusive 2007 with Stefan Tournoy, 23% shareholder",
    "families": [
     "familie-leon-seynaeve-vente-exclusive",
@@ -28508,7 +28508,7 @@
    "name": "Stefan Tournoy",
    "role": "Co-founder Vente-Exclusive",
    "company": "Vente-Exclusive",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/stefan-tournoy-b0b0195/",
    "notes": "Internet entrepreneur, co-founded with Seynaeve in 2007",
    "families": [
     "familie-leon-seynaeve-vente-exclusive"
@@ -28594,7 +28594,7 @@
    "name": "Eric Domb",
    "role": "Owner & CEO",
    "company": "Pairi Daiza",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/eric-d-54ab11128/",
    "notes": "",
    "families": [
     "eric-domb"
@@ -28620,7 +28620,7 @@
    "name": "Sophia Vanwynsberghe",
    "role": "Heiress, attempted to save Mc Three",
    "company": "Real Homes / Mc Three (liquidated)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/sophia-vanwynsberghe-4b282b31/",
    "notes": "",
    "families": [
     "familie-vanwynsberghe"
@@ -28680,7 +28680,7 @@
    "name": "Frederik Michiels",
    "role": "Management/spokesperson",
    "company": "Michiels Fabrieken",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/frederik-michiels-a7a6a5122",
    "notes": "",
    "families": [
     "familie-michiels"
@@ -28694,7 +28694,7 @@
    "name": "Sabine Michiels",
    "role": "CEO & Local politician (CD&V Deerlijk)",
    "company": "Michiels Fabrieken",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/sabine-michiels-a7bb9715/",
    "notes": "",
    "families": [
     "familie-michiels"
@@ -28778,7 +28778,7 @@
    "name": "Jean-Marie De Buck",
    "role": "CEO & Owner",
    "company": "Square Group / Aclagro",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-marie-de-buck-van-overstraeten-03690511b/",
    "notes": "",
    "families": [
     "familie-jean-marie-de-buck"
@@ -28802,7 +28802,7 @@
    "name": "Dieter Vyncke",
    "role": "Co-owner (50%)",
    "company": "Vyncke",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dietervyncke",
    "notes": "",
    "families": [
     "familie-vyncke"
@@ -28816,7 +28816,7 @@
    "name": "Peter Vyncke",
    "role": "Co-owner (50%), retired 2021, moved to Singapore",
    "company": "Vyncke",
-   "linkedin": null,
+   "linkedin": "https://sg.linkedin.com/in/peter-vyncke-0b56535",
    "notes": "",
    "families": [
     "familie-vyncke"
@@ -28830,7 +28830,7 @@
    "name": "Laurent Minguet",
    "role": "Co-founder (exited at peak)",
    "company": "EVS (exited)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/laurent-minguet-b606258/",
    "notes": "",
    "families": [
     "familie-laurent-minguet"
@@ -28866,7 +28866,7 @@
    "name": "Pierre Moorkens",
    "role": "Shareholder (16% of Alcopa), focused on Neuro Cognitivism since 2004",
    "company": "Alcopa / Institute of Neuro Cognitivism",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pierre-moorkens-75bb041b/",
    "notes": "",
    "families": [
     "familie-pierre-moorkens"
@@ -28890,7 +28890,7 @@
    "name": "Dominique Janne",
    "role": "Owner Novo Holding, former Strategy Director Voo, real estate developer",
    "company": "Novo Holding / Café Belga",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dominique-janne-a0181a83/",
    "notes": "",
    "families": [
     "dominique-janne"
@@ -28902,7 +28902,7 @@
    "name": "Didier Allaer",
    "role": "Founder & Former CEO (sold to Hologic 2021)",
    "company": "Diagenode",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/didier-allaer-3a859",
    "notes": "",
    "families": [
     "didier-allaer"
@@ -28964,7 +28964,7 @@
    "name": "Frank Van Leemput",
    "role": "Owner & CEO",
    "company": "Athelean",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frank-van-leemput-5474a54a/",
    "notes": "",
    "families": [
     "familie-van-leemput"
@@ -28978,7 +28978,7 @@
    "name": "Frank Vandeputte",
    "role": "Co-owner & CEO",
    "company": "Valtech Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frank-vandeputte-0b45504a/",
    "notes": "",
    "families": [
     "de-familie-vandeputte-valtech"
@@ -28992,7 +28992,7 @@
    "name": "Peter Vandeputte",
    "role": "Co-owner",
    "company": "Valtech Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/peter-vandeputte-7956b77/",
    "notes": "",
    "families": [
     "de-familie-vandeputte-valtech"
@@ -29006,7 +29006,7 @@
    "name": "Bart Cresens",
    "role": "Founder & CEO",
    "company": "TS33",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-cresens-667398109/",
    "notes": "",
    "families": [
     "familie-cresens-de-keyzer"
@@ -29020,7 +29020,7 @@
    "name": "Ina Beelen",
    "role": "CEO One+ Invest",
    "company": "One+ Invest / TS33",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ina-beelen-303b567/",
    "notes": "",
    "families": [
     "familie-cresens-de-keyzer"
@@ -29032,7 +29032,7 @@
    "name": "Mark Verbakel",
    "role": "CEO Belgian Food Franchise",
    "company": "Belgian Food Franchise (Jumbo)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/mark-verbakel-4b355a18/",
    "notes": "",
    "families": [
     "familie-cresens-de-keyzer"
@@ -29060,7 +29060,7 @@
    "name": "Mathieu Gijbels",
    "role": "Co-investor & Partner (mentioned as 70/30 partner)",
    "company": "LIFE projects",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/mathieu-gijbels-154b1a54/",
    "notes": "",
    "families": [
     "serge-hannecart"
@@ -29084,7 +29084,7 @@
    "name": "Robert Slee",
    "role": "Owner",
    "company": "Veos",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/robert-slee/",
    "notes": "",
    "families": [
     "familie-slee"
@@ -29098,7 +29098,7 @@
    "name": "Wim Slee",
    "role": "Family member / Management",
    "company": "Veos",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/wim-slee-a186385/",
    "notes": "",
    "families": [
     "familie-slee"
@@ -29126,7 +29126,7 @@
    "name": "Joris Peumans",
    "role": "Non-executive Director",
    "company": "ASAP.be",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jorispeumans/",
    "notes": "",
    "families": [
     "de-familie-peumans"
@@ -29154,7 +29154,7 @@
    "name": "Dirk Naessens",
    "role": "Founder / Director",
    "company": "dkRental, Vertimac",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/dirk-naessens-1b165071/",
    "notes": "",
    "families": [
     "familie-dirk-naessens"
@@ -29180,7 +29180,7 @@
    "name": "Karel Ghistelinck",
    "role": "Director",
    "company": "Vertimac",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/karel-ghistelinck-42976733",
    "notes": "",
    "families": [
     "familie-dirk-naessens"
@@ -29194,7 +29194,7 @@
    "name": "Mathieu Naessens",
    "role": "Director",
    "company": "Vertimac",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/mathieu-naessens-83040647",
    "notes": "",
    "families": [
     "familie-dirk-naessens"
@@ -29208,7 +29208,7 @@
    "name": "Elke Thijs",
    "role": "Director (non-operational)",
    "company": "Alro",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/elke-thijs-893b9797/",
    "notes": "",
    "families": [
     "familie-thijs-alro"
@@ -29236,7 +29236,7 @@
    "name": "Tom Thijs",
    "role": "Director (non-operational)",
    "company": "Alro",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/tomthijs/",
    "notes": "",
    "families": [
     "familie-thijs-alro"
@@ -29292,7 +29292,7 @@
    "name": "Jan Bossuyt",
    "role": "Second generation (1964-2005)",
    "company": "BOSS Paints",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-bossuyt-a2583521/?_l=en",
    "notes": "",
    "families": [
     "familie-bossuyt"
@@ -29382,7 +29382,7 @@
    "name": "Eduard Verlinden",
    "role": "Founder",
    "company": "Qualiphar",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/verlinden/",
    "notes": "",
    "families": [
     "familie-verlinden"
@@ -29410,7 +29410,7 @@
    "name": "Marc Verlinden",
    "role": "Director",
    "company": "Qualiphar",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/marc-verlinden-6a40141b",
    "notes": "",
    "families": [
     "familie-verlinden"
@@ -29424,7 +29424,7 @@
    "name": "Tom Verlinden",
    "role": "Director",
    "company": "Qualiphar",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/tom-verlinden-6b1a6254/",
    "notes": "",
    "families": [
     "familie-verlinden"
@@ -29506,7 +29506,7 @@
    "name": "Joseph De Bruyn",
    "role": "Second generation",
    "company": "Ploegsteert",
-   "linkedin": null,
+   "linkedin": "https://za.linkedin.com/in/joseph-de-bruyn-05594317",
    "notes": "",
    "families": [
     "familie-de-bruyn"
@@ -29530,7 +29530,7 @@
    "name": "Christine van Antwerpen",
    "role": "Mother (separated from Paul)",
    "company": "Van Breda family",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christine-van-antwerpen-1235b7160/",
    "notes": "",
    "families": [
     "familie-buysse"
@@ -29542,7 +29542,7 @@
    "name": "Frank Buysse",
    "role": "Managing Partner",
    "company": "Frank Buysse & Partners",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/frank-buysse-68888b10/",
    "notes": "",
    "families": [
     "familie-buysse"
@@ -29568,7 +29568,7 @@
    "name": "Joachim Debucquoy",
    "role": "Director",
    "company": "Chateau Residenties",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/joachim-debucquoy-70ab78",
    "notes": "",
    "families": [
     "familie-debucquoy"
@@ -29618,7 +29618,7 @@
    "name": "Bart Brackx",
    "role": "Former CEO JetAir (until 2012)",
    "company": "JetAir / TUI Belgium",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/bart-brackx-5568a751",
    "notes": "",
    "families": [
     "familie-brackx"
@@ -29642,7 +29642,7 @@
    "name": "Karoline Brackx",
    "role": "Co-owner",
    "company": "Family holdings",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/karoline-brackx-110741153/",
    "notes": "",
    "families": [
     "familie-brackx"
@@ -29654,7 +29654,7 @@
    "name": "Thomas Brackx",
    "role": "Pilot",
    "company": "TUI Fly",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/thomas-brackx-5b95b0127/",
    "notes": "",
    "families": [
     "familie-brackx"
@@ -29760,7 +29760,7 @@
    "name": "Mathi Gijbels",
    "role": "CEO",
    "company": "Gijbels Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/mathi-gijbels-92828b208/",
    "notes": "",
    "families": [
     "familie-gijbels"
@@ -29822,7 +29822,7 @@
    "name": "Erwin De Keyser",
    "role": "Chairman & Co-owner (50%)",
    "company": "Artes Graphics / Next Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/erwin-de-keyser-210a6a13/",
    "notes": "Sold Trenal in 2003 to ANI. Chairman of Artes Graphics (UV-inks). Also invested in Big Bang Ventures and Allegro.",
    "families": [
     "familie-inge-de-keyser-artes-graphics"
@@ -29834,7 +29834,7 @@
    "name": "Inge De Keyser",
    "role": "Co-owner (50%)",
    "company": "Next Group / Artes Graphics",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/inge-de-keyser-98b6b8131/",
    "notes": "Sister of Erwin De Keyser. Each controls 50% of Next Group. Father Jordaan De Keyser founded Trenal (ink production).",
    "families": [
     "familie-inge-de-keyser-artes-graphics"
@@ -29894,7 +29894,7 @@
    "name": "Michel Verhaeren",
    "role": "Former co-owner",
    "company": "Viabuild / Vermec",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/michelverhaeren",
    "notes": "Family business founded 1956 by grandfather Ferdinand. Grew through acquisitions (Stallaert, Pineur & Raman). Merged with Kembo in 2011 to form Viabuild. Sold 50% stake to Familie Deckx in 2025. Reinvested in SmartUnit (20% each brother).",
    "families": [
     "familie-verhaeren-viabuild"
@@ -29906,7 +29906,7 @@
    "name": "Jerica Cretskens",
    "role": "Director Supermarkets & Real Estate",
    "company": "Carrefour Market franchises",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jerica-cretskens-146518160/",
    "notes": "Daughter, age 31 in 2024. Trained as butcher. Manages supermarkets and real estate division.",
    "families": [
     "familie-cretskens-carrefour-limburg"
@@ -29978,7 +29978,7 @@
    "name": "Naomi El Haimer",
    "role": "Co-founder, Staging Director",
    "company": "Property4East",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/naomi-el-haimer-95087b16a/",
    "notes": "Wife of Ignace. Handles property staging and interior transformation.",
    "families": [
     "ignace-meuwissen-property4east"
@@ -30002,7 +30002,7 @@
    "name": "Jan Vereecke",
    "role": "Co-founder",
    "company": "Antwerpen Sportpaleis / Proms",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-vereecke-b92a654/",
    "notes": "Son of music school director, pianist. Met Jan Van Esbroeck at university (TEW). Started with classical music events for students (1985, 13,500 attendees). Bought Sportpaleis with Van Esbroeck in 1996 for €7.36M. Marketeer of the Year 1997. Handles artistic side. Sold to Live Nation in April 2019.",
    "families": [
     "jan-vereecke-en-jan-van-esbroeck-jan-vereecke-en-jan-van-esbroeck"
@@ -30062,7 +30062,7 @@
    "name": "Stijn Van Rompay",
    "role": "CEO",
    "company": "Hyloris, Uteron Pharma",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/stijn-van-rompay-55140710",
    "notes": "Son of Leon. Strong man at Uteron Pharma (contraceptives). Raised €14M capital in 2012. Investors include Christian Dumolin, Roland Duchâtelet, Jean Stéphenne, Jos Sluys. Took Hyloris public on Brussels stock exchange.",
    "families": [
     "familie-van-rompayex-docpharma"
@@ -30098,7 +30098,7 @@
    "name": "Laurence De Vestel",
    "role": "Former owner Batibouw",
    "company": "Vestaculture",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/laurencedevestel/",
    "notes": "Daughter of Georges. Bought Batibouw 2003 with then-husband Philippe Lhomme (48% each, 4% in November holding). Divorce 2009, Lhomme paid family €12.5M for Batibouw. Sold Cocoon to Artexis. Now personal coach and founder of Vestaculture (innovative irrigation techniques). Controls Fondation de l'Eléphant / Kimbal (€40M real estate, €23M equity).",
    "families": [
     "familie-de-vestel-oprichters-van-batibouw"
@@ -30230,7 +30230,7 @@
    "name": "Frédéric Cras",
    "role": "General Manager (4th generation)",
    "company": "Cras Hout",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/fr%C3%A9d%C3%A9ric-cras-1592295",
    "notes": "Fourth generation CEO. Late 1970s acquisitions: Van Reeth (1978), Stockmans (1983), Dubois (1985), Somex (1989). 1990s distribution expansion (Brugge, Dottignies, Oostende, Merelbeke, Relegem, Charleroi, Hasselt). Owner of Collstrop brand (garden wood products, 25-year guarantee). 2015 bookkeeper Bert W. arrested for embezzlement - €23M disappeared over 10 years. Paid €8.6M tax penalty. 2024 revenue €146M (down from €158M 2023). 2023-24 cumulative loss €25M, equity down from €56M to €46M.",
    "families": [
     "familie-cras-cras-hout"
@@ -30242,7 +30242,7 @@
    "name": "Bob Martens",
    "role": "Future management",
    "company": "Brouwerij Martens",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/bob-martens-4411375",
    "notes": "Son of Jan, age ~30s in 2024. Board member of Mabrew foundation. Preparing to enter brewery management.",
    "families": [
     "familie-martens-brouwerij-martens"
@@ -30266,7 +30266,7 @@
    "name": "Jan Martens",
    "role": "Owner (8th generation)",
    "company": "Brouwerij Martens",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jan-martens-6392564/",
    "notes": "Eighth generation, age 60 in 2022. Bought brother Fons's stake 2022. Controls 87.5% (12.5% owned by Far Eastern Group Taiwan). Two sons Jef and Bob are future management. Second largest Belgian brewery after AB InBev. 4M hectoliters/year production. 85%+ export. Major clients include Aldi. 7 packaging lines (cans, bottles, PET, kegs). 2023: 350 employees, €240M revenue. Target 2028: 4.5M hectoliters, €300M+ revenue, 95%+ export. Spain is new major market. Anchored in private foundations InvestBo and Mabrew (2024).",
    "families": [
     "familie-martens-brouwerij-martens"
@@ -30278,7 +30278,7 @@
    "name": "Jean Martens",
    "role": "Founder",
    "company": "Brouwerij Martens",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-martens-60256265/",
    "notes": "Founded brewery in previous century.",
    "families": [
     "familie-martens-brouwerij-martens"
@@ -30290,7 +30290,7 @@
    "name": "Jef Martens",
    "role": "Future management",
    "company": "Brouwerij Martens",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jef-martens-4297615b/",
    "notes": "Son of Jan, age ~30s in 2024. Board member of Mabrew foundation. Preparing to enter brewery management.",
    "families": [
     "familie-martens-brouwerij-martens"
@@ -30302,7 +30302,7 @@
    "name": "Francis Geernaert",
    "role": "Founder",
    "company": "Belim",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/francis-geernaert-6b249843/",
    "notes": "Father of John. Founded Belim construction company specializing in villa construction. Sold Belim to Huyzentruyt group in 2007.",
    "families": [
     "familie-geernaert-g-label"
@@ -30314,7 +30314,7 @@
    "name": "John Geernaert",
    "role": "Owner/Developer",
    "company": "G-Label / Green Corner",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/john-geernaert-053314205/",
    "notes": "Son of Francis. Real estate developer. Holding company Green Corner. Owns former Gentse UCO-building (11-story 1959 tower, company HQ). Early 2024 bought hotel The Memlinc in Knokke from Familie Deklerck. Converting to 17 luxury apartments (avg 250m², penthouse 424m²). Target €30K/m² = €129M residential value + €21M parking (105 spaces @ €200K each) = total €150M project value. Develops residential and commercial real estate in Flanders. UCO tower was built for Union Cotonnière by baron Gaston Braun (grandson of mayor Emile Braun), who created luxury 11th-floor private apartment (Grace Kelly allegedly dined there).",
    "families": [
     "familie-geernaert-g-label"
@@ -30350,7 +30350,7 @@
    "name": "Johan Willemen",
    "role": "Chairman",
    "company": "Groep Willemen",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/johan-willemen-66a137b4/",
    "notes": "Father, age 72 in 2022. Led company during 2011 Aswebo acquisition (doubled staff 1000→2000, includes Kumpen co-ownership). 2010 revenue €287M. Known for major projects: Telenet HQ Mechelen, Vlaams Admin Center Leuven station. Active in Romania, Lithuania, Poland real estate development. Started Africa operations (villas, Belgian embassy Kinshasa 2014). 2021-22 liquidity crisis worsened by Ukraine war inflation. July 2022 loan from federal corona recovery fund. 2022 loss €35M, revenue down €795M→€725M. Took over from son Tom in 2022, handed to Marc Jonckheere after 2 weeks. Family equity €45M.",
    "families": [
     "familie-willemen-groep-willemen-en-aswebo"
@@ -30362,7 +30362,7 @@
    "name": "Marc Jonckheere",
    "role": "CEO",
    "company": "Groep Willemen",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/marc-jonckheere-4217a1b/",
    "notes": "Joined May 2022, became CEO after Tom Willemen stepped down. Restructured company: stopped foreign projects, Belgium-only operations.",
    "families": [
     "familie-willemen-groep-willemen-en-aswebo"
@@ -30374,7 +30374,7 @@
    "name": "Tom Willemen",
    "role": "Former manager",
    "company": "Groep Willemen",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/tomwillemen/",
    "notes": "Son of Johan. Had to step down 2022 due to overexertion. Father Johan took over briefly before bringing in Marc Jonckheere as new CEO.",
    "families": [
     "familie-willemen-groep-willemen-en-aswebo"
@@ -30434,7 +30434,7 @@
    "name": "Annemie Verschetse-Vervaeke",
    "role": "Second generation owner",
    "company": "Konvert Groep",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/annemie-verschetse-vervaeke-2aa8b468/",
    "notes": "Wife of Freddy, co-leader of the expansion. Over 60 offices in Belgium.",
    "families": [
     "familie-verschetse-konvert"
@@ -30470,7 +30470,7 @@
    "name": "Nele Vanhouteghem",
    "role": "Former Commercial Director",
    "company": "CTO / Vigo International",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nele-vanhouteghem-66b6a879/",
    "notes": "Daughter of founder Vanhouteghem, started as commercial director. Took over with husband Jan Ruysschaert.",
    "families": [
     "familie-ruysschaert-vanhouteghem-vigo"
@@ -30938,7 +30938,7 @@
    "name": "Emile de Cartier de Marchienne",
    "role": "Former director Brepols",
    "company": "Brepols / Cartamundi",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/emile-de-cartier-de-marchienne-stand-musees-federations-jeux-de-cartes-agendas-foires-et-salons-",
    "notes": "",
    "families": [
     "familie-de-cartier-de-marchienne-brepols-en-cartamundi"
@@ -30950,7 +30950,7 @@
    "name": "Michel Delloye",
    "role": "Founder",
    "company": "Cytindus",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-delloye-6a72a61/",
    "notes": "",
    "families": [
     "michel-delloye-onbekend"
@@ -30962,7 +30962,7 @@
    "name": "Tom Heeren",
    "role": "CEO & Owner",
    "company": "Groep Heeren / Hubo",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/cassandra-de-rango-579004109/",
    "notes": "",
    "families": [
     "familie-heeren-hubo"
@@ -30974,7 +30974,7 @@
    "name": "Karel Cardoen",
    "role": "Former CEO & Majority Owner",
    "company": "Cardoen Autostad",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/karel-cardoen-8a0b3a17/",
    "notes": "",
    "families": [
     "familie-cardoen-cardoen-autosupermarkt"
@@ -30986,7 +30986,7 @@
    "name": "Els Haeck",
    "role": "Director",
    "company": "Hafinco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/els-haeck-12b5981/",
    "notes": "",
    "families": [
     "familie-haeck-hafinco"
@@ -30998,7 +30998,7 @@
    "name": "Merijn Haeck",
    "role": "CEO",
    "company": "Oliefabriek Lichtervelde / Colzagro",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/merijn-haeck-318a4140/",
    "notes": "",
    "families": [
     "familie-haeck-hafinco"
@@ -31010,7 +31010,7 @@
    "name": "Wim Haeck",
    "role": "Director pig farms",
    "company": "Hafinco",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/wim-haeck-a1802812b/",
    "notes": "",
    "families": [
     "familie-haeck-hafinco"
@@ -31034,7 +31034,7 @@
    "name": "Rita Dick",
    "role": "Shareholder",
    "company": "Westfro",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/rita-dick-60444795/",
    "notes": "",
    "families": [
     "familie-verhelle-dick-westfro"
@@ -31046,7 +31046,7 @@
    "name": "Lieven Van Hoylandt",
    "role": "Co-owner 50%",
    "company": "Cuypers Vorkliften",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lieven-van-hoylandt-407740307/",
    "notes": "",
    "families": [
     "marc-cuypers-cuypers-vorkliften"
@@ -31058,7 +31058,7 @@
    "name": "Marc Cuypers",
    "role": "Co-owner 50%",
    "company": "Cuypers Vorkliften",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/marc-cuypers-3ab6776/",
    "notes": "",
    "families": [
     "marc-cuypers-cuypers-vorkliften"
@@ -31082,7 +31082,7 @@
    "name": "Jo Vandebergh",
    "role": "Founder & CEO",
    "company": "Ertzberg",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jo-vandebergh-9359864",
    "notes": "",
    "families": [
     "jo-vandebergh-ertzberg"
@@ -31106,7 +31106,7 @@
    "name": "Ronald Somers",
    "role": "CEO & Owner",
    "company": "Somtrans",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ronald-somers-3902a296/",
    "notes": "",
    "families": [
     "familie-somers-somtrans"
@@ -31154,7 +31154,7 @@
    "name": "Wim Geltmeyer",
    "role": "Director",
    "company": "Hamlet",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/wim-geltmeyer-89481bbb/",
    "notes": "",
    "families": [
     "familie-geltmeyer-hamlet-chocolade-vrasene"
@@ -31166,7 +31166,7 @@
    "name": "Peter Vermeeren",
    "role": "Director/Owner",
    "company": "Eldi",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/appeodesign/",
    "notes": "",
    "families": [
     "familie-vermeeren-eldi"
@@ -31202,7 +31202,7 @@
    "name": "Piet Roelen",
    "role": "Former artist manager, investor",
    "company": "Roelen Hof",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/piet-roelen-a5522929",
    "notes": "",
    "families": [
     "piet-roelen-piet-roelen"
@@ -31226,7 +31226,7 @@
    "name": "Laurens Vanthoor",
    "role": "Professional race driver",
    "company": "Racing / KRK",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/laurens-vanthoor-4210b110",
    "notes": "",
    "families": [
     "familie-vanthoor-berg-hoff"
@@ -31238,7 +31238,7 @@
    "name": "Raf Vanthoor",
    "role": "CEO",
    "company": "BergHOFF Worldwide",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/raf-vanthoor-113b97a8/",
    "notes": "",
    "families": [
     "familie-vanthoor-berg-hoff"
@@ -31262,7 +31262,7 @@
    "name": "Simonis family",
    "role": "Shareholders",
    "company": "Peltzer et fils / Iwan Simonis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/john-simonis-b1ab8b84",
    "notes": "",
    "families": [
     "families-simonis-en-phillips-peltzer-et-fils"
@@ -31286,7 +31286,7 @@
    "name": "Luc Descheemaecker",
    "role": "Founder & CEO, 100% Owner",
    "company": "Novus Holding / Novus Projects / Novus Construct",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-descheemaecker-baa70b6/",
    "notes": "",
    "families": [
     "familie-luc-descheemaecker-novus"
@@ -31298,7 +31298,7 @@
    "name": "Arnaud Pierret",
    "role": "Co-owner",
    "company": "Pierret Portes & Fenêtres",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/antoine-de-meulemeester-84505a28/",
    "notes": "",
    "families": [
     "familie-pierret-pierret"
@@ -31322,7 +31322,7 @@
    "name": "Laurent Levaux",
    "role": "Former CEO (until 2016), 50% shareholder",
    "company": "Aviapartner",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/laurent-levaux-55a79aa0/",
    "notes": "",
    "families": [
     "laurent-levaux-aviapartner"
@@ -31334,7 +31334,7 @@
    "name": "Helena Brutsaert",
    "role": "Management",
    "company": "CID Lines",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/helena-brutsaert-9b3a303/",
    "notes": "",
    "families": [
     "familie-brutsaert-cid-lines"
@@ -31346,7 +31346,7 @@
    "name": "Koen Brutsaert",
    "role": "CEO, Co-founder",
    "company": "CID Lines",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/s%C3%A9bastien-gillig-18475334/",
    "notes": "",
    "families": [
     "familie-brutsaert-cid-lines"
@@ -31370,7 +31370,7 @@
    "name": "Johan Heemeryck",
    "role": "Former owner Alheembouw (sold to Temmerman 2017-2019)",
    "company": "STO Real Estate (asset management)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/johan-heemeryck/",
    "notes": "",
    "families": [
     "de-familie-heemeryck-spriet-heem-invest"
@@ -31406,7 +31406,7 @@
    "name": "Pierre Buchet",
    "role": "Founder (with brother Louis), Former owner ACV",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pierre-buchet-consultant/",
    "notes": "ACV sold to Groupe Atlantic in 2018. Pierre Buchet had two daughters: Maryse and Véronique (not interested in the business)",
    "families": [
     "familie-buchet-acv"
@@ -31430,7 +31430,7 @@
    "name": "Gilbert Ekierman",
    "role": "Former Chairman/CEO Agridec, 25% shareholder Codic (sold to French family Descours in 2014)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gilbert-ekierman-9b075612/",
    "notes": "Codic is a prominent Belgian commercial real estate developer",
    "families": [
     "familie-gilbert-ekierman-societe-financiere-de-letoile"
@@ -31502,7 +31502,7 @@
    "name": "Francesco Melis",
    "role": "Co-owner IRS (European distributor for Carlisle EPDM roofing)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://it.linkedin.com/in/francesco-melis-413a17134",
    "notes": "IRS merged with Btech in 2011 under Fedrus Invest holding. Also active in solar panels via IRS Solar",
    "families": [
     "familie-melis-carlisle"
@@ -31514,7 +31514,7 @@
    "name": "Renaat Melis",
    "role": "Co-owner IRS",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/renaat-melis-5580a159/",
    "notes": "Brothers Francesco and Renaat own IRS together",
    "families": [
     "familie-melis-carlisle"
@@ -31538,7 +31538,7 @@
    "name": "Véronique Maes",
    "role": "Owner/Director Brouwerij De Halve Maan, developed 'Straffe Hendrik' (1981)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/vmaes/",
    "notes": "Daughter of Henri IV, started renovation in 1997. Launched 'Brugse Zot' in 2005 with son Xavier",
    "families": [
     "de-familie-maes-vanneste-brugse-zot-bier"
@@ -31562,7 +31562,7 @@
    "name": "Gilles Samyn",
    "role": "Former Managing Director CNP/NPM, Former board member GBL, Chairman Degroof Petercam",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gilles-samyn-a57935166/",
    "notes": "Born Jan 2, 1950. Right-hand man of Albert Frère for 37+ years. Professor at Solvay Business School (ULB) since 1981. Retired from active finance 2019. Knight in French Légion d'honneur",
    "families": [
     "gilles-samyn-rechterhand-van-albert-frere"
@@ -31598,7 +31598,7 @@
    "name": "Guido Declercq",
    "role": "Real estate developer, shareholder NV Zeezicht, Partners@venture",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guido-declercq-b382909b/",
    "notes": "Developed Green Garden (Middelkerke), Zeezicht apartment complex (Oostende-Mariakerke). Controls ~40% of venture capital firm Partners@venture in Oostende. Partner with Joye brothers, Luk Rammant, Robert Desimpel, Luc Wille",
    "families": [
     "familie-guido-declercq"
@@ -31610,7 +31610,7 @@
    "name": "Benoît Soenen",
    "role": "Co-director, son-in-law of Michel Wanty",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/beno%C3%AEt-soenen-65240847/",
    "notes": "Agricultural engineer specialized in environment",
    "families": [
     "familie-wanty-ets-maurice-wanty"
@@ -31622,7 +31622,7 @@
    "name": "Christophe Wanty",
    "role": "Current CEO Ets. Maurice Wanty (3rd generation)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/christophe-wanty-b37550a0",
    "notes": "Business engineer, joined father Michel. Company does construction, demolition, road works, sanitation. Acquired Ronevaeu in 2018 (50% growth)",
    "families": [
     "familie-wanty-ets-maurice-wanty"
@@ -31646,7 +31646,7 @@
    "name": "Michel Wanty",
    "role": "Former CEO (2nd generation), son of Maurice",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/michel-wanty-516bb871/",
    "notes": "Civil engineer, joined 1971. Expanded business significantly into public/private works",
    "families": [
     "familie-wanty-ets-maurice-wanty"
@@ -31706,7 +31706,7 @@
    "name": "Kathleen Claes",
    "role": "Owner/Director Java coffee roastery (4th generation)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/kathleen-claes-55bb9b20",
    "notes": "Kept coffee roastery when Java distribution sold to Sligro (2016). New roastery opened 2012 in Wingepark Rotselaar (4.5M investment, 2000 ton/year capacity)",
    "families": [
     "familie-claes-javajava"
@@ -31718,7 +31718,7 @@
    "name": "Pieter Claes",
    "role": "Co-director Java coffee roastery with sister Kathleen",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pieter-claes-8285262/",
    "notes": "Java was 3rd largest horeca distributor in Belgium before selling distribution to Sligro for ~130M",
    "families": [
     "familie-claes-javajava"
@@ -31778,7 +31778,7 @@
    "name": "Ivan Sabbe",
    "role": "Entrepreneur, former CEO Lidl Belgium, former Flemish Parliament member",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/ivan-sabbe-0a0b6135/",
    "notes": "Opened 279 Lidl stores in Belgium (1997-2010). Owns ISPC horeca (sold to Sligro 2017 for 32M), Océan Marée fish wholesaler. Former LDD politician (Vlaams Parliament 2009-2014). Brother and sister: Cathérine, Sylvia",
    "families": [
     "familie-ivan-sabbe-ivan-sabbe"
@@ -31802,7 +31802,7 @@
    "name": "Sylvia Sabbe",
    "role": "Youngest sister, married Gino Coorevits",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/sylvia-sabbe-14b16663/",
    "notes": "Bought out by family. Legal dispute with KBC Ancora 2008",
    "families": [
     "familie-ivan-sabbe-ivan-sabbe"
@@ -31838,7 +31838,7 @@
    "name": "Eric Verstraeten",
    "role": "Current CEO Elaut Group",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/eric-verstraeten-84964b192/",
    "notes": "2nd/3rd generation. Elaut produces amusement games (claw machines, ticket games, basketball). Founded 1959 by Achiel Verstraeten. Active in US as Coast to Coast Entertainment, Benchmark Games",
    "families": [
     "familie-verstraeten-elaut"
@@ -31874,7 +31874,7 @@
    "name": "Jacques-Martin Philippson",
    "role": "Son of Alain, succeeded father as family representative",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/jphilippson",
    "notes": "Plus two daughters in the family",
    "families": [
     "familie-philippson-bank-degroof"
@@ -31886,7 +31886,7 @@
    "name": "Bernard Saey",
    "role": "Owner/Director Saey Steel (steel distribution)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bernardsaey/",
    "notes": "Brother to Stéphane. Manages steel distribution business separately from brother's former Barbecook business",
    "families": [
     "familie-saey-barbecook"
@@ -31910,7 +31910,7 @@
    "name": "Stéphane Saey",
    "role": "Former owner Saey Home & Garden, sold Barbecook brand to LivWise 2019",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/stéphane-saey-26b5b94a",
    "notes": "Brother to Bernard. Paid 8.4M dividend 2018 before selling. Revenue 13M, loss 2.2M before sale. Barbecook known for unique lighting system",
    "families": [
     "familie-saey-barbecook"
@@ -31946,7 +31946,7 @@
    "name": "Bernard Deceuninck",
    "role": "Oprichter generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/bernard-deceuninck-8130bb35",
    "notes": "Familie startte in 1937, focus op PVC-extrusie vanaf 1960",
    "families": [
     "familie-deceuninck-deceuninck"
@@ -31982,7 +31982,7 @@
    "name": "Walter De Reys",
    "role": "Overgenomen van ouders eind jaren '90",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/walter-de-reys-skynet-58876417a",
    "notes": "Bedrijf opgericht door vader Jules De Reys, nu onderdeel van Keolis",
    "families": [
     "familie-de-reys-autobus-de-genval"
@@ -32006,7 +32006,7 @@
    "name": "Jacky Taché",
    "role": "Leider TPY Capital (durfkapitaalfonds Luxemburg)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jacky-tach%C3%A9-7b65696/",
    "notes": "Familie actief sinds 1956 in diamantsector, sightholder De Beers sinds 1975",
    "families": [
     "familie-tache-tache"
@@ -32066,7 +32066,7 @@
    "name": "Jacques Delens",
    "role": "Oprichter (1967)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-jacques-delens-9b772056/",
    "notes": "Stapte 1967 in voetsporen van vader Maurice Delens, verkocht aan Besix 1982",
    "families": [
     "familie-jean-jacques-delens-jacques-delens"
@@ -32102,7 +32102,7 @@
    "name": "Jos Klaasen",
    "role": "Oprichter 1930",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jos-klaasen-04a12a20/",
    "notes": "Pionier kippenmeel en verkoop kuikens",
    "families": [
     "familie-klaasen-pluvera"
@@ -32114,7 +32114,7 @@
    "name": "Bart Vanderschrick",
    "role": "Co-oprichter 2006, Founder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bart-vanderschrick-517a462/",
    "notes": "Nu Founder bij Acalis health care group, gevestigd Monaco",
    "families": [
     "frank-bamelis-en-bart-vanderschrick-senior-assist"
@@ -32150,7 +32150,7 @@
    "name": "Philippe Taminiaux",
    "role": "Oprichter, startte 1979 met Euro Center",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-taminiaux-82133b42/",
    "notes": "Creëerde èggo concept 2006, 62 winkels in België/Luxemburg/Spanje/Senegal/Saudi-Arabië",
    "families": [
     "familie-taminiaux-eggo-keukens"
@@ -32198,7 +32198,7 @@
    "name": "Philippe Delaisse",
    "role": "Co-founder & Co-CEO Ethnicraft",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/philippe-delaisse-292a3a143",
    "notes": "Mede-oprichter, focus op 'emorational' design (emotioneel + rationeel)",
    "families": [
     "benoit-loos-en-philippe-delaisse-ethnicraft"
@@ -32234,7 +32234,7 @@
    "name": "Bruno Ralet",
    "role": "Eigenaar (sinds 2011)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bruno-ralet-98004313/",
    "notes": "Zoon, overgenomen samen met zus Isabelle. 4 shops Knokke + Kortrijk + Sluis",
    "families": [
     "familie-ralet-ralet"
@@ -32258,7 +32258,7 @@
    "name": "Xavier Painblanc",
    "role": "Oprichter Bibi Fashion",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/xavier-painblanc-7577515b/",
    "notes": "Familie verkocht Rizla+ 1978. Xavier bouwde Bibi Fashion uit met 60 winkels. Talking French failliet 2015. Ook vastgoedontwikkeling via Bermaso",
    "families": [
     "familie-painblanc-bibi-fashion"
@@ -32306,7 +32306,7 @@
    "name": "Luc Vandermersch",
    "role": "50% partner Dumoulin Bricks",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/luc-vandermersch-28a6a962",
    "notes": "Startte 2012 nieuwe fabriek snelbouwbakstenen Roeselare met Benedikt",
    "families": [
     "familie-van-den-braembussche-bouwpunt-en-dumoulin-bricks"
@@ -32318,7 +32318,7 @@
    "name": "Jan Kievit",
    "role": "Ex-gedelegeerd bestuurder J-Tec (tot 1999)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/jan-kievit-20916a19",
    "notes": "Verkocht J-Tec aan Katoen Natie 1999",
    "families": [
     "familie-kievit-onbekend"
@@ -32330,7 +32330,7 @@
    "name": "Jim Kievit",
    "role": "Hoofd J-Tec binnen KTN",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jimkievit/",
    "notes": "Zoon van Jan, leidt J-Tec als autonoom profit center binnen Katoen Natie",
    "families": [
     "familie-kievit-onbekend"
@@ -32390,7 +32390,7 @@
    "name": "Maurice Hamon",
    "role": "Vroegere CEO (tot 1976)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/maurice-hamon-76a248236",
    "notes": "Schoonvader van Jacques Lambilliotte. Bedrijf opgericht 1904 door broers Achille en Fernand Hamon",
    "families": [
     "familie-lambilliotte-hamon-hamon-cie"
@@ -32462,7 +32462,7 @@
    "name": "Geert Lindemans",
    "role": "Gedelegeerd Bestuurder",
    "company": "Brouwerij Lindemans",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/geert-lindemans-a36859112/",
    "notes": "Together with cousin Dirk, leads the 6th generation of Lindemans family brewery. Confirmed as gedelegeerd bestuurder.",
    "families": [
     "de-familie-lindemans-lindemans"
@@ -32546,7 +32546,7 @@
    "name": "Louis Luyckx",
    "role": "Founder",
    "company": "Firma Luyckx",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/louis-luyckx-431503269",
    "notes": "Founded the company in 1953, started with forest clearing and agricultural machinery sales. Company became NV in 1979.",
    "families": [
     "familie-luyckx-firma-luyckx"
@@ -32558,7 +32558,7 @@
    "name": "Bernard Jolly",
    "role": "Owner / President",
    "company": "Golf de Naxhelet",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/bernard-jolly-05a17746/",
    "notes": "Owner with wife Françoise Jolly of Golf de Naxhelet in Wanze. Also Voorzitter of Compagnie du Zoute (holding of famille Lippens). Uncle of Guy Ullens de Schooten.",
    "families": [
     "familie-jolly-golf-de-naxhelet"
@@ -32570,7 +32570,7 @@
    "name": "Françoise Jolly",
    "role": "Owner",
    "company": "Golf de Naxhelet",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/fran%C3%A7oise-jolly-de-vaucleroy-315b3a1a0/",
    "notes": "Co-owner and developer with husband Bernard of Golf de Naxhelet.",
    "families": [
     "familie-jolly-golf-de-naxhelet"
@@ -32594,7 +32594,7 @@
    "name": "Guy Somers",
    "role": "Owner / CEO",
    "company": "Frisomat",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guy-somers-ab482912b/",
    "notes": "In his 60s, leads Frisomat together with brother Philippe. Builds steel industrial buildings worldwide. Also owns 4-hectare vineyard near Wijnegem Shopping Center. Confirmed as bestuurder.",
    "families": [
     "familie-somers-frisomat"
@@ -32606,7 +32606,7 @@
    "name": "Philippe Somers",
    "role": "Co-owner / Bestuurder",
    "company": "Frisomat",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/philippe-somers-78a47a93/",
    "notes": "Brother of Guy Somers, co-leads Frisomat. Both in their 60s.",
    "families": [
     "familie-somers-frisomat"
@@ -32642,7 +32642,7 @@
    "name": "Carmen Onclin",
    "role": "Wine Business Manager",
    "company": "Group Onclin",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/carmen-onclin-179b2b8",
    "notes": "Sister of Philippe, manages wine business activities in France (Bordeaux châteaus).",
    "families": [
     "familie-justin-onclin-gaultmillau"
@@ -32774,7 +32774,7 @@
    "name": "Kurt Lambrecht",
    "role": "Bestuurder",
    "company": "Van Heyghen Staal",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/kurt-lambrecht-486b3110/",
    "notes": "Board member alongside Henri Van Heyghen.",
    "families": [
     "familie-henri-van-heyghen-van-heyghen-staal"
@@ -32834,7 +32834,7 @@
    "name": "Vic Van Rompuy",
    "role": "Founder",
    "company": "Varo",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/koen-corveleyn-6622b752/",
    "notes": "Founded Varo in 1958 as wholesaler of hardware in Mortsel. Moved to Lier in 1975.",
    "families": [
     "de-familie-nys-niet-gekend"
@@ -32846,7 +32846,7 @@
    "name": "Luc Beke",
    "role": "Owner / CEO",
    "company": "Global Estate Group",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-beke-6750b549/",
    "notes": "Started in real estate in 1997, grouped activities under Global Estate Group in 2013. Specializes in greenfield/brownfield projects. Projects include AA Tower Zwijnaarde, Bell Roeselare, De Herten Oostkamp, Philips-site Brugge, Bekaert site Aalter. Has ties to Cercle Brugge.",
    "families": [
     "familie-luc-beke-global-estates-group"
@@ -32906,7 +32906,7 @@
    "name": "Luc Christiaens",
    "role": "Bestuurder",
    "company": "Metaalhandel Christiaens",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lucchristiaens/",
    "notes": "Current board member, second generation. Company has 24 workers, 5 employees, 3 representatives. Third generation now also active.",
    "families": [
     "familie-christiaens-metaalhandel-christiaens"
@@ -33050,7 +33050,7 @@
    "name": "Vincent De Gryse",
    "role": "Eigenaar",
    "company": "Stop & Shop",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/vincent-de-gryse-180230a/",
    "notes": "Eigenaar Stop&Shop winkels (tabak en alcohol). Verkocht KV Kortrijk in 2015 aan Vincent Tan",
    "families": [
     "vincent-de-gryse-stop-shop"
@@ -33110,7 +33110,7 @@
    "name": "Francis Heyse",
    "role": "Eigenaar",
    "company": "STAS",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/francis-heyse-428681274/",
    "notes": "Derde generatie, gespecialiseerd in kippers en zelflossers. 4 fabrieken, 500 werknemers",
    "families": [
     "familie-francis-heyse-stas"
@@ -33134,7 +33134,7 @@
    "name": "Etienne Orens",
    "role": "Oprichter/Zaakvoerder",
    "company": "PIT (Professional Innovation Techniques)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/etienne-orens-b41b6788/",
    "notes": "Opgericht 1988, renovatiepoot Strabag AG. Verkocht aan Eiffage Benelux in 2008. Veroordeeld in VISA-schandaal",
    "families": [
     "familie-etienne-orens-pit"
@@ -33146,7 +33146,7 @@
    "name": "Geert Bert",
    "role": "Aandeelhouder",
    "company": "Kinepolis",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/geertbert/",
    "notes": "Zoon van Albert Bert (stichter Kinepolis). Stapte niet in management, broer Joost wel",
    "families": [
     "geert-bert-kinepolis"
@@ -33220,7 +33220,7 @@
    "name": "Thierry Dehaeck",
    "role": "Voormalig eigenaar",
    "company": "Pidy",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/thierry-dehaeck-5bb86895/",
    "notes": "Zoon van André Dehaeck (oprichter). Verkocht Pidy aan Biscuits Bouvard (FR) in 2016. 3 productie-sites (BE, FR, USA)",
    "families": [
     "thierry-dehaeck-en-anne-marie-delmulle-pidy"
@@ -33268,7 +33268,7 @@
    "name": "Jean-Paul Depraetere",
    "role": "Gedelegeerd bestuurder",
    "company": "Escolys (Depraetere Industries)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-paul-depraetere-52b0384/",
    "notes": "Gedelegeerd bestuurder. Productie interieurtextiel/meubelstoffen. Fabriek stilgelegd najaar 2018 door concurrentie China/Turkije",
    "families": [
     "familie-depraetere-escolys"
@@ -33292,7 +33292,7 @@
    "name": "Dimitrios Kestekoglou",
    "role": "Bestuurder",
    "company": "Leonidas",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/dimitrios-kestekoglou-8a517113",
    "notes": "Broer van Maria, assistent in leiding",
    "families": [
     "familie-kestekidou-leonidas"
@@ -33340,7 +33340,7 @@
    "name": "Christian Theunissen",
    "role": "CEO",
    "company": "Xior Student Housing",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/christian-theunissen-257359a5",
    "notes": "CEO Xior, kocht aandelen van Ben Van Loo in 2016",
    "families": [
     "ben-van-loo-a-star-group"
@@ -33352,7 +33352,7 @@
    "name": "Daniel Verhaeghe",
    "role": "Oprichter",
    "company": "Hyboma",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/daniel-verhaeghe-03335050/",
    "notes": "Oprichter Hyboma 1968 (Hypotheek en Bouwmaatschappij)",
    "families": [
     "familie-verhaeghe-hybomahyboma"
@@ -33388,7 +33388,7 @@
    "name": "Guido Peleman",
    "role": "Oprichter",
    "company": "Unibind",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guidopeleman/",
    "notes": "Oprichter 1976, bedenker bindsysteem. 1,1 miljard covers, 600.000 bindmachines verkocht. Wereldwijd 200 distributeurs",
    "families": [
     "familie-peleman-unibind"
@@ -33448,7 +33448,7 @@
    "name": "Christian Vandeputte",
    "role": "Financieel",
    "company": "Vandeputte (olieslagerij)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christian-vandeputte-3203a65b/",
    "notes": "Jongste generatie, financiële touwtjes",
    "families": [
     "familie-vandeputte-olieslagerijvandeputte"
@@ -33472,7 +33472,7 @@
    "name": "Luc Vandeputte",
    "role": "Laboratoriumdeskundige",
    "company": "Vandeputte (olieslagerij)",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/lvandeputte/",
    "notes": "Jongste generatie, laboratoriumdeskundige. Persen lijnzaad, zeep (Mousse de Lin), private label",
    "families": [
     "familie-vandeputte-olieslagerijvandeputte"
@@ -33484,7 +33484,7 @@
    "name": "Luc Vulsteke",
    "role": "Oprichter, actief sinds 1979",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-vulsteke-44b35154/",
    "notes": "",
    "families": [
     "familie-luc-vulsteke-vulsteke-bedrijfsgebouwen"
@@ -33556,7 +33556,7 @@
    "name": "Gregor Thissen",
    "role": "Sterke man, tweede generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/gregorthissen/?_l=en",
    "notes": "",
    "families": [
     "familie-thissen-scabal"
@@ -33568,7 +33568,7 @@
    "name": "Peter Thissen",
    "role": "Voorzitter Scabal",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/peterthissen",
    "notes": "",
    "families": [
     "familie-thissen-scabal"
@@ -33580,7 +33580,7 @@
    "name": "Martin Mol",
    "role": "CEO, leidde bedrijf 47 jaar, verkocht in 2022",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/marinusgerardmol/",
    "notes": "",
    "families": [
     "de-familie-mol-mol"
@@ -33604,7 +33604,7 @@
    "name": "Johan Vandendriessche",
    "role": "Ondernemer mode en vastgoed",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/johan-vandendriessche-5247b82a",
    "notes": "",
    "families": [
     "familie-vandendriessche-massimo-dutti"
@@ -33616,7 +33616,7 @@
    "name": "Declerck",
    "role": "Oprichter Klinisch laboratorium (1994), verkocht in 2015",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/siebrechtdeclerck/",
    "notes": "",
    "families": [
     "familie-declerck-allegaert-kld"
@@ -33640,7 +33640,7 @@
    "name": "Jean De Laet",
    "role": "Derde generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jean-de-laet-99730910a/",
    "notes": "",
    "families": [
     "familie-de-laet-huyghe-brouwerij-huyghe"
@@ -33664,7 +33664,7 @@
    "name": "Bert De Brabandere",
    "role": "Vijfde generatie, nam roer over in 2014",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/bert-de-brabandere",
    "notes": "",
    "families": [
     "familie-de-brabandere-bavik"
@@ -33760,7 +33760,7 @@
    "name": "Ruud Van Mechelen",
    "role": "Zoon, tweede generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://nl.linkedin.com/in/ruudvanmechelen",
    "notes": "",
    "families": [
     "familie-van-mechelen-sint-joris"
@@ -33784,7 +33784,7 @@
    "name": "Didier Tytgadt",
    "role": "Broer van Alain",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/didier-tytgadt-2487259/",
    "notes": "",
    "families": [
     "familie-alain-tytgadt-metalunion"
@@ -33796,7 +33796,7 @@
    "name": "Griet Delporte",
    "role": "Echtgenote van Karl",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/griet-delporte-60997024/",
    "notes": "",
    "families": [
     "familie-neyrinck-bouwbedrijf-eeg"
@@ -33820,7 +33820,7 @@
    "name": "Michel Neyrinck",
    "role": "Oprichter in 1936",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://be.linkedin.com/in/michelneyrinck",
    "notes": "",
    "families": [
     "familie-neyrinck-bouwbedrijf-eeg"
@@ -33832,7 +33832,7 @@
    "name": "Laurens Gilen",
    "role": "Vierde generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/laurens-gilen-15bb507b/",
    "notes": "",
    "families": [
     "familie-gilen-gilen-woonprojecten"
@@ -33964,7 +33964,7 @@
    "name": "Pierre Valade",
    "role": "Medeoprichter Sunrise",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pierrevalade",
    "notes": "",
    "families": [
     "jeremy-le-van-onbekend"
@@ -34012,7 +34012,7 @@
    "name": "Guy Mortier",
    "role": "Tweede generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/guy-mortier-92093113/",
    "notes": "",
    "families": [
     "familie-mortier-morti"
@@ -34024,7 +34024,7 @@
    "name": "Jo Mortier",
    "role": "Tweede generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/jo-mortier-35b67a48/",
    "notes": "",
    "families": [
     "familie-mortier-morti"
@@ -34036,7 +34036,7 @@
    "name": "Julien Mortier",
    "role": "Oprichter in 1965",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://lu.linkedin.com/in/julien-mortier-767aa3176",
    "notes": "",
    "families": [
     "familie-mortier-morti"
@@ -34048,7 +34048,7 @@
    "name": "Koen Mortier",
    "role": "Tweede generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/koen-mortier-629ab472/",
    "notes": "",
    "families": [
     "familie-mortier-morti"
@@ -34060,7 +34060,7 @@
    "name": "Luc Mortier",
    "role": "Tweede generatie",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/luc-mortier-19b6641/",
    "notes": "",
    "families": [
     "familie-mortier-morti"
@@ -34180,7 +34180,7 @@
    "name": "Christian Lefort",
    "role": "Current manager (third generation)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://fr.linkedin.com/in/christian-lefort-57b999ba",
    "notes": "Third generation. Took over in 1997. Company founded by grandfather Nestor Lefort in 1947. Passionate about racing Porsches.",
    "families": [
     "familie-lefort-presses-et-cisailles-lefort"
@@ -34204,7 +34204,7 @@
    "name": "Yvon Lefort",
    "role": "Second generation, took over from father",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://ca.linkedin.com/in/yvon-lefort-b0b14b65",
    "notes": "Son of Nestor. Developed first hydraulic shear in 1958, took over in 1962.",
    "families": [
     "familie-lefort-presses-et-cisailles-lefort"
@@ -34228,7 +34228,7 @@
    "name": "Nicola Feryn",
    "role": "Third generation",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nicola-feryn-045090b6/",
    "notes": "Grandchild of founders. Recently joined the business.",
    "families": [
     "familie-feryn-feryn"
@@ -34240,7 +34240,7 @@
    "name": "Pascal Feryn",
    "role": "Current manager (second generation)",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/pascal-feryn-0727a3b3/",
    "notes": "Son of founders Willy and Dinny. Joined 1990. Rally enthusiast, participated in Dakar. Lost son Maxim in 2016 accident.",
    "families": [
     "familie-feryn-feryn"
@@ -34312,7 +34312,7 @@
    "name": "Anthony Kumpen",
    "role": "Son, race driver, former commercial director Ridley",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/anthony-kumpen-54471943/",
    "notes": "Professional race driver. Was commercial director of Ridley bikes when father Paul held 50% stake.",
    "families": [
     "familie-kumpen-kumpen"
@@ -34324,7 +34324,7 @@
    "name": "Christopher Kumpen",
    "role": "Son, active in real estate",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/christopher-kumpen-98689b6/",
    "notes": "One of four children. Active in real estate.",
    "families": [
     "familie-kumpen-kumpen"
@@ -34348,7 +34348,7 @@
    "name": "Oliver Kumpen",
    "role": "Son, active in real estate",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/oliver-kumpen-1165bb176/",
    "notes": "One of four children. Active in real estate.",
    "families": [
     "familie-kumpen-kumpen"
@@ -34372,7 +34372,7 @@
    "name": "Nicolas Lombaerts",
    "role": "Former professional footballer",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/nicolas-lombaerts-b2912056/",
    "notes": "Former Belgian national team player. Played for Zenit St-Petersburg earning €4M/year. Known for investing in stock market and bonds. Received €4M signing bonus.",
    "families": [
     "nicolas-lombaerts-rode-duivel"
@@ -34408,7 +34408,7 @@
    "name": "Hassan Mourhit",
    "role": "Co-founder",
    "company": "",
-   "linkedin": null,
+   "linkedin": "https://www.linkedin.com/in/hassan-mourhit-204259b4/",
    "notes": "Co-founded EnergyVision in 2014 with Maarten Michielssens and Koen Delcourt.",
    "families": [
     "maarten-michielssens-energy-vision"
