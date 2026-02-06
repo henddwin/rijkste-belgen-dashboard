@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>De Rijkste Belgen — Lead Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'system-ui', 'sans-serif'] },
+          colors: {
+            brand: { 50:'#f0f9ff', 100:'#e0f2fe', 200:'#bae6fd', 300:'#7dd3fc', 400:'#38bdf8', 500:'#0ea5e9', 600:'#0284c7', 700:'#0369a1', 800:'#075985', 900:'#0c4a6e' },
+            surface: { 0:'#ffffff', 1:'#f8fafc', 2:'#f1f5f9', 3:'#e2e8f0' },
+            ink: { 0:'#0f172a', 1:'#334155', 2:'#64748b', 3:'#94a3b8' }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: 'Inter', system-ui, sans-serif; background: #f8fafc; color: #0f172a; }
+    .tab-btn { transition: all 150ms ease; }
+    .tab-btn.active { background: #0ea5e9; color: white; box-shadow: 0 2px 8px rgba(14,165,233,0.3); }
+    .tab-btn:not(.active):hover { background: #e2e8f0; }
+    .card { background: white; border: 1px solid #e2e8f0; border-radius: 0.75rem; transition: box-shadow 150ms ease; }
+    .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.06); }
+    .badge { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 9999px; font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; }
+    .link-pill { display: inline-flex; align-items: center; gap: 4px; padding: 3px 10px; border-radius: 9999px; font-size: 0.75rem; font-weight: 500; text-decoration: none; transition: all 150ms; }
+    .link-pill:hover { filter: brightness(0.92); }
+    .search-input { transition: border-color 150ms, box-shadow 150ms; }
+    .search-input:focus { border-color: #0ea5e9; box-shadow: 0 0 0 3px rgba(14,165,233,0.15); outline: none; }
+    select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%2364748b' viewBox='0 0 16 16'%3E%3Cpath d='M8 11L3 6h10z'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 0.75rem center; padding-right: 2.25rem; }
+    .fade-in { animation: fadeIn 300ms ease-out; }
+    @keyframes fadeIn { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+    .stat-card { background: linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%); }
+    .stat-card-alt { background: linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%); }
+    .stat-card-warm { background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); }
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+    .table-row { transition: background 100ms; }
+    .table-row:hover { background: #f1f5f9; }
+    .expand-btn { transition: transform 200ms; }
+    .expand-btn.open { transform: rotate(180deg); }
+  </style>
+</head>
+<body class="min-h-screen">
+
+  <!-- Header -->
+  <header class="bg-white border-b border-surface-3 sticky top-0 z-50">
+    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-brand-500 to-brand-700 flex items-center justify-center text-white font-bold text-sm">RB</div>
+        <div>
+          <h1 class="text-lg font-bold leading-tight">De Rijkste Belgen</h1>
+          <p class="text-xs text-ink-2">Lead Dashboard — VibeLab</p>
+        </div>
+      </div>
+      <div class="flex items-center gap-2">
+        <span id="lastUpdate" class="text-xs text-ink-3"></span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Stats -->
+  <section class="max-w-[1400px] mx-auto px-4 sm:px-6 py-6">
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div class="stat-card rounded-xl p-5 text-white">
+        <p class="text-sm font-medium opacity-80">Families</p>
+        <p id="statFamilies" class="text-3xl font-extrabold mt-1">—</p>
+        <p class="text-xs opacity-60 mt-1">Ranked by wealth</p>
+      </div>
+      <div class="stat-card-alt rounded-xl p-5 text-white">
+        <p class="text-sm font-medium opacity-80">Companies</p>
+        <p id="statCompanies" class="text-3xl font-extrabold mt-1">—</p>
+        <p class="text-xs opacity-60 mt-1">Extracted entities</p>
+      </div>
+      <div class="stat-card-warm rounded-xl p-5 text-white">
+        <p class="text-sm font-medium opacity-80">People (w/ email)</p>
+        <p id="statPeople" class="text-3xl font-extrabold mt-1">—</p>
+        <p class="text-xs opacity-60 mt-1">Apollo-enriched contacts</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tabs -->
+  <section class="max-w-[1400px] mx-auto px-4 sm:px-6">
+    <div class="flex gap-2 mb-4">
+      <button class="tab-btn active px-4 py-2 rounded-lg text-sm font-semibold" data-tab="families">👑 Families</button>
+      <button class="tab-btn px-4 py-2 rounded-lg text-sm font-semibold" data-tab="companies">🏢 Companies</button>
+      <button class="tab-btn px-4 py-2 rounded-lg text-sm font-semibold" data-tab="people">👤 People</button>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="max-w-[1400px] mx-auto px-4 sm:px-6 mb-4">
+    <div class="card p-4 flex flex-wrap gap-3 items-end">
+      <div class="flex-1 min-w-[200px]">
+        <label class="block text-xs font-medium text-ink-2 mb-1">Search</label>
+        <input id="searchInput" type="text" placeholder="Type to search…" class="search-input w-full border border-surface-3 rounded-lg px-3 py-2 text-sm">
+      </div>
+      <div id="filterFamily" class="min-w-[180px]">
+        <label class="block text-xs font-medium text-ink-2 mb-1">Family</label>
+        <select id="familySelect" class="w-full border border-surface-3 rounded-lg px-3 py-2 text-sm bg-white">
+          <option value="">All families</option>
+        </select>
+      </div>
+      <div id="filterCompany" class="min-w-[180px] hidden">
+        <label class="block text-xs font-medium text-ink-2 mb-1">Company</label>
+        <select id="companySelect" class="w-full border border-surface-3 rounded-lg px-3 py-2 text-sm bg-white">
+          <option value="">All companies</option>
+        </select>
+      </div>
+      <div id="filterWealthRange" class="min-w-[160px]">
+        <label class="block text-xs font-medium text-ink-2 mb-1">Min Wealth</label>
+        <select id="wealthSelect" class="w-full border border-surface-3 rounded-lg px-3 py-2 text-sm bg-white">
+          <option value="0">Any</option>
+          <option value="100000000">€100M+</option>
+          <option value="500000000">€500M+</option>
+          <option value="1000000000">€1B+</option>
+          <option value="5000000000">€5B+</option>
+        </select>
+      </div>
+      <button id="resetBtn" class="px-4 py-2 rounded-lg text-sm font-medium text-ink-2 hover:bg-surface-2 border border-surface-3 transition">Reset</button>
+      <span id="resultCount" class="text-xs text-ink-3 self-center ml-auto"></span>
+    </div>
+  </section>
+
+  <!-- Content -->
+  <section class="max-w-[1400px] mx-auto px-4 sm:px-6 pb-12">
+    <div id="content" class="fade-in"></div>
+  </section>
+
+  <script>
+  let DATA = { families: [], companies: [], people: [] };
+  let currentTab = 'families';
+  let expandedRows = new Set();
+
+  // Load data
+  async function loadData() {
+    const [f, c, p] = await Promise.all([
+      fetch('data/families.json').then(r => r.json()),
+      fetch('data/companies.json').then(r => r.json()),
+      fetch('data/people.json').then(r => r.json()),
+    ]);
+    DATA.families = f;
+    DATA.companies = c;
+    DATA.people = p;
+
+    document.getElementById('statFamilies').textContent = f.length.toLocaleString();
+    document.getElementById('statCompanies').textContent = c.length.toLocaleString();
+    document.getElementById('statPeople').textContent = p.length.toLocaleString();
+    document.getElementById('lastUpdate').textContent = 'Data: ' + new Date().toLocaleDateString('nl-BE');
+
+    populateDropdowns();
+    render();
+  }
+
+  function parseWealth(s) {
+    if (!s) return 0;
+    return parseFloat(s.replace(/\./g, '').replace(',', '.')) || 0;
+  }
+
+  function formatWealth(n) {
+    if (n >= 1e9) return '€' + (n / 1e9).toFixed(1) + 'B';
+    if (n >= 1e6) return '€' + (n / 1e6).toFixed(0) + 'M';
+    if (n >= 1e3) return '€' + (n / 1e3).toFixed(0) + 'K';
+    return '€' + n;
+  }
+
+  function cleanName(s) {
+    if (!s) return '';
+    // Split concatenated name+company
+    return s.replace(/([a-zà-ÿ])([A-Z])/g, '$1 — $2');
+  }
+
+  function populateDropdowns() {
+    // Family dropdown
+    const familySet = new Set();
+    DATA.families.forEach(f => {
+      const n = cleanName(f['Name/Family']);
+      if (n) familySet.add(n);
+    });
+    const fSel = document.getElementById('familySelect');
+    [...familySet].sort().forEach(name => {
+      const o = document.createElement('option');
+      o.value = name; o.textContent = name.length > 50 ? name.slice(0, 47) + '…' : name;
+      fSel.appendChild(o);
+    });
+
+    // Company dropdown (unique)
+    const compSet = new Set();
+    DATA.companies.forEach(c => {
+      const n = c['Company'];
+      if (n) compSet.add(n);
+    });
+    const cSel = document.getElementById('companySelect');
+    [...compSet].sort().forEach(name => {
+      const o = document.createElement('option');
+      o.value = name; o.textContent = name.length > 50 ? name.slice(0, 47) + '…' : name;
+      cSel.appendChild(o);
+    });
+  }
+
+  // Tabs
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentTab = btn.dataset.tab;
+      expandedRows.clear();
+
+      // Show/hide relevant filters
+      document.getElementById('filterFamily').classList.toggle('hidden', currentTab === 'companies');
+      document.getElementById('filterCompany').classList.toggle('hidden', currentTab !== 'companies' && currentTab !== 'people');
+      document.getElementById('filterWealthRange').classList.toggle('hidden', currentTab !== 'families');
+
+      render();
+    });
+  });
+
+  // Filters
+  ['searchInput', 'familySelect', 'companySelect', 'wealthSelect'].forEach(id => {
+    document.getElementById(id).addEventListener('input', () => render());
+    document.getElementById(id).addEventListener('change', () => render());
+  });
+  document.getElementById('resetBtn').addEventListener('click', () => {
+    document.getElementById('searchInput').value = '';
+    document.getElementById('familySelect').value = '';
+    document.getElementById('companySelect').value = '';
+    document.getElementById('wealthSelect').value = '0';
+    expandedRows.clear();
+    render();
+  });
+
+  function getFilters() {
+    return {
+      search: document.getElementById('searchInput').value.toLowerCase().trim(),
+      family: document.getElementById('familySelect').value,
+      company: document.getElementById('companySelect').value,
+      minWealth: parseFloat(document.getElementById('wealthSelect').value) || 0,
+    };
+  }
+
+  function matchSearch(text, q) {
+    if (!q) return true;
+    return (text || '').toLowerCase().includes(q);
+  }
+
+  // Render
+  function render() {
+    const filters = getFilters();
+    const el = document.getElementById('content');
+
+    if (currentTab === 'families') el.innerHTML = renderFamilies(filters);
+    else if (currentTab === 'companies') el.innerHTML = renderCompanies(filters);
+    else el.innerHTML = renderPeople(filters);
+
+    // Re-attach expand listeners
+    el.querySelectorAll('[data-expand]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const key = btn.dataset.expand;
+        if (expandedRows.has(key)) expandedRows.delete(key);
+        else expandedRows.add(key);
+        render();
+      });
+    });
+
+    lucide.createIcons();
+  }
+
+  function linkedinIcon(url) {
+    if (!url) return '';
+    return `<a href="${url}" target="_blank" class="link-pill bg-blue-100 text-blue-700 hover:bg-blue-200"><i data-lucide="linkedin" class="w-3 h-3"></i> LinkedIn</a>`;
+  }
+
+  function profileIcon(url) {
+    if (!url) return '';
+    return `<a href="${url}" target="_blank" class="link-pill bg-amber-100 text-amber-700 hover:bg-amber-200"><i data-lucide="external-link" class="w-3 h-3"></i> Profile</a>`;
+  }
+
+  function emailIcon(email) {
+    if (!email) return '';
+    return `<a href="mailto:${email}" class="link-pill bg-emerald-100 text-emerald-700 hover:bg-emerald-200"><i data-lucide="mail" class="w-3 h-3"></i> ${email}</a>`;
+  }
+
+  // ─── FAMILIES TAB ───
+  function renderFamilies(f) {
+    let items = DATA.families.filter(fam => {
+      const name = cleanName(fam['Name/Family']);
+      const wealth = parseWealth(fam['Wealth (EUR)']);
+      if (f.minWealth && wealth < f.minWealth) return false;
+      if (f.family && name !== f.family) return false;
+      if (f.search && !matchSearch(name + ' ' + (fam['Summary (meta description)'] || '') + ' ' + (fam['Companies (auto)'] || ''), f.search)) return false;
+      return true;
+    });
+
+    document.getElementById('resultCount').textContent = `${items.length} results`;
+
+    if (!items.length) return '<div class="card p-8 text-center text-ink-3">No families match your filters.</div>';
+
+    let rows = items.slice(0, 200).map((fam, i) => {
+      const name = cleanName(fam['Name/Family']);
+      const rank = fam['Rank'] || '';
+      const wealth = parseWealth(fam['Wealth (EUR)']);
+      const wealthStr = formatWealth(wealth);
+      const loc = fam['Company/Location (from list)'] || '';
+      const summary = fam['Summary (meta description)'] || '';
+      const profileUrl = fam['Profile URL'] || '';
+      const key = 'fam-' + i;
+      const isOpen = expandedRows.has(key);
+
+      // Find linked companies & people
+      const rawName = fam['Name/Family'] || '';
+      const linkedCompanies = DATA.companies.filter(c => c['Family/Entry'] === rawName);
+      const linkedPeople = DATA.people.filter(p => p['Family/Entry'] && rawName.includes(p['Family/Entry'].split('/')[0].trim().split(' ').pop()));
+
+      const expandContent = isOpen ? `
+        <tr><td colspan="6" class="px-4 pb-4 bg-surface-1 border-b border-surface-3">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2 fade-in">
+            <div>
+              <p class="text-xs font-semibold text-ink-2 uppercase tracking-wide mb-2">Summary</p>
+              <p class="text-sm text-ink-1 leading-relaxed">${summary || '<span class="text-ink-3 italic">No summary</span>'}</p>
+              <div class="mt-3 flex flex-wrap gap-2">
+                ${profileIcon(profileUrl)}
+              </div>
+            </div>
+            <div>
+              <p class="text-xs font-semibold text-ink-2 uppercase tracking-wide mb-2">Linked Companies (${linkedCompanies.length})</p>
+              <div class="flex flex-wrap gap-1 mb-3">
+                ${linkedCompanies.length ? linkedCompanies.slice(0, 15).map(c => `<span class="badge bg-purple-100 text-purple-700">${c['Company']}</span>`).join('') : '<span class="text-xs text-ink-3 italic">None found</span>'}
+              </div>
+              <p class="text-xs font-semibold text-ink-2 uppercase tracking-wide mb-2">Linked People (${linkedPeople.length})</p>
+              <div class="flex flex-wrap gap-1">
+                ${linkedPeople.length ? linkedPeople.slice(0, 10).map(p => `<span class="badge bg-emerald-100 text-emerald-700">${p['Person']} — ${p['Role'] || 'N/A'}</span>`).join('') : '<span class="text-xs text-ink-3 italic">None found</span>'}
+              </div>
+            </div>
+          </div>
+        </td></tr>
+      ` : '';
+
+      return `
+        <tr class="table-row border-b border-surface-3 cursor-pointer" data-expand="${key}">
+          <td class="px-4 py-3 text-sm font-mono text-ink-3 w-12">${rank}</td>
+          <td class="px-4 py-3">
+            <div class="text-sm font-semibold text-ink-0">${name}</div>
+            <div class="text-xs text-ink-2 mt-0.5">${loc}</div>
+          </td>
+          <td class="px-4 py-3 text-right">
+            <span class="text-sm font-bold text-ink-0">${wealthStr}</span>
+          </td>
+          <td class="px-4 py-3 text-center">
+            <span class="badge bg-purple-100 text-purple-700">${linkedCompanies.length}</span>
+          </td>
+          <td class="px-4 py-3 text-center">
+            <span class="badge bg-emerald-100 text-emerald-700">${linkedPeople.length}</span>
+          </td>
+          <td class="px-4 py-3 text-center">
+            <i data-lucide="chevron-down" class="w-4 h-4 text-ink-3 expand-btn ${isOpen ? 'open' : ''} inline-block"></i>
+          </td>
+        </tr>
+        ${expandContent}
+      `;
+    }).join('');
+
+    return `
+      <div class="card overflow-hidden">
+        <div class="overflow-x-auto">
+          <table class="w-full">
+            <thead class="bg-surface-2 text-xs text-ink-2 uppercase tracking-wide">
+              <tr>
+                <th class="px-4 py-3 text-left">Rank</th>
+                <th class="px-4 py-3 text-left">Family / Entry</th>
+                <th class="px-4 py-3 text-right">Wealth</th>
+                <th class="px-4 py-3 text-center">Companies</th>
+                <th class="px-4 py-3 text-center">People</th>
+                <th class="px-4 py-3 w-10"></th>
+              </tr>
+            </thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
+        ${items.length > 200 ? '<div class="p-3 text-center text-xs text-ink-3">Showing first 200 of ' + items.length + '</div>' : ''}
+      </div>
+    `;
+  }
+
+  // ─── COMPANIES TAB ───
+  function renderCompanies(f) {
+    let items = DATA.companies.filter(c => {
+      if (f.company && c['Company'] !== f.company) return false;
+      if (f.search && !matchSearch(c['Company'] + ' ' + c['Family/Entry'] + ' ' + (c['Industry'] || ''), f.search)) return false;
+      return true;
+    });
+
+    document.getElementById('resultCount').textContent = `${items.length} results`;
+
+    if (!items.length) return '<div class="card p-8 text-center text-ink-3">No companies match your filters.</div>';
+
+    let rows = items.slice(0, 300).map(c => {
+      const li = c['Company LinkedIn'] || '';
+      const web = c['Website'] || '';
+      const evidence = c['Evidence'] || '';
+      return `
+        <tr class="table-row border-b border-surface-3">
+          <td class="px-4 py-3 text-sm font-semibold text-ink-0">${c['Company'] || ''}</td>
+          <td class="px-4 py-3 text-sm text-ink-1">${cleanName(c['Family/Entry'] || '')}</td>
+          <td class="px-4 py-3 text-sm text-ink-2">${c['Industry'] || '—'}</td>
+          <td class="px-4 py-3 text-sm text-ink-2">${c['HQ'] || '—'}</td>
+          <td class="px-4 py-3">
+            <div class="flex flex-wrap gap-1">
+              ${linkedinIcon(li)}
+              ${web ? `<a href="${web}" target="_blank" class="link-pill bg-gray-100 text-gray-700 hover:bg-gray-200"><i data-lucide="globe" class="w-3 h-3"></i> Web</a>` : ''}
+              ${evidence ? `<a href="${evidence}" target="_blank" class="link-pill bg-amber-50 text-amber-600 hover:bg-amber-100"><i data-lucide="external-link" class="w-3 h-3"></i> Source</a>` : ''}
+            </div>
+          </td>
+        </tr>
+      `;
+    }).join('');
+
+    return `
+      <div class="card overflow-hidden">
+        <div class="overflow-x-auto">
+          <table class="w-full">
+            <thead class="bg-surface-2 text-xs text-ink-2 uppercase tracking-wide">
+              <tr>
+                <th class="px-4 py-3 text-left">Company</th>
+                <th class="px-4 py-3 text-left">Family</th>
+                <th class="px-4 py-3 text-left">Industry</th>
+                <th class="px-4 py-3 text-left">HQ</th>
+                <th class="px-4 py-3 text-left">Links</th>
+              </tr>
+            </thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
+        ${items.length > 300 ? '<div class="p-3 text-center text-xs text-ink-3">Showing first 300 of ' + items.length + '</div>' : ''}
+      </div>
+    `;
+  }
+
+  // ─── PEOPLE TAB ───
+  function renderPeople(f) {
+    let items = DATA.people.filter(p => {
+      if (f.company && p['Company'] !== f.company) return false;
+      if (f.search && !matchSearch(p['Person'] + ' ' + p['Role'] + ' ' + p['Company'] + ' ' + (p['Email'] || ''), f.search)) return false;
+      return true;
+    });
+
+    document.getElementById('resultCount').textContent = `${items.length} results`;
+
+    if (!items.length) return '<div class="card p-8 text-center text-ink-3">No people match your filters.</div>';
+
+    let rows = items.slice(0, 300).map(p => {
+      return `
+        <tr class="table-row border-b border-surface-3">
+          <td class="px-4 py-3">
+            <div class="text-sm font-semibold text-ink-0">${p['Person'] || ''}</div>
+          </td>
+          <td class="px-4 py-3 text-sm text-ink-1">${p['Role'] || '—'}</td>
+          <td class="px-4 py-3 text-sm text-ink-1">${p['Company'] || '—'}</td>
+          <td class="px-4 py-3">
+            ${linkedinIcon(p['LinkedIn'])}
+          </td>
+          <td class="px-4 py-3">
+            ${emailIcon(p['Email'])}
+          </td>
+        </tr>
+      `;
+    }).join('');
+
+    return `
+      <div class="card overflow-hidden">
+        <div class="overflow-x-auto">
+          <table class="w-full">
+            <thead class="bg-surface-2 text-xs text-ink-2 uppercase tracking-wide">
+              <tr>
+                <th class="px-4 py-3 text-left">Person</th>
+                <th class="px-4 py-3 text-left">Role</th>
+                <th class="px-4 py-3 text-left">Company</th>
+                <th class="px-4 py-3 text-left">LinkedIn</th>
+                <th class="px-4 py-3 text-left">Email</th>
+              </tr>
+            </thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
+        ${items.length > 300 ? '<div class="p-3 text-center text-xs text-ink-3">Showing first 300 of ' + items.length + '</div>' : ''}
+      </div>
+    `;
+  }
+
+  // Boot
+  loadData();
+  </script>
+</body>
+</html>
