@@ -1,2938 +1,802 @@
 [
  {
-  "Person": "Victor Ravago",
-  "Family/Entry": "Familie Van Gorp / Ravago",
-  "Role": "CEO",
-  "Company": "Bravo Hospitality Group",
-  "LinkedIn": "http://www.linkedin.com/in/victorravago",
-  "Email": "victor@bravohmg.com"
+  "Person": "Eric Wittouck",
+  "Family/Entry": "Eric Wittouck",
+  "Role": "Chairman of Artal Group",
+  "Company": "Artal Group",
+  "LinkedIn": "https://mc.linkedin.com/in/eric-wittouck-736572366",
+  "Email": ""
  },
  {
-  "Person": "Sami Amira",
-  "Family/Entry": "Familie Van Gorp / Ravago",
-  "Role": "President & CEO",
-  "Company": "Ravago Türkiye",
-  "LinkedIn": "http://www.linkedin.com/in/sami-amira-34873b62",
-  "Email": "sami.amira@ravago.com"
+  "Person": "Amaury Wittouck",
+  "Family/Entry": "Eric Wittouck",
+  "Role": "President & Chairman, operational control of family wealth",
+  "Company": "Artal Group",
+  "LinkedIn": "https://www.linkedin.com/in/amaury-wittouck-97446252/",
+  "Email": ""
  },
  {
-  "Person": "Denis Gorteman",
-  "Family/Entry": "Familie D'Ieteren",
-  "Role": "CEO",
-  "Company": "D'Ieteren",
-  "LinkedIn": "http://www.linkedin.com/in/denis-gorteman",
-  "Email": "denis.gorteman@dieteren.be"
+  "Person": "Raymond Debbane",
+  "Family/Entry": "Eric Wittouck",
+  "Role": "CEO of Artal Group & Managing Director, President and CEO of Invus",
+  "Company": "Artal Group / Invus",
+  "LinkedIn": "https://www.invus.com/team/raymond-debbane/",
+  "Email": ""
  },
  {
-  "Person": "Ingrid Vanblaere",
-  "Family/Entry": "Familie D'Ieteren",
-  "Role": "CEO - Bestuurder",
-  "Company": "Transport Care (member of D'Ieteren Group)",
-  "LinkedIn": "http://www.linkedin.com/in/ingridvanblaere",
-  "Email": "ingrid@transportcare.eu"
+  "Person": "Alexandre Van Damme",
+  "Family/Entry": "Alexandre Van Damme",
+  "Role": "Director & Representative of Main Shareholders",
+  "Company": "AB InBev",
+  "LinkedIn": "https://www.ab-inbev.com/board/alexandre-van-damme",
+  "Email": ""
  },
  {
-  "Person": "Paul Mello",
-  "Family/Entry": "Familie Janssen / Solvay",
-  "Role": "President & CEO",
-  "Company": "Solvay Bank",
-  "LinkedIn": "http://www.linkedin.com/in/paul-mello-a7461537",
-  "Email": "pmello@solvaybank.com"
+  "Person": "Grégoire de Spoelberch",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "Director & Representative of Main Shareholders",
+  "Company": "AB InBev",
+  "LinkedIn": "https://www.ab-inbev.com/board/gregoire-de-spoelberch",
+  "Email": ""
  },
  {
-  "Person": "Aristote Pierre",
-  "Family/Entry": "Pierre Lagrange Pierre Lagrange -",
-  "Role": "Student",
-  "Company": "LaGrange College",
-  "LinkedIn": "http://www.linkedin.com/in/aristote-pierre-a68a5b47",
-  "Email": "apierre@lagrange.edu"
+  "Person": "Philippe de Spoelberch",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "Non-Executive Director & Dendrologist",
+  "Company": "Floridienne / Carmeuse",
+  "LinkedIn": "https://be.linkedin.com/in/philippe-de-spoelberch-6b11442a9",
+  "Email": ""
  },
  {
-  "Person": "Pierre Lagrange",
-  "Family/Entry": "Pierre Lagrange Pierre Lagrange -",
-  "Role": "CEO",
-  "Company": "Mrs Wordsmith",
-  "LinkedIn": "http://www.linkedin.com/in/pierrelagrange1",
-  "Email": "pierre@lagrange.co.uk"
+  "Person": "Werner de Spoelberch",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "Patriarch of family (deceased)",
+  "Company": "AB InBev",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Jean-Pierre Filippini",
-  "Family/Entry": "",
-  "Role": "Managing Director/CEO",
-  "Company": "Carglass® Germany",
-  "LinkedIn": "http://www.linkedin.com/in/jean-pierre-filippini-06a81a4",
-  "Email": "jean-pierre.filippini@carglass.de"
+  "Person": "Daniel Janssen",
+  "Family/Entry": "Familie Janssen",
+  "Role": "Honorary Chairman of Solvay, former Vice-Chairman UCB",
+  "Company": "Solvay / UCB",
+  "LinkedIn": "https://be.linkedin.com/in/daniel-janssen-90010a60",
+  "Email": ""
  },
  {
-  "Person": "Martha Stephanopoulou",
-  "Family/Entry": "",
-  "Role": "Deputy General Manager & CEO",
-  "Company": "Carglass® Greece",
-  "LinkedIn": "http://www.linkedin.com/in/martha-stephanopoulou-45313544",
-  "Email": "mstephanopoulou@carglass.gr"
+  "Person": "Charles-Antoine Janssen",
+  "Family/Entry": "Familie Janssen",
+  "Role": "Member of the Board, CEO of Financière de Tubize",
+  "Company": "UCB / Financière de Tubize",
+  "LinkedIn": "https://in.linkedin.com/in/charles-antoine-janssen",
+  "Email": ""
  },
  {
-  "Person": "Natalie Diedrichs",
-  "Family/Entry": "",
-  "Role": "CEO Communications",
-  "Company": "Volkswagen",
-  "LinkedIn": "http://www.linkedin.com/in/natalie-diedrichs-a054b0186",
-  "Email": "natalie.ann.diedrichs@volkswagen.de"
+  "Person": "Theo Roussis",
+  "Family/Entry": "Familie Roussis - Van Gorp",
+  "Role": "Former CEO, married to Gunhilde Van Gorp",
+  "Company": "Ravago",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Eduardo Freire",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Volkswagen Comasa",
-  "LinkedIn": "http://www.linkedin.com/in/eduardo-freire-16618121",
-  "Email": "eduardo@comasa.com.br"
+  "Person": "Axel Roussis",
+  "Family/Entry": "Familie Roussis - Van Gorp",
+  "Role": "CEO (since 2023), Deputy CEO, Commercial Director",
+  "Company": "Ravago",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Jean-Pierre Filippini",
-  "Family/Entry": "",
-  "Role": "Managing Director/CEO",
-  "Company": "Carglass® Germany",
-  "LinkedIn": "http://www.linkedin.com/in/jean-pierre-filippini-06a81a4",
-  "Email": "jean-pierre.filippini@carglass.de"
+  "Person": "Gunhilde Van Gorp",
+  "Family/Entry": "Familie Roussis - Van Gorp",
+  "Role": "President, daughter of founder Raf Van Gorp",
+  "Company": "Ravago",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Nathalie Gilson",
-  "Family/Entry": "",
-  "Role": "PA to CEO and to Finance & Administration Director",
-  "Company": "Carglass Belgium",
-  "LinkedIn": "http://www.linkedin.com/in/nathalie-gilson-b3260274",
-  "Email": "nathalie.gilson@carglass.be"
+  "Person": "Nicolas D'Ieteren",
+  "Family/Entry": "Familie Périer-D'Ieteren",
+  "Role": "Chairman of the Board of Directors",
+  "Company": "D'Ieteren Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Deniz Aydincan",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "AGL Agemar Global Logistics AS",
-  "LinkedIn": "http://www.linkedin.com/in/deniz-aydincan-790194160",
-  "Email": "deniz@agl-agemar.com"
+  "Person": "Olivier Périer",
+  "Family/Entry": "Familie Périer-D'Ieteren",
+  "Role": "Former Deputy Chairman (sold stake in 2024), managed family wealth",
+  "Company": "D'Ieteren Group / SPDG",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Nathalia Moreira",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Ambev",
-  "LinkedIn": "http://www.linkedin.com/in/nathalia-moreira-140a7a304",
-  "Email": "nathalia.erthal.moreira@ambev.com.br"
+  "Person": "Roland D'Ieteren",
+  "Family/Entry": "Familie Périer-D'Ieteren",
+  "Role": "Former Chairman (deceased 2020)",
+  "Company": "D'Ieteren Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Candelaria Lysak",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Ambev",
-  "LinkedIn": "http://www.linkedin.com/in/candelaria-p%c3%a9rez-de-lysak-48aba624a",
-  "Email": "candelaria.lysak@ambev.com.br"
+  "Person": "Catheline Périer-D'Ieteren",
+  "Family/Entry": "Familie Périer-D'Ieteren",
+  "Role": "Major Shareholder, Professor emeritus ULB",
+  "Company": "D'Ieteren Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Bart Hendrix",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Gemeente Hoegaarden",
-  "LinkedIn": "http://www.linkedin.com/in/bart-hendrix-338034b9",
-  "Email": "bart.hendrix@gemhoegaarden.be"
+  "Person": "Jean-Louis de Cartier de Marchienne",
+  "Family/Entry": "De families André Emsens, Voortman, de Cartier de Marchienne en van der Rest",
+  "Role": "Former Chairman of Etex, Board Member (great-great-grandson of founder)",
+  "Company": "Etex",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Hans Moors",
-  "Family/Entry": "",
-  "Role": "Power BI Related to Search Terms in Your Query Expert Related to Search Terms in Your Query -change Manager-product Owner",
-  "Company": "Voka - Kamer van Koophandel Vlaams-Brabant",
-  "LinkedIn": "http://www.linkedin.com/in/deceauratiohansmoors",
-  "Email": "hans.moors@voka.be"
+  "Person": "Paul Van Oyen",
+  "Family/Entry": "De families André Emsens, Voortman, de Cartier de Marchienne en van der Rest",
+  "Role": "Former CEO/Managing Director (2015-2021)",
+  "Company": "Etex",
+  "LinkedIn": "https://be.linkedin.com/in/paul-van-oyen-4136521",
+  "Email": ""
  },
  {
-  "Person": "Els Rossignol",
-  "Family/Entry": "",
-  "Role": "Managing Director CM SMB & Director Gezondheid, Welzijn & Participatie Vlaams-Brabant & Brussel",
-  "Company": "CM - Christelijke Mutualiteit",
-  "LinkedIn": "http://www.linkedin.com/in/els-rossignol-67353939",
-  "Email": "els.rossignol@cm.be"
+  "Person": "Walter Emsens",
+  "Family/Entry": "De families André Emsens, Voortman, de Cartier de Marchienne en van der Rest",
+  "Role": "Board Director (family representative)",
+  "Company": "Etex",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Sara Cochi",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to CEO",
-  "Company": "Aliaxis",
-  "LinkedIn": "http://www.linkedin.com/in/sara-cochi-755b8717a",
-  "Email": "sara.cochi@aliaxis.com"
+  "Person": "Guillaume Voortman",
+  "Family/Entry": "De families André Emsens, Voortman, de Cartier de Marchienne en van der Rest",
+  "Role": "Board Director (family representative)",
+  "Company": "Etex",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Laure Friart",
-  "Family/Entry": "",
-  "Role": "Chief of Staff | CEO Office",
-  "Company": "Aliaxis",
-  "LinkedIn": "http://www.linkedin.com/in/laure-friart-78b252126",
-  "Email": "laure.friart@aliaxis.com"
+  "Person": "Frédéric de Mévius",
+  "Family/Entry": "Familie de Mévius",
+  "Role": "Founder and former CEO/Executive Chairman of Verlinvest (1995-2019), Founder Planet First Partners",
+  "Company": "Verlinvest / Planet First Partners",
+  "LinkedIn": "https://be.linkedin.com/in/frédéric-de-mévius-60a43211",
+  "Email": ""
  },
  {
-  "Person": "Abdullah Alwahaibi",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Artal Services Firm",
-  "LinkedIn": "http://www.linkedin.com/in/abdullah-alwahaibi-b7a8b0176",
-  "Email": "abdullah@artalservices.com"
+  "Person": "Jan Boone",
+  "Family/Entry": "Familie Boone en Stevens (Lotus Bakeries)",
+  "Role": "CEO & Managing Director (since 2011), Board Member",
+  "Company": "Lotus Bakeries",
+  "LinkedIn": "https://be.linkedin.com/in/jan-boone-a0575334",
+  "Email": ""
  },
  {
-  "Person": "Marcelo Artal",
-  "Family/Entry": "",
-  "Role": "Co Founder and CEO",
-  "Company": "HEDGIT",
-  "LinkedIn": "http://www.linkedin.com/in/marceloartal",
-  "Email": "martal@hedgit.ai"
- },
- {
-  "Person": "Robert Jacobs",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Weight Watchers",
-  "LinkedIn": "http://www.linkedin.com/in/robert-jacobs-6327779",
-  "Email": "robert.jacobs@weightwatchers.com"
- },
- {
-  "Person": "Mary Macdonald",
-  "Family/Entry": "",
-  "Role": "CEO at WeightWatchers",
-  "Company": "Weight Watchers",
-  "LinkedIn": "http://www.linkedin.com/in/mary-macdonald-99720033",
-  "Email": "mary.macdonald@weightwatchers.com"
- },
- {
-  "Person": "Michelle Arendonk",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "BlueCollar Working Dog",
-  "LinkedIn": "http://www.linkedin.com/in/michellevan",
-  "Email": "michelle@bluecollarworkingdog.com"
- },
- {
-  "Person": "Paul Van Arendonk",
-  "Family/Entry": "",
-  "Role": "Sr. Marketing / Product Owner Datateam Commercie",
-  "Company": "GVB",
-  "LinkedIn": "http://www.linkedin.com/in/paulvanarendonk",
-  "Email": "paul.vanarendonk@gvb.nl"
- },
- {
-  "Person": "Nathalie Piedboeuf",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Groupe d'éducation et d'écosurveillance de l'eau (G3E)",
-  "LinkedIn": "http://www.linkedin.com/in/nathalie-piedboeuf-546a3039",
-  "Email": "npiedboeuf@g3e-ewag.ca"
- },
- {
-  "Person": "Kunal Sanghi",
-  "Family/Entry": "",
-  "Role": "Founder & CEO",
-  "Company": "Lotus",
-  "LinkedIn": "http://www.linkedin.com/in/kunalsanghi",
-  "Email": "kunal@lotushealth.com"
- },
- {
-  "Person": "Luiz Hernandez",
-  "Family/Entry": "",
-  "Role": "Co CEO",
-  "Company": "Lotus",
-  "LinkedIn": "http://www.linkedin.com/in/luiz-felipe-hernandez-3086ab342",
-  "Email": "luiz@lotuscidade.com.br"
- },
- {
-  "Person": "Aphrodite Voss",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to the Chairman and CEO",
-  "Company": "Mondelez International, Inc.",
-  "LinkedIn": "http://www.linkedin.com/in/aphrodite-voss-0ba04672",
-  "Email": "aphrodite.voss@mdlz.com"
- },
- {
-  "Person": "Frances Gesek",
-  "Family/Entry": "",
-  "Role": "Senior Executive Admin to the EVP, Chief Research & Development Officer",
-  "Company": "Mondelez International, Inc.",
-  "LinkedIn": "http://www.linkedin.com/in/frances-gesek",
-  "Email": "frances.gesek@mondelezinternational.com"
+  "Person": "Jef Colruyt",
+  "Family/Entry": "Familie Colruyt",
+  "Role": "Chairman of the Board (former CEO until 2023)",
+  "Company": "Colruyt Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
   "Person": "Stefan Goethaert",
-  "Family/Entry": "",
-  "Role": "CEO",
+  "Family/Entry": "Familie Colruyt",
+  "Role": "CEO (since 2023)",
   "Company": "Colruyt Group",
-  "LinkedIn": "http://www.linkedin.com/in/stefan-goethaert-4848156",
-  "Email": "stefan.goethaert@colruytgroup.com"
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Koen Van Der Taelen",
-  "Family/Entry": "",
-  "Role": "Strategic Business Advisor to the CEO & ExCom; Head of Strategic Business Advisory Team",
+  "Person": "Frans Colruyt",
+  "Family/Entry": "Familie Colruyt",
+  "Role": "Director of the Board",
   "Company": "Colruyt Group",
-  "LinkedIn": "http://www.linkedin.com/in/kvdtaele",
-  "Email": "koen.vandertaelen@colruytgroup.com"
+  "LinkedIn": "https://be.linkedin.com/in/frans-colruyt-49b9a5123",
+  "Email": ""
  },
  {
-  "Person": "Francois Van Leeuw",
-  "Family/Entry": "",
-  "Role": "CO-CEO",
-  "Company": "Parkwind",
-  "LinkedIn": "http://www.linkedin.com/in/fran%c3%a7ois-van-leeuw-800736374",
-  "Email": "francois.vanleeuw@parkwind.eu"
+  "Person": "Jan Pieter De Nul",
+  "Family/Entry": "Familie De Nul",
+  "Role": "CEO (since 1978)",
+  "Company": "Jan De Nul Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Paul Tummers",
-  "Family/Entry": "",
+  "Person": "Dirk De Nul",
+  "Family/Entry": "Familie De Nul",
+  "Role": "Co-owner, expanded business with Jan Pieter",
+  "Company": "Jan De Nul Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Harold Boël",
+  "Family/Entry": "Familie Boël",
   "Role": "Chief Executive Officer",
-  "Company": "Virya Energy",
-  "LinkedIn": "http://www.linkedin.com/in/ptummers",
-  "Email": "paul.tummers@virya-energy.com"
- },
- {
-  "Person": "Veronique Vandenbosch",
-  "Family/Entry": "",
-  "Role": "HR Professional - Zelfstandig Owner",
-  "Company": "Virya Energy",
-  "LinkedIn": "http://www.linkedin.com/in/v%c3%a9ronique-vandenbosch-5a28a89",
-  "Email": "veronique.vandenbosch@virya-energy.com"
- },
- {
-  "Person": "Wendell McCain",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Onset Capital Partners",
-  "LinkedIn": "http://www.linkedin.com/in/wendell-mccain-6a721",
-  "Email": "wmccain@onsetcapitalpartners.com"
- },
- {
-  "Person": "Joseph McCain",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "IRDSI LLC",
-  "LinkedIn": "http://www.linkedin.com/in/joseph-mccain-80387643",
-  "Email": "jmccain@irdsinc.com"
- },
- {
-  "Person": "Stef Van Nieuwkerke",
-  "Family/Entry": "",
-  "Role": "Company Owner",
-  "Company": "Compusearch bv",
-  "LinkedIn": "http://www.linkedin.com/in/compusearch",
-  "Email": "stef@compusearch.be"
- },
- {
-  "Person": "Claudio Grosso",
-  "Family/Entry": "",
-  "Role": "Group CEO",
-  "Company": "Aalst Sport",
-  "LinkedIn": "http://www.linkedin.com/in/claudio-grosso-083b56184",
-  "Email": "cgrosso@aalstsport.be"
- },
- {
-  "Person": "Gabriel Aalst",
-  "Family/Entry": "",
-  "Role": "President & CEO",
-  "Company": "Dayton Live",
-  "LinkedIn": "http://www.linkedin.com/in/gabriel-van-aalst-6b0b3232",
-  "Email": "gabriel.vanaalst@daytonlive.org"
- },
- {
-  "Person": "Piet Dejonghe",
-  "Family/Entry": "",
-  "Role": "co-CEO",
-  "Company": "Ackermans & van Haaren",
-  "LinkedIn": "http://www.linkedin.com/in/piet-dejonghe",
-  "Email": "piet.dejonghe@avh.be"
- },
- {
-  "Person": "Willie-Jan Ackermans",
-  "Family/Entry": "",
-  "Role": "Lead Consultant and CEO",
-  "Company": "DATAKINGS",
-  "LinkedIn": "http://www.linkedin.com/in/willie-jan-ackermans-740aa05",
-  "Email": "willie-jan@datakings.it"
- },
- {
-  "Person": "Frederic Petre",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Commune de Court-Saint-Etienne",
-  "LinkedIn": "http://www.linkedin.com/in/fr%c3%a9d%c3%a9ric-petre-b65b6028",
-  "Email": "fpe@court-st-etienne.be"
- },
- {
-  "Person": "Marie-Noelle Remue",
-  "Family/Entry": "",
-  "Role": "Assistant to the CEO, Chairman and Board",
   "Company": "Sofina",
-  "LinkedIn": "http://www.linkedin.com/in/marie-no%c3%ablle-remue-bb0a5b59",
-  "Email": "marie-noelle.remue@sofinagroup.com"
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Chris M",
-  "Family/Entry": "",
-  "Role": "Chauffeur, Driver to CEO",
-  "Company": "Sofina Foods Europe",
-  "LinkedIn": "http://www.linkedin.com/in/chris-m-416764108",
-  "Email": "cm@sofinafoods.com"
+  "Person": "Nicolas Boël",
+  "Family/Entry": "Familie Boël",
+  "Role": "Member of the Board at Sofina (since 2007), Board Member at Solvay (since 1998)",
+  "Company": "Sofina / Solvay",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Gianfranco Menchi",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "GBL srl",
-  "LinkedIn": "http://www.linkedin.com/in/gianfranco-menchi-154b0a62",
-  "Email": "gianfranco.menchi@gblsrl.it"
+  "Person": "Jean-Pierre Berghmans",
+  "Family/Entry": "Familie Lhoist-Berghmans",
+  "Role": "Baron, Chairman of the Board",
+  "Company": "Lhoist Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Nunziante Graziano",
-  "Family/Entry": "",
-  "Role": "Group CEO",
-  "Company": "GBL - GIMI BONOMI Latin América",
-  "LinkedIn": "http://www.linkedin.com/in/nunziante-graziano-89b41a1",
-  "Email": "nunziante@gimibonomi.com.br"
+  "Person": "Philipp Niemann",
+  "Family/Entry": "Familie Lhoist-Berghmans",
+  "Role": "CEO (current)",
+  "Company": "Lhoist Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Rodolphe Collinet",
-  "Family/Entry": "",
-  "Role": "Group CEO",
-  "Company": "Carmeuse",
-  "LinkedIn": "http://www.linkedin.com/in/rodolphe-collinet",
-  "Email": "rodolphe.collinet@carmeuse.com"
+  "Person": "Marcos França",
+  "Family/Entry": "Familie Lhoist-Berghmans",
+  "Role": "CEO / former CEO",
+  "Company": "Lhoist Group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Sandra Cueto",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to CEO",
-  "Company": "Carmeuse",
-  "LinkedIn": "http://www.linkedin.com/in/sandra-del-cueto-748798170",
-  "Email": "sandra.delcueto@carmeuse.com"
+  "Person": "Fernand Huts",
+  "Family/Entry": "Fernand en Karine Huts",
+  "Role": "Owner & Chairman",
+  "Company": "Katoen Natie",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Thiago Avelar",
-  "Family/Entry": "",
-  "Role": "CEO Latin America",
-  "Company": "Lhoist",
-  "LinkedIn": "http://www.linkedin.com/in/thiago-avelar-196b8232",
-  "Email": "thiago.avelar@lhoist.com"
- },
- {
-  "Person": "Dominique Giudicelli",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to CEO Europe",
-  "Company": "Lhoist",
-  "LinkedIn": "http://www.linkedin.com/in/dominique-giudicelli-b4193692",
-  "Email": "dominique.giudicelli@lhoist.com"
- },
- {
-  "Person": "Takuya Yamada",
-  "Family/Entry": "",
-  "Role": "Chairman and CEO",
-  "Company": "Fosun Hive",
-  "LinkedIn": "http://www.linkedin.com/in/takuya-yamada-050233168",
-  "Email": "takuya.yamada@idera-capital.com"
- },
- {
-  "Person": "Yifei Wang",
-  "Family/Entry": "",
-  "Role": "Fosun Global Partner, Deputy Chairman and CEO of Fosun Hive",
-  "Company": "Fosun Hive",
-  "LinkedIn": "http://www.linkedin.com/in/yifei-wang-2145a487",
-  "Email": "yifei.wang@fosunproperty.com"
- },
- {
-  "Person": "Paul Bruycker",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Indaver",
-  "LinkedIn": "http://www.linkedin.com/in/pauldebruycker",
-  "Email": "paul.de.bruycker@indaver.com"
- },
- {
-  "Person": "Patrick Barton",
-  "Family/Entry": "",
-  "Role": "Project Area Owner",
-  "Company": "Indaver Ireland & UK MSW",
-  "LinkedIn": "http://www.linkedin.com/in/patrick-barton-77751b54",
-  "Email": "patrick.barton@indaver.com"
- },
- {
-  "Person": "Gaetan Servais",
-  "Family/Entry": "",
-  "Role": "CEO Groupe Noshaq",
-  "Company": "Noshaq",
-  "LinkedIn": "http://www.linkedin.com/in/ga%c3%abtan-servais-7b027b18",
-  "Email": "g.servais@noshaq.be"
- },
- {
-  "Person": "Joanna Tyrekidis",
-  "Family/Entry": "",
-  "Role": "CEO Ukko / Head of Energy",
-  "Company": "Noshaq",
-  "LinkedIn": "http://www.linkedin.com/in/joanna-tyrekidis-78733415",
-  "Email": "j.tyrekidis@noshaq.be"
+  "Person": "Karine Huts",
+  "Family/Entry": "Fernand en Karine Huts",
+  "Role": "Co-owner",
+  "Company": "Katoen Natie",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
   "Person": "Fabien Pinckaers",
-  "Family/Entry": "",
-  "Role": "CEO & Founder at Odoo",
+  "Family/Entry": "Fabien Pinckaers",
+  "Role": "CEO & Founder",
   "Company": "Odoo",
-  "LinkedIn": "http://www.linkedin.com/in/fpodoo",
-  "Email": "fp@odoo.com"
- },
- {
-  "Person": "Hadi Saeed",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Odoo Concepts",
-  "LinkedIn": "http://www.linkedin.com/in/hadi-saeed-a8aa91125",
-  "Email": "hadisaeed@odooconcepts.com"
- },
- {
-  "Person": "Aleksander Gwizdala",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Abriso Jiffy",
-  "LinkedIn": "http://www.linkedin.com/in/aleksander-gwizda%c5%82a-9576124",
-  "Email": "agwizdala@abrisojiffy.com"
- },
- {
-  "Person": "Dan Gavriliu",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Abriso Jiffy",
-  "LinkedIn": "http://www.linkedin.com/in/dan-gavriliu-8483b213",
-  "Email": "dgavriliu@abrisojiffy.com"
- },
- {
-  "Person": "Renske Vriend",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Bencis",
-  "LinkedIn": "http://www.linkedin.com/in/renske-vriend-63316013",
-  "Email": "rvriend@bencis.com"
- },
- {
-  "Person": "Tobias Classen",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Bencis",
-  "LinkedIn": "http://www.linkedin.com/in/tobias-cla%c3%9fen-a0825ab2",
-  "Email": "tclassen@bencis.com"
- },
- {
-  "Person": "Christophe Vandecasteele",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Lendelede",
-  "LinkedIn": "http://www.linkedin.com/in/christophevdc",
-  "Email": "christophe.vandecasteele@lendelede.be"
- },
- {
-  "Person": "Robin Patteeuw",
-  "Family/Entry": "",
-  "Role": "Manager CEO Office / Chief of Staff to the CEO",
-  "Company": "TVH",
-  "LinkedIn": "http://www.linkedin.com/in/robin-patteeuw-949575b1",
-  "Email": "robin.patteeuw@tvh.com"
- },
- {
-  "Person": "Kristof Coudenys",
-  "Family/Entry": "",
-  "Role": "CEO • Member of the Board",
-  "Company": "TVH EQUIPMENT",
-  "LinkedIn": "http://www.linkedin.com/in/kristof-coudenys",
-  "Email": "kristof.coudenys@tvhequipment.com"
- },
- {
-  "Person": "Chad Knutson",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "SBS CyberSecurity",
-  "LinkedIn": "http://www.linkedin.com/in/chad-knutson",
-  "Email": "chad.knutson@sbscyber.com"
- },
- {
-  "Person": "Kong Yu",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "SBS INC",
-  "LinkedIn": "http://www.linkedin.com/in/kong-yu-8897bb19",
-  "Email": "kong@s-b-s.net"
- },
- {
-  "Person": "Luc Vandenbulcke",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "DEME Group",
-  "LinkedIn": "http://www.linkedin.com/in/luc-vandenbulcke-71a68315b",
-  "Email": "vandenbulcke.luc@deme-group.com"
- },
- {
-  "Person": "Cheikh Deme",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "SOMONE",
-  "LinkedIn": "http://www.linkedin.com/in/cheikhsadiboudeme",
-  "Email": "csdeme@somone.fr"
- },
- {
-  "Person": "Roel Kluiver",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "SIPEF",
-  "LinkedIn": "http://www.linkedin.com/in/roeld1",
-  "Email": "rkluiver@sipef.com"
- },
- {
-  "Person": "Charles Wulf",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "SIPEF",
-  "LinkedIn": "http://www.linkedin.com/in/charlesdewulf",
-  "Email": "cdewulf@sipef.com"
- },
- {
-  "Person": "Elex Leyton",
-  "Family/Entry": "",
-  "Role": "Production Operations Manager, Business Owner",
-  "Company": "Cascade Die Casting Group, Inc.",
-  "LinkedIn": "http://www.linkedin.com/in/elex-leyton-191b52bb",
-  "Email": "eleyton@cascade-cdc.com"
- },
- {
-  "Person": "Kathleen Bergoets",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Stad Sint-Truiden",
-  "LinkedIn": "http://www.linkedin.com/in/kathleen-bergoets-a3a716131",
-  "Email": "kathleen.bergoets@sint-truiden.be"
- },
- {
-  "Person": "Rosanna Pascariello",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Zorgbedrijf Sint-Truiden",
-  "LinkedIn": "http://www.linkedin.com/in/rosanna-pascariello-43812729b",
-  "Email": "rosanna.pascariello@zorgbedrijfsinttruiden.be"
- },
- {
-  "Person": "Stephen Fraeye",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "WILFRA WAREGEM",
-  "LinkedIn": "http://www.linkedin.com/in/stephen-fraeye-05396610",
-  "Email": "stephen.fraeye@wilfra.be"
- },
- {
-  "Person": "Filip Beirlaen",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Waregem Motors",
-  "LinkedIn": "http://www.linkedin.com/in/filip-beirlaen-84481816",
-  "Email": "filip@berfico.be"
- },
- {
-  "Person": "Jean-Marie Josi",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Cobepa",
-  "LinkedIn": "http://www.linkedin.com/in/jean-marie-laurent-josi-9362206",
-  "Email": "jmlaurentjosi@cobepa.com"
- },
- {
-  "Person": "Filip Vanderschueren",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Cobepa",
-  "LinkedIn": "http://www.linkedin.com/in/filipvanderschueren",
-  "Email": "fvanderschueren@cobepa.com"
- },
- {
-  "Person": "William Nobecourt",
-  "Family/Entry": "",
-  "Role": "Business Process Owner",
-  "Company": "VPK Packaging France",
-  "LinkedIn": "http://www.linkedin.com/in/william-nob%c3%a9court-683185a4",
-  "Email": "william.nobecourt@vpkgroup.com"
- },
- {
-  "Person": "Aurelie Gamelon-Samarcq",
-  "Family/Entry": "",
-  "Role": "Process Owner Customer Service",
-  "Company": "VPK Packaging France",
-  "LinkedIn": "http://www.linkedin.com/in/aurelie-gamelon-samarcq-581b5b16",
-  "Email": "aurelie.samarcq@ondulys.fr"
- },
- {
-  "Person": "Asep Kodir",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Picanol Indonesia",
-  "LinkedIn": "http://www.linkedin.com/in/asep-abdul-kodir-47081a45",
-  "Email": "asep.kodir@picanol.be"
- },
- {
-  "Person": "Leonardo Frixione",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Picanol Weaving Machines",
-  "LinkedIn": "http://www.linkedin.com/in/leonardo-frixione-5382b1b",
-  "Email": "leonardo.frixione@picanol.be"
- },
- {
-  "Person": "Marc Biron",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "MELEXIS",
-  "LinkedIn": "http://www.linkedin.com/in/marc-biron-8a30b53",
-  "Email": "mbi@melexis.com"
- },
- {
-  "Person": "Spoorti Sambrani",
-  "Family/Entry": "",
-  "Role": "Process Owner",
-  "Company": "MELEXIS",
-  "LinkedIn": "http://www.linkedin.com/in/spoorti-sambrani-88293233",
-  "Email": "psm@melexis.com"
- },
- {
-  "Person": "Josue Balta",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Dibal",
-  "LinkedIn": "http://www.linkedin.com/in/josuebalta",
-  "Email": "jbalta@dibal.pe"
- },
- {
-  "Person": "Jurica Balta",
-  "Family/Entry": "",
-  "Role": "CEO/Founder",
-  "Company": "ACID Point of Sale",
-  "LinkedIn": "http://www.linkedin.com/in/jbalta",
-  "Email": "jury@acidpos.com"
- },
- {
-  "Person": "Logan Marshall",
-  "Family/Entry": "",
-  "Role": "Chief of Staff to the CEO",
-  "Company": "Global Atlantic",
-  "LinkedIn": "http://www.linkedin.com/in/loganmarshall",
-  "Email": "logan.marshall@globalatlantic.com"
- },
- {
-  "Person": "Allan Levine",
-  "Family/Entry": "",
-  "Role": "Chairman and Chief Executive Officer",
-  "Company": "Global Atlantic",
-  "LinkedIn": "http://www.linkedin.com/in/allan-levine",
-  "Email": "allan.levine@globalatlantic.com"
- },
- {
-  "Person": "Pierre Tossut",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Puratos",
-  "LinkedIn": "http://www.linkedin.com/in/pierre-tossut-72933386",
-  "Email": "ptossut@puratos.com"
- },
- {
-  "Person": "Daisy Debilde",
-  "Family/Entry": "",
-  "Role": "Global Shared Services Sr. Process Owner & Transition Manager",
-  "Company": "Puratos",
-  "LinkedIn": "http://www.linkedin.com/in/daisy-debilde-2647363",
-  "Email": "ddebilde@puratos.com"
- },
- {
-  "Person": "Isolde Andouard",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "IRO PARIS",
-  "LinkedIn": "http://www.linkedin.com/in/isolde-andouard",
-  "Email": "isolde.andouard@iroparis.com"
- },
- {
-  "Person": "Elisa Haddad",
-  "Family/Entry": "",
-  "Role": "Chief of Staff to the CEO",
-  "Company": "IRO PARIS",
-  "LinkedIn": "http://www.linkedin.com/in/elisa-haddad-2a71a898",
-  "Email": "elisa.haddad@iro.fr"
- },
- {
-  "Person": "Ersenilda Elezi",
-  "Family/Entry": "",
-  "Role": "Chief CEO",
-  "Company": "Vigan Solutions",
-  "LinkedIn": "http://www.linkedin.com/in/ersenildaelezi",
-  "Email": "ersenildaelezi@vigangroup.com"
- },
- {
-  "Person": "Vigan Salihu",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "JYSK Kosova",
-  "LinkedIn": "http://www.linkedin.com/in/vigan-salihu-b83999150",
-  "Email": "vs@jysk-ks.com"
- },
- {
-  "Person": "Bart Lammens",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Richtpunt campus Ninove-Zottegem",
-  "LinkedIn": "http://www.linkedin.com/in/bart-lammens-17587b278",
-  "Email": "bart.lammens@richtpuntzottegem.be"
- },
- {
-  "Person": "Wolf Harlfinger",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Quarzwerke GmbH",
-  "LinkedIn": "http://www.linkedin.com/in/dr-wolf-harlfinger-a5a45983",
-  "Email": "harlfinger@quarzwerke.com"
- },
- {
-  "Person": "Jens-Uwe Klemens",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Quarzwerke GmbH",
-  "LinkedIn": "http://www.linkedin.com/in/jens-uwe-klemens-58b8887a",
-  "Email": "klemens@quarzwerke.com"
- },
- {
-  "Person": "Sophie Janssens",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to Group CEO and CFO at Sibelco",
-  "Company": "Sibelco Group",
-  "LinkedIn": "http://www.linkedin.com/in/sophie-janssens-a6917b17",
-  "Email": "sophie.janssens@sibelco.com"
- },
- {
-  "Person": "Hilmar Rode",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Sibelco Group",
-  "LinkedIn": "http://www.linkedin.com/in/hilmar-rode-928ab75",
-  "Email": "hilmar.rode@sibelco.com"
- },
- {
-  "Person": "Marie-Noelle Remue",
-  "Family/Entry": "",
-  "Role": "Assistant to the CEO, Chairman and Board",
-  "Company": "Sofina",
-  "LinkedIn": "http://www.linkedin.com/in/marie-no%c3%ablle-remue-bb0a5b59",
-  "Email": "marie-noelle.remue@sofinagroup.com"
- },
- {
-  "Person": "Chris M",
-  "Family/Entry": "",
-  "Role": "Chauffeur, Driver to CEO",
-  "Company": "Sofina Foods Europe",
-  "LinkedIn": "http://www.linkedin.com/in/chris-m-416764108",
-  "Email": "cm@sofinafoods.com"
- },
- {
-  "Person": "Ann Dhoedt",
-  "Family/Entry": "",
-  "Role": "",
-  "Company": "medina | cma | lko-lmc | akl",
-  "LinkedIn": "http://www.linkedin.com/in/ann-dhoedt-a499262",
-  "Email": "ann.dhoedt@medina.be"
- },
- {
-  "Person": "Sara Bogaert",
-  "Family/Entry": "",
-  "Role": "COO Medina I CMA I AKL I Lko-lmc",
-  "Company": "medina | cma | lko-lmc | akl",
-  "LinkedIn": "http://www.linkedin.com/in/sara-bogaert-21648846",
-  "Email": "sara.bogaert@medina.be"
- },
- {
-  "Person": "Lou Cantin",
-  "Family/Entry": "",
-  "Role": "Co-Founder/CEO",
-  "Company": "CEDO APPS",
-  "LinkedIn": "http://www.linkedin.com/in/lou-cantin-b332a03",
-  "Email": "lou@cedoapps.com"
- },
- {
-  "Person": "Cedo Jankovic",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "MetalArt Janković",
-  "LinkedIn": "http://www.linkedin.com/in/%c4%8dedo-jankovi%c4%87-852871104",
-  "Email": "cedo.jankovic@poslovnost.co.rs"
- },
- {
-  "Person": "Sam Stephens",
-  "Family/Entry": "",
-  "Role": "President & CEO",
-  "Company": "AB InBev Foundation",
-  "LinkedIn": "http://www.linkedin.com/in/samuelstephens",
-  "Email": "sstephens@abinbevfoundation.org"
- },
- {
-  "Person": "Jessie Lu",
-  "Family/Entry": "",
-  "Role": "Assistant to CEO & President APAC",
-  "Company": "AB InBev APAC",
-  "LinkedIn": "http://www.linkedin.com/in/jessie-lu-47b252130",
-  "Email": "jessie.lu@cn.ab-inbev.com"
- },
- {
-  "Person": "Dorothee Geenen",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Alta Ripa Oud-Turnhout",
-  "LinkedIn": "http://www.linkedin.com/in/dorothee-geenen-b140b210",
-  "Email": "dorothee.geenen@altaripa.be"
- },
- {
-  "Person": "Greet Raeymaekers",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Gemeente Oud-Turnhout",
-  "LinkedIn": "http://www.linkedin.com/in/greet-raeymaekers-73110387",
-  "Email": "greet.raeymaekers@oud-turnhout.be"
- },
- {
-  "Person": "Dirk Coorevits",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Soudal",
-  "LinkedIn": "http://www.linkedin.com/in/dirk-coorevits-a4738a13",
-  "Email": "coorevits@soudal.com"
- },
- {
-  "Person": "Simon Rickman",
-  "Family/Entry": "",
-  "Role": "CEO and Director",
-  "Company": "Soudal New Zealand",
-  "LinkedIn": "http://www.linkedin.com/in/simon-rickman-931519b",
-  "Email": "simon.rickman@soudal.co.nz"
- },
- {
-  "Person": "Vadim Shakhoval",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "STUDIO",
-  "LinkedIn": "http://www.linkedin.com/in/vadimshakhoval",
-  "Email": "v.shakhoval@adnfamily.com"
- },
- {
-  "Person": "Cristobal Cabo Cahn-Speyer",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "LEVER STUDIO",
-  "LinkedIn": "http://www.linkedin.com/in/cristobal-cabo-cahn-speyer-573b417",
-  "Email": "cristobal@leverstudio.net"
- },
- {
-  "Person": "Vincent Balay",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Compagnie & Co",
-  "LinkedIn": "http://www.linkedin.com/in/vincent-bala%c3%bf-007525b7",
-  "Email": "v.balay@compagnie-coloniale.com"
- },
- {
-  "Person": "Chrystelle Begin",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "COMPAGNIE FREY",
-  "LinkedIn": "http://www.linkedin.com/in/chrystelle-begin-75b562b9",
-  "Email": "c.proth@compagnie-frey.com"
- },
- {
-  "Person": "Sarah Coucke",
-  "Family/Entry": "",
-  "Role": "Principal Chief Executive Officer",
-  "Company": "Coucke's English Academy",
-  "LinkedIn": "http://www.linkedin.com/in/sarah-coucke-7354052b4",
-  "Email": "sarah@couckesacademy.es"
- },
- {
-  "Person": "Jens Popelier",
-  "Family/Entry": "",
-  "Role": "Co-owner",
-  "Company": "MAES & COUCKE",
-  "LinkedIn": "http://www.linkedin.com/in/jenspopelier",
-  "Email": "jens@eigentijdsrenoveren.be"
- },
- {
-  "Person": "Satish Vemuri",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "eko",
-  "LinkedIn": "http://www.linkedin.com/in/satish-vemuri-77a79617",
-  "Email": "satish@eko.com"
- },
- {
-  "Person": "Mart Vos",
-  "Family/Entry": "",
-  "Role": "Founder & CEO",
-  "Company": "Eko",
-  "LinkedIn": "http://www.linkedin.com/in/mart-vos",
-  "Email": "mart@eko.investments"
- },
- {
-  "Person": "Benedicte Buylen",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Gemeente Merelbeke-Melle",
-  "LinkedIn": "http://www.linkedin.com/in/b%c3%a9n%c3%a9dicte-buylen",
-  "Email": "benedicte.buylen@merelbeke.be"
- },
- {
-  "Person": "Brady Perrigo",
-  "Family/Entry": "",
-  "Role": "Executive Chairman, CEO",
-  "Company": "Del Toro Shoes",
-  "LinkedIn": "http://www.linkedin.com/in/brady-perrigo-b3239413",
-  "Email": "brady@deltoroshoes.com"
- },
- {
-  "Person": "Patrick Lockwood-Taylor",
-  "Family/Entry": "",
-  "Role": "President and CEO",
-  "Company": "Perrigo Company plc",
-  "LinkedIn": "http://www.linkedin.com/in/patrick-lockwood-taylor-65760a19",
-  "Email": "patrick.lockwood-taylor@perrigo.com"
- },
- {
-  "Person": "Michael Corten",
-  "Family/Entry": "",
-  "Role": "",
-  "Company": "Belgian Eco Energy (BEE)",
-  "LinkedIn": "http://www.linkedin.com/in/michael-corten-8579401",
-  "Email": "michael.corten@bee.eu"
- },
- {
-  "Person": "Sebastian Rault",
-  "Family/Entry": "",
-  "Role": "CEO Sea-Invest Nantes",
-  "Company": "SEA-invest",
-  "LinkedIn": "http://www.linkedin.com/in/s%c3%a9bastian-rault-30684237",
-  "Email": "sebastian.rault@sea-invest.fr"
- },
- {
-  "Person": "Tom Van Der Weken",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "SEA-invest",
-  "LinkedIn": "http://www.linkedin.com/in/tom-van-der-weken-26619716b",
-  "Email": "tom.van.der.weken@sea-invest.com"
- },
- {
-  "Person": "Gene Raymondi",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "eni",
-  "LinkedIn": "http://www.linkedin.com/in/generaymondi",
-  "Email": "graymondi@eniweb.com"
- },
- {
-  "Person": "Eni Soares",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "ALTAICA IT SERVICES",
-  "LinkedIn": "http://www.linkedin.com/in/enisoares",
-  "Email": "eni.soares@altaicait.com"
- },
- {
-  "Person": "An Bogaerts",
-  "Family/Entry": "",
-  "Role": "Pa to the CEO and Executive Chairman",
-  "Company": "Exmar",
-  "LinkedIn": "http://www.linkedin.com/in/an-bogaerts-1b02444a",
-  "Email": "an.bogaerts@exmar.be"
- },
- {
-  "Person": "Norbert Kern",
-  "Family/Entry": "",
-  "Role": "CEO Serto Group",
-  "Company": "SERTO Group with the brands SERTO and EXMAR",
-  "LinkedIn": "http://www.linkedin.com/in/norbert-kern-b8a98477",
-  "Email": "norbert.kern@serto.com"
- },
- {
-  "Person": "Nadia Isella",
-  "Family/Entry": "",
-  "Role": "Assistant to CEO",
-  "Company": "BASF",
-  "LinkedIn": "http://www.linkedin.com/in/nadia-isella-370824210",
-  "Email": "nadia.isella@basf.com"
- },
- {
-  "Person": "Heather Remley",
-  "Family/Entry": "",
-  "Role": "President and CEO BASF Corporation",
-  "Company": "BASF",
-  "LinkedIn": "http://www.linkedin.com/in/heather-remley",
-  "Email": "heather.remley@basf.com"
- },
- {
-  "Person": "Paul Mello",
-  "Family/Entry": "",
-  "Role": "President & CEO",
-  "Company": "Solvay Bank",
-  "LinkedIn": "http://www.linkedin.com/in/paul-mello-a7461537",
-  "Email": "pmello@solvaybank.com"
- },
- {
-  "Person": "Philippe Kehren",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Solvay",
-  "LinkedIn": "http://www.linkedin.com/in/philippe-kehren",
-  "Email": "philippe.kehren@solvay.com"
- },
- {
-  "Person": "Filip Cabeke",
-  "Family/Entry": "",
-  "Role": "Line Owner ABInbev - Jupille",
-  "Company": "AB InBev",
-  "LinkedIn": "http://www.linkedin.com/in/filip-cabeke-947b17116",
-  "Email": "filip.cabeke@ab-inbev.com"
- },
- {
-  "Person": "Corinne Bekaert",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Epicur, L'univers Cadeaux",
-  "LinkedIn": "http://www.linkedin.com/in/corinne-bekaert-6735b722a",
-  "Email": "cbekaert@epicur.fr"
- },
- {
-  "Person": "Tabatha Nicole",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to SVP|VP|HR|CEO|Directors",
-  "Company": "Bekaert",
-  "LinkedIn": "http://www.linkedin.com/in/tabathanwilson",
-  "Email": "tabatha.wilson@bekaert.com"
- },
- {
-  "Person": "Sofie Van Buggenhout",
-  "Family/Entry": "",
-  "Role": "Business Owner",
-  "Company": "VAN BUGGENHOUT CONSULTING",
-  "LinkedIn": "http://www.linkedin.com/in/vanbuggenhoutsofie",
-  "Email": "sofie.buggenhout@nviso.eu"
- },
- {
-  "Person": "Sandrine Van Buggenhout",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "MAPE NV",
-  "LinkedIn": "http://www.linkedin.com/in/sandrine-van-buggenhout-a9692a9",
-  "Email": "sandrine@mape.be"
- },
- {
-  "Person": "Alexander Dehaene",
-  "Family/Entry": "",
-  "Role": "CFO",
-  "Company": "Drylock Technologies",
-  "LinkedIn": "http://www.linkedin.com/in/alexander-dehaene-a59940105",
-  "Email": "alexander.dehaene@drylocktechnologies.com"
- },
- {
-  "Person": "Veerle Cools",
-  "Family/Entry": "",
-  "Role": "Personal Assistant to CEO",
-  "Company": "VGP",
-  "LinkedIn": "http://www.linkedin.com/in/veerle-cools-66534a46",
-  "Email": "veerle.cools@vgpparks.eu"
- },
- {
-  "Person": "Veysel Gok",
-  "Family/Entry": "",
-  "Role": "Chairman and CEO",
-  "Company": "VGP",
-  "LinkedIn": "http://www.linkedin.com/in/veysel-gok-46a07884",
-  "Email": "veysel.gok@vgp-idf.fr"
- },
- {
-  "Person": "James Beaulieu",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Beaulieu Construction",
-  "LinkedIn": "http://www.linkedin.com/in/james-beaulieu-a1897a66",
-  "Email": "jim@jimbeaulieu.com"
- },
- {
-  "Person": "Nathalie Beaulieu",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Mortagne Hôtel Congrès",
-  "LinkedIn": "http://www.linkedin.com/in/nathalie-beaulieu-a610a01b",
-  "Email": "nbeaulieu@hotelmortagne.com"
- },
- {
-  "Person": "Nicolas Suazo Perez",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Grudigo Spa",
-  "LinkedIn": "http://www.linkedin.com/in/nicol%c3%a1s-suazo-p%c3%a9rez-6a6a95b0",
-  "Email": "nicolas@grudigodev.com"
- },
- {
-  "Person": "Giovanni Palmese",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Focelda SpA",
-  "LinkedIn": "http://www.linkedin.com/in/giovannipalmese",
-  "Email": "gpalmese@focelda.it"
- },
- {
-  "Person": "David Talavera",
-  "Family/Entry": "",
-  "Role": "Group CFO",
-  "Company": "Spadel",
-  "LinkedIn": "http://www.linkedin.com/in/david-talavera-7a3453153",
-  "Email": "d.talavera@spadel.com"
- },
- {
-  "Person": "Amit Dhakad",
-  "Family/Entry": "",
-  "Role": "Founder and CEO",
-  "Company": "Punch",
-  "LinkedIn": "http://www.linkedin.com/in/dhakadamit",
-  "Email": "amit@marketpulse.tech"
- },
- {
-  "Person": "Pete Goold",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Punch Communications",
-  "LinkedIn": "http://www.linkedin.com/in/petegoold",
-  "Email": "pete.goold@punchcomms.com"
- },
- {
-  "Person": "Jennifer Norga",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "VDC ROESELARE",
-  "LinkedIn": "http://www.linkedin.com/in/jennifer-norga-90270a103",
-  "Email": "jennifer.norga@vdc-roeselare.be"
- },
- {
-  "Person": "Stijn Dejonckheere",
-  "Family/Entry": "",
-  "Role": "Co-CEO",
-  "Company": "Knack Roeselare Volleybal",
-  "LinkedIn": "http://www.linkedin.com/in/s-dejonckheere",
-  "Email": "stijn.dejonckheere@knackvolley.be"
- },
- {
-  "Person": "Dirk Boogmans",
-  "Family/Entry": "",
-  "Role": "Pres CEO",
-  "Company": "Gimv",
-  "LinkedIn": "http://www.linkedin.com/in/dirk-boogmans-37a21b5",
-  "Email": "dirk.boogmans@gimv.com"
- },
- {
-  "Person": "Arlette Van Cauwenberghe",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to CEO",
-  "Company": "Gimv",
-  "LinkedIn": "http://www.linkedin.com/in/arlette-van-cauwenberghe-775a6b123",
-  "Email": "arlette.vancauwenberghe@gimv.com"
- },
- {
-  "Person": "Michael Foran",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "ADCO",
-  "LinkedIn": "http://www.linkedin.com/in/michael-foran-31a7b920",
-  "Email": "mforan@adco.ie"
- },
- {
-  "Person": "Ricardo Alencar",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "ADCO Aditivos",
-  "LinkedIn": "http://www.linkedin.com/in/alencarricardo",
-  "Email": "ricardo.alencar@adco.com.br"
- },
- {
-  "Person": "Jorgen Smith",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "HARALD PIHL",
-  "LinkedIn": "http://www.linkedin.com/in/j%c3%b8rgen-smith-588048158",
-  "Email": "jorgen.smith@haraldpihl.com"
- },
- {
-  "Person": "Harald Hauke",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "ARA - Altstoff Recycling Austria AG",
-  "LinkedIn": "http://www.linkedin.com/in/harald-hauke",
-  "Email": "harald.hauke@ara.at"
- },
- {
-  "Person": "Verraes Philippe",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "stad wervik",
-  "LinkedIn": "http://www.linkedin.com/in/verraes-philippe-06771780",
-  "Email": "philippe.verraes@wervik.be"
- },
- {
-  "Person": "Hypotheekwereld Kortrijk",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Hypotheekwereld",
-  "LinkedIn": "http://www.linkedin.com/in/hypotheekwereld-kortrijk-6b60a6116",
-  "Email": "kortrijk@hypotheekwereld.be"
- },
- {
-  "Person": "Stijn Debaillie",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Designregio Kortrijk",
-  "LinkedIn": "http://www.linkedin.com/in/stijndebaillie",
-  "Email": "stijn@designregio-kortrijk.be"
- },
- {
-  "Person": "Andra Zoican",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to Chief Executive Officer",
-  "Company": "Cegeka",
-  "LinkedIn": "http://www.linkedin.com/in/andra-zoican-2b7938166",
-  "Email": "andra.zoican@cegeka.com"
- },
- {
-  "Person": "Andre Knaepen",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Cegeka",
-  "LinkedIn": "http://www.linkedin.com/in/andr%c3%a9-knaepen-6303096",
-  "Email": "andre.knaepen@cegeka.com"
- },
- {
-  "Person": "Jurgen Staels",
-  "Family/Entry": "",
-  "Role": "CEO - Co-owner",
-  "Company": "O'Learys Hasselt",
-  "LinkedIn": "http://www.linkedin.com/in/jurgen-staels",
-  "Email": "jurgen@ekart.be"
- },
- {
-  "Person": "Benedicte Van Hasselt",
-  "Family/Entry": "",
-  "Role": "PA of the President / CEO of Yamaha Motor Europe",
-  "Company": "Yamaha Motor Europe N.V.",
-  "LinkedIn": "http://www.linkedin.com/in/b%c3%a9n%c3%a9dicte-van-hasselt-06997311",
-  "Email": "benedicte.vanhasselt@yamaha-motor.eu"
- },
- {
-  "Person": "Trpimir Kvesic",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "InSky Solutions",
-  "LinkedIn": "http://www.linkedin.com/in/trpimir-kvesic-4015021",
-  "Email": "trpimir@inskysolutions.com"
- },
- {
-  "Person": "Laurent Losbar",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Insky Immobilier",
-  "LinkedIn": "http://www.linkedin.com/in/laurent-l-51b803257",
-  "Email": "ll@insky-immobilier.ch"
- },
- {
-  "Person": "Kinshasa Minott",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Excel International Company Ltd.",
-  "LinkedIn": "http://www.linkedin.com/in/kinshasa-minott-4b939b36",
-  "Email": "kminott@excelcolimited.com"
- },
- {
-  "Person": "Rahim Tajdin",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer and Founder",
-  "Company": "Centre Médical Diamant - Kinshasa",
-  "LinkedIn": "http://www.linkedin.com/in/rahimtajdin",
-  "Email": "rahim@cmd.cd"
- },
- {
-  "Person": "Ryan Kuiken",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "MainBloq",
-  "LinkedIn": "http://www.linkedin.com/in/ryan-kuiken-a499b737",
-  "Email": "ryan@pickleballtorneos.com"
- },
- {
-  "Person": "Sjoerd Kuiken",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Kuiken Praktijkmanagement",
-  "LinkedIn": "http://www.linkedin.com/in/sjoerdkuiken",
-  "Email": "sjoerd@kuikenpraktijkmanagement.nl"
- },
- {
-  "Person": "Dhafer Abed",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "SDA Agencement",
-  "LinkedIn": "http://www.linkedin.com/in/dhafer-el-abed-83ab223b",
-  "Email": "eldhafer@topnet.tn"
- },
- {
-  "Person": "Jeff Siegel",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "SDA Events",
-  "LinkedIn": "http://www.linkedin.com/in/jeff-siegel-a52219b",
-  "Email": "jeff@sdaevents.com"
- },
- {
-  "Person": "Ashish Rao",
-  "Family/Entry": "",
-  "Role": "Co-Founder & Group COO",
-  "Company": "SDAI - Synergy Digital",
-  "LinkedIn": "http://www.linkedin.com/in/raoashish1973",
-  "Email": "ashish@synergydigital.ai"
- },
- {
-  "Person": "Michal Braniewski",
-  "Family/Entry": "",
-  "Role": "Microsoft Dynamics 365 FO Application Owner",
-  "Company": "Ghelamco",
-  "LinkedIn": "http://www.linkedin.com/in/micha%c5%82-braniewski-b454b717b",
-  "Email": "michal.braniewski@ghelamco.com"
- },
- {
-  "Person": "Michael Gheysens",
-  "Family/Entry": "",
-  "Role": "Managing Director Belgium",
-  "Company": "Ghelamco",
-  "LinkedIn": "http://www.linkedin.com/in/michael-gheysens-85534711",
-  "Email": "michael.gheysens@ghelamco.com"
- },
- {
-  "Person": "Anthony Peichai",
-  "Family/Entry": "",
-  "Role": "Deputy CEO",
-  "Company": "Google",
-  "LinkedIn": "http://www.linkedin.com/in/anthony-peichai-55a819176",
-  "Email": "panthony@google.com"
- },
- {
-  "Person": "Jimmy Sitepu",
-  "Family/Entry": "",
-  "Role": "Interim CEO",
-  "Company": "Google",
-  "LinkedIn": "http://www.linkedin.com/in/jimmy-sitepu-501607185",
-  "Email": "sjimmy@google.com"
- },
- {
-  "Person": "Marielle Van Loon",
-  "Family/Entry": "",
-  "Role": "Adviseur, Owner",
-  "Company": "Baronie Verzekeringen BV",
-  "LinkedIn": "http://www.linkedin.com/in/mariellevanloon",
-  "Email": "marielle@baronieverzekeringen.be"
- },
- {
-  "Person": "Tuhami Bourdim",
-  "Family/Entry": "",
-  "Role": "Owner Bed & Breakfast",
-  "Company": "B&B De Baronie",
-  "LinkedIn": "http://www.linkedin.com/in/tuhami-bourdim-a231999",
-  "Email": "tuhami@amstellodging.com"
- },
- {
-  "Person": "Geoffroy Neirinck",
-  "Family/Entry": "",
-  "Role": "Member of the Executive Committee | Group Chief Financial Officer | Head of Africa Business Unit",
-  "Company": "Finasucre",
-  "LinkedIn": "http://www.linkedin.com/in/geoffroy-neirinck-3799231",
-  "Email": "g.neirinck@finasucre.be"
- },
- {
-  "Person": "Jerome Lippens",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Finasucre",
-  "LinkedIn": "http://www.linkedin.com/in/j%c3%a9r%c3%b4me-lippens-8996684",
-  "Email": "j.lippens@finasucre.be"
- },
- {
-  "Person": "Jellie Banga",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "CeskySight, Luxe vakantiehuizen in Tsjechië op de mooiste locaties.",
-  "LinkedIn": "http://www.linkedin.com/in/jelliebangaceskysight",
-  "Email": "jellie@ceskysight.nl"
- },
- {
-  "Person": "Eline Hegyi",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Commune de Paliseul",
-  "LinkedIn": "http://www.linkedin.com/in/eline-hegyi-61a524218",
-  "Email": "eline.hegyi@paliseul.be"
- },
- {
-  "Person": "Amelie Bischoff",
-  "Family/Entry": "",
-  "Role": "Head of Marketing",
-  "Company": "CinemaxX Entertainment GmbH & Co. KG",
-  "LinkedIn": "http://www.linkedin.com/in/amelie-bischoff-50b1361a5",
-  "Email": "amelie.bischoff@cinemaxx.com"
- },
- {
-  "Person": "Frederic Van Den Steen",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "OH Leuven",
-  "LinkedIn": "http://www.linkedin.com/in/fr%c3%a9d%c3%a9ric-van-den-steen-a7b91494",
-  "Email": "frederic.vandensteen@ohl.be"
- },
- {
-  "Person": "Dimitri Van Leuven",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Brandsplus Group",
-  "LinkedIn": "http://www.linkedin.com/in/dimitri-van-leuven-58804118",
-  "Email": "dimitri@brandsplus.com"
- },
- {
-  "Person": "Pieter Van Camp",
-  "Family/Entry": "",
-  "Role": "Deputy CEO",
-  "Company": "I-care Group",
-  "LinkedIn": "http://www.linkedin.com/in/pietervancamp",
-  "Email": "pieter.vancamp@icareweb.com"
- },
- {
-  "Person": "Petros Timotheou",
-  "Family/Entry": "",
-  "Role": "Co-Founder & CEO",
-  "Company": "i care. iceep",
-  "LinkedIn": "http://www.linkedin.com/in/petrostimotheou",
-  "Email": "petros@iceep.ch"
- },
- {
-  "Person": "Miodrag Janjusevic",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "IPM Group",
-  "LinkedIn": "http://www.linkedin.com/in/miodrag-janjusevic-62b89029",
-  "Email": "miodrag.janjusevic@ipmllp.com"
- },
- {
-  "Person": "Marco Mussella",
-  "Family/Entry": "",
-  "Role": "CEO & Cofounder",
-  "Company": "IPM Project",
-  "LinkedIn": "http://www.linkedin.com/in/marco-mussella-4a981b141",
-  "Email": "mmussella@ipmcinc.com"
- },
- {
-  "Person": "Gabriella Vidus",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "RTL Magyarország",
-  "LinkedIn": "http://www.linkedin.com/in/gabriella-vidus-9035ba53",
-  "Email": "vidus.gabriella@rtl.hu"
- },
- {
-  "Person": "Rafael Tenorio",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "RTL Consulting",
-  "LinkedIn": "http://www.linkedin.com/in/rafael-tenorio-854427341",
-  "Email": "rafael@rtlconsulting.com.br"
- },
- {
-  "Person": "David Rossel",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Gugger-Guillod SA",
-  "LinkedIn": "http://www.linkedin.com/in/david-rossel-43053a162",
-  "Email": "david.rossel@gugger-guillod.ch"
- },
- {
-  "Person": "Sylvia Rossel",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "CHADO Cosmetics",
-  "LinkedIn": "http://www.linkedin.com/in/sylvia-rossel-61a566120",
-  "Email": "sylviarossel@chado-cosmetics.com"
- },
- {
-  "Person": "Dan Friedman",
-  "Family/Entry": "",
-  "Role": "Co-Founder & Co-CEO",
-  "Company": "EQT",
-  "LinkedIn": "http://www.linkedin.com/in/dnfrdmn",
-  "Email": "dan@eqt.co"
- },
- {
-  "Person": "Henny Yegezu",
-  "Family/Entry": "",
-  "Role": "Co-Founder ; CEO",
-  "Company": "EQT",
-  "LinkedIn": "http://www.linkedin.com/in/henny-yegezu-168051178",
-  "Email": "henny@eqt.co"
- },
- {
-  "Person": "Bartosz Wojszczyk",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Decision Point Global (DPG)",
-  "LinkedIn": "http://www.linkedin.com/in/bartoszwojszczyk",
-  "Email": "bwojszczyk@decisionpointint.com"
+  "LinkedIn": "https://be.linkedin.com/in/fpodoo",
+  "Email": ""
+ },
+ {
+  "Person": "Karel Van Rompuy",
+  "Family/Entry": "Familie Van Rompuy",
+  "Role": "Founder of Argenta",
+  "Company": "Argenta",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Van Rompuy",
+  "Family/Entry": "Familie Van Rompuy",
+  "Role": "Family representative, controls 86% via Investar with brother Bart",
+  "Company": "Argenta / Investar",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Van Rompuy",
+  "Family/Entry": "Familie Van Rompuy",
+  "Role": "Family representative, controls 86% via Investar with brother Dirk",
+  "Company": "Argenta / Investar",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christian Van Thillo",
+  "Family/Entry": "Familie Van Thillo",
+  "Role": "Executive Chairman (former CEO until 2020)",
+  "Company": "DPG Media",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
   "Person": "Erik Roddenhof",
-  "Family/Entry": "",
-  "Role": "CEO DPG Media",
-  "Company": "DPG Media Nederland",
-  "LinkedIn": "http://www.linkedin.com/in/erik-roddenhof-b7a45a",
-  "Email": "erik.roddenhof@dpgmedia.nl"
+  "Family/Entry": "Familie Van Thillo",
+  "Role": "CEO (since 2020)",
+  "Company": "DPG Media",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Lea Lasne",
-  "Family/Entry": "",
+  "Person": "Michel Moortgat",
+  "Family/Entry": "Familie Moortgat",
   "Role": "CEO",
-  "Company": "Gaz-Elec Moins Cher",
-  "LinkedIn": "http://www.linkedin.com/in/lealasne",
-  "Email": "lea@gaz-elec-moinscher.fr"
+  "Company": "Duvel Moortgat",
+  "LinkedIn": "https://be.linkedin.com/in/michel-moortgat-450420148",
+  "Email": ""
  },
  {
-  "Person": "Christophe Lasne",
-  "Family/Entry": "",
-  "Role": "Chairman and CEO",
-  "Company": "Styl'escalier",
-  "LinkedIn": "http://www.linkedin.com/in/christophe-lasne-4a159763",
-  "Email": "christophe@stylescalier.com"
+  "Person": "Gino De Raedt",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Founder/Owner",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Adam Pardel",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Kremsa Digital",
-  "LinkedIn": "http://www.linkedin.com/in/adampardel",
-  "Email": "apardel@bykd.com"
+  "Person": "Frederica Verheyden (Rika Verheyden)",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Founder/Owner",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Mashkur Alam",
-  "Family/Entry": "",
+  "Person": "Ann De Raedt",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Daughter",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicolas De Quinnemar",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Director at Straco, Managing Director CMA-Medina",
+  "Company": "Straco",
+  "LinkedIn": "https://www.linkedin.com/in/nicolas-de-quinnemar-ab97845/",
+  "Email": ""
+ },
+ {
+  "Person": "Erik Van Den Eynden",
+  "Family/Entry": "Familie De Raedt-Verheyden",
   "Role": "CEO",
-  "Company": "CERES",
-  "LinkedIn": "http://www.linkedin.com/in/mashkur-alam-4471a033",
-  "Email": "mashkur_alam@ceresglobalagcorp.com"
+  "Company": "Straco",
+  "LinkedIn": "https://www.linkedin.com/in/erik-van-den-eynden-738a902/",
+  "Email": ""
  },
  {
-  "Person": "Moises Maciel",
-  "Family/Entry": "",
-  "Role": "Presidente/CEO",
-  "Company": "Ceres",
-  "LinkedIn": "http://www.linkedin.com/in/mois%c3%a9s-maciel-065677161",
-  "Email": "presidencia@ceres.coop.br"
+  "Person": "Maarten Peers",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Managing Partner",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Christophe Mouton",
-  "Family/Entry": "",
-  "Role": "CEO AZ Maria Middelares - AZ Sint-Vincentius Deinze",
-  "Company": "AZ Maria Middelares",
-  "LinkedIn": "http://www.linkedin.com/in/cmouton",
-  "Email": "christophe.mouton@mijnziekenhuis.be"
- },
- {
-  "Person": "Kim Willems",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Het Vijverhuis Deinze",
-  "LinkedIn": "http://www.linkedin.com/in/kim-willems-9798961",
-  "Email": "kim@hetvijverhuisdeinze.be"
- },
- {
-  "Person": "Greg Cohen",
-  "Family/Entry": "",
-  "Role": "Chairman & CEO",
-  "Company": "Fortis",
-  "LinkedIn": "http://www.linkedin.com/in/grcohen",
-  "Email": "greg.cohen@fortispay.com"
- },
- {
-  "Person": "Brian Bastianelli",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Fortis Group",
-  "LinkedIn": "http://www.linkedin.com/in/brian-bastianelli-29877b41",
-  "Email": "brian@fortisgroupllc.us"
- },
- {
-  "Person": "Christian Sobkowski",
-  "Family/Entry": "",
-  "Role": "Co-CEO",
-  "Company": "Palm",
-  "LinkedIn": "http://www.linkedin.com/in/csobkowski",
-  "Email": "christian@usepalm.com"
- },
- {
-  "Person": "Mazen Kerdany",
-  "Family/Entry": "",
-  "Role": "Co-Founder CEO",
-  "Company": "PALM",
-  "LinkedIn": "http://www.linkedin.com/in/mazen-el-kerdany-02bb2362",
-  "Email": "mazen@withpalm.ai"
- },
- {
-  "Person": "Rick Swinkels",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "TCC Global",
-  "LinkedIn": "http://www.linkedin.com/in/rickswinkels",
-  "Email": "rick.swinkels@tccglobal.com"
- },
- {
-  "Person": "Dorus Swinkels",
-  "Family/Entry": "",
-  "Role": "Founder / CEO",
-  "Company": "Successr",
-  "LinkedIn": "http://www.linkedin.com/in/dorusswinkels",
-  "Email": "dorus.swinkels@successr.nl"
- },
- {
-  "Person": "Marco Sgarioto",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Ergon Consortile",
-  "LinkedIn": "http://www.linkedin.com/in/marco-sgarioto-b3522a219",
-  "Email": "msgarioto@ergonconsortile.it"
- },
- {
-  "Person": "Ashwin Ramanujam",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Ergon Labs",
-  "LinkedIn": "http://www.linkedin.com/in/ashwin-ramanujam",
-  "Email": "ashwin@ergon-labs.com"
- },
- {
-  "Person": "Kristof D'Hondt",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Lebeau-Courally",
-  "LinkedIn": "http://www.linkedin.com/in/kristof-d-hondt-254813345",
-  "Email": "kristof@lebeau-courally.com"
- },
- {
-  "Person": "Regis Harat",
-  "Family/Entry": "",
-  "Role": "COO Globachem Discovery - Global Strategic Business Manager",
-  "Company": "Globachem",
-  "LinkedIn": "http://www.linkedin.com/in/regis-harat-7836397a",
-  "Email": "regis.harat@globachem.com"
- },
- {
-  "Person": "G Juneja",
-  "Family/Entry": "",
-  "Role": "CEO/ Founder",
-  "Company": "CAPCO INDUSTRIES PVT LTD",
-  "LinkedIn": "http://www.linkedin.com/in/g-s-juneja-23353414",
-  "Email": "junejag@capcoindia.com"
- },
- {
-  "Person": "Charles Plunkett",
-  "Family/Entry": "",
-  "Role": "Former CEO / Founder / Partner",
-  "Company": "Capco General Contracting",
-  "LinkedIn": "http://www.linkedin.com/in/charles-plunkett-053a8a22",
-  "Email": "charles@capcogc.com"
- },
- {
-  "Person": "Cle Enneking",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "McGregor New York",
-  "LinkedIn": "http://www.linkedin.com/in/cl%c3%a9-enneking-b7063812",
-  "Email": "cle.enneking@mcgregornewyork.com"
- },
- {
-  "Person": "Cresting Wave",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "New York Yankees",
-  "LinkedIn": "http://www.linkedin.com/in/cresting-wave-81b8bb53",
-  "Email": "cwave@yankees.com"
- },
- {
-  "Person": "Xavier Piesvaux",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Delhaize Belgium",
-  "LinkedIn": "http://www.linkedin.com/in/xavier-piesvaux-16a24651",
-  "Email": "xpiesvaux@delhaize.be"
- },
- {
-  "Person": "Leopold Delhaize",
-  "Family/Entry": "",
-  "Role": "Co-Founder & CEO",
-  "Company": "Alki",
-  "LinkedIn": "http://www.linkedin.com/in/l%c3%a9opold-delhaize-8589a236",
-  "Email": "leopold@alki.io"
- },
- {
-  "Person": "Cross Hu",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "GiB Tech",
-  "LinkedIn": "http://www.linkedin.com/in/crosshu",
-  "Email": "cross.hu@gib.cn"
- },
- {
-  "Person": "Jurie Erwee",
-  "Family/Entry": "",
-  "Role": "Group CEO",
-  "Company": "GIB Group",
-  "LinkedIn": "http://www.linkedin.com/in/jurie-erwee-204819a1",
-  "Email": "jurie@gib.co.za"
- },
- {
-  "Person": "Lawrence Lam",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Prudential Hong Kong",
-  "LinkedIn": "http://www.linkedin.com/in/lawrence-lam-8aa5414",
-  "Email": "lawrence.ck.lam@prudential.com.hk"
- },
- {
-  "Person": "Tom Meng",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "DECATHLON HONG KONG",
-  "LinkedIn": "http://www.linkedin.com/in/tom-meng-72168734",
-  "Email": "tom.meng@decathlon.com"
- },
- {
-  "Person": "Moser Coelho",
-  "Family/Entry": "",
-  "Role": "Product Owner",
-  "Company": "Biotrop Soluções Biológicas",
-  "LinkedIn": "http://www.linkedin.com/in/moser-coelho",
-  "Email": "moser.coelho@biotrop.com.br"
- },
- {
-  "Person": "Gaetan Waucquez",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Floridienne Group",
-  "LinkedIn": "http://www.linkedin.com/in/gaetan-waucquez-54a3bb140",
-  "Email": "gw@floridienne.be"
- },
- {
-  "Person": "Philippe Boonen",
-  "Family/Entry": "",
-  "Role": "CEO Food Division",
-  "Company": "Floridienne Group",
-  "LinkedIn": "http://www.linkedin.com/in/philippe-boonen-980b68160",
-  "Email": "pjb@floridienne.be"
- },
- {
-  "Person": "Bruno Pampelonne",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Tikehau Capital",
-  "LinkedIn": "http://www.linkedin.com/in/bruno-de-pampelonne-7b74aab",
-  "Email": "bdepampelonne@tikehaucapital.com"
- },
- {
-  "Person": "Tim Grell",
-  "Family/Entry": "",
-  "Role": "Partner & CEO",
-  "Company": "Tikehau Capital",
-  "LinkedIn": "http://www.linkedin.com/in/tim-grell-50b22410",
-  "Email": "tgrell@tikehaucapital.com"
- },
- {
-  "Person": "Frank Micali",
-  "Family/Entry": "",
-  "Role": "CEO - Director",
-  "Company": "Franky & Co",
-  "LinkedIn": "http://www.linkedin.com/in/frank-micali-a124484a",
-  "Email": "frank@frankyandco.com.au"
- },
- {
-  "Person": "Franky Vanraes",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "be.wan",
-  "LinkedIn": "http://www.linkedin.com/in/franky-vanraes-a4602140",
-  "Email": "franky.vanraes@bewan.be"
- },
- {
-  "Person": "Thomas Vogelaere",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Willy Naessens BELGIË / BELGIQUE",
-  "LinkedIn": "http://www.linkedin.com/in/thomasdevogelaere",
-  "Email": "thomas-dv@willynaessens.be"
- },
- {
-  "Person": "Dennis Ingelbeen",
-  "Family/Entry": "",
-  "Role": "CEO Family Office",
-  "Company": "Willy Naessens BELGIË / BELGIQUE",
-  "LinkedIn": "http://www.linkedin.com/in/dennis-ingelbeen-2136002b",
-  "Email": "dennis-i@willynaessens.be"
- },
- {
-  "Person": "Jan Vergote",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Recticel",
-  "LinkedIn": "http://www.linkedin.com/in/jan-vergote-2196b0b",
-  "Email": "vergote.jan@recticel.com"
- },
- {
-  "Person": "Olivier Bossuyt",
-  "Family/Entry": "",
-  "Role": "Managing Director Rex Panels (Recticel Group)",
-  "Company": "Rex Panels & Profiles",
-  "LinkedIn": "http://www.linkedin.com/in/olivier-bossuyt-03b4aa4",
-  "Email": "olivier.bossuyt@rexpanels.com"
- },
- {
-  "Person": "Ilse Craeynest",
-  "Family/Entry": "",
-  "Role": "Personal Assistant CEO",
-  "Company": "Port Oostende",
-  "LinkedIn": "http://www.linkedin.com/in/ilse-craeynest-ba389033",
-  "Email": "ilse.craeynest@portofoostende.be"
- },
- {
-  "Person": "Jurgen Vanpraet",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Basketbalclub Filou Oostende",
-  "LinkedIn": "http://www.linkedin.com/in/jurgen-vanpraet-610313a4",
-  "Email": "jvanpraet@filou-oostende.be"
- },
- {
-  "Person": "Hendrik Vandenbruwane",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Stad Tielt",
-  "LinkedIn": "http://www.linkedin.com/in/hendrik-vandenbruwane-6555a48a",
-  "Email": "hendrik.vandenbruwane@tielt.be"
- },
- {
-  "Person": "Sigrid Balduck",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "DE ARK VASTGOED Tielt",
-  "LinkedIn": "http://www.linkedin.com/in/sigrid-balduck-72261a110",
-  "Email": "sigrid@arkvastgoed.be"
- },
- {
-  "Person": "Mike Elliott",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "ERES Companies",
-  "LinkedIn": "http://www.linkedin.com/in/mike-elliott-93ba265",
-  "Email": "mike.elliott@erescompanies.com"
- },
- {
-  "Person": "Luke Eres",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Innate Wealth",
-  "LinkedIn": "http://www.linkedin.com/in/luke-eres-12860818",
-  "Email": "luke.eres@ifsg.com.au"
- },
- {
-  "Person": "Maurice Van Gogh",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Hubo",
-  "LinkedIn": "http://www.linkedin.com/in/maurice-van-gogh-a815aa222",
-  "Email": "maurice@hubomierlo.nl"
- },
- {
-  "Person": "Peter Van Tongeren",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Hubo",
-  "LinkedIn": "http://www.linkedin.com/in/peter-van-tongeren-1812b585",
-  "Email": "boekeloseweg.hengelo@hubo.nl"
- },
- {
-  "Person": "Corneel Maeyer",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "VERITAS",
-  "LinkedIn": "http://www.linkedin.com/in/corneel-de-maeyer-930a401a",
-  "Email": "corneel.demaeyer@veritas.be"
- },
- {
-  "Person": "Golden Beauty",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Veritas",
-  "LinkedIn": "http://www.linkedin.com/in/golden-beauty-aa94bb1a3",
-  "Email": "gb@veritas.be"
- },
- {
-  "Person": "Philip Jansen",
-  "Family/Entry": "",
-  "Role": "Managing Director Buildings Wommelgem",
-  "Company": "Imtech",
-  "LinkedIn": "http://www.linkedin.com/in/philip-jansen-55152148",
-  "Email": "philip.jansen@imtech.be"
- },
- {
-  "Person": "Marijke Deroover",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Lokaal Bestuur Wommelgem",
-  "LinkedIn": "http://www.linkedin.com/in/marijke-deroover-7a6911a",
-  "Email": "marijke.deroover@wommelgem.be"
- },
- {
-  "Person": "Alexander Litvinov",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Resilux",
-  "LinkedIn": "http://www.linkedin.com/in/alexander-litvinov-96763330",
-  "Email": "alexander.litvinov@resilux.com"
- },
- {
-  "Person": "Jana Walker",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Resilux Schweiz AG",
-  "LinkedIn": "http://www.linkedin.com/in/janawalker1",
-  "Email": "jana.walker@resilux.com"
- },
- {
-  "Person": "Filip Steppe",
-  "Family/Entry": "",
-  "Role": "CEO & President",
-  "Company": "De Rocker Aalst - Wetteren",
-  "LinkedIn": "http://www.linkedin.com/in/filipsteppe",
-  "Email": "filip.steppe@derocker.be"
- },
- {
-  "Person": "Jorgen Bossaer",
-  "Family/Entry": "",
-  "Role": "Business Owner",
-  "Company": "Marie Wetteren",
-  "LinkedIn": "http://www.linkedin.com/in/jorgenbossaer",
-  "Email": "jorgen@marie-wetteren.be"
- },
- {
-  "Person": "Jean Van Geluwe",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Hyphen Group International",
-  "LinkedIn": "http://www.linkedin.com/in/jean-v-b8329713",
-  "Email": "jean@hyphengroup.eu"
- },
- {
-  "Person": "Steve Domin",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Duffel",
-  "LinkedIn": "http://www.linkedin.com/in/stevedomin",
-  "Email": "steve@duffel.com"
- },
- {
-  "Person": "Barb Johnson",
-  "Family/Entry": "",
-  "Role": "President/CEO",
-  "Company": "Dream Duffel, LLC",
-  "LinkedIn": "http://www.linkedin.com/in/barb-johnson-b65a1217",
-  "Email": "barb@dreamduffel.com"
- },
- {
-  "Person": "Christopher Milligan",
-  "Family/Entry": "",
-  "Role": "CEO, President | Owner",
-  "Company": "Menen Group",
-  "LinkedIn": "http://www.linkedin.com/in/christopher-b-milligan-pe-556b4b33",
-  "Email": "chris.milligan@menengroup.com"
- },
- {
-  "Person": "Menen Shewarega",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Ethio Lease",
-  "LinkedIn": "http://www.linkedin.com/in/menen-shewarega-551994197",
-  "Email": "menen@ethiolease.com"
- },
- {
-  "Person": "Cristiano Bellumat",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Everex",
-  "LinkedIn": "http://www.linkedin.com/in/cristiano-bellumat-1a994569",
-  "Email": "cristiano.bellumat@everex.cloud"
- },
- {
-  "Person": "Alex Yoon",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "EverEx",
-  "LinkedIn": "http://www.linkedin.com/in/alex-chan-yoon",
-  "Email": "chan.yoon@everex.co.kr"
- },
- {
-  "Person": "Tyler Sipala",
-  "Family/Entry": "",
-  "Role": "Founder & CEO",
-  "Company": "InfleXion Point Advisors",
-  "LinkedIn": "http://www.linkedin.com/in/tyler-sipala-632bb8a4",
-  "Email": "sipalaty@grinnell.edu"
- },
- {
-  "Person": "Nick Iwig",
-  "Family/Entry": "",
-  "Role": "CEO and Co-Founder",
-  "Company": "INFLEXION POINT TECHNOLOGIES, LLC",
-  "LinkedIn": "http://www.linkedin.com/in/nick-iwig-39a8b241",
-  "Email": "nick.iwig@inflexionpointtechnologies.com"
- },
- {
-  "Person": "Ellen Van Turnhout",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Agora Group",
-  "LinkedIn": "http://www.linkedin.com/in/ellen-van-turnhout-60921590",
-  "Email": "ellen.vanturnhout@agoragroup.com"
- },
- {
-  "Person": "Astrid Van Turnhout",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Het land van Ooit",
-  "LinkedIn": "http://www.linkedin.com/in/astrid-van-turnhout-0091a21a3",
-  "Email": "astrid@hetlandvanooit.be"
- },
- {
-  "Person": "Frank Ohle",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Van Genechten Packaging",
-  "LinkedIn": "http://www.linkedin.com/in/frank-ohle-267b1230",
-  "Email": "fohle@vangenechten.com"
- },
- {
-  "Person": "Koen Van Genechten",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Antverpia Apotheken",
-  "LinkedIn": "http://www.linkedin.com/in/koen-van-genechten-001b29",
-  "Email": "kvg@antverpia.net"
- },
- {
-  "Person": "Roberto Rupolo",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Aliplast S.p.A.",
-  "LinkedIn": "http://www.linkedin.com/in/roberto-rupolo-35557576",
-  "Email": "roberto.rupolo@aliplastspa.it"
- },
- {
-  "Person": "Jan Kidaj",
-  "Family/Entry": "",
-  "Role": "Manager CEO",
-  "Company": "Aliplast Sp. z o.o.",
-  "LinkedIn": "http://www.linkedin.com/in/jan-kidaj-435353131",
-  "Email": "jan.kidaj@aliplast.pl"
- },
- {
-  "Person": "Will Lansing",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "FICO",
-  "LinkedIn": "http://www.linkedin.com/in/williamlansing",
-  "Email": "willlansing@fairisaac.com"
- },
- {
-  "Person": "Bryan Perez",
-  "Family/Entry": "",
-  "Role": "Founder & CEO (Certified FICO® Professional)",
-  "Company": "Credit Advisors Group LLC- Credit Specialists",
-  "LinkedIn": "http://www.linkedin.com/in/bryan-perez-cag",
-  "Email": "bperez@creditadvisorsfl.com"
- },
- {
-  "Person": "Lien Grootvriendt",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Lokaal bestuur Haaltert",
-  "LinkedIn": "http://www.linkedin.com/in/lien-grootvriendt-1b51b62a",
-  "Email": "lien.grootvriendt@haaltert.be"
- },
- {
-  "Person": "Sonia Schelle",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to CEO",
-  "Company": "EY",
-  "LinkedIn": "http://www.linkedin.com/in/sonia-schelle-99b576112",
-  "Email": "sonia.schelle@de.ey.com"
- },
- {
-  "Person": "Peter Schelle",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "THE FLYING COFFEE",
-  "LinkedIn": "http://www.linkedin.com/in/flyingcoffeeworms",
-  "Email": "ps@theflyingcoffee.de"
- },
- {
-  "Person": "Jan Geudens",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Gemeente Boechout",
-  "LinkedIn": "http://www.linkedin.com/in/jan-geudens-91a01326",
-  "Email": "jan.geudens@boechout.be"
- },
- {
-  "Person": "Steve Shaw",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "3SIX5 Digital - 3SIX5Digital.co.uk | Webflow Agency, Experts & Official Partners",
-  "LinkedIn": "http://www.linkedin.com/in/shaw3six5",
-  "Email": "steve@3six5.digital"
- },
- {
-  "Person": "Shaw Fei",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "YANTAI XICHENG AQUATIC FOODS CO.,LTD",
-  "LinkedIn": "http://www.linkedin.com/in/shaw-fei-b7b190250",
-  "Email": "shawfei@xcseafoods.com"
- },
- {
-  "Person": "Rosario Rasizza",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Openjobmetis SpA",
-  "LinkedIn": "http://www.linkedin.com/in/rosariorasizza",
-  "Email": "rosario.rasizza@openjob.it"
- },
- {
-  "Person": "Nicolas Suazo Perez",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Grudigo Spa",
-  "LinkedIn": "http://www.linkedin.com/in/nicol%c3%a1s-suazo-p%c3%a9rez-6a6a95b0",
-  "Email": "nicolas@grudigodev.com"
- },
- {
-  "Person": "Paul Demuzere",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Kantoor Demuzere - Crelan Gullegem",
-  "LinkedIn": "http://www.linkedin.com/in/paul-demuzere-a02a8742",
-  "Email": "paul@kantoordemuzere.be"
- },
- {
-  "Person": "Sebastien Mante",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "La Malle Française",
-  "LinkedIn": "http://www.linkedin.com/in/s%c3%a9bastien-mante-11300b62",
-  "Email": "sebastien@lamallefrancaise.com"
- },
- {
-  "Person": "Morten Malle",
-  "Family/Entry": "",
-  "Role": "",
-  "Company": "RE:OCEAN",
-  "LinkedIn": "http://www.linkedin.com/in/morten-malle-1990537",
-  "Email": "malle@reocean.se"
- },
- {
-  "Person": "Xavier Bouckaert",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Roularta Media Group",
-  "LinkedIn": "http://www.linkedin.com/in/xavier-bouckaert-bb38045",
-  "Email": "xavier.bouckaert@roularta.be"
- },
- {
-  "Person": "Marjolein Denekamp",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer (CEO)",
-  "Company": "Roularta Media Nederland",
-  "LinkedIn": "http://www.linkedin.com/in/marjoleindenekamp",
-  "Email": "marjolein.denekamp@roularta.nl"
- },
- {
-  "Person": "Francesca Jansen",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Stad Beringen",
-  "LinkedIn": "http://www.linkedin.com/in/francesca-jansen-b037a379",
-  "Email": "francesca.jansen@beringen.be"
- },
- {
-  "Person": "Luc Vrijdaghs",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Stad Beringen",
-  "LinkedIn": "http://www.linkedin.com/in/luc-vrijdaghs-030857199",
-  "Email": "luc.vrijdaghs@beringen.be"
- },
- {
-  "Person": "Klaas Waele",
-  "Family/Entry": "",
-  "Role": "Product Owner",
-  "Company": "Golazo Energy",
-  "LinkedIn": "http://www.linkedin.com/in/klaasdewaele",
-  "Email": "klaas.dewaele@energylab.be"
- },
- {
-  "Person": "Michel Van Troost",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Golazo Media",
-  "LinkedIn": "http://www.linkedin.com/in/michel-van-troost-41922217",
-  "Email": "michel@sportsmedia.nl"
- },
- {
-  "Person": "Marcelo Martirani",
-  "Family/Entry": "",
-  "Role": "CEO Latam",
-  "Company": "Octagon",
-  "LinkedIn": "http://www.linkedin.com/in/marcelo-mandia-martirani-49a79172",
-  "Email": "marcelo.martirani@octagon.com"
- },
- {
-  "Person": "Mead Welles",
-  "Family/Entry": "",
-  "Role": "President and CEO",
-  "Company": "Octagon",
-  "LinkedIn": "http://www.linkedin.com/in/c-mead-welles-000b85",
-  "Email": "mead.welles@octagonam.com"
- },
- {
-  "Person": "Jaak Slenders",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Agrifirm - Quartes",
-  "LinkedIn": "http://www.linkedin.com/in/jaak-slenders-b803ab72",
-  "Email": "jaak.slenders@quartes.com"
- },
- {
-  "Person": "Dominique Moorkens",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Alcopa",
-  "LinkedIn": "http://www.linkedin.com/in/dominique-moorkens-6499a61",
-  "Email": "dominique.moorkens@alcopa.be"
- },
- {
-  "Person": "Damien Heymans",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Alcopa",
-  "LinkedIn": "http://www.linkedin.com/in/damien-heymans-36560266",
-  "Email": "damien.heymans@alcopa.be"
- },
- {
-  "Person": "Emilie Soleri",
-  "Family/Entry": "",
-  "Role": "CEO | Directrice Générale",
-  "Company": "Boulanger",
-  "LinkedIn": "http://www.linkedin.com/in/emilie-soleri-b683692a",
-  "Email": "emilie.soleri@boulanger.com"
- },
- {
-  "Person": "Constantin Boulanger",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "MDWeb Lille",
-  "LinkedIn": "http://www.linkedin.com/in/constantinboulanger",
-  "Email": "cboulanger@mdweb.fr"
- },
- {
-  "Person": "Kevin Everaert",
-  "Family/Entry": "",
+  "Person": "Ignace Bogaert",
+  "Family/Entry": "Familie De Raedt-Verheyden",
   "Role": "CFO",
-  "Company": "SV Zulte Waregem",
-  "LinkedIn": "http://www.linkedin.com/in/kevin-everaert-206b9113a",
-  "Email": "kevin.everaert@essevee.be"
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Maren Vanmullem",
-  "Family/Entry": "",
-  "Role": "CMO",
-  "Company": "SV Zulte Waregem",
-  "LinkedIn": "http://www.linkedin.com/in/marenvanmullem",
-  "Email": "maren.vanmullem@essevee.be"
+  "Person": "Carl-Philip de Villegas",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "CEO Straco Real Estate",
+  "Company": "Straco Real Estate",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Roger Moody",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Biocartis",
-  "LinkedIn": "http://www.linkedin.com/in/roger-moody-a11141",
-  "Email": "rmoody@biocartis.com"
+  "Person": "Nicolas Groenen",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Investment Manager",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Andreia Ruy",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to CEO",
-  "Company": "Syngenta",
-  "LinkedIn": "http://www.linkedin.com/in/andreia-ruy-59921861",
-  "Email": "andreia.ruy@syngenta.com"
+  "Person": "Emile van Elen",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Investment Director",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Stella Chu",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to CEO Latam",
-  "Company": "Syngenta",
-  "LinkedIn": "http://www.linkedin.com/in/stella-chu-584a5414",
-  "Email": "stella.chu@syngenta.com"
+  "Person": "Lauren Willen",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Head of Legal",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Matt Thomson",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "BOOM",
-  "LinkedIn": "http://www.linkedin.com/in/matt-thomson-0504b31a",
-  "Email": "mthomson@boomltd.ca"
+  "Person": "David de Klerk",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Senior Investment Associate",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Humberto Vieira",
-  "Family/Entry": "",
-  "Role": "CEO Boom",
-  "Company": "boom",
-  "LinkedIn": "http://www.linkedin.com/in/humberto-a-vieira-97387321",
-  "Email": "humberto@boomtotal.com.br"
+  "Person": "Louis Faveere",
+  "Family/Entry": "Familie De Raedt-Verheyden",
+  "Role": "Senior Associate",
+  "Company": "Straco",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Bruce Cpcu",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Johnson Kendall Johnson",
-  "LinkedIn": "http://www.linkedin.com/in/bruce-f-white-cpcu-4aa91b4a",
-  "Email": "bwhite@jkj.com"
+  "Person": "Pierre Van der Mersch",
+  "Family/Entry": "Familie Van der Mersch",
+  "Role": "Founder",
+  "Company": "Brederode",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Yuan Mei",
-  "Family/Entry": "",
-  "Role": "Vice CEO",
-  "Company": "Johnson & Johnson",
-  "LinkedIn": "http://www.linkedin.com/in/yuan-mei-93157b20",
-  "Email": "yuanmei@jnj.com"
+  "Person": "Roland Duchâtelet",
+  "Family/Entry": "Familie Roland Duchâtelet",
+  "Role": "Chairman/Founder",
+  "Company": "X-Trion",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Tatsuya Izukawa",
-  "Family/Entry": "",
-  "Role": "Dupty Senior Director, CEO Office",
-  "Company": "Mitsubishi Tanabe Pharma Corporation",
-  "LinkedIn": "http://www.linkedin.com/in/tatsuya-izukawa-8072242b8",
-  "Email": "izukawa.tatsuya@mn.mt-pharma.co.jp"
+  "Person": "Marieke Höfte",
+  "Family/Entry": "Familie Roland Duchâtelet",
+  "Role": "Partner",
+  "Company": "Stayen",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Masaya Ito",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Mitsubishi Tanabe Pharma Europe Limited",
-  "LinkedIn": "http://www.linkedin.com/in/masaya-ito-00bb79a0",
-  "Email": "mito@mt-pharma-eu.com"
+  "Person": "Roderick Duchâtelet",
+  "Family/Entry": "Familie Roland Duchâtelet",
+  "Role": "Son",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Yaki Sidis",
-  "Family/Entry": "",
-  "Role": "Senior Director, Global Biologic Value Stream Leader, General Manager Omrix Biopharmaceuticals",
-  "Company": "Johnson & Johnson MedTech",
-  "LinkedIn": "http://www.linkedin.com/in/yaki-sidis-23873121",
-  "Email": "ysidis@its.jnj.com"
+  "Person": "Paul Thermote",
+  "Family/Entry": "Familie Thermote",
+  "Role": "Co-founder (deceased)",
+  "Company": "TVH",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Jerome Calonne",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Medi-Market Italia",
-  "LinkedIn": "http://www.linkedin.com/in/jeromecalonne",
-  "Email": "jerome.calonne@medi-market.it"
+  "Person": "Ann Thermote",
+  "Family/Entry": "Familie Thermote",
+  "Role": "Family shareholder (60%)",
+  "Company": "TVH",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Cedric Antoine",
-  "Family/Entry": "",
+  "Person": "Pascal Vanhalst",
+  "Family/Entry": "Familie Thermote",
+  "Role": "Former co-owner (sold 40% to D'Ieteren)",
+  "Company": "TVH",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Rodolphe Collinet",
+  "Family/Entry": "Familie Collinet",
   "Role": "Group CEO",
-  "Company": "Medi-Market Group",
-  "LinkedIn": "http://www.linkedin.com/in/c%c3%a9dric-antoine-a718783",
-  "Email": "c.antoine@medi-market.be"
+  "Company": "Carmeuse",
+  "LinkedIn": "https://www.linkedin.com/in/rodolphe-collinet/",
+  "Email": ""
  },
  {
-  "Person": "Ozlenen Kalav",
-  "Family/Entry": "",
+  "Person": "Camille Cigrang",
+  "Family/Entry": "Familie Cigrang",
+  "Role": "Stanvader",
+  "Company": "Cobelfret",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christian Cigrang",
+  "Family/Entry": "Familie Cigrang",
+  "Role": "CEO/Main shareholder (age 53 in 2018)",
+  "Company": "Cobelfret",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Philippe Cigrang",
+  "Family/Entry": "Familie Cigrang",
+  "Role": "Brother/Shareholder (age 54 in 2018)",
+  "Company": "Cobelfret",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Cigrang",
+  "Family/Entry": "Familie Cigrang",
+  "Role": "Brother/General Director A.F. Vandervorst",
+  "Company": "Cobelfret/A.F. Vandervorst",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Cigrang",
+  "Family/Entry": "Familie Cigrang",
+  "Role": "Brother/Shareholder (age 47 in 2018)",
+  "Company": "Cobelfret",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Macharis",
+  "Family/Entry": "Familie Macharis",
   "Role": "CEO",
-  "Company": "TPF",
-  "LinkedIn": "http://www.linkedin.com/in/ozlenen-kalav-9239a04",
-  "Email": "ozlenen@tpfund.org"
+  "Company": "VPK Packaging",
+  "LinkedIn": "https://www.linkedin.com/in/pierre-macharis-401bba5b/",
+  "Email": ""
  },
  {
-  "Person": "Nick Goodmaker",
-  "Family/Entry": "",
-  "Role": "Co-CEO",
-  "Company": "tpf",
-  "LinkedIn": "http://www.linkedin.com/in/nick-goodmaker-13165b11",
-  "Email": "nickgoodmaker@tpf-london.com"
+  "Person": "Luc Tack",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "CEO Tessenderlo/Chairman Picanol",
+  "Company": "Tessenderlo/Picanol",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Alain Wyffels",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "Gemeentebestuur Zonnebeke",
-  "LinkedIn": "http://www.linkedin.com/in/alain-wyffels-28464647",
-  "Email": "alain.wyffels@zonnebeke.be"
+  "Person": "Francisca Clarysse",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "Wife",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Carine Van Beemen",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "ijssalon pinguin",
-  "LinkedIn": "http://www.linkedin.com/in/carine-van-beemen-9118b218",
-  "Email": "c.vanbeemen@ijssalonpinguin.be"
+  "Person": "Laurie Tack",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "Daughter, CEO Clarysse, Director Tessenderlo, responsible for Harmony Industries",
+  "Company": "Clarysse/Tessenderlo/Harmony",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Heidi Heitmann",
-  "Family/Entry": "",
-  "Role": "Managing Owner",
-  "Company": "Pinguin Consult",
-  "LinkedIn": "http://www.linkedin.com/in/heidi-heitmann-45359258",
-  "Email": "heidi.heitmann@pinguin-consult.com"
+  "Person": "Aurélie Tack",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "Daughter (photography/design)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Mario Van Den Broeck",
-  "Family/Entry": "",
-  "Role": "Dealership Owner Principal H-D Capital Brussels",
-  "Company": "Harley-Davidson Capital Brussels - Dilbeek - Belgium",
-  "LinkedIn": "http://www.linkedin.com/in/mariovandenbroeck",
-  "Email": "mario@capitalofeurope.com"
+  "Person": "Louis Tack",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "Son, International for Picanol",
+  "Company": "Picanol",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Katleen Valtin",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "gemeente Dilbeek",
-  "LinkedIn": "http://www.linkedin.com/in/katleen-valtin-1824838b",
-  "Email": "katleen.valtin@dilbeek.be"
+  "Person": "Rémy Tack",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "Son, active in textile group",
+  "Company": "Textile group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Jim Sebastian",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "ECOVAL TRADING LLC",
-  "LinkedIn": "http://www.linkedin.com/in/jim-sebastian-34b08234",
-  "Email": "jim@ecovalme.com"
+  "Person": "Gregory Tack",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "Son, active in textile group",
+  "Company": "Textile group",
+  "LinkedIn": "",
+  "Email": ""
  },
  {
-  "Person": "Claudio Maia",
-  "Family/Entry": "",
+  "Person": "Aäron Coone",
+  "Family/Entry": "Familie Luc Tack",
+  "Role": "Son-in-law (married to Laurie)",
+  "Company": "Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Rudi De Winter",
+  "Family/Entry": "Rudi De Winter en Françoise Chombar",
+  "Role": "Co-owner/Shareholder",
+  "Company": "Sensinnovat/Melexis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Françoise Chombar",
+  "Family/Entry": "Rudi De Winter en Françoise Chombar",
+  "Role": "Chairman Board of Directors (former CEO)",
+  "Company": "Melexis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Filip Balcaen",
+  "Family/Entry": "Familie Balcaen",
+  "Role": "Founder/Investor",
+  "Company": "ex-Balta/IVC",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Louis Balcaen",
+  "Family/Entry": "Familie Balcaen",
+  "Role": "Son",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Simon Balcaen",
+  "Family/Entry": "Familie Balcaen",
+  "Role": "Son",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "François Van Belle",
+  "Family/Entry": "Families Van Belle en Demanet",
+  "Role": "Pater familias/Chairman",
+  "Company": "Puratos",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eddy Van Belle",
+  "Family/Entry": "Families Van Belle en Demanet",
+  "Role": "Second generation",
+  "Company": "Puratos",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Rita Van Belle",
+  "Family/Entry": "Families Van Belle en Demanet",
+  "Role": "Sister of Eddy",
+  "Company": "Puratos",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Demanet",
+  "Family/Entry": "Families Van Belle en Demanet",
+  "Role": "Co-founder/Co-owner (deceased)",
+  "Company": "Puratos",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Eeckhout",
+  "Family/Entry": "Families Van Belle en Demanet",
+  "Role": "Board member (ex-Delhaize director)",
+  "Company": "Puratos",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Charles Beauduin",
+  "Family/Entry": "Familie Beauduin",
+  "Role": "CEO Michel Van de Wiele, Co-CEO Barco, Chairman Board Barco",
+  "Company": "Michel Van de Wiele/Barco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lucien Beauduin",
+  "Family/Entry": "Familie Beauduin",
+  "Role": "Father of Charles, Board member",
+  "Company": "Michel Van de Wiele",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marie-Anne De Voghel",
+  "Family/Entry": "Familie Beauduin",
+  "Role": "Mother of Charles, Board member",
+  "Company": "Michel Van de Wiele",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bernadette de Bethune",
+  "Family/Entry": "Familie Beauduin",
+  "Role": "Wife of Charles, Independent Director DPG Media",
+  "Company": "DPG Media",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jos De Pauw",
+  "Family/Entry": "Familie (Tony) De Pauw",
+  "Role": "Founder (deceased)",
+  "Company": "WDP",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tony De Pauw",
+  "Family/Entry": "Familie (Tony) De Pauw",
+  "Role": "Son, former leader (deceased 2025, age 70)",
+  "Company": "WDP",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joost Uwents",
+  "Family/Entry": "Familie (Tony) De Pauw",
+  "Role": "CEO/Financial Director",
+  "Company": "WDP",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pascale De Keersmaeker",
+  "Family/Entry": "Familie (Tony) De Pauw",
+  "Role": "Wife of Tony",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Robert De Pauw",
+  "Family/Entry": "Familie (Tony) De Pauw",
+  "Role": "Brother of Tony",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Anne De Pauw",
+  "Family/Entry": "Familie (Tony) De Pauw",
+  "Role": "Sister of Tony (deceased)",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kathleen De Pauw",
+  "Family/Entry": "Familie (Tony) De Pauw",
+  "Role": "Sister of Tony",
+  "Company": "Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jonas Dhaenens",
+  "Family/Entry": "Jonas Dhaenens",
+  "Role": "Founder & President",
+  "Company": "team.blue",
+  "LinkedIn": "https://be.linkedin.com/in/jonasdhaenens",
+  "Email": ""
+ },
+ {
+  "Person": "Vic Swerts",
+  "Family/Entry": "Familie Swerts",
+  "Role": "Founder/Owner (age 84)",
+  "Company": "Soudal",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Coorevits",
+  "Family/Entry": "Familie Swerts",
   "Role": "CEO",
-  "Company": "TRACTEBEL",
-  "LinkedIn": "http://www.linkedin.com/in/claudio-maia-5458a975",
-  "Email": "claudio.maia@tractebel.engie.com"
- },
- {
-  "Person": "Suzy Smit",
-  "Family/Entry": "",
-  "Role": "Executive Assistant and Communication Officer to the CEO",
-  "Company": "TRACTEBEL",
-  "LinkedIn": "http://www.linkedin.com/in/suzy-smit-13110421a",
-  "Email": "suzy.smit@tractebel.com"
- },
- {
-  "Person": "Blazej Musial",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "BLUM Entertainment",
-  "LinkedIn": "http://www.linkedin.com/in/b%c5%82a%c5%bcej-musia%c5%82-355926189",
-  "Email": "blazej.musial@blumentmt.com"
- },
- {
-  "Person": "Mike Lancaster",
-  "Family/Entry": "",
-  "Role": "President & CEO",
-  "Company": "Blum Construction",
-  "LinkedIn": "http://www.linkedin.com/in/mike-lancaster-28189b5a",
-  "Email": "mike.lancaster@flblum.com"
- },
- {
-  "Person": "Shabbir Hakim",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "ALYKO ENTERPRISES LLC",
-  "LinkedIn": "http://www.linkedin.com/in/shabbir-hakim-37458b21",
-  "Email": "hakim@alyko.com"
- },
- {
-  "Person": "Willy Hansen",
-  "Family/Entry": "",
-  "Role": "Company Owner by Tegeloutlet Aartselaar",
-  "Company": "Tegeloutlet",
-  "LinkedIn": "http://www.linkedin.com/in/willy-hansen-887b98283",
-  "Email": "willy@tegeloutlet.be"
- },
- {
-  "Person": "Yannic Boever",
-  "Family/Entry": "",
-  "Role": "Personal Assistant to CEO Cebeo & CEO Sonepar Belgium",
-  "Company": "Cebeo",
-  "LinkedIn": "http://www.linkedin.com/in/yannic-de-boever-71575010b",
-  "Email": "yannic.deboever@cebeo.be"
- },
- {
-  "Person": "Koen Van Ackere",
-  "Family/Entry": "",
-  "Role": "Business Process Owner OTC",
-  "Company": "Cebeo",
-  "LinkedIn": "http://www.linkedin.com/in/koen-van-ackere-3687527",
-  "Email": "koen.vanackere@cebeo.be"
- },
- {
-  "Person": "Yannic Boever",
-  "Family/Entry": "",
-  "Role": "Personal Assistant to CEO Cebeo & CEO Sonepar Belgium",
-  "Company": "Cebeo",
-  "LinkedIn": "http://www.linkedin.com/in/yannic-de-boever-71575010b",
-  "Email": "yannic.deboever@cebeo.be"
- },
- {
-  "Person": "Stefanie Schneider",
-  "Family/Entry": "",
-  "Role": "President Sonepar Belgium / Managing Director Cebeo",
-  "Company": "Cebeo",
-  "LinkedIn": "http://www.linkedin.com/in/stefanie-schneider-80419a5",
-  "Email": "stefanie.schneider@cebeo.be"
- },
- {
-  "Person": "Julia Briggs",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Blue Star Design",
-  "LinkedIn": "http://www.linkedin.com/in/juliabriggs",
-  "Email": "julia@bluestar-design.com"
- },
- {
-  "Person": "Mohammed Hamza",
-  "Family/Entry": "",
-  "Role": "President/CEO",
-  "Company": "Blue Star Plastics",
-  "LinkedIn": "http://www.linkedin.com/in/mohammed-hamza-8033ab26",
-  "Email": "mohammed@bluestarplastics.com"
- },
- {
-  "Person": "Tony Ranst",
-  "Family/Entry": "",
-  "Role": "Independent Business Owner",
-  "Company": "Westcoast Trailer & Caravan Services",
-  "LinkedIn": "http://www.linkedin.com/in/tony-van-ranst-a5036046",
-  "Email": "tony@westcoasttrailerandcaravanservices.com.au"
- },
- {
-  "Person": "Karl Van Ranst",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Van Ranst",
-  "LinkedIn": "http://www.linkedin.com/in/karl-van-ranst-12554568",
-  "Email": "karl@vanranst.be"
- },
- {
-  "Person": "Alexandre Bompard",
-  "Family/Entry": "",
-  "Role": "Chairman and CEO",
-  "Company": "Carrefour",
-  "LinkedIn": "http://www.linkedin.com/in/alexandrebompard",
-  "Email": "alexandre_bompard@carrefour.com"
- },
- {
-  "Person": "Gilles Ballot",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Carrefour România",
-  "LinkedIn": "http://www.linkedin.com/in/gillesballot",
-  "Email": "gilles_ballot@carrefour.com"
- },
- {
-  "Person": "Evelyn Van Hamme",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to the CEO and CHRO",
-  "Company": "AkzoNobel  阿克苏诺贝尔",
-  "LinkedIn": "http://www.linkedin.com/in/evelyn-van-hamme-2428b983",
-  "Email": "evelyn.vanhamme@akzonobel.com"
- },
- {
-  "Person": "Jill Hamme",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "Hopewell Cleaning Service",
-  "LinkedIn": "http://www.linkedin.com/in/jill-hamme-18677091",
-  "Email": "jhamme@hopewellcleaning.com"
- },
- {
-  "Person": "Geoffroy Lavigne",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Anacom",
-  "LinkedIn": "http://www.linkedin.com/in/geoffroy-lavigne",
-  "Email": "geoffroy@anaprosy.be"
- },
- {
-  "Person": "James Tom",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Anacom Inc",
-  "LinkedIn": "http://www.linkedin.com/in/jamestom",
-  "Email": "jtom@clicktime.com"
- },
- {
-  "Person": "Keith Newton",
-  "Family/Entry": "",
-  "Role": "Chairman, President & CEO",
-  "Company": "Concentra",
-  "LinkedIn": "http://www.linkedin.com/in/keith-newton-b5543010",
-  "Email": "keith_newton@concentra.com"
- },
- {
-  "Person": "Janet Jacoby",
-  "Family/Entry": "",
-  "Role": "Executive Assistant to President & CEO",
-  "Company": "Concentra",
-  "LinkedIn": "http://www.linkedin.com/in/janet-jacoby-93803343",
-  "Email": "janet_jacoby@concentra.com"
- },
- {
-  "Person": "Barbara Sage",
-  "Family/Entry": "",
-  "Role": "Team Lead Administration & Executive Assistant to the CEO",
-  "Company": "Umicore",
-  "LinkedIn": "http://www.linkedin.com/in/barbara-le-sage-66b55b18",
-  "Email": "barbara.lesage@umicore.com"
- },
- {
-  "Person": "Bart Sap",
-  "Family/Entry": "",
-  "Role": "Chief Executive Officer",
-  "Company": "Umicore",
-  "LinkedIn": "http://www.linkedin.com/in/bart-sap-4648745",
-  "Email": "bart.sap@eu.umicore.com"
- },
- {
-  "Person": "Lee McCarren",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Forrest",
-  "LinkedIn": "http://www.linkedin.com/in/lee-mccarren-29487b3a",
-  "Email": "lee.mccarren@forrest.co.uk"
- },
- {
-  "Person": "Jason Forrest",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "FPG (Forrest Performance Group)",
-  "LinkedIn": "http://www.linkedin.com/in/jasonforrest",
-  "Email": "jason.forrest@forrestperformance.com"
- },
- {
-  "Person": "Vejendla",
-  "Family/Entry": "",
-  "Role": "Founder & CEO",
-  "Company": "Forsys Inc",
-  "LinkedIn": "http://www.linkedin.com/in/jp-jayaprasad-vejendla-5675ba5",
-  "Email": "jp.vejendla@forsysinc.com"
- },
- {
-  "Person": "Nixon James",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Forsys Inc",
-  "LinkedIn": "http://www.linkedin.com/in/nixon-james-813773229",
-  "Email": "nixon.james@forsysinc.com"
- },
- {
-  "Person": "Danny Huang",
-  "Family/Entry": "",
-  "Role": "COO",
-  "Company": "P-WAVER",
-  "LinkedIn": "http://www.linkedin.com/in/danny-huang-81a6261a3",
-  "Email": "danny.huang@pwaver.com"
- },
- {
-  "Person": "Ahmed Mamdouh",
-  "Family/Entry": "",
-  "Role": "CEO - Founder",
-  "Company": "SOUFFLET EGYPT",
-  "LinkedIn": "http://www.linkedin.com/in/ahmed-mamdouh-10a5b02b",
-  "Email": "a.mamdouh@soufflet-eg.com"
- },
- {
-  "Person": "Frederic Soufflet",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Haapie",
-  "LinkedIn": "http://www.linkedin.com/in/fr%c3%a9d%c3%a9ric-soufflet-a398698",
-  "Email": "fred@haapie.com"
- },
- {
-  "Person": "Frederik Willems",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Lokaal bestuur Assenede",
-  "LinkedIn": "http://www.linkedin.com/in/frederik-willems-389833238",
-  "Email": "frederik.willems@assenede.be"
- },
- {
-  "Person": "Claudius Moor",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Arbonia",
-  "LinkedIn": "http://www.linkedin.com/in/claudius-moor-44773a16",
-  "Email": "claudius.moor@arbonia.com"
- },
- {
-  "Person": "Christian Kunzelmann",
-  "Family/Entry": "",
-  "Role": "CEO RWD Schlatter AG & M. d. Divisionsleitung Türen der Arbonia Gruppe",
-  "Company": "RWD Schlatter AG",
-  "LinkedIn": "http://www.linkedin.com/in/christian-kunzelmann-6b45b7121",
-  "Email": "christian.kunzelmann@rwdschlatter.ch"
- },
- {
-  "Person": "Jef Gonnissen",
-  "Family/Entry": "",
-  "Role": "Business Owner",
-  "Company": "Tgw Dilsen Be",
-  "LinkedIn": "http://www.linkedin.com/in/jef-gonnissen-202a6a2b8",
-  "Email": "jef@tgw-dilsen.be"
- },
- {
-  "Person": "Dilsen Kara",
-  "Family/Entry": "",
-  "Role": "General Manager",
-  "Company": "ÇEVRE PEYZAJ",
-  "LinkedIn": "http://www.linkedin.com/in/dil%c5%9fen-kara-b6580035",
-  "Email": "dilsen@cevrepeyzaj.com.tr"
- },
- {
-  "Person": "Max Ferri",
-  "Family/Entry": "",
-  "Role": "CEO and Civil Engineer",
-  "Company": "Maxma Engenharia e Incorporações",
-  "LinkedIn": "http://www.linkedin.com/in/max-ferri-09061233",
-  "Email": "max@maxmaengenharia.com.br"
- },
- {
-  "Person": "Cristian Mohr",
-  "Family/Entry": "",
-  "Role": "Presidente (CEO)",
-  "Company": "Max Mohr - Tecnologia em Argamassa e Concreto",
-  "LinkedIn": "http://www.linkedin.com/in/cristian-mohr-7a801744",
-  "Email": "cristian@maxmohr.com.br"
- },
- {
-  "Person": "Luca Borella",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Masco Group",
-  "LinkedIn": "http://www.linkedin.com/in/luca-borella-5a02a515",
-  "Email": "lb@mascogroup.com"
- },
- {
-  "Person": "Kipyo Pok",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Masco inc",
-  "LinkedIn": "http://www.linkedin.com/in/kipyo-pok-22ba4a4b",
-  "Email": "pok@pfkco.com"
- },
- {
-  "Person": "Guillaume Jacquet",
-  "Family/Entry": "",
-  "Role": "Co-Founder & CEO",
-  "Company": "Vasco",
-  "LinkedIn": "http://www.linkedin.com/in/jacquet-guillaume",
-  "Email": "gjacquet@vasco.app"
- },
- {
-  "Person": "Ephraim Vashovsky",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Vasco Ventures",
-  "LinkedIn": "http://www.linkedin.com/in/ephraim-vashovsky-86423385",
-  "Email": "ephraim@vascoventures.com"
- },
- {
-  "Person": "Daisy Miseur",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Taxi Walter Zaventem",
-  "LinkedIn": "http://www.linkedin.com/in/daisy-miseur-0a79b3208",
-  "Email": "daisy.miseur@taxizaventem.be"
- },
- {
-  "Person": "Hayley Brown",
-  "Family/Entry": "",
-  "Role": "Owner",
-  "Company": "allin1.app",
-  "LinkedIn": "http://www.linkedin.com/in/hayley-brown-030771115",
-  "Email": "hayley@allin1app.com"
- },
- {
-  "Person": "Karen Mphil",
-  "Family/Entry": "",
-  "Role": "Managing Director",
-  "Company": "Allin1 Advisory",
-  "LinkedIn": "http://www.linkedin.com/in/holdenkaren",
-  "Email": "karen@acitylawfirm.com"
- },
- {
-  "Person": "Neil Crowther",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "Ardent",
-  "LinkedIn": "http://www.linkedin.com/in/neil-crowther-a4b19a11",
-  "Email": "neil.crowther@ardent-uk.com"
- },
- {
-  "Person": "Ross Crump",
-  "Family/Entry": "",
-  "Role": "Founder & CEO",
-  "Company": "Ardent",
-  "LinkedIn": "http://www.linkedin.com/in/ross-crump-87464168",
-  "Email": "ross@ardent.social"
- },
- {
-  "Person": "Nick Foster",
-  "Family/Entry": "",
-  "Role": "Founder, CEO",
-  "Company": "CIRCUS",
-  "LinkedIn": "http://www.linkedin.com/in/nick-foster-21753795",
-  "Email": "nick@circus.tech"
- },
- {
-  "Person": "Gaurav Durasamy",
-  "Family/Entry": "",
-  "Role": "Co-Founder and CEO",
-  "Company": "_&Circus",
-  "LinkedIn": "http://www.linkedin.com/in/gauravdurasamy",
-  "Email": "gaurav@tailorandcircus.com"
- },
- {
-  "Person": "Emmanuel Mewissen",
-  "Family/Entry": "",
-  "Role": "CEO",
-  "Company": "GAMING1",
-  "LinkedIn": "http://www.linkedin.com/in/emmanuel-mewissen",
-  "Email": "emmanuel.mewissen@gaming1.com"
+  "Company": "Soudal",
+  "LinkedIn": "",
+  "Email": ""
  }
 ]
