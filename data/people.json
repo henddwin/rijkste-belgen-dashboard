@@ -1730,7 +1730,7 @@
  {
   "Person": "Fabrice Brion",
   "Family/Entry": "Fabrice Brion en Arnaud Stiévenart",
-  "Role": "Co-founder",
+  "Role": "Co-founder / CEO",
   "Company": "I-Care",
   "LinkedIn": "",
   "Email": ""
@@ -1738,7 +1738,7 @@
  {
   "Person": "Arnaud Stiévenart",
   "Family/Entry": "Fabrice Brion en Arnaud Stiévenart",
-  "Role": "Co-founder",
+  "Role": "Co-founder / Board Member",
   "Company": "I-Care",
   "LinkedIn": "",
   "Email": ""
@@ -4420,6 +4420,6086 @@
   "Family/Entry": "Familie Michel Akkermans",
   "Role": "Oprichter",
   "Company": "Clear2Pay",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jules Hayen",
+  "Family/Entry": "Familie Hayen",
+  "Role": "Eigenaar, plastisch chirurg en vastgoedinvesteerder",
+  "Company": "First Way",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Daniëlle Fryns",
+  "Family/Entry": "Familie Hayen",
+  "Role": "Echtgenote, telg uit jeneverproducenten",
+  "Company": "First Way",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Isabelle Hayen",
+  "Family/Entry": "Familie Hayen",
+  "Role": "Dochter, gedomicilieerd Monaco",
+  "Company": "First Way",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gilbert Vandamme",
+  "Family/Entry": "Familie Vandamme",
+  "Role": "Oprichter moderne oliefabriek (1980)",
+  "Company": "Oliefabriek Vandamme",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Xavier Vandamme",
+  "Family/Entry": "Familie Vandamme",
+  "Role": "Huidige bestuurder/contactpersoon",
+  "Company": "Oliefabriek Vandamme",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marnix Galle",
+  "Family/Entry": "Familie Galle",
+  "Role": "Executive Chairman & CEO",
+  "Company": "Immobel",
+  "LinkedIn": "https://be.linkedin.com/in/marnix-galle-76146789",
+  "Email": ""
+ },
+ {
+  "Person": "Rocco Marotta",
+  "Family/Entry": "Rocco Marotta",
+  "Role": "Eigenaar winkelpanden Nieuwstraat (Brussel) en Meir (Antwerpen)",
+  "Company": "Vastgoedportefeuille",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Jaspers",
+  "Family/Entry": "Familie Jaspers",
+  "Role": "Vader, architect",
+  "Company": "Jaspers-Eyers Architecten",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Mark Leysen",
+  "Family/Entry": "Families Mark Leysen",
+  "Role": "Bestuursvoorzitter en gedelegeerd bestuurder",
+  "Company": "Vanbreda Risk & Benefits",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Vanden Dael (5e generatie)",
+  "Family/Entry": "Familie Vanden Dael",
+  "Role": "Eigenaar distributie sanitair & verwarming",
+  "Company": "Facq",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Maes",
+  "Family/Entry": "Familie Maes (Latexco)",
+  "Role": "Voormalig eigenaar (81 jaar in 2022)",
+  "Company": "Latexco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Carole Maes",
+  "Family/Entry": "Familie Maes (Latexco)",
+  "Role": "Dochter, bestuurder (46 jaar in 2022)",
+  "Company": "Latexco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean De Cloedt",
+  "Family/Entry": "Familie Jean De Cloedt",
+  "Role": "Voorzitter",
+  "Company": "Burco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Miguel de Ribaucourt",
+  "Family/Entry": "Familie de Ribaucourt",
+  "Role": "Kind van Christian de Ribaucourt",
+  "Company": "Vermogensbeheer",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nathalie de Ribaucourt",
+  "Family/Entry": "Familie de Ribaucourt",
+  "Role": "Kind van Christian de Ribaucourt",
+  "Company": "Vermogensbeheer",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Henri Renmans",
+  "Family/Entry": "Familie Renmans",
+  "Role": "Oprichter (overleden 2024)",
+  "Company": "Renmans",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicole Albert",
+  "Family/Entry": "Familie Renmans",
+  "Role": "Echtgenote Henri Renmans, bestuurder",
+  "Company": "Renmans",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Rik Renmans",
+  "Family/Entry": "Familie Renmans",
+  "Role": "Zoon, CEO",
+  "Company": "Renmans",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nico Renmans",
+  "Family/Entry": "Familie Renmans",
+  "Role": "Zoon, bestuurder",
+  "Company": "Renmans",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Roland Jost",
+  "Family/Entry": "Familie Jost",
+  "Role": "Voorzitter Raad van Bestuur (voormalig CEO)",
+  "Company": "Group Jost",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicolaus Jost",
+  "Family/Entry": "Familie Jost",
+  "Role": "Oprichter (1958)",
+  "Company": "Group Jost",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick Solvay",
+  "Family/Entry": "Familie Patrick Solvay",
+  "Role": "Aandeelhouder (5,27% van Solvac)",
+  "Company": "Solvac",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christian Rousseaux",
+  "Family/Entry": "Familie Rousseaux",
+  "Role": "Oprichter Immoweb & Produpress",
+  "Company": "Immoweb",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christophe Rousseaux",
+  "Family/Entry": "Familie Rousseaux",
+  "Role": "Zoon, oprichter Akiles",
+  "Company": "Akiles",
+  "LinkedIn": "https://be.linkedin.com/in/rousseauxchristophe",
+  "Email": ""
+ },
+ {
+  "Person": "Tanguy Rousseaux",
+  "Family/Entry": "Familie Rousseaux",
+  "Role": "Zoon, mede-bestuurder",
+  "Company": "Immoweb / Produpress",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Valerie De Brandt",
+  "Family/Entry": "Familie De Brandt",
+  "Role": "Bestuurder/eigenaar",
+  "Company": "Group De Brandt",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Herwig De Brandt",
+  "Family/Entry": "Familie De Brandt",
+  "Role": "Bestuurder/eigenaar",
+  "Company": "Group De Brandt",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Dedecker",
+  "Family/Entry": "Familie Dedecker",
+  "Role": "Zaakvoerder",
+  "Company": "Desco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eva Dedecker",
+  "Family/Entry": "Familie Dedecker",
+  "Role": "Dochter, bestuurder",
+  "Company": "Desco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kris Dedecker",
+  "Family/Entry": "Familie Dedecker",
+  "Role": "Dochter, bestuurder",
+  "Company": "Desco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Karen Dedecker",
+  "Family/Entry": "Familie Dedecker",
+  "Role": "Dochter, bestuurder",
+  "Company": "Desco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Steve Rousseau",
+  "Family/Entry": "Familie Steve Rousseau",
+  "Role": "Oprichter & CEO",
+  "Company": "House of Talents",
+  "LinkedIn": "https://be.linkedin.com/in/rousseausteve",
+  "Email": ""
+ },
+ {
+  "Person": "Gery De Cloedt",
+  "Family/Entry": "Familie Gery De Cloedt",
+  "Role": "Eigenaar, ingenieur",
+  "Company": "Group De Cloedt",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guy Vande Vyvere",
+  "Family/Entry": "Familie Philippe Vande Vyvere",
+  "Role": "Managing Partner",
+  "Company": "Vybros Capital Partners",
+  "LinkedIn": "https://be.linkedin.com/in/guy-vande-vyvere-9477843",
+  "Email": ""
+ },
+ {
+  "Person": "Jean Vande Vyvere",
+  "Family/Entry": "Familie Philippe Vande Vyvere",
+  "Role": "Partner",
+  "Company": "Vybros Capital Partners",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Vande Vyvere",
+  "Family/Entry": "Familie Philippe Vande Vyvere",
+  "Role": "Partner",
+  "Company": "Vybros Capital Partners",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Robert Hoornaert",
+  "Family/Entry": "Familie Robert Hoornaert",
+  "Role": "CEO & gedelegeerd bestuurder",
+  "Company": "Artes Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Matthias Hoornaert",
+  "Family/Entry": "Familie Robert Hoornaert",
+  "Role": "Bestuurder",
+  "Company": "Artes Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christine De Dijcker",
+  "Family/Entry": "Christine De Dijcker en Marc Lanckriet",
+  "Role": "100% aandeelhouder",
+  "Company": "ECS",
+  "LinkedIn": "https://be.linkedin.com/in/christine-de-dijcker-81572b23",
+  "Email": ""
+ },
+ {
+  "Person": "Marc Lanckriet",
+  "Family/Entry": "Christine De Dijcker en Marc Lanckriet",
+  "Role": "Echtgenoot Christine, mede-aandeelhouder",
+  "Company": "ECS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Cédric Lanckriet",
+  "Family/Entry": "Christine De Dijcker en Marc Lanckriet",
+  "Role": "Zoon, actief in bedrijf",
+  "Company": "ECS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alizée Lanckriet",
+  "Family/Entry": "Christine De Dijcker en Marc Lanckriet",
+  "Role": "Dochter, actief in bedrijf",
+  "Company": "ECS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Leopold Moorkens",
+  "Family/Entry": "Familie Leopold Moorkens",
+  "Role": "Eigenaar",
+  "Company": "Alcopa",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Axel Moorkens",
+  "Family/Entry": "Familie Leopold Moorkens",
+  "Role": "Past Chairman",
+  "Company": "Alcopa",
+  "LinkedIn": "https://be.linkedin.com/in/axel-moorkens-b94ab292",
+  "Email": ""
+ },
+ {
+  "Person": "Robert Levy",
+  "Family/Entry": "Robert Levy",
+  "Role": "Eigenaar (85% Century 21)",
+  "Company": "Century 21 Benelux",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Aertssen",
+  "Family/Entry": "Familie Aertssen",
+  "Role": "Eigenaar bouwbedrijf",
+  "Company": "Aertssen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Verelst",
+  "Family/Entry": "Familie Luc Verelst",
+  "Role": "Investeerder & filantroop",
+  "Company": "Droia / LakeSprings",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Marie Cannie",
+  "Family/Entry": "Jean-Marie Cannie | FL Studio",
+  "Role": "",
+  "Company": "FL Studio (Image-Line)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Van Biesen",
+  "Family/Entry": "Jean-Marie Cannie | FL Studio",
+  "Role": "",
+  "Company": "FL Studio",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maurice Gabriëls",
+  "Family/Entry": "Familie Gabriëls | Gabriëls en Power",
+  "Role": "",
+  "Company": "Gabriëls NV",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joost Callens",
+  "Family/Entry": "Familie Callens | Durabrik",
+  "Role": "",
+  "Company": "Caminogroup (parent of Durabrik)",
+  "LinkedIn": "https://be.linkedin.com/in/joost-callens-a9224a46",
+  "Email": ""
+ },
+ {
+  "Person": "Claudia Callens",
+  "Family/Entry": "Familie Callens | Durabrik",
+  "Role": "",
+  "Company": "Caminogroup / Durabrik",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hans Depré",
+  "Family/Entry": "Familie Depré | Voeders Depré",
+  "Role": "",
+  "Company": "Voeders Depré",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Edward Depré",
+  "Family/Entry": "Familie Depré | Voeders Depré",
+  "Role": "",
+  "Company": "Voeders Depré",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Caroline Depré",
+  "Family/Entry": "Familie Depré | Voeders Depré",
+  "Role": "",
+  "Company": "Voeders Depré",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Van Biesen",
+  "Family/Entry": "Frank Van Biesen | FL Studio",
+  "Role": "",
+  "Company": "FL Studio (Image-Line)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dominiek De Clerck",
+  "Family/Entry": "Dominiek De Clerck | CKV",
+  "Role": "",
+  "Company": "Beaulieu International Group / CKV Bank",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Veronique Santens",
+  "Family/Entry": "Dominiek De Clerck | CKV",
+  "Role": "",
+  "Company": "Related to Lecot / Santens family businesses",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Caroline De Clerck",
+  "Family/Entry": "Dominiek De Clerck | CKV",
+  "Role": "",
+  "Company": "Beaulieu International Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Inge Ampe",
+  "Family/Entry": "Dominiek De Clerck | CKV",
+  "Role": "",
+  "Company": "CKV Bank",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Oeyen",
+  "Family/Entry": "Familie Oeyen | Sopraco",
+  "Role": "",
+  "Company": "Sopraco (veal, meat production)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Willy Oeyen",
+  "Family/Entry": "Familie Oeyen | Sopraco",
+  "Role": "",
+  "Company": "Sopraco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maria Oeyen",
+  "Family/Entry": "Familie Oeyen | Sopraco",
+  "Role": "",
+  "Company": "Sopraco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alain De Pauw",
+  "Family/Entry": "Familie Alain De Pauw | CDP",
+  "Role": "",
+  "Company": "CDP / World Trade Center Brussels",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kelly De Dijcker",
+  "Family/Entry": "Kelly De Dijcker en Pieter Balcaen | ex ECS",
+  "Role": "",
+  "Company": "ECS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pieter Balcaen",
+  "Family/Entry": "Kelly De Dijcker en Pieter Balcaen | ex ECS",
+  "Role": "",
+  "Company": "Real estate (Carrefour, Brico, A.S.Adventure locations)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Yves Noël",
+  "Family/Entry": "Familie Noël | NMC",
+  "Role": "",
+  "Company": "NMC / Noaminvest holding",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick De Pauw",
+  "Family/Entry": "Familie Patrick De Pauw | CDP",
+  "Role": "",
+  "Company": "CDP (sold stake to brother Alain 2014)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christophe De Pauw",
+  "Family/Entry": "Familie Patrick De Pauw | CDP",
+  "Role": "",
+  "Company": "Family wealth management",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hendrik Vanhoutte",
+  "Family/Entry": "De familie Hendrik Vanhoutte | Onbekend, aandeelhouder KBC",
+  "Role": "",
+  "Company": "KBC shareholder, former Noordstar chairman",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Cecile Colle",
+  "Family/Entry": "De familie Hendrik Vanhoutte | Onbekend, aandeelhouder KBC",
+  "Role": "",
+  "Company": "N/A",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Beatrice Vanhoutte",
+  "Family/Entry": "De familie Hendrik Vanhoutte | Onbekend, aandeelhouder KBC",
+  "Role": "",
+  "Company": "KBC Securities",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "John Dubaere",
+  "Family/Entry": "De familie Hendrik Vanhoutte | Onbekend, aandeelhouder KBC",
+  "Role": "",
+  "Company": "Omexco (design wallpaper)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eddy Hendrickx",
+  "Family/Entry": "Familie Hendrickx | Henco",
+  "Role": "",
+  "Company": "Henco Industries",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Willy Hendrickx",
+  "Family/Entry": "Familie Hendrickx | Henco",
+  "Role": "",
+  "Company": "Henco Industries",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Tans",
+  "Family/Entry": "Familie Frank Tans | Tans Group",
+  "Role": "",
+  "Company": "Tans Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Tans",
+  "Family/Entry": "Familie Frank Tans | Tans Group",
+  "Role": "",
+  "Company": "Tans Group (residential division)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Denoo",
+  "Family/Entry": "Bart Denoo | Artwork Systems",
+  "Role": "",
+  "Company": "Artwork Systems",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Denoo",
+  "Family/Entry": "Bart Denoo | Artwork Systems",
+  "Role": "",
+  "Company": "Artwork Systems",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guido Van der Schueren",
+  "Family/Entry": "Bart Denoo | Artwork Systems",
+  "Role": "",
+  "Company": "Artwork Systems",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guy Foubert",
+  "Family/Entry": "Familie Foubert – Krefting | ex-Chocolaterie Guylian",
+  "Role": "",
+  "Company": "Chocolaterie Guylian",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Liliane Foubert",
+  "Family/Entry": "Familie Foubert – Krefting | ex-Chocolaterie Guylian",
+  "Role": "",
+  "Company": "Chocolaterie Guylian",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dominique Krefting",
+  "Family/Entry": "Familie Foubert – Krefting | ex-Chocolaterie Guylian",
+  "Role": "",
+  "Company": "Guylian (sold 2008)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Karl Krefting",
+  "Family/Entry": "Familie Foubert – Krefting | ex-Chocolaterie Guylian",
+  "Role": "",
+  "Company": "Guylian (sold 2008)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Mark Vandecruys",
+  "Family/Entry": "Familie Vandecruys | Fedrus Invest",
+  "Role": "",
+  "Company": "Fedrus International",
+  "LinkedIn": "https://www.linkedin.com/in/markvandecruys/",
+  "Email": ""
+ },
+ {
+  "Person": "Steven Geirnaert",
+  "Family/Entry": "Familie Vandecruys | Fedrus Invest",
+  "Role": "",
+  "Company": "Fedrus International",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jaak Vandersanden",
+  "Family/Entry": "Familie Vandersanden | Group Vandersanden",
+  "Role": "",
+  "Company": "Vandersanden",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Constant Vandersanden",
+  "Family/Entry": "Familie Vandersanden | Group Vandersanden",
+  "Role": "",
+  "Company": "Vandersanden",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bernard Siau",
+  "Family/Entry": "Familie Siau | Alsico",
+  "Role": "",
+  "Company": "Alsico",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Siau",
+  "Family/Entry": "Familie Siau | Alsico",
+  "Role": "",
+  "Company": "Alsico",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Désiré Stadsbader Jr",
+  "Family/Entry": "Familie Désiré Stadsbader – Valcke | Stadsbader-Flamand",
+  "Role": "",
+  "Company": "Stadsbader-Flamand",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dominique Valcke",
+  "Family/Entry": "Familie Désiré Stadsbader – Valcke | Stadsbader-Flamand",
+  "Role": "",
+  "Company": "Stadsbader-Flamand",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Pierre Stadsbader",
+  "Family/Entry": "Familie Désiré Stadsbader – Valcke | Stadsbader-Flamand",
+  "Role": "",
+  "Company": "Tramo (public works)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Carine Stadsbader",
+  "Family/Entry": "Familie Désiré Stadsbader – Valcke | Stadsbader-Flamand",
+  "Role": "",
+  "Company": "Imstad (project developer)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jacques Stadsbader",
+  "Family/Entry": "Familie Désiré Stadsbader – Valcke | Stadsbader-Flamand",
+  "Role": "",
+  "Company": "Cantillana / former Stortbeton Stadsbader",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lieven Brutsaert",
+  "Family/Entry": "Familie Brutsaert | Brustor en Prostor",
+  "Role": "",
+  "Company": "Brustor",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Sofie Baert",
+  "Family/Entry": "Familie Brutsaert | Brustor en Prostor",
+  "Role": "",
+  "Company": "Prostor",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Louis Brutsaert",
+  "Family/Entry": "Familie Brutsaert | Brustor en Prostor",
+  "Role": "",
+  "Company": "Former owner Brustor/Omnistor",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hein Deprez",
+  "Family/Entry": "Familie Deprez | Greenyard Foods",
+  "Role": "",
+  "Company": "Greenyard Foods (former Univeg)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Veerle Deprez",
+  "Family/Entry": "Familie Deprez | Greenyard Foods",
+  "Role": "",
+  "Company": "Greenyard Foods",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Koen Deprez",
+  "Family/Entry": "Familie Deprez | Greenyard Foods",
+  "Role": "",
+  "Company": "N/A",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thibault Relecom",
+  "Family/Entry": "Familie Relecom | Unibra",
+  "Role": "",
+  "Company": "Unibra",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bérangère Relecom",
+  "Family/Entry": "Familie Relecom | Unibra",
+  "Role": "",
+  "Company": "Unibra",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marie-Thérèse Bordot-Lacroix (Maïté Relecom)",
+  "Family/Entry": "Familie Relecom | Unibra",
+  "Role": "",
+  "Company": "Unibra",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Relecom",
+  "Family/Entry": "Familie Relecom | Unibra",
+  "Role": "",
+  "Company": "Unibra",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Mertens",
+  "Family/Entry": "Familie Mertens | Aluminium Van Beveren",
+  "Role": "",
+  "Company": "Van Beveren Aluminium",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gaston De Meuter",
+  "Family/Entry": "Familie De Meuter | De Meuter",
+  "Role": "Co-founder (1977), Bestuurder",
+  "Company": "G&A De Meuter NV",
+  "LinkedIn": "https://be.linkedin.com/in/gaston-de-meuter-017943216",
+  "Email": ""
+ },
+ {
+  "Person": "André De Meuter",
+  "Family/Entry": "Familie De Meuter | De Meuter",
+  "Role": "Co-founder (1977), Bestuurder",
+  "Company": "G&A De Meuter NV",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Filip De Meuter",
+  "Family/Entry": "Familie De Meuter | De Meuter",
+  "Role": "Bestuurder",
+  "Company": "De Meuter NV",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Aster De Meuter",
+  "Family/Entry": "Familie De Meuter | De Meuter",
+  "Role": "Bestuurder",
+  "Company": "De Meuter NV",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kevin De Bruyne",
+  "Family/Entry": "Kevin De Bruyne | Kevin De Bruyne",
+  "Role": "Professional Footballer",
+  "Company": "Manchester City",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maurice Stubbe",
+  "Family/Entry": "Familie Stubbe | The Turner, Rancho",
+  "Role": "Founder (grandfather)",
+  "Company": "Stubbe Tobacco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lieven Stubbe",
+  "Family/Entry": "Familie Stubbe | The Turner, Rancho",
+  "Role": "Zaakvoerder (since 2006)",
+  "Company": "Stubbe Tobacco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marcel Beerens",
+  "Family/Entry": "Familie Beerens | Beerens Groep",
+  "Role": "Founder (father), started as baker",
+  "Company": "Groep Beerens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Erwin Beerens",
+  "Family/Entry": "Familie Beerens | Beerens Groep",
+  "Role": "CEO, took over 1994",
+  "Company": "Groep Beerens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Palmer Van Eeckhout",
+  "Family/Entry": "Familie Van Eeckhout – Vanden Avenne4Energy -",
+  "Role": "Founder (grandfather, 1929)",
+  "Company": "Van Eeckhout Beton",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Antoon Van Eeckhout",
+  "Family/Entry": "Familie Van Eeckhout – Vanden Avenne4Energy -",
+  "Role": "Second generation ('Tone Beton')",
+  "Company": "Van Eeckhout Beton",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francis Van Eeckhout",
+  "Family/Entry": "Familie Van Eeckhout – Vanden Avenne4Energy -",
+  "Role": "Third generation, son of Antoon",
+  "Company": "4Energy, Deceuninck",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philiep Van Eeckhout",
+  "Family/Entry": "Familie Van Eeckhout – Vanden Avenne4Energy -",
+  "Role": "Third generation, son of Antoon",
+  "Company": "4Energy, Think2act",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christine Vanden Avenne",
+  "Family/Entry": "Familie Van Eeckhout – Vanden Avenne4Energy -",
+  "Role": "Wife of Philiep",
+  "Company": "4Energy",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alex Verougstraete",
+  "Family/Entry": "Familie Verougstraete | Aviapartner",
+  "Role": "Former owner/CEO (died 2019)",
+  "Company": "Aviapartner",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philip Cracco",
+  "Family/Entry": "De familie Cracco | Accent Jobs",
+  "Role": "Co-founder & CEO (died 2020)",
+  "Company": "Accent Jobs, Jobfixers",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Conny Vandendriessche",
+  "Family/Entry": "De familie Cracco | Accent Jobs",
+  "Role": "Co-founder & COO",
+  "Company": "The House of HR",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pieter-Jan-Michiel Cracco",
+  "Family/Entry": "De familie Cracco | Accent Jobs",
+  "Role": "Son, next generation (24 in 2020)",
+  "Company": "Jobfixers",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marie-Julie-Pascale Cracco",
+  "Family/Entry": "De familie Cracco | Accent Jobs",
+  "Role": "Daughter, next generation (21 in 2020)",
+  "Company": "Jobfixers",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lieven Bonamie",
+  "Family/Entry": "De familie Cracco | Accent Jobs",
+  "Role": "CEO Jobfixers",
+  "Company": "Jobfixers",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Auguste Claeys",
+  "Family/Entry": "Familie Claeys (Westvlees)Westvlees",
+  "Role": "Founder (great-grandfather, pre-WWI)",
+  "Company": "Westvlees",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jos Claeys",
+  "Family/Entry": "Familie Claeys (Westvlees)Westvlees",
+  "Role": "Current CEO (4th generation)",
+  "Company": "Westvlees, Belgian Pork Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marc Paeleman",
+  "Family/Entry": "Familie Paeleman | Wilmarc Invest",
+  "Role": "Co-founder (73 in 2018)",
+  "Company": "Wilmarc Invest, Triple Living Holding",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Paeleman",
+  "Family/Entry": "Familie Paeleman | Wilmarc Invest",
+  "Role": "Son, next generation bestuurder",
+  "Company": "Triple Living Holding",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stefan Paeleman",
+  "Family/Entry": "Familie Paeleman | Wilmarc Invest",
+  "Role": "Son, next generation bestuurder",
+  "Company": "Triple Living",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Urbain Van Hulle",
+  "Family/Entry": "Lieven Danneels en Thomas Verstraeten | Televic",
+  "Role": "Founder (1946)",
+  "Company": "Televic Electronics",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gilbert Maes",
+  "Family/Entry": "Lieven Danneels en Thomas Verstraeten | Televic",
+  "Role": "Former CEO & owner (1978-1999)",
+  "Company": "Televic",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lieven Danneels",
+  "Family/Entry": "Lieven Danneels en Thomas Verstraeten | Televic",
+  "Role": "Co-owner & CEO (since 1998)",
+  "Company": "Televic",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Verstraeten",
+  "Family/Entry": "Lieven Danneels en Thomas Verstraeten | Televic",
+  "Role": "Co-owner & CEO (since 1998)",
+  "Company": "Televic",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Crahay",
+  "Family/Entry": "Familie Crahay | Cosucra",
+  "Role": "Former patriarch (deceased)",
+  "Company": "Cosucra, Warcoing Holding",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Antoinette De Brouwer",
+  "Family/Entry": "Familie Crahay | Cosucra",
+  "Role": "Wife of Pierre",
+  "Company": "Warcoing Holding",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jacques Crahay",
+  "Family/Entry": "Familie Crahay | Cosucra",
+  "Role": "Family member",
+  "Company": "Cosucra",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Marie Leonard",
+  "Family/Entry": "Familie Leonard | Ardent Finance",
+  "Role": "Founder (1989), controls 1/3",
+  "Company": "Ardent Finance, Gaming1",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicolas Leonard",
+  "Family/Entry": "Familie Leonard | Ardent Finance",
+  "Role": "Co-founder Gaming1",
+  "Company": "Gaming1, Allin1",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Van Acker",
+  "Family/Entry": "Bart Van Acker | QbD",
+  "Role": "Founder & CEO (started 2011)",
+  "Company": "QbD",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joost Danneels",
+  "Family/Entry": "Familie Pascal Danneels | Danneels",
+  "Role": "Founder (1974, with wife Lia)",
+  "Company": "Danneels Bouw",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lia Danneels",
+  "Family/Entry": "Familie Pascal Danneels | Danneels",
+  "Role": "Co-founder (1974)",
+  "Company": "Danneels Bouw",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pascal Danneels",
+  "Family/Entry": "Familie Pascal Danneels | Danneels",
+  "Role": "Former CEO (son, since 1987)",
+  "Company": "Danneels Bouw",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Karsten Foekens",
+  "Family/Entry": "Familie Pascal Danneels | Danneels",
+  "Role": "CEO (since 2020, non-family)",
+  "Company": "Danneels Bouw",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Etienne Theyskens",
+  "Family/Entry": "Familie Theyskens | T-vastgoed",
+  "Role": "Vermogensbeheerder, Eigenaar",
+  "Company": "E.T.A., T-vastgoed",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guido Bernaerts",
+  "Family/Entry": "Familie Bernaerts | Imobe",
+  "Role": "CEO & Owner",
+  "Company": "Imobe",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Herman De Ceuster",
+  "Family/Entry": "Familie De Ceuster | De Ceuster Meststoffen (DCM)",
+  "Role": "Founder (1966)",
+  "Company": "De Ceuster Meststoffen (DCM)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tom De Ceuster",
+  "Family/Entry": "Familie De Ceuster | De Ceuster Meststoffen (DCM)",
+  "Role": "CEO (son)",
+  "Company": "DCM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Els De Ceuster",
+  "Family/Entry": "Familie De Ceuster | De Ceuster Meststoffen (DCM)",
+  "Role": "Shareholder (daughter)",
+  "Company": "DCM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Annelien De Ceuster",
+  "Family/Entry": "Familie De Ceuster | De Ceuster Meststoffen (DCM)",
+  "Role": "Shareholder (daughter)",
+  "Company": "DCM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe le Hodey",
+  "Family/Entry": "Familie le Hodey | La Dernière Heure",
+  "Role": "Former patriarch (1950s-60s politician, died)",
+  "Company": "IPM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Elisabeth (Betty) Coppée",
+  "Family/Entry": "Familie le Hodey | La Dernière Heure",
+  "Role": "Wife of Philippe, women's movement founder",
+  "Company": "IPM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marc le Hodey",
+  "Family/Entry": "Familie le Hodey | La Dernière Heure",
+  "Role": "Son (died 2015)",
+  "Company": "IPM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "François le Hodey",
+  "Family/Entry": "Familie le Hodey | La Dernière Heure",
+  "Role": "Son, Bestuurder",
+  "Company": "IPM, Koningin Elisabethwedstrijd",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrice le Hodey",
+  "Family/Entry": "Familie le Hodey | La Dernière Heure",
+  "Role": "Son, Comics/animation enthusiast",
+  "Company": "IPM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tony Beeuwsaert",
+  "Family/Entry": "De familie Tony Beeuwsaert | TAL en Zulte-Waregem",
+  "Role": "Owner Zulte-Waregem, investor",
+  "Company": "TAL, Scholt Energy, ASL, Euronyl",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francis Van Eeckhout",
+  "Family/Entry": "Familie Van Eeckhout – Boone | Deceuninck Plastics",
+  "Role": "Third generation, CEO",
+  "Company": "Deceuninck Plastics",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Benedikte Boone",
+  "Family/Entry": "Familie Van Eeckhout – Boone | Deceuninck Plastics",
+  "Role": "Wife of Francis",
+  "Company": "Deceuninck",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Van Malderen",
+  "Family/Entry": "Griet Van Malderen | Onbekend",
+  "Role": "Father, founder Ontex (1979)",
+  "Company": "Ontex",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Griet Van Malderen",
+  "Family/Entry": "Griet Van Malderen | Onbekend",
+  "Role": "Daughter, wine chateau owner, photographer",
+  "Company": "Château Franc Mayne, LVM & Family",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Van Malderen",
+  "Family/Entry": "Griet Van Malderen | Onbekend",
+  "Role": "Son, entrepreneur",
+  "Company": "VPG, Drylock",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hervé Laviale",
+  "Family/Entry": "Griet Van Malderen | Onbekend",
+  "Role": "Husband of Griet, French radio journalist",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marc van der Kelen",
+  "Family/Entry": "Familie Van der Kelen | Primus",
+  "Role": "Former leader (died 2015)",
+  "Company": "Brouwerij Haacht",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frédéric van der Kelen",
+  "Family/Entry": "Familie Van der Kelen | Primus",
+  "Role": "Brother, former CEO & Chairman (died 2025)",
+  "Company": "Brouwerij Haacht",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Baudouin van der Kelen",
+  "Family/Entry": "Familie Van der Kelen | Primus",
+  "Role": "Son of Frédéric, former CEO (until 2025)",
+  "Company": "Brouwerij Haacht",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Boudewijn Van der Kelen",
+  "Family/Entry": "Familie Van der Kelen | Primus",
+  "Role": "Marketing Director",
+  "Company": "Brouwerij Haacht",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nils Van Dam",
+  "Family/Entry": "Familie Van der Kelen | Primus",
+  "Role": "CEO (since 2025, first non-family)",
+  "Company": "Brouwerij Haacht",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eden Hazard",
+  "Family/Entry": "Eden Hazard | Rode Duivel -",
+  "Role": "Professional Footballer (retired 2023)",
+  "Company": "Former Real Madrid, Chelsea",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Caroline Van Marcke",
+  "Family/Entry": "Familie Van Marcke | Van Marcke Sanitair-VAM",
+  "Role": "CEO",
+  "Company": "Van Marcke",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Van Marcke",
+  "Family/Entry": "Familie Van Marcke | Van Marcke Sanitair-VAM",
+  "Role": "Co-owner/Management",
+  "Company": "Van Marcke",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean Glorieux",
+  "Family/Entry": "Familie Glorieux | AG Plastics",
+  "Role": "CEO/Management",
+  "Company": "AG Plastics",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tony Pissens",
+  "Family/Entry": "Familie Pissens | Pacapime",
+  "Role": "Management (3rd generation)",
+  "Company": "Pacapime",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ludo Pissens",
+  "Family/Entry": "Familie Pissens | Pacapime",
+  "Role": "Management (3rd generation)",
+  "Company": "Pacapime",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Pissens",
+  "Family/Entry": "Familie Pissens | Pacapime",
+  "Role": "Management (3rd generation)",
+  "Company": "Pacapime",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Donck",
+  "Family/Entry": "Familie Frank Donck | Niet gekend",
+  "Role": "Bestuurder/Investor",
+  "Company": "Multiple (Telenet, Barco, Atenor, KBC, Elia)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc De Bruyckere",
+  "Family/Entry": "Familie Coopman | Ter Beke",
+  "Role": "Former CEO",
+  "Company": "Ter Beke",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Louis Verbeke",
+  "Family/Entry": "Familie Coopman | Ter Beke",
+  "Role": "Chairman",
+  "Company": "Ter Beke",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Thiers",
+  "Family/Entry": "Familie Paul Thiers | Ex-Unilin",
+  "Role": "Investor/Bestuurder",
+  "Company": "Pentahold, Ion, Altior, Origis, Hecta, Deceuninck",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bernard Thiers",
+  "Family/Entry": "Familie Paul Thiers | Ex-Unilin",
+  "Role": "Management",
+  "Company": "Unilin",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Veerle Deheegher",
+  "Family/Entry": "Veerle Deheegher – Baert | Duvel",
+  "Role": "Bestuurder",
+  "Company": "Brouwerij Moortgat (Duvel)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kris Baert",
+  "Family/Entry": "Veerle Deheegher – Baert | Duvel",
+  "Role": "Business Communication Manager",
+  "Company": "Brouwerij Moortgat",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Koenraad Belsack",
+  "Family/Entry": "Koenraad Belsack en Nele Vandamme | Up | Kot",
+  "Role": "Co-founder/CEO",
+  "Company": "Upgrade Estate (UpKot)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nele Vandamme",
+  "Family/Entry": "Koenraad Belsack en Nele Vandamme | Up | Kot",
+  "Role": "Co-founder",
+  "Company": "Upgrade Estate (UpKot)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Diego du Monceau",
+  "Family/Entry": "Familie Vaxelaire-du Monceau de Bergendael | GIB - Grand Bazar",
+  "Role": "Bestuurder",
+  "Company": "UCB",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Deceuninck",
+  "Family/Entry": "Frank Deceuninck | Deceuninck",
+  "Role": "Aandeelhouder",
+  "Company": "Deceuninck",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Anthony Maas",
+  "Family/Entry": "De familie Maas | Ex-Manuchar",
+  "Role": "Former owner",
+  "Company": "Manuchar (sold)",
+  "LinkedIn": "https://www.linkedin.com/in/anthony-maas/",
+  "Email": ""
+ },
+ {
+  "Person": "Marie-Christine Maas",
+  "Family/Entry": "De familie Maas | Ex-Manuchar",
+  "Role": "Former owner",
+  "Company": "Manuchar (sold)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Caroline Craenhals",
+  "Family/Entry": "Familie Craenhals | BST",
+  "Role": "CEO",
+  "Company": "BST (Belgian Scrap Terminal)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick Craenhals",
+  "Family/Entry": "Familie Craenhals | BST",
+  "Role": "Former CEO",
+  "Company": "BST",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Charlotte Croonenberghs",
+  "Family/Entry": "Philippe Croonenberghs | Texaf",
+  "Role": "Aandeelhouder",
+  "Company": "Texaf",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gaëlle Croonenberghs",
+  "Family/Entry": "Philippe Croonenberghs | Texaf",
+  "Role": "Aandeelhouder",
+  "Company": "Texaf",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gérald Croonenberghs",
+  "Family/Entry": "Philippe Croonenberghs | Texaf",
+  "Role": "Aandeelhouder",
+  "Company": "Texaf",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "William Croonenberghs",
+  "Family/Entry": "Philippe Croonenberghs | Texaf",
+  "Role": "Aandeelhouder",
+  "Company": "Texaf",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Dewitte",
+  "Family/Entry": "Familie Dewitte | WEBA",
+  "Role": "Management",
+  "Company": "WEBA Gent",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lieve Dewitte",
+  "Family/Entry": "Familie Dewitte | WEBA",
+  "Role": "Management",
+  "Company": "WEBA Gent",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Dewitte",
+  "Family/Entry": "Familie Dewitte | WEBA",
+  "Role": "Management",
+  "Company": "WEBA Deinze",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stefaan Dewitte",
+  "Family/Entry": "Familie Dewitte | WEBA",
+  "Role": "Management",
+  "Company": "WEBA Mons",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stefaan Couvreur",
+  "Family/Entry": "Familie Dewitte | WEBA",
+  "Role": "Woordvoerder",
+  "Company": "WEBA",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lucien Wilms",
+  "Family/Entry": "Familie Wilms | Onbekend",
+  "Role": "Investor",
+  "Company": "Groupe Partouche (casinos)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Yves Weerts",
+  "Family/Entry": "Familie Weerts | Weerts Group",
+  "Role": "CEO",
+  "Company": "Weerts Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pascal Weerts",
+  "Family/Entry": "Familie Weerts | Weerts Group",
+  "Role": "Co-CEO/Management",
+  "Company": "Weerts Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Louis De Bruyn",
+  "Family/Entry": "Familie De Bruyn | Ploegsteert",
+  "Role": "Management (latest generation)",
+  "Company": "Ploegsteert (bricks)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maxime Busschaert",
+  "Family/Entry": "Familie De Bruyn | Ploegsteert",
+  "Role": "Management (latest generation)",
+  "Company": "Ploegsteert",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philip De Bruyn",
+  "Family/Entry": "Familie De Bruyn | Ploegsteert",
+  "Role": "Founder",
+  "Company": "Ceratec",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Delbaere",
+  "Family/Entry": "Familie Michel Delbaere | Crop's",
+  "Role": "Founder/Chairman",
+  "Company": "Crop's",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Etienne Kaesteker",
+  "Family/Entry": "Etienne Kaesteker | E5-Mode",
+  "Role": "Founder (sold)",
+  "Company": "E5-Mode/Shopinvest",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alexander Talpe",
+  "Family/Entry": "Etienne Kaesteker | E5-Mode",
+  "Role": "Former CEO",
+  "Company": "E5-Mode/Shopinvest",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jackie Loomans",
+  "Family/Entry": "Jackie Loomans | Loomans Group",
+  "Role": "Founder (sold)",
+  "Company": "Loomans Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frieda Schaltin",
+  "Family/Entry": "Familie Hilde Schaltin | ZNU",
+  "Role": "Owner",
+  "Company": "ZNU (Zuidnederlandse Uitgeverij)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Yvonne Schaltin",
+  "Family/Entry": "Familie Hilde Schaltin | ZNU",
+  "Role": "Owner",
+  "Company": "ZNU",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Didier De Witte",
+  "Family/Entry": "Familie De Witte (bouwbedrijf CCR)Creative construction and renovation (CCR)",
+  "Role": "Founder/CEO",
+  "Company": "CCR (Creative Construction and Renovation)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas De Witte",
+  "Family/Entry": "Familie De Witte (bouwbedrijf CCR)Creative construction and renovation (CCR)",
+  "Role": "Owner",
+  "Company": "CCR",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Florence De Witte",
+  "Family/Entry": "Familie De Witte (bouwbedrijf CCR)Creative construction and renovation (CCR)",
+  "Role": "Owner",
+  "Company": "CCR",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Annie Vereecken",
+  "Family/Entry": "Annie Vereecken | Annie Vereecken",
+  "Role": "Investor/Former owner",
+  "Company": "Medical lab (sold to Sonic Healthcare)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marc Smet",
+  "Family/Entry": "Marc Smet en Dirk Vanhoutteghem | Gosselin",
+  "Role": "CEO/Majority owner",
+  "Company": "Gosselin Group",
+  "LinkedIn": "https://www.linkedin.com/in/marc-smet-gosselin/",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Vanhoutteghem",
+  "Family/Entry": "Marc Smet en Dirk Vanhoutteghem | Gosselin",
+  "Role": "Co-owner",
+  "Company": "Gosselin Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jef de Wit",
+  "Family/Entry": "Jozef de Wit en Dirk Deroost | Cronos",
+  "Role": "Co-founder & CEO",
+  "Company": "Cronos Groep",
+  "LinkedIn": "https://be.linkedin.com/in/jef-de-wit-b494722",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Deroost",
+  "Family/Entry": "Jozef de Wit en Dirk Deroost | Cronos",
+  "Role": "Co-founder & Managing Director",
+  "Company": "Cronos Groep",
+  "LinkedIn": "https://be.linkedin.com/in/dirk-deroost-350780132",
+  "Email": ""
+ },
+ {
+  "Person": "Jules Thijs",
+  "Family/Entry": "Familie Thys (Thijs)Biscuiterie Thijs",
+  "Role": "Founder",
+  "Company": "Biscuiterie Thijs",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Maes",
+  "Family/Entry": "Familie Maes (tankstations)Maes Brandstoffen",
+  "Role": "Owner/Managing Director",
+  "Company": "Maes Brandstoffen",
+  "LinkedIn": "https://be.linkedin.com/in/dirk-maes-07a40675",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Maes",
+  "Family/Entry": "Familie Maes (tankstations)Maes Brandstoffen",
+  "Role": "Co-owner",
+  "Company": "Maes Brandstoffen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dries Van Noten",
+  "Family/Entry": "Dries Van Noten | Dries Van Noten",
+  "Role": "Fashion Designer & Founder",
+  "Company": "Dries Van Noten",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joseph M. Lebon",
+  "Family/Entry": "Familie Lebon | Allia",
+  "Role": "CEO",
+  "Company": "Allia/Opex",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Laurence Lebon",
+  "Family/Entry": "Familie Lebon | Allia",
+  "Role": "Board Member",
+  "Company": "Allia/Opex",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Johan De Letter",
+  "Family/Entry": "Johan De Letter | Sadel",
+  "Role": "Owner",
+  "Company": "Sadel",
+  "LinkedIn": "https://be.linkedin.com/in/johan-de-letter-20762499",
+  "Email": ""
+ },
+ {
+  "Person": "Lionel Vandenberghe",
+  "Family/Entry": "Familie Vandenberghe | Skyline Communications",
+  "Role": "Founder",
+  "Company": "Skyline Communications",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ben Vandenberghe",
+  "Family/Entry": "Familie Vandenberghe | Skyline Communications",
+  "Role": "CEO",
+  "Company": "Skyline Communications",
+  "LinkedIn": "https://www.linkedin.com/in/benvandenberghe/",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Van Hool",
+  "Family/Entry": "Frank Van Hool | Van Hool",
+  "Role": "Owner/Director",
+  "Company": "Van Hool/Waaslandia",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bernard Van Hool",
+  "Family/Entry": "Frank Van Hool | Van Hool",
+  "Role": "Founder",
+  "Company": "Van Hool",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "André Ollevier",
+  "Family/Entry": "Familie Ollevier | Confortluxe",
+  "Role": "Founder",
+  "Company": "Confortluxe",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alfred Hoet",
+  "Family/Entry": "Familie Hoet | Turbo's Hoet",
+  "Role": "Founder",
+  "Company": "Turbo's Hoet",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Inge Hoet",
+  "Family/Entry": "Familie Hoet | Turbo's Hoet",
+  "Role": "Managing Director",
+  "Company": "Turbo's Hoet / TH Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thibault Jonnaert",
+  "Family/Entry": "Familie Hoet | Turbo's Hoet",
+  "Role": "Board Member",
+  "Company": "TH Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Griet Nuytinck",
+  "Family/Entry": "Familie Griet Nuytinck | Labo Nuytinck",
+  "Role": "CEO",
+  "Company": "Anacura / Labo Nuytinck",
+  "LinkedIn": "https://be.linkedin.com/in/grietnuytinck",
+  "Email": ""
+ },
+ {
+  "Person": "Yves Puttemans",
+  "Family/Entry": "Yves Puttemans en Dominique Van Etterijk | Dyls",
+  "Role": "Owner",
+  "Company": "Dyls",
+  "LinkedIn": "https://be.linkedin.com/in/yves-puttemans-10a5322b",
+  "Email": ""
+ },
+ {
+  "Person": "Dominique Van Etterijk",
+  "Family/Entry": "Yves Puttemans en Dominique Van Etterijk | Dyls",
+  "Role": "Co-owner",
+  "Company": "Dyls",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Casimir-Lambert",
+  "Family/Entry": "Familie Casimir-Lambert | Onbekend",
+  "Role": "Wealth Manager",
+  "Company": "Solvay (former)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Charles Casimir-Lambert",
+  "Family/Entry": "Familie Casimir-Lambert | Onbekend",
+  "Role": "Board Member",
+  "Company": "Solvay",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ingrid Abts",
+  "Family/Entry": "Familie Abts | Tönnissteiner",
+  "Role": "CEO",
+  "Company": "Abts NV",
+  "LinkedIn": "https://www.linkedin.com/in/ingrid-abts-27514414a/",
+  "Email": ""
+ },
+ {
+  "Person": "Ghislain Lenaers",
+  "Family/Entry": "Familie Lenaers | Group GL",
+  "Role": "Founder & Managing Director",
+  "Company": "Group GL",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Verhaeghe de Naeyer",
+  "Family/Entry": "Familie Verhaeghe de Naeyer | SCR-Sibelco",
+  "Role": "Shareholder",
+  "Company": "SCR-Sibelco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stephan Conter",
+  "Family/Entry": "Familie Stephan Conter | Stephex",
+  "Role": "Founder & CEO",
+  "Company": "Stephex Group",
+  "LinkedIn": "https://www.linkedin.com/in/stephan-conter-8b195b2a/",
+  "Email": ""
+ },
+ {
+  "Person": "Zoë Conter",
+  "Family/Entry": "Familie Stephan Conter | Stephex",
+  "Role": "Family member",
+  "Company": "Stephex",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joseph Danis",
+  "Family/Entry": "Familie Danis | Danis",
+  "Role": "Founder",
+  "Company": "Danis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stefaan Lambrecht",
+  "Family/Entry": "Familie Danis | Danis",
+  "Role": "Former CEO",
+  "Company": "Danis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ann Danis",
+  "Family/Entry": "Familie Danis | Danis",
+  "Role": "Owner",
+  "Company": "Danis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joris Brams",
+  "Family/Entry": "Familie Danis | Danis",
+  "Role": "CEO",
+  "Company": "Danis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Van Overstraeten",
+  "Family/Entry": "Familie Van Overstraeten | Home Invest Belgium",
+  "Role": "Shareholders",
+  "Company": "Home Invest Belgium",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "John Cordier",
+  "Family/Entry": "Familie Cordier | Telindus",
+  "Role": "Founder",
+  "Company": "Telindus",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Meyers",
+  "Family/Entry": "Familie Meyers | CMI",
+  "Role": "Former Owner",
+  "Company": "CMI",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bernard Serin",
+  "Family/Entry": "Familie Meyers | CMI",
+  "Role": "Owner",
+  "Company": "CMI",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francis Bostoen",
+  "Family/Entry": "Familie Bostoen | Villabouw Francis Bostoen",
+  "Role": "Founder",
+  "Company": "Villabouw Francis Bostoen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stephan Bostoen",
+  "Family/Entry": "Familie Bostoen | Villabouw Francis Bostoen",
+  "Role": "CEO",
+  "Company": "Bostoen NV",
+  "LinkedIn": "https://be.linkedin.com/in/stephan-bostoen",
+  "Email": ""
+ },
+ {
+  "Person": "Daniëlle Bostoen",
+  "Family/Entry": "Familie Bostoen | Villabouw Francis Bostoen",
+  "Role": "Owner",
+  "Company": "Bostoen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick Bostoen",
+  "Family/Entry": "Familie Bostoen | Villabouw Francis Bostoen",
+  "Role": "Owner",
+  "Company": "Bostoen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Van Tornhaut",
+  "Family/Entry": "Dirk en Rita Van Tornhaut | Van Tornhaut",
+  "Role": "Owner/Director",
+  "Company": "VT Invest / Van Tornhaut",
+  "LinkedIn": "https://www.linkedin.com/in/dirk-van-tornhaut-0a742425/",
+  "Email": ""
+ },
+ {
+  "Person": "Rita Van Tornhaut",
+  "Family/Entry": "Dirk en Rita Van Tornhaut | Van Tornhaut",
+  "Role": "Co-owner",
+  "Company": "VT Invest",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Roger Van Tornhaut",
+  "Family/Entry": "Dirk en Rita Van Tornhaut | Van Tornhaut",
+  "Role": "Founder",
+  "Company": "Van Tornhaut",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frans Van Tornhaut",
+  "Family/Entry": "Dirk en Rita Van Tornhaut | Van Tornhaut",
+  "Role": "Founder",
+  "Company": "Van Tornhaut",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Robert Wagner",
+  "Family/Entry": "Familie Wagner | Warehouses Estates Belgium (WEB)",
+  "Role": "Owner",
+  "Company": "Warehouse Estates Belgium (WEB)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Albert Karaziwan",
+  "Family/Entry": "Albert Karaziwan | Semlex",
+  "Role": "Founder & CEO",
+  "Company": "Semlex",
+  "LinkedIn": "https://be.linkedin.com/in/albert-karaziwan-733a039a",
+  "Email": ""
+ },
+ {
+  "Person": "Lise Conix",
+  "Family/Entry": "Familie Torfs | Schoenhandel L. Torfs",
+  "Role": "CEO Schoenen Torfs (since 2023)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gary Neiman",
+  "Family/Entry": "Familie Neiman | Bru Textiles",
+  "Role": "Co-founder, Chair Bru Textiles",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jason Neiman",
+  "Family/Entry": "Familie Neiman | Bru Textiles",
+  "Role": "Co-founder, Board Member, Managing Director",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Wim Heylen",
+  "Family/Entry": "Wim Heylen | Heylen Group",
+  "Role": "Executive Chairman - Owner",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frans Van Tilborg",
+  "Family/Entry": "Familie Michielsen | Miko",
+  "Role": "CEO Miko (25 years, stepping down 2025/2026)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Arne Vandecasteele",
+  "Family/Entry": "Familie Vandecasteele | Ardeca",
+  "Role": "General Manager Ardeca Lubricants",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Sofie Vandecasteele",
+  "Family/Entry": "Familie Vandecasteele | Ardeca",
+  "Role": "General Manager Ardeca Lubricants",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Meeus",
+  "Family/Entry": "Familie Meeus | Alcotra",
+  "Role": "Founder Alcotra (1994)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thibaud Demot",
+  "Family/Entry": "Families Demot en Houben | Democo",
+  "Role": "CEO Democo Group (since 2024)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Raf Houben",
+  "Family/Entry": "Families Demot en Houben | Democo",
+  "Role": "COO Democo Group (since 2024)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joe Lano",
+  "Family/Entry": "Familie Lano | Lano",
+  "Role": "CEO Lano (2009-present, sold majority to Belgotex 2022)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jef Van Roey",
+  "Family/Entry": "Familie Van Roey | Van Roey",
+  "Role": "Board member, 50% shareholder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Van Roey",
+  "Family/Entry": "Familie Van Roey | Van Roey",
+  "Role": "Board member, 25% shareholder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eric Kurris",
+  "Family/Entry": "Familie Van Roey | Van Roey",
+  "Role": "Board member, 25% shareholder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Priscilla Bracht",
+  "Family/Entry": "Familie Bracht | Sipef",
+  "Role": "Shareholder (inherited 2013)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Theodora Bracht",
+  "Family/Entry": "Familie Bracht | Sipef",
+  "Role": "Shareholder (inherited 2013)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Victoria Bracht",
+  "Family/Entry": "Familie Bracht | Sipef",
+  "Role": "Shareholder (inherited 2013)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Roger Dick",
+  "Family/Entry": "Familie Roger Dick | Dicogel en Roger & Roger",
+  "Role": "Founder Dicogel (1980), Roger & Roger (1999)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Steven Verraes",
+  "Family/Entry": "Familie Verraes | Meubar",
+  "Role": "CEO Meubar, Fitec, Evan Furniture",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hendrik Danneels",
+  "Family/Entry": "Familie Danneels | Sea Coast",
+  "Role": "Owner Sea Coast real estate",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Vastapane",
+  "Family/Entry": "Familie Vastapane",
+  "Role": "Son, inherited 2023",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patricia Vastapane",
+  "Family/Entry": "Familie Vastapane",
+  "Role": "Daughter, inherited 2023",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Charles Wibo",
+  "Family/Entry": "Familie Wibo | Vlassenroot",
+  "Role": "Owner Vlassenroot Group",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Gillion",
+  "Family/Entry": "Familie Gillion | Toison d'Or",
+  "Role": "3rd generation, construction & real estate",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Rodrigue Gillion",
+  "Family/Entry": "Familie Gillion | Toison d'Or",
+  "Role": "3rd generation, construction & real estate",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Amaury de Mérode",
+  "Family/Entry": "Familie Gillion | Toison d'Or",
+  "Role": "3rd generation (prince, son-in-law)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ingrid Haenen",
+  "Family/Entry": "Familie Haenen | Vi | Ri | X",
+  "Role": "Bestuurder ViRiX (current leader)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pascal Buelens",
+  "Family/Entry": "Familie Buelens | Buelens Real Estate",
+  "Role": "Director Buelens Real Estate",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Laurent Drion",
+  "Family/Entry": "Laurent Drion | E-Merge",
+  "Role": "Founder E-Merge investment fund",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bénédicte Soenen",
+  "Family/Entry": "Familie Soenen | Golfkarton Soenen",
+  "Role": "Sales Director / CEO",
+  "Company": "Soenen Golfkarton",
+  "LinkedIn": "https://www.linkedin.com/in/benedicte-soenen-5ab090131/",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Debaillie",
+  "Family/Entry": "De familie Debaillie | Debaillie Voeders",
+  "Role": "Former CEO",
+  "Company": "Debaillie Voeders",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Debaillie",
+  "Family/Entry": "De familie Debaillie | Debaillie Voeders",
+  "Role": "CEO",
+  "Company": "Debaillie Voeders",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Monstrey",
+  "Family/Entry": "Familie Monstrey | Nostrum Oil & Gas",
+  "Role": "Former Chairman / Founder",
+  "Company": "Nostrum Oil & Gas",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Victor Buyck",
+  "Family/Entry": "Familie Buyck | Victor Buyck",
+  "Role": "Family member",
+  "Company": "NESTIN / Victor Buyck Steel Construction family",
+  "LinkedIn": "https://www.linkedin.com/in/victorbuyck/",
+  "Email": ""
+ },
+ {
+  "Person": "Daphne Deckers",
+  "Family/Entry": "Familie Buyck | Victor Buyck",
+  "Role": "Board member",
+  "Company": "Victor Buyck Steel Construction",
+  "LinkedIn": "https://www.linkedin.com/in/daphne-deckers-6914903/",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Sobry",
+  "Family/Entry": "De familie Sobry | Zoutman",
+  "Role": "Co-founder / Director",
+  "Company": "Zoutman",
+  "LinkedIn": "https://www.linkedin.com/in/bart-sobry-38a7b2a9/",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Sobry",
+  "Family/Entry": "De familie Sobry | Zoutman",
+  "Role": "Co-founder",
+  "Company": "Zoutman",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pieter Blomme",
+  "Family/Entry": "Familie Blomme | Woningbouw Blomme",
+  "Role": "Founder / CEO",
+  "Company": "Woningbouw Blomme",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "John Dubaere",
+  "Family/Entry": "Familie Dubaere | Omexco",
+  "Role": "Chairman",
+  "Company": "Omexco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Dubaere",
+  "Family/Entry": "Familie Dubaere | Omexco",
+  "Role": "CEO",
+  "Company": "Omexco",
+  "LinkedIn": "https://www.linkedin.com/in/thomasdubaere/",
+  "Email": ""
+ },
+ {
+  "Person": "Hubert Bonnet",
+  "Family/Entry": "De familie Bonnet | Onbekend",
+  "Role": "Investor",
+  "Company": "Real estate and art investments",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ingrid Bonnet",
+  "Family/Entry": "De familie Bonnet | Onbekend",
+  "Role": "Investor",
+  "Company": "Family holdings",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Johan Verhelst",
+  "Family/Entry": "Familie Verhelst | Verhelst aannemingen",
+  "Role": "Co-owner",
+  "Company": "Verhelst Aannemingen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kathleen Verhelst",
+  "Family/Entry": "Familie Verhelst | Verhelst aannemingen",
+  "Role": "Co-owner",
+  "Company": "Verhelst Aannemingen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Damman",
+  "Family/Entry": "Familie Damman | Damman Bouwonderneming",
+  "Role": "Current business leader",
+  "Company": "Bouwgroep Damman",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Theo Damman",
+  "Family/Entry": "Familie Damman | Damman Bouwonderneming",
+  "Role": "CEO",
+  "Company": "Prefadim Belgium",
+  "LinkedIn": "https://be.linkedin.com/in/theo-damman-b0769213",
+  "Email": ""
+ },
+ {
+  "Person": "Dimitri Damman",
+  "Family/Entry": "Familie Damman | Damman Bouwonderneming",
+  "Role": "Next generation",
+  "Company": "Groep Damman",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Vicky Damman",
+  "Family/Entry": "Familie Damman | Damman Bouwonderneming",
+  "Role": "CEO",
+  "Company": "Imagopackgroup",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marc Cordeel",
+  "Family/Entry": "Familie Cordeel | Cordeel",
+  "Role": "Owner",
+  "Company": "Cordeel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Cordeel",
+  "Family/Entry": "Familie Cordeel | Cordeel",
+  "Role": "Owner",
+  "Company": "Cordeel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Filip Cordeel",
+  "Family/Entry": "Familie Cordeel | Cordeel",
+  "Role": "Managing Director",
+  "Company": "Cordeel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "David Van Biervliet",
+  "Family/Entry": "Familie Van Biervliet | Fivanco",
+  "Role": "Owner",
+  "Company": "Fivanco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Caroline Van Biervliet",
+  "Family/Entry": "Familie Van Biervliet | Fivanco",
+  "Role": "Former co-owner",
+  "Company": "Fivanco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Paul Vanthournout",
+  "Family/Entry": "Familie Vanthournout | Onbekend",
+  "Role": "Former CEO",
+  "Company": "Aurora (closed 2003)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marie Santens",
+  "Family/Entry": "Familie Vanthournout | Onbekend",
+  "Role": "Board member",
+  "Company": "KB Lux / Puilaetco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Akbar Soltaninassab",
+  "Family/Entry": "Familie Soltaninassab | Fasska",
+  "Role": "Owner",
+  "Company": "Fasska",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Filip Van Hool",
+  "Family/Entry": "Familie Van Hool | Van Hool",
+  "Role": "CEO",
+  "Company": "Van Hool",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick Maselis",
+  "Family/Entry": "Familie Maselis | Maselis en Poco Loco",
+  "Role": "Managing Director",
+  "Company": "Maselis / Poco Loco (sold)",
+  "LinkedIn": "https://www.linkedin.com/in/patrick-maselis-2b03a0127/",
+  "Email": ""
+ },
+ {
+  "Person": "Sophie Le Clercq",
+  "Family/Entry": "Familie Le Clercq-Blaton | CIT Blaton",
+  "Role": "Chairman Board of Directors",
+  "Company": "CIT Blaton",
+  "LinkedIn": "https://www.linkedin.com/in/sophie-le-clercq-1164a98a/",
+  "Email": ""
+ },
+ {
+  "Person": "Thérèse Blaton",
+  "Family/Entry": "Familie Le Clercq-Blaton | CIT Blaton",
+  "Role": "Former Chairman",
+  "Company": "CIT Blaton",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Johan Van Wassenhove",
+  "Family/Entry": "Johan Van Wassenhove | Denys",
+  "Role": "CEO / Main shareholder",
+  "Company": "Denys",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Plasschaert",
+  "Family/Entry": "Familie Plasschaert | Niet gekend",
+  "Role": "Former owner",
+  "Company": "RBK / Artes Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Axel Vervoordt",
+  "Family/Entry": "Familie Vervoordt | Axel Vervoordt",
+  "Role": "Founder",
+  "Company": "Axel Vervoordt",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dick Vervoordt",
+  "Family/Entry": "Familie Vervoordt | Axel Vervoordt",
+  "Role": "Real estate director",
+  "Company": "Axel Vervoordt",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Boris Vervoordt",
+  "Family/Entry": "Familie Vervoordt | Axel Vervoordt",
+  "Role": "Art & antiques director",
+  "Company": "Axel Vervoordt",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hugo Rombouts",
+  "Family/Entry": "Familie Rombouts | Rombouts Koffie",
+  "Role": "CEO",
+  "Company": "Rombouts Koffie",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guido Van der Schueren",
+  "Family/Entry": "Familie Guido Van der Schueren | Artwork Systems",
+  "Role": "Founder / Investor",
+  "Company": "Artwork Systems (sold)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ernest Loumaye",
+  "Family/Entry": "De familie Loumaye | Onbekend",
+  "Role": "Founder / CEO",
+  "Company": "PremLeg (sold) / ObsEva",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Huyzentruyt",
+  "Family/Entry": "Familie Huyzentruyt | Groep H",
+  "Role": "Managing Director",
+  "Company": "Groep Huyzentruyt",
+  "LinkedIn": "https://be.linkedin.com/in/philippe-huyzentruyt-34781a142",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Van Poucke",
+  "Family/Entry": "Familie Huyzentruyt | Groep H",
+  "Role": "CEO",
+  "Company": "Groep Huyzentruyt",
+  "LinkedIn": "https://www.linkedin.com/in/thomas-van-pouckee-b4076011a/",
+  "Email": ""
+ },
+ {
+  "Person": "Mike Lemahieu",
+  "Family/Entry": "Familie Lemahieu | Lemahieu",
+  "Role": "4th generation owner",
+  "Company": "Lemahieu Group (Lempan / Houtimport)",
+  "LinkedIn": "https://www.linkedin.com/in/mikelemahieu/",
+  "Email": ""
+ },
+ {
+  "Person": "Ann Claes",
+  "Family/Entry": "Familie Claes (JBC)JBC",
+  "Role": "Co-eigenaar/Bestuurder JBC",
+  "Company": "JBC",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Claes",
+  "Family/Entry": "Familie Claes (JBC)JBC",
+  "Role": "Co-eigenaar/Bestuurder JBC",
+  "Company": "JBC",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Lhomme",
+  "Family/Entry": "Familie Philippe Lhomme | Crazy Horse en Batibouw",
+  "Role": "Hoofdaandeelhouder en CEO Defi",
+  "Company": "Defi / Crazy Horse / Batibouw",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Marchandise",
+  "Family/Entry": "Familie Marchandise | Trafic",
+  "Role": "Founder Trafic (deceased 2022)",
+  "Company": "Trafic",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "André Marchandise",
+  "Family/Entry": "Familie Marchandise | Trafic",
+  "Role": "Co-founder Trafic",
+  "Company": "Trafic",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jacques Delen",
+  "Family/Entry": "De familie Delen | Bank Delen",
+  "Role": "Voorzitter Raad van Bestuur Bank Delen",
+  "Company": "Bank Delen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Delen",
+  "Family/Entry": "De familie Delen | Bank Delen",
+  "Role": "Bestuurder Bank Delen",
+  "Company": "Bank Delen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul De Winter",
+  "Family/Entry": "De familie Delen | Bank Delen",
+  "Role": "CEO Bank Delen (since 2014)",
+  "Company": "Bank Delen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul De Nil",
+  "Family/Entry": "Familie De Nil | Imwo-Invest",
+  "Role": "Gedelegeerd bestuurder Imwo-Invest",
+  "Company": "Imwo-Invest",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Baert",
+  "Family/Entry": "Thomas Baert | Chinafloors",
+  "Role": "Owner/CEO Chinafloors & Rugmax",
+  "Company": "Chinafloors / Rugmax / Lamett",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gilles-Olivier Moury",
+  "Family/Entry": "Familie Moury | Moury Construct",
+  "Role": "4th generation, current leadership Moury Construct",
+  "Company": "Moury Construct",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Georges Moury",
+  "Family/Entry": "Familie Moury | Moury Construct",
+  "Role": "3rd generation Moury Construct",
+  "Company": "Moury Construct",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick Vanden Avenne",
+  "Family/Entry": "Familie Patrick Vanden Avenne | Vanden Avenne",
+  "Role": "Voorzitter Voka West-Vlaanderen, Bestuurder Vanden Avenne",
+  "Company": "Vanden Avenne / KBC Groep",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Harold Vanden Avenne",
+  "Family/Entry": "Familie Patrick Vanden Avenne | Vanden Avenne",
+  "Role": "Bestuurder Vanden Avenne (bought out 2016)",
+  "Company": "Vanden Avenne / KBC Verzekeringen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maurits Vanden Avenne",
+  "Family/Entry": "Familie Patrick Vanden Avenne | Vanden Avenne",
+  "Role": "Next generation Vanden Avenne",
+  "Company": "Vanden Avenne",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Vanden Avenne",
+  "Family/Entry": "Familie Patrick Vanden Avenne | Vanden Avenne",
+  "Role": "Next generation Vanden Avenne",
+  "Company": "Vanden Avenne",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Walter Vanden Avenne",
+  "Family/Entry": "Familie Patrick Vanden Avenne | Vanden Avenne",
+  "Role": "Former chairman VEV (1985-1989)",
+  "Company": "Vanden Avenne",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Leo Van Bauwel",
+  "Family/Entry": "Familie Van Bauwel | Onbekend",
+  "Role": "Beursmakelaar (deceased 2015)",
+  "Company": "Mercator / Brederode",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Henri Appelstein",
+  "Family/Entry": "De familie Appelstein | Lolaliza",
+  "Role": "Co-founder LolaLiza",
+  "Company": "LolaLiza",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jacques Appelstein",
+  "Family/Entry": "De familie Appelstein | Lolaliza",
+  "Role": "Co-founder LolaLiza",
+  "Company": "LolaLiza",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stephan Jeger",
+  "Family/Entry": "De familie Appelstein | Lolaliza",
+  "Role": "Schoonbroer, Co-owner LolaLiza",
+  "Company": "LolaLiza",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tom Baelden",
+  "Family/Entry": "De familie Appelstein | Lolaliza",
+  "Role": "COO LolaLiza",
+  "Company": "LolaLiza",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Matthieu Soubry",
+  "Family/Entry": "Familie Soubry | Soubry",
+  "Role": "Co-CEO Soubry",
+  "Company": "Soubry",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Soubry",
+  "Family/Entry": "Familie Soubry | Soubry",
+  "Role": "Co-CEO Soubry",
+  "Company": "Soubry",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gustaaf Neyt",
+  "Family/Entry": "Familie Neyt | Neyt en Mobiline",
+  "Role": "Owner Neyt & Mobiline",
+  "Company": "Neyt / Mobiline",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Vergalle",
+  "Family/Entry": "Familie Vergalle | Frank Vergalle",
+  "Role": "Owner Vergalle Group",
+  "Company": "Vergalle Group / Avasco / Inalco / Stokota",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Kronacker",
+  "Family/Entry": "Familie Kronacker | Sopex",
+  "Role": "Baron, former minister (deceased)",
+  "Company": "Sopex",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guy Pieters",
+  "Family/Entry": "Guy en Linda Pieters | Guy Pieters",
+  "Role": "Art dealer, Gallery owner",
+  "Company": "Guy Pieters Gallery",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Linda Pieters",
+  "Family/Entry": "Guy en Linda Pieters | Guy Pieters",
+  "Role": "Co-owner Guy Pieters Gallery",
+  "Company": "Guy Pieters Gallery",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francis Lemaire",
+  "Family/Entry": "Familie Lemaire | Radio Contact",
+  "Role": "Founder Radio Contact",
+  "Company": "Radio Contact / RTL Belgium",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Herman De Neef",
+  "Family/Entry": "Familie De Neef | TDN Group",
+  "Role": "Founder De Neef Conchem (sold 2011)",
+  "Company": "De Neef Chemical / Union Betco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tony De Neef",
+  "Family/Entry": "Familie De Neef | TDN Group",
+  "Role": "Founder TDN Group",
+  "Company": "TDN Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart De Neef",
+  "Family/Entry": "Familie De Neef | TDN Group",
+  "Role": "Managing family investments",
+  "Company": "Union Betco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hubert De Backer",
+  "Family/Entry": "Familie De Backer | HDB",
+  "Role": "Founder HDB (1932)",
+  "Company": "Hubert De Backer NV",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christophe Verstraete",
+  "Family/Entry": "Christophe en Patricia Verstraete-Schautteet | Vesta",
+  "Role": "Co-founder Vesta Group",
+  "Company": "Vesta / Verstraete Development",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patricia Schautteet",
+  "Family/Entry": "Christophe en Patricia Verstraete-Schautteet | Vesta",
+  "Role": "Co-founder Vesta Group",
+  "Company": "Vesta / KSB Bouwpromoties",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Van den Brande brothers",
+  "Family/Entry": "Familie Van den Brande | Palmyra Brands",
+  "Role": "Owners Palmyra Brands",
+  "Company": "Palmyra Brands / Armonea / Orelia",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Françoise Christiaen",
+  "Family/Entry": "Paul en Françoise Christiaen | ECA",
+  "Role": "Former shareholder ECA (bought out 2016)",
+  "Company": "ECA",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Johan Talpe",
+  "Family/Entry": "Families Talpe en De Backere | D'Arta",
+  "Role": "Co-founder D'Arta",
+  "Company": "D'Arta / Greens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Pierre De Backere",
+  "Family/Entry": "Families Talpe en De Backere | D'Arta",
+  "Role": "Co-founder D'Arta",
+  "Company": "D'Arta / Greens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pieter De Backere",
+  "Family/Entry": "Families Talpe en De Backere | D'Arta",
+  "Role": "Next generation D'Arta",
+  "Company": "D'Arta",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean van Gysel de Meise",
+  "Family/Entry": "Familie van Gysel de Meise | Hotel Plaza",
+  "Role": "Baron, owner Hotel Plaza Brussels",
+  "Company": "Hotel Le Plaza Brussels",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Léon Seynaeve",
+  "Family/Entry": "Familie Léon Seynaeve | Vente-Exclusive",
+  "Role": "Co-founder Vente-Exclusive",
+  "Company": "Vente-Exclusive / Mitiska",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stefan Tournoy",
+  "Family/Entry": "Familie Léon Seynaeve | Vente-Exclusive",
+  "Role": "Co-founder Vente-Exclusive",
+  "Company": "Vente-Exclusive",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Geuten",
+  "Family/Entry": "Familie Léon Seynaeve | Vente-Exclusive",
+  "Role": "Former partner (Mitiska)",
+  "Company": "Mitiska",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Juan de Meeus d'Argenteuil",
+  "Family/Entry": "Familie de Meeus d'Argenteuil",
+  "Role": "Vice President Sales and...",
+  "Company": "Unknown (from LinkedIn title)",
+  "LinkedIn": "https://be.linkedin.com/in/de-meeus-d-argenteuil-juan-b250a785",
+  "Email": ""
+ },
+ {
+  "Person": "Louis de Meeûs d'Argenteuil",
+  "Family/Entry": "Familie de Meeus d'Argenteuil",
+  "Role": "Sales Development",
+  "Company": "Unknown",
+  "LinkedIn": "https://fr.linkedin.com/in/louis-de-mee%C3%BBs-d-argenteuil-99900a254",
+  "Email": ""
+ },
+ {
+  "Person": "Walerand de Meeûs d'Argenteuil",
+  "Family/Entry": "Familie de Meeus d'Argenteuil",
+  "Role": "Freelance Consultant",
+  "Company": "Self-employed",
+  "LinkedIn": "https://be.linkedin.com/in/waleranddemeeus",
+  "Email": ""
+ },
+ {
+  "Person": "Miguel de Meeus d'Argenteuil",
+  "Family/Entry": "Familie de Meeus d'Argenteuil",
+  "Role": "Unknown",
+  "Company": "Perwez area",
+  "LinkedIn": "https://be.linkedin.com/in/miguel-de-meeus-d-argenteuil-6133071",
+  "Email": ""
+ },
+ {
+  "Person": "Gwen De Meeûs d'Argenteuil",
+  "Family/Entry": "Familie de Meeus d'Argenteuil",
+  "Role": "Real estate agent (IPI 512)",
+  "Company": "Real estate",
+  "LinkedIn": "https://be.linkedin.com/in/gwendemeeus",
+  "Email": ""
+ },
+ {
+  "Person": "Jürgen Ingels",
+  "Family/Entry": "Jürgen Ingels",
+  "Role": "Founder & Former CEO, now investor in ICT start-ups",
+  "Company": "Clear2Pay (exited 2014)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Vaernewyck",
+  "Family/Entry": "Familie Vaernewyck – Hermant",
+  "Role": "Shareholders (part domiciled in Liechtenstein)",
+  "Company": "Brachot-Hermant",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eric Domb",
+  "Family/Entry": "Eric Domb",
+  "Role": "Owner & CEO",
+  "Company": "Pairi Daiza",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lucien Vanwynsberghe",
+  "Family/Entry": "Familie Vanwynsberghe",
+  "Role": "Founder (deceased 2021)",
+  "Company": "Real Homes / Mc Three",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Sophia Vanwynsberghe",
+  "Family/Entry": "Familie Vanwynsberghe",
+  "Role": "Heiress, attempted to save Mc Three",
+  "Company": "Real Homes / Mc Three (liquidated)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Spitaels",
+  "Family/Entry": "Familie Thomas Spitaels",
+  "Role": "CEO",
+  "Company": "TPF",
+  "LinkedIn": "https://be.linkedin.com/in/thomas-spitaels-b164a5227",
+  "Email": ""
+ },
+ {
+  "Person": "Roeland Van Maercke",
+  "Family/Entry": "Familie Van Maercke",
+  "Role": "Former owner, now focused on real estate development",
+  "Company": "RVM (sold)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Mieke Van Maercke",
+  "Family/Entry": "Familie Van Maercke",
+  "Role": "Former CEO (2002-2014)",
+  "Company": "RVM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Steven Vergalle",
+  "Family/Entry": "Familie Van Maercke",
+  "Role": "Former CEO (2002-2014)",
+  "Company": "RVM",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frederik Michiels",
+  "Family/Entry": "Familie Michiels",
+  "Role": "Management/spokesperson",
+  "Company": "Michiels Fabrieken",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Sabine Michiels",
+  "Family/Entry": "Familie Michiels",
+  "Role": "CEO & Local politician (CD&V Deerlijk)",
+  "Company": "Michiels Fabrieken",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Henri de Cock",
+  "Family/Entry": "De familie De Cock",
+  "Role": "Founder (1966)",
+  "Company": "Tribù",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lode de Cock",
+  "Family/Entry": "De familie De Cock",
+  "Role": "Former CEO (1987-2013)",
+  "Company": "Tribù",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tom de Cock",
+  "Family/Entry": "De familie De Cock",
+  "Role": "Brand Ambassador & Managing Partner",
+  "Company": "Tribù",
+  "LinkedIn": "https://be.linkedin.com/in/tom-de-cock-86988820",
+  "Email": ""
+ },
+ {
+  "Person": "Koen de Cock",
+  "Family/Entry": "De familie De Cock",
+  "Role": "CEO",
+  "Company": "Tribù",
+  "LinkedIn": "https://be.linkedin.com/in/koen-de-cock-b52567b",
+  "Email": ""
+ },
+ {
+  "Person": "Frans Donckers",
+  "Family/Entry": "Familie Donckers",
+  "Role": "Founder (1946)",
+  "Company": "Bandencentrale Donckers",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Marie De Buck",
+  "Family/Entry": "Familie Jean-Marie De Buck",
+  "Role": "CEO & Owner",
+  "Company": "Square Group / Aclagro",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Sylva Mannens",
+  "Family/Entry": "Familie Jean-Marie De Buck",
+  "Role": "Co-owner",
+  "Company": "Square Group / Aclagro",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Vyncke",
+  "Family/Entry": "Familie Vyncke",
+  "Role": "Co-owner (50%), retired 2021, moved to Singapore",
+  "Company": "Vyncke",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dieter Vyncke",
+  "Family/Entry": "Familie Vyncke",
+  "Role": "Co-owner (50%)",
+  "Company": "Vyncke",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Laurent Minguet",
+  "Family/Entry": "Familie Laurent Minguet",
+  "Role": "Co-founder (exited at peak)",
+  "Company": "EVS (exited)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre L'Hoest",
+  "Family/Entry": "Familie Laurent Minguet",
+  "Role": "Co-founder",
+  "Company": "EVS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Counson",
+  "Family/Entry": "Familie Laurent Minguet",
+  "Role": "Co-founder",
+  "Company": "EVS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Moorkens",
+  "Family/Entry": "Familie Pierre Moorkens",
+  "Role": "Shareholder (16% of Alcopa), focused on Neuro Cognitivism since 2004",
+  "Company": "Alcopa / Institute of Neuro Cognitivism",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dominique Moorkens",
+  "Family/Entry": "Familie Pierre Moorkens",
+  "Role": "Chairman",
+  "Company": "Alcopa",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "François Hinfray",
+  "Family/Entry": "Familie Pierre Moorkens",
+  "Role": "CEO (external, former Renault)",
+  "Company": "Alcopa",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stefan Descheemaeker",
+  "Family/Entry": "Stefan Descheemaeker",
+  "Role": "CEO",
+  "Company": "Nomad Foods (Iglo, Birdseye, Findus, Lutosa)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dominique Janne",
+  "Family/Entry": "Dominique Janne",
+  "Role": "Owner Novo Holding, former Strategy Director Voo, real estate developer",
+  "Company": "Novo Holding / Café Belga",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Didier Allaer",
+  "Family/Entry": "Didier Allaer",
+  "Role": "Founder & Former CEO (sold to Hologic 2021)",
+  "Company": "Diagenode",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Vanlommel",
+  "Family/Entry": "Familie Vanlommel",
+  "Role": "Owner/Management",
+  "Company": "Vanlommel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Theo Van Nieuwenhuysen",
+  "Family/Entry": "Familie Van Nieuwenhuysen",
+  "Role": "Founder (deceased 2014)",
+  "Company": "Credimo",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ado Blaton",
+  "Family/Entry": "Familie Blaton",
+  "Role": "Former patriarch (deceased 1999)",
+  "Company": "BPC / EII",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Blaton",
+  "Family/Entry": "Familie Blaton",
+  "Role": "Son, involved in various projects",
+  "Company": "Various real estate",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Van Leemput",
+  "Family/Entry": "Familie Van Leemput",
+  "Role": "Owner & CEO",
+  "Company": "Athelean",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Vandeputte",
+  "Family/Entry": "De familie Vandeputte (Valtech)",
+  "Role": "Co-owner & CEO",
+  "Company": "Valtech Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Vandeputte",
+  "Family/Entry": "De familie Vandeputte (Valtech)",
+  "Role": "Co-owner",
+  "Company": "Valtech Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bart Cresens",
+  "Family/Entry": "Familie Cresens – De Keyzer",
+  "Role": "Founder & CEO",
+  "Company": "TS33",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Mieke De Keyzer",
+  "Family/Entry": "Familie Cresens – De Keyzer",
+  "Role": "Co-founder",
+  "Company": "TS33",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ina Beelen",
+  "Family/Entry": "Familie Cresens – De Keyzer",
+  "Role": "CEO One+ Invest",
+  "Company": "One+ Invest / TS33",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Mark Verbakel",
+  "Family/Entry": "Familie Cresens – De Keyzer",
+  "Role": "CEO Belgian Food Franchise",
+  "Company": "Belgian Food Franchise (Jumbo)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Daniel De Belder",
+  "Family/Entry": "Familie De Belder | Diamond Trading",
+  "Role": "Executive Director",
+  "Company": "Diamond Trading NV",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Robert De Belder",
+  "Family/Entry": "Familie De Belder | Diamond Trading",
+  "Role": "Former President (father of Daniel)",
+  "Company": "Vereniging van Antwerpse handelaren in ruwe diamant",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marcel Fleerackers Sr.",
+  "Family/Entry": "Familie Fleerackers | Sanico",
+  "Role": "Founder",
+  "Company": "Sanico",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Vincent Kompany",
+  "Family/Entry": "Vincent Kompany | Rode Duivel -",
+  "Role": "Former Professional Footballer / Manager",
+  "Company": "Manchester City (former), various investments",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Inge De Keyser",
+  "Family/Entry": "Familie Inge De Keyser | Artes Graphics",
+  "Role": "Co-owner (50%)",
+  "Company": "Next Group / Artes Graphics",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Erwin De Keyser",
+  "Family/Entry": "Familie Inge De Keyser | Artes Graphics",
+  "Role": "Chairman & Co-owner (50%)",
+  "Company": "Artes Graphics / Next Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bruno Denys",
+  "Family/Entry": "Bruno Denys | Deparco Group",
+  "Role": "CEO",
+  "Company": "Deparco Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dr. Paulus (Paul) Stoffels",
+  "Family/Entry": "Familie Paul Stoffels | Topman Johnson & Johnson",
+  "Role": "Executive Vice President, Chief Scientific Officer",
+  "Company": "Johnson & Johnson",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Robert Donck",
+  "Family/Entry": "Familie Robert Donck | Comelco",
+  "Role": "Former owner (deceased 2024)",
+  "Company": "Comelco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Donck",
+  "Family/Entry": "Familie Robert Donck | Comelco",
+  "Role": "Investor (son of Josef Donck)",
+  "Company": "Telenet, KBC",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Verhaeren",
+  "Family/Entry": "Familie Verhaeren | Viabuild",
+  "Role": "Former co-owner",
+  "Company": "Viabuild / Vermec",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ferdinand Verhaeren",
+  "Family/Entry": "Familie Verhaeren | Viabuild",
+  "Role": "Founder",
+  "Company": "Verhaeren construction",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Raymond Cretskens",
+  "Family/Entry": "Familie Cretskens | Carrefour Limburg",
+  "Role": "Owner",
+  "Company": "Carrefour Market franchises, Crelem Bakeries",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Suzy Cretskens",
+  "Family/Entry": "Familie Cretskens | Carrefour Limburg",
+  "Role": "Commercial Director",
+  "Company": "Carrefour Market franchises",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Souleika Cretskens",
+  "Family/Entry": "Familie Cretskens | Carrefour Limburg",
+  "Role": "Director Bakeries",
+  "Company": "Crelem Bakeries",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jerica Cretskens",
+  "Family/Entry": "Familie Cretskens | Carrefour Limburg",
+  "Role": "Director Supermarkets & Real Estate",
+  "Company": "Carrefour Market franchises",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Orfea Cretskens",
+  "Family/Entry": "Familie Cretskens | Carrefour Limburg",
+  "Role": "HR Director",
+  "Company": "Cretskens Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ignace Meuwissen",
+  "Family/Entry": "Ignace Meuwissen | Property4East",
+  "Role": "Founder",
+  "Company": "Property4East",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Naomi El Haimer",
+  "Family/Entry": "Ignace Meuwissen | Property4East",
+  "Role": "Co-founder, Staging Director",
+  "Company": "Property4East",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Vereecke",
+  "Family/Entry": "Jan Vereecke en Jan Van Esbroeck | Jan Vereecke en Jan Van Esbroeck",
+  "Role": "Co-founder",
+  "Company": "Antwerpen Sportpaleis / Proms",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Van Esbroeck",
+  "Family/Entry": "Jan Vereecke en Jan Van Esbroeck | Jan Vereecke en Jan Van Esbroeck",
+  "Role": "Co-founder",
+  "Company": "Antwerpen Sportpaleis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Focquet family",
+  "Family/Entry": "Familie Focquet | Soconord",
+  "Role": "Owners",
+  "Company": "Soconord / Inofer / Inoforges",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gilbert Neirynck",
+  "Family/Entry": "Familie Neirynck | Neremat",
+  "Role": "Founder",
+  "Company": "Neremat",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Leon Van Rompay",
+  "Family/Entry": "Familie Van Rompayex-Docpharma",
+  "Role": "Founder Docpharma",
+  "Company": "Docpharma (sold), Mithra (interim CEO)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stijn Van Rompay",
+  "Family/Entry": "Familie Van Rompayex-Docpharma",
+  "Role": "CEO",
+  "Company": "Hyloris, Uteron Pharma",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pieter Van Rompay",
+  "Family/Entry": "Familie Van Rompayex-Docpharma",
+  "Role": "Director",
+  "Company": "Van Rompay Management, Mithra",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Georges De Vestel",
+  "Family/Entry": "Familie De Vestel | Oprichters van Batibouw",
+  "Role": "Founder",
+  "Company": "Batibouw",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Laurence De Vestel",
+  "Family/Entry": "Familie De Vestel | Oprichters van Batibouw",
+  "Role": "Former owner Batibouw",
+  "Company": "Vestaculture",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Audrey De Vestel",
+  "Family/Entry": "Familie De Vestel | Oprichters van Batibouw",
+  "Role": "Former owner Cocoon",
+  "Company": "Cocoon fairs",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Anita Vaxelaire",
+  "Family/Entry": "Familie Anita Vaxelaire | John Goossens",
+  "Role": "Heiress",
+  "Company": "GIB-Grand Bazar (family stake)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "John Goossens (Baron, deceased)",
+  "Family/Entry": "Familie Anita Vaxelaire | John Goossens",
+  "Role": "Former CEO Belgacom",
+  "Company": "Belgacom, Texaco Belgium",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lucien Ranson",
+  "Family/Entry": "Familie Ranson | Ranson",
+  "Role": "Founder",
+  "Company": "Ranson",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ranson family (3rd generation)",
+  "Family/Entry": "Familie Ranson | Ranson",
+  "Role": "Current management",
+  "Company": "Ranson",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "André Houyoux",
+  "Family/Entry": "Familie Houyoux | Entreprises André Houyoux",
+  "Role": "Founder",
+  "Company": "Entreprises André Houyoux",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Rudolf Vanmoerkerke (deceased)",
+  "Family/Entry": "De familie Vanmoerkerke | Thermae Palace",
+  "Role": "Founder",
+  "Company": "West Belgium Coach Company, Sunair, Sunparks",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Mark Vanmoerkerke (deceased)",
+  "Family/Entry": "De familie Vanmoerkerke | Thermae Palace",
+  "Role": "Owner",
+  "Company": "Sunparks, Thermae Palace, QRF",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "William Vanmoerkerke",
+  "Family/Entry": "De familie Vanmoerkerke | Thermae Palace",
+  "Role": "CEO",
+  "Company": "QRF",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Olivia Vanmoerkerke",
+  "Family/Entry": "De familie Vanmoerkerke | Thermae Palace",
+  "Role": "Manager",
+  "Company": "Thermae Palace Hotel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "August Cras",
+  "Family/Entry": "Familie Cras | Cras Hout",
+  "Role": "Founder",
+  "Company": "Cras",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frédéric Cras",
+  "Family/Entry": "Familie Cras | Cras Hout",
+  "Role": "General Manager (4th generation)",
+  "Company": "Cras Hout",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean Martens",
+  "Family/Entry": "Familie Martens | Brouwerij Martens",
+  "Role": "Founder",
+  "Company": "Brouwerij Martens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Fons Martens",
+  "Family/Entry": "Familie Martens | Brouwerij Martens",
+  "Role": "Former co-owner (8th generation)",
+  "Company": "Brouwerij Martens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Martens",
+  "Family/Entry": "Familie Martens | Brouwerij Martens",
+  "Role": "Owner (8th generation)",
+  "Company": "Brouwerij Martens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jef Martens",
+  "Family/Entry": "Familie Martens | Brouwerij Martens",
+  "Role": "Future management",
+  "Company": "Brouwerij Martens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bob Martens",
+  "Family/Entry": "Familie Martens | Brouwerij Martens",
+  "Role": "Future management",
+  "Company": "Brouwerij Martens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francis Geernaert",
+  "Family/Entry": "Familie Geernaert | G-Label",
+  "Role": "Founder",
+  "Company": "Belim",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "John Geernaert",
+  "Family/Entry": "Familie Geernaert | G-Label",
+  "Role": "Owner/Developer",
+  "Company": "G-Label / Green Corner",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Zeno Vanden Avenne",
+  "Family/Entry": "Familie Xavier Vanden Avenne | Vanden Avenne",
+  "Role": "Founder",
+  "Company": "Vanden Avenne",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Xavier Vanden Avenne",
+  "Family/Entry": "Familie Xavier Vanden Avenne | Vanden Avenne",
+  "Role": "Owner",
+  "Company": "Vanden Avenne Izegem",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Erwin De Keyser",
+  "Family/Entry": "Familie Erwin De Keyser | Nex | T Invest",
+  "Role": "Chairman & Co-owner (50%)",
+  "Company": "Next Group / Artes Graphics",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Johan Willemen",
+  "Family/Entry": "Familie Willemen | Groep Willemen en Aswebo",
+  "Role": "Chairman",
+  "Company": "Groep Willemen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tom Willemen",
+  "Family/Entry": "Familie Willemen | Groep Willemen en Aswebo",
+  "Role": "Former manager",
+  "Company": "Groep Willemen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marc Jonckheere",
+  "Family/Entry": "Familie Willemen | Groep Willemen en Aswebo",
+  "Role": "CEO",
+  "Company": "Groep Willemen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guy Valckenier",
+  "Family/Entry": "Familie Valckenier | Valckenier",
+  "Role": "Co-owner, brother",
+  "Company": "Valckenier (auto sales, mobility services)",
+  "LinkedIn": "https://www.linkedin.com/in/guy-valckenier/",
+  "Email": ""
+ },
+ {
+  "Person": "Koen Valckenier",
+  "Family/Entry": "Familie Valckenier | Valckenier",
+  "Role": "Co-owner, brother",
+  "Company": "Valckenier",
+  "LinkedIn": "https://www.linkedin.com/in/koen-valckenier-2b77b713/",
+  "Email": ""
+ },
+ {
+  "Person": "Peggy Valckenier",
+  "Family/Entry": "Familie Valckenier | Valckenier",
+  "Role": "Co-owner, sister",
+  "Company": "Valckenier",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Yvo Rinaldi",
+  "Family/Entry": "Yvo Rinaldi | Les Entreprises Yvo Rinaldi",
+  "Role": "Owner/Founder",
+  "Company": "Les Entreprises Yvo Rinaldi (construction group, interior finishing)",
+  "LinkedIn": "https://www.linkedin.com/in/yvo-rinaldi/",
+  "Email": ""
+ },
+ {
+  "Person": "Freddy Verschetse",
+  "Family/Entry": "Familie Verschetse | Konvert",
+  "Role": "Second generation owner",
+  "Company": "Konvert Groep (temp agency, largest independent Belgian)",
+  "LinkedIn": "https://www.linkedin.com/in/freddy-verschetse/",
+  "Email": ""
+ },
+ {
+  "Person": "Annemie Verschetse-Vervaeke",
+  "Family/Entry": "Familie Verschetse | Konvert",
+  "Role": "Second generation owner",
+  "Company": "Konvert Groep",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Ruysschaert",
+  "Family/Entry": "Familie Ruysschaert-Vanhouteghem | Vigo",
+  "Role": "Former CEO (sold 2019)",
+  "Company": "Vigo International (orthopedic products, protheses)",
+  "LinkedIn": "https://www.linkedin.com/in/jan-ruysschaert/",
+  "Email": ""
+ },
+ {
+  "Person": "Nele Vanhouteghem",
+  "Family/Entry": "Familie Ruysschaert-Vanhouteghem | Vigo",
+  "Role": "Former Commercial Director",
+  "Company": "CTO / Vigo International",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Cyril Wolkonsky",
+  "Family/Entry": "De familie Wolkonsky-de Rochechouart de Mortemart | Promiris",
+  "Role": "Chairman Iris International SA",
+  "Company": "Promiris (real estate development), Iris International (investment)",
+  "LinkedIn": "https://www.linkedin.com/in/cyril-wolkonsky/",
+  "Email": ""
+ },
+ {
+  "Person": "Laetitia de Rochechouart de Mortemart",
+  "Family/Entry": "De familie Wolkonsky-de Rochechouart de Mortemart | Promiris",
+  "Role": "Co-owner",
+  "Company": "Promiris / Iris International",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Marc 'Vatje' Verstraete",
+  "Family/Entry": "Familie Marc Verstraete | Blagden",
+  "Role": "Owner (sold 4 times)",
+  "Company": "Blagden (barrel reconditioning), Pack2Pack (recycling), Castigno (wine)",
+  "LinkedIn": "https://www.linkedin.com/in/marc-verstraete-vatje/",
+  "Email": ""
+ },
+ {
+  "Person": "de Callataÿ family member",
+  "Family/Entry": "Families de Callataÿ en de Wouters | C&W",
+  "Role": "Co-founder (10% remaining stake)",
+  "Company": "Callataÿ & Wouters (banking software Thaler)",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "de Wouters family member",
+  "Family/Entry": "Families de Callataÿ en de Wouters | C&W",
+  "Role": "Co-founder (10% remaining stake)",
+  "Company": "Callataÿ & Wouters",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Achiel De Witte",
+  "Family/Entry": "Familie De Witte | Cibel en Cebon",
+  "Role": "Founder/Owner",
+  "Company": "Cibel, Cebon (fruit & vegetable import/export), Frudicom, La Criée",
+  "LinkedIn": "https://www.linkedin.com/in/achiel-de-witte/",
+  "Email": ""
+ },
+ {
+  "Person": "Roger Mylle",
+  "Family/Entry": "Familie Mylle | Mydibel",
+  "Role": "Founder",
+  "Company": "Mydibel (frozen potato products)",
+  "LinkedIn": "https://www.linkedin.com/in/roger-mylle/",
+  "Email": ""
+ },
+ {
+  "Person": "Bruno Mylle",
+  "Family/Entry": "Familie Mylle | Mydibel",
+  "Role": "Managing Director",
+  "Company": "Mydibel",
+  "LinkedIn": "https://www.linkedin.com/in/bruno-mylle/",
+  "Email": ""
+ },
+ {
+  "Person": "Carlo Mylle",
+  "Family/Entry": "Familie Mylle | Mydibel",
+  "Role": "Managing Director",
+  "Company": "Mydibel",
+  "LinkedIn": "https://www.linkedin.com/in/carlo-mylle/",
+  "Email": ""
+ },
+ {
+  "Person": "Glenn Janssens",
+  "Family/Entry": "Familie Glenn Janssens | Trafiroad",
+  "Role": "Owner/CEO",
+  "Company": "Trafiroad (road signage, traffic safety)",
+  "LinkedIn": "https://www.linkedin.com/in/glenn-janssens/",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick Carrette",
+  "Family/Entry": "Familie Carrette | Addax Motors",
+  "Role": "Founder",
+  "Company": "Westlease (sold), Garage Moderne (Ford), Addax Motors (electric vehicles)",
+  "LinkedIn": "https://www.linkedin.com/in/patrick-carrette/",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Charles Carrette",
+  "Family/Entry": "Familie Carrette | Addax Motors",
+  "Role": "Current CEO",
+  "Company": "Addax Motors, Blue Oak group",
+  "LinkedIn": "https://www.linkedin.com/in/jean-charles-carrette/",
+  "Email": ""
+ },
+ {
+  "Person": "Gennaro Formisano",
+  "Family/Entry": "Gennaro Formisano | Eurover",
+  "Role": "Owner",
+  "Company": "Eurover (metal recycling, special glass production)",
+  "LinkedIn": "https://www.linkedin.com/in/gennaro-formisano/",
+  "Email": ""
+ },
+ {
+  "Person": "Geert Van Stappen",
+  "Family/Entry": "Familie Geert Van Stappen | Jeni Invest",
+  "Role": "Founder/CEO",
+  "Company": "Jeni Invest (project development), Invest4Talent",
+  "LinkedIn": "https://www.linkedin.com/in/geert-van-stappen/",
+  "Email": ""
+ },
+ {
+  "Person": "Niels Van Stappen",
+  "Family/Entry": "Familie Geert Van Stappen | Jeni Invest",
+  "Role": "Operations Manager",
+  "Company": "Jeni Invest",
+  "LinkedIn": "https://www.linkedin.com/in/niels-van-stappen/",
+  "Email": ""
+ },
+ {
+  "Person": "Jens Van Stappen",
+  "Family/Entry": "Familie Geert Van Stappen | Jeni Invest",
+  "Role": "CFO",
+  "Company": "Jeni Invest",
+  "LinkedIn": "https://www.linkedin.com/in/jens-van-stappen/",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick Saillez",
+  "Family/Entry": "Families Saillez en Gribomont | Onbekend",
+  "Role": "Chairman Fimmobel",
+  "Company": "Fimmobel (asset management from textile group Utexbel)",
+  "LinkedIn": "https://www.linkedin.com/in/patrick-saillez/",
+  "Email": ""
+ },
+ {
+  "Person": "Gribomont family member",
+  "Family/Entry": "Families Saillez en Gribomont | Onbekend",
+  "Role": "Owner Utexbel",
+  "Company": "Utexbel (textile), Fimmobel",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Brion family member",
+  "Family/Entry": "Familie Brion | Conti7",
+  "Role": "Owner",
+  "Company": "Conti7 (shipping holding), Conti-Lines",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Frank Van Meeuwen",
+  "Family/Entry": "Familie Van Meeuwen | Crestron",
+  "Role": "Founder (exited 2014)",
+  "Company": "Crestron Europe (domotica distribution)",
+  "LinkedIn": "https://www.linkedin.com/in/frank-van-meeuwen/",
+  "Email": ""
+ },
+ {
+  "Person": "Robin Van Meeuwen",
+  "Family/Entry": "Familie Van Meeuwen | Crestron",
+  "Role": "CEO",
+  "Company": "Crestron Europe",
+  "LinkedIn": "https://www.linkedin.com/in/robin-van-meeuwen/",
+  "Email": ""
+ },
+ {
+  "Person": "Petra Van Meeuwen",
+  "Family/Entry": "Familie Van Meeuwen | Crestron",
+  "Role": "Co-owner/Director",
+  "Company": "Crestron Europe",
+  "LinkedIn": "https://www.linkedin.com/in/petra-van-meeuwen/",
+  "Email": ""
+ },
+ {
+  "Person": "Victor Bosquin",
+  "Family/Entry": "Familie Bosquin | Unibox Games",
+  "Role": "Founder",
+  "Company": "Unibox Games (gaming machines), Ardent Finance (casinos)",
+  "LinkedIn": "https://www.linkedin.com/in/victor-bosquin/",
+  "Email": ""
+ },
+ {
+  "Person": "Désiré Collen",
+  "Family/Entry": "Familie Désiré Collen | Désiré Collen",
+  "Role": "Founder/Scientist",
+  "Company": "D. Collen Research Foundation, Thromb-X, ThromboGenics, Fund+",
+  "LinkedIn": "https://www.linkedin.com/in/desiré-collen/",
+  "Email": ""
+ },
+ {
+  "Person": "Chris Buyse",
+  "Family/Entry": "Familie Désiré Collen | Désiré Collen",
+  "Role": "Co-founder Fund+",
+  "Company": "Fund+ (evergreen investment fund)",
+  "LinkedIn": "https://www.linkedin.com/in/chris-buyse/",
+  "Email": ""
+ },
+ {
+  "Person": "Van Looke family member",
+  "Family/Entry": "Familie Van Looke-Vanlommel | Coek Engineering",
+  "Role": "Owner",
+  "Company": "Coek Engineering (distillation towers, reactors)",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Vanlommel family member",
+  "Family/Entry": "Familie Van Looke-Vanlommel | Coek Engineering",
+  "Role": "Co-owner",
+  "Company": "Coek Engineering",
+  "LinkedIn": "SEARCH_REQUIRED",
+  "Email": ""
+ },
+ {
+  "Person": "Stefan Uhoda",
+  "Family/Entry": "De familie Uhoda | Uhoda",
+  "Role": "Owner/CEO",
+  "Company": "Uhoda Group (gas stations, car washes, parking garages)",
+  "LinkedIn": "https://www.linkedin.com/in/stefan-uhoda/",
+  "Email": ""
+ },
+ {
+  "Person": "Tony Goetz",
+  "Family/Entry": "De familie Goetz | Tony Goetz",
+  "Role": "Founder",
+  "Company": "Tony Goetz & Zonen (gold trading, refining)",
+  "LinkedIn": "https://www.linkedin.com/in/tony-goetz/",
+  "Email": ""
+ },
+ {
+  "Person": "Alain Goetz",
+  "Family/Entry": "De familie Goetz | Tony Goetz",
+  "Role": "Owner AGR",
+  "Company": "African Gold Refinery (Uganda), Argor International (Luxembourg)",
+  "LinkedIn": "https://www.linkedin.com/in/alain-goetz/",
+  "Email": ""
+ },
+ {
+  "Person": "Sylvain Goetz",
+  "Family/Entry": "De familie Goetz | Tony Goetz",
+  "Role": "Owner Tony Goetz Antwerp",
+  "Company": "Tony Goetz & Zonen (Antwerp)",
+  "LinkedIn": "https://www.linkedin.com/in/sylvain-goetz/",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Adriaenssens",
+  "Family/Entry": "Familie Adriaenssens-Jorssen | Jorssens",
+  "Role": "Owner/CEO",
+  "Company": "Jorssens (BMW dealer), diversified real estate",
+  "LinkedIn": "https://www.linkedin.com/in/jan-adriaenssens/",
+  "Email": ""
+ },
+ {
+  "Person": "Kristof Sanders",
+  "Family/Entry": "Kristof Sanders | Forum Interim",
+  "Role": "Co-founder (sold majority)",
+  "Company": "Forum Interim / Forum Jobs",
+  "LinkedIn": "https://www.linkedin.com/in/kristof-sanders/",
+  "Email": ""
+ },
+ {
+  "Person": "Pascal Sanders",
+  "Family/Entry": "Kristof Sanders | Forum Interim",
+  "Role": "Co-founder",
+  "Company": "Forum Interim",
+  "LinkedIn": "https://www.linkedin.com/in/pascal-sanders/",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Caenepeel",
+  "Family/Entry": "Kristof Sanders | Forum Interim",
+  "Role": "Co-founder",
+  "Company": "Forum Interim",
+  "LinkedIn": "https://www.linkedin.com/in/luc-caenepeel/",
+  "Email": ""
+ },
+ {
+  "Person": "Philemon Verbeke",
+  "Family/Entry": "Familie Verbeke | Verbeke Shipping",
+  "Role": "Founder",
+  "Company": "Verbeke Bunkering (sold 2010)",
+  "LinkedIn": "https://www.linkedin.com/in/philemon-verbeke/",
+  "Email": ""
+ },
+ {
+  "Person": "Marnix Verbeke",
+  "Family/Entry": "Familie Verbeke | Verbeke Shipping",
+  "Role": "CEO (sold 2010)",
+  "Company": "Verbeke Bunkering, MAC (Maritiem Antwerp Cleaning)",
+  "LinkedIn": "https://www.linkedin.com/in/marnix-verbeke/",
+  "Email": ""
+ },
+ {
+  "Person": "Virginie Dufrasne",
+  "Family/Entry": "Familie Dufrasne | Lixon",
+  "Role": "CEO",
+  "Company": "Lixon (construction)",
+  "LinkedIn": "https://www.linkedin.com/in/virginie-dufrasne/",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Buchet",
+  "Family/Entry": "Familie Buchet | ACV",
+  "Role": "Founder (with brother Louis), Former owner ACV",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Véronique Buchet",
+  "Family/Entry": "Familie Buchet | ACV",
+  "Role": "Daughter of Pierre Buchet",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gilbert Ekierman",
+  "Family/Entry": "Familie Gilbert Ekierman | Société Financière de l'Etoile",
+  "Role": "Former Chairman/CEO Agridec, 25% shareholder Codic (sold to French family Descours in 2014)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan De Jaeck",
+  "Family/Entry": "Familie Jan De Jaeck | Massive",
+  "Role": "Former co-owner Massive (sold to CVC in 2002, then to Philips in 2008), Active in real estate (Immovaar)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Piet De Jaeck",
+  "Family/Entry": "Familie Jan De Jaeck | Massive",
+  "Role": "Former co-owner Massive, Now retired in Küssnacht, Switzerland",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eddy De Jaeck",
+  "Family/Entry": "Familie Jan De Jaeck | Massive",
+  "Role": "Father, former owner Massive, art collector",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lefevere family",
+  "Family/Entry": "Familie Lefevere-Billiet | Lefevere Industries",
+  "Role": "Owners Lefevere Industries",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Detry brothers (4 brothers)",
+  "Family/Entry": "Familie Detry | Aubel",
+  "Role": "Founders of Detry meat processing company (1963)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francesco Melis",
+  "Family/Entry": "Familie Melis | Carlisle",
+  "Role": "Co-owner IRS (European distributor for Carlisle EPDM roofing)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Renaat Melis",
+  "Family/Entry": "Familie Melis | Carlisle",
+  "Role": "Co-owner IRS",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Véronique Maes",
+  "Family/Entry": "De familie Maes – Vanneste | Brugse Zot (bier)",
+  "Role": "Owner/Director Brouwerij De Halve Maan, developed 'Straffe Hendrik' (1981)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Xavier Vanneste",
+  "Family/Entry": "De familie Maes – Vanneste | Brugse Zot (bier)",
+  "Role": "Managing Director Brouwerij De Halve Maan, son of Véronique Maes",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Henri Maes IV",
+  "Family/Entry": "De familie Maes – Vanneste | Brugse Zot (bier)",
+  "Role": "Former owner, father of Véronique",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gilles Samyn",
+  "Family/Entry": "Gilles Samyn | Rechterhand van Albert Frère",
+  "Role": "Former Managing Director CNP/NPM, Former board member GBL, Chairman Degroof Petercam",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lieven Van Hoylandt",
+  "Family/Entry": "Lieven Van Hoylandt | Cuypers Vorkliften",
+  "Role": "Controls 50% of Cuypers Vorkliften (forklift rental in Antwerp harbor)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Axel Witsel",
+  "Family/Entry": "Axel Witsel | Rode Duivel -",
+  "Role": "Professional footballer (Girona FC, Belgium National Team)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thierry Witsel",
+  "Family/Entry": "Axel Witsel | Rode Duivel -",
+  "Role": "Brother of Axel, co-owner TAWSS (20%)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guido Declercq",
+  "Family/Entry": "Familie Guido Declercq",
+  "Role": "Real estate developer, shareholder NV Zeezicht, Partners@venture",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christophe Wanty",
+  "Family/Entry": "Familie Wanty | Ets. Maurice Wanty",
+  "Role": "Current CEO Ets. Maurice Wanty (3rd generation)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Wanty",
+  "Family/Entry": "Familie Wanty | Ets. Maurice Wanty",
+  "Role": "Former CEO (2nd generation), son of Maurice",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Benoît Soenen",
+  "Family/Entry": "Familie Wanty | Ets. Maurice Wanty",
+  "Role": "Co-director, son-in-law of Michel Wanty",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maurice Wanty",
+  "Family/Entry": "Familie Wanty | Ets. Maurice Wanty",
+  "Role": "Founder (1946)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Meert family",
+  "Family/Entry": "Familie Meert | Trilec",
+  "Role": "Owners of Trilec (formerly Lampencentrale/CL-Group)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frédéric Dawans",
+  "Family/Entry": "Familie Frédéric Dawans | Raidillon",
+  "Role": "Owner Raidillon luxury watches, former owner Air Energy, DB Associates",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Benoît Greindl",
+  "Family/Entry": "Familie Frédéric Dawans | Raidillon",
+  "Role": "Co-founder DB Associates with Dawans",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christian Leysen",
+  "Family/Entry": "Familie Christian Leysen | Ahlers",
+  "Role": "Chairman AXE Group (Ahlers, Xylos, AXE Investments), Member Belgian Federal Parliament",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "André Leysen",
+  "Family/Entry": "Familie Christian Leysen | Ahlers",
+  "Role": "Father, married Anna Ahlers (1951), built Ahlers empire",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Leysen",
+  "Family/Entry": "Familie Christian Leysen | Ahlers",
+  "Role": "Brother of Christian, Chairman Umicore, media interests",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrick D'Eer",
+  "Family/Entry": "Familie D'Eer | Modemakers",
+  "Role": "Owner Modemakers clothing retail chain",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kathleen Claes",
+  "Family/Entry": "Familie Claes (Java)Java",
+  "Role": "Owner/Director Java coffee roastery (4th generation)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pieter Claes",
+  "Family/Entry": "Familie Claes (Java)Java",
+  "Role": "Co-director Java coffee roastery with sister Kathleen",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eric Swenden",
+  "Family/Entry": "Familie Swenden | Vandemoortele en Steenfabrieken Swenden",
+  "Role": "Former executive Vandemoortele, owner Château Gautoul vineyard (France)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Swenden",
+  "Family/Entry": "Familie Swenden | Vandemoortele en Steenfabrieken Swenden",
+  "Role": "Former owner Steenfabrieken Swenden, sold to Wienerberger (1989)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jozef Swenden",
+  "Family/Entry": "Familie Swenden | Vandemoortele en Steenfabrieken Swenden",
+  "Role": "Technical director Steenfabrieken (3rd generation)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Victor Joskin",
+  "Family/Entry": "De familie Joskin | Joskin",
+  "Role": "Founder Joskin agricultural equipment manufacturer (1968)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ivan Sabbe",
+  "Family/Entry": "Familie Ivan Sabbe | Ivan Sabbe",
+  "Role": "Entrepreneur, former CEO Lidl Belgium, former Flemish Parliament member",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Sabbe",
+  "Family/Entry": "Familie Ivan Sabbe | Ivan Sabbe",
+  "Role": "Father, founder Prado carpet factory (Kuurne)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Cathérine Sabbe",
+  "Family/Entry": "Familie Ivan Sabbe | Ivan Sabbe",
+  "Role": "Sister of Ivan, former board member Almanij and KB Lux",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Sylvia Sabbe",
+  "Family/Entry": "Familie Ivan Sabbe | Ivan Sabbe",
+  "Role": "Youngest sister, married Gino Coorevits",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ronald Kerckhaert",
+  "Family/Entry": "Familie Ronald Kerckhaert | Vroeger: Sax Sanitair",
+  "Role": "Former owner Sax Sanitair (sold to CRH 2010)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eric Verstraeten",
+  "Family/Entry": "Familie Verstraeten | Elaut",
+  "Role": "Current CEO Elaut Group",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Achiel Verstraeten",
+  "Family/Entry": "Familie Verstraeten | Elaut",
+  "Role": "Founder Elaut (1959)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Baron Alain Philippson",
+  "Family/Entry": "Familie Philippson | Bank Degroof",
+  "Role": "Former Chairman Bank Degroof-Petercam, sold to Crédit Agricole 2023",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jacques-Martin Philippson",
+  "Family/Entry": "Familie Philippson | Bank Degroof",
+  "Role": "Son of Alain, succeeded father as family representative",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Franz Philippson",
+  "Family/Entry": "Familie Philippson | Bank Degroof",
+  "Role": "Founder Banque F.M. Philippson (1877)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stéphane Saey",
+  "Family/Entry": "Familie Saey | Barbecook",
+  "Role": "Former owner Saey Home & Garden, sold Barbecook brand to LivWise 2019",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bernard Saey",
+  "Family/Entry": "Familie Saey | Barbecook",
+  "Role": "Owner/Director Saey Steel (steel distribution)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean Saey",
+  "Family/Entry": "Familie Saey | Barbecook",
+  "Role": "Father, studied in America, launched Barbecook concept",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Geert Vermeersch",
+  "Family/Entry": "De families Vermeersch en Carrein | Floralux",
+  "Role": "Zaakvoerder",
+  "Company": "Floralux",
+  "LinkedIn": "https://be.linkedin.com/in/geert-vermeersch-2324b895",
+  "Email": ""
+ },
+ {
+  "Person": "Kris Carrein",
+  "Family/Entry": "De families Vermeersch en Carrein | Floralux",
+  "Role": "CEO / Bestuurder",
+  "Company": "Floralux",
+  "LinkedIn": "https://be.linkedin.com/in/kris-carrein-52983290",
+  "Email": ""
+ },
+ {
+  "Person": "Carine Vanpoucke",
+  "Family/Entry": "De families Vermeersch en Carrein | Floralux",
+  "Role": "Zaakvoerster / Bestuurder",
+  "Company": "Floralux",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christiane Vandenbussche",
+  "Family/Entry": "De families Vermeersch en Carrein | Floralux",
+  "Role": "Owner",
+  "Company": "Floralux",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dirk Lindemans",
+  "Family/Entry": "De familie Lindemans | Lindemans",
+  "Role": "CEO / Managing Director",
+  "Company": "Brouwerij Lindemans",
+  "LinkedIn": "https://www.linkedin.com/in/dirk-lindemans-042ab09/",
+  "Email": ""
+ },
+ {
+  "Person": "Geert Lindemans",
+  "Family/Entry": "De familie Lindemans | Lindemans",
+  "Role": "Gedelegeerd Bestuurder",
+  "Company": "Brouwerij Lindemans",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joseph Baijot",
+  "Family/Entry": "Familie Baijot | Baijot Maisons",
+  "Role": "Founder",
+  "Company": "Baijot Maisons",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Desimpel",
+  "Family/Entry": "Familie Desimpel | Steenbakkerij Desimpel",
+  "Role": "Former Owner (deceased)",
+  "Company": "Desimpel Kortemark Company",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Aimé Desimpel",
+  "Family/Entry": "Familie Desimpel | Steenbakkerij Desimpel",
+  "Role": "Former Owner (deceased)",
+  "Company": "Desimpel Kortemark Company",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-François Gribomont",
+  "Family/Entry": "Familie Gribomont | Utexbel",
+  "Role": "CEO / President / Owner",
+  "Company": "Utexbel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Henri Gribomont",
+  "Family/Entry": "Familie Gribomont | Utexbel",
+  "Role": "Bestuurder",
+  "Company": "Utexbel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Aurélie Gribomont",
+  "Family/Entry": "Familie Gribomont | Utexbel",
+  "Role": "Bestuurder",
+  "Company": "Utexbel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Louis Luyckx",
+  "Family/Entry": "Familie Luyckx | Firma Luyckx",
+  "Role": "Founder",
+  "Company": "Firma Luyckx",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bernard Jolly",
+  "Family/Entry": "Familie Jolly | Golf de Naxhelet",
+  "Role": "Owner / President",
+  "Company": "Golf de Naxhelet",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Françoise Jolly",
+  "Family/Entry": "Familie Jolly | Golf de Naxhelet",
+  "Role": "Owner",
+  "Company": "Golf de Naxhelet",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guy Somers",
+  "Family/Entry": "Familie Somers | Frisomat",
+  "Role": "Owner / CEO",
+  "Company": "Frisomat",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Somers",
+  "Family/Entry": "Familie Somers | Frisomat",
+  "Role": "Co-owner / Bestuurder",
+  "Company": "Frisomat",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alfons Somers",
+  "Family/Entry": "Familie Somers | Frisomat",
+  "Role": "Father (deceased)",
+  "Company": "Frisomat",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Vets",
+  "Family/Entry": "Familie Vets | Vets en zonen",
+  "Role": "Owners",
+  "Company": "Vets en zonen",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Tuymans",
+  "Family/Entry": "Luc Tuymans | Luc Tuymans",
+  "Role": "Artist / Painter",
+  "Company": "Independent Artist",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Justin Onclin",
+  "Family/Entry": "Familie Justin Onclin | Gault&Millau",
+  "Role": "Founder",
+  "Company": "Sovex / Group Onclin",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Onclin",
+  "Family/Entry": "Familie Justin Onclin | Gault&Millau",
+  "Role": "Real Estate Manager",
+  "Company": "Group Onclin / Chateaux Real Estate",
+  "LinkedIn": "https://be.linkedin.com/in/philippe-onclin-82966520a",
+  "Email": ""
+ },
+ {
+  "Person": "Carmen Onclin",
+  "Family/Entry": "Familie Justin Onclin | Gault&Millau",
+  "Role": "Wine Business Manager",
+  "Company": "Group Onclin",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Van Copenolle",
+  "Family/Entry": "Familie Van Copenolle | Dera Foods",
+  "Role": "Former Owners",
+  "Company": "Dera Foods",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Detremmerie",
+  "Family/Entry": "Familie Detremmerie | Detremmerie",
+  "Role": "Owners",
+  "Company": "Detremmerie",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Raymond Reyniers",
+  "Family/Entry": "Familie Reyniers-Verbiest | Omnipack-Reyniers",
+  "Role": "Founder",
+  "Company": "Omnipack-Reyniers",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Willy Reyniers",
+  "Family/Entry": "Familie Reyniers-Verbiest | Omnipack-Reyniers",
+  "Role": "Second Generation Owner",
+  "Company": "Omnipack-Reyniers",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eugène Ronveaux",
+  "Family/Entry": "Familie Belfroid-Ronveaux | Ronveaux",
+  "Role": "Founder",
+  "Company": "Ronveaux",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marie-Anne Belfroid-Ronveaux",
+  "Family/Entry": "Familie Belfroid-Ronveaux | Ronveaux",
+  "Role": "Second Generation",
+  "Company": "Ronveaux",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Françoise Belfroid",
+  "Family/Entry": "Familie Belfroid-Ronveaux | Ronveaux",
+  "Role": "Third Generation",
+  "Company": "Ronveaux",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Henri Van Heyghen",
+  "Family/Entry": "Familie Henri Van Heyghen | Van Heyghen Staal",
+  "Role": "Owner / CEO",
+  "Company": "Van Heyghen Staal",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Kurt Lambrecht",
+  "Family/Entry": "Familie Henri Van Heyghen | Van Heyghen Staal",
+  "Role": "Bestuurder",
+  "Company": "Van Heyghen Staal",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dragan Doornaert",
+  "Family/Entry": "Familie Doornaert | Savic",
+  "Role": "Owner / Manager",
+  "Company": "Savic",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Van Den Bosch",
+  "Family/Entry": "Familie Van Den Bosch | Den Bosuil",
+  "Role": "Owners",
+  "Company": "Den Bosuil / Industriepark De Metropool / Bosco",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Vic Van Rompuy",
+  "Family/Entry": "De familie Nys | Niet gekend",
+  "Role": "Founder",
+  "Company": "Varo",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Let Van Rompuy",
+  "Family/Entry": "De familie Nys | Niet gekend",
+  "Role": "Second Generation",
+  "Company": "Varo",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jeroen Nys",
+  "Family/Entry": "De familie Nys | Niet gekend",
+  "Role": "Owner / CEO",
+  "Company": "Varo",
+  "LinkedIn": "https://be.linkedin.com/in/jeroen-nys-453109a",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Beke",
+  "Family/Entry": "Familie Luc Beke | Global Estates Group",
+  "Role": "Owner / CEO",
+  "Company": "Global Estate Group",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jozef de Spiegeleire",
+  "Family/Entry": "Filip De Spiegeleire | Culinor",
+  "Role": "Founder",
+  "Company": "Imperial Vleeswaren",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Antoon de Spiegeleire",
+  "Family/Entry": "Filip De Spiegeleire | Culinor",
+  "Role": "Uncle / Founder Bistro brand",
+  "Company": "Bistro",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Filip De Spiegeleire",
+  "Family/Entry": "Filip De Spiegeleire | Culinor",
+  "Role": "CEO / Owner",
+  "Company": "Culinor Food Group / ORIOR Europe",
+  "LinkedIn": "https://be.linkedin.com/in/filip-de-spiegeleire-9486a63",
+  "Email": ""
+ },
+ {
+  "Person": "Jozef 'Jos' Christiaens",
+  "Family/Entry": "Familie Christiaens | Metaalhandel Christiaens",
+  "Role": "Founder",
+  "Company": "Firma J. Christiaens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Christiaens",
+  "Family/Entry": "Familie Christiaens | Metaalhandel Christiaens",
+  "Role": "Bestuurder",
+  "Company": "Metaalhandel Christiaens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marie-Christine Christiaens",
+  "Family/Entry": "Familie Christiaens | Metaalhandel Christiaens",
+  "Role": "Bestuurder",
+  "Company": "Metaalhandel Christiaens",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jacques D'heygere",
+  "Family/Entry": "Philippe D'heygere | Lapauw",
+  "Role": "Father",
+  "Company": "Tobacco processing",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe D'heygere",
+  "Family/Entry": "Philippe D'heygere | Lapauw",
+  "Role": "Former Owner",
+  "Company": "Lapauw International",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Laurenty",
+  "Family/Entry": "Familie Laurenty | Laurenty",
+  "Role": "Owners",
+  "Company": "Laurenty",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Herman Wielfaert",
+  "Family/Entry": "Herman Wielfaert | Creafund",
+  "Role": "CEO / Senior Advisor",
+  "Company": "Creafund Asset Management",
+  "LinkedIn": "https://be.linkedin.com/in/herman-wielfaert-56349b6",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Penninck",
+  "Family/Entry": "Familie Penninck | Aannemingen Penninck",
+  "Role": "Bestuurder",
+  "Company": "Aannemingen Penninck",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Cathérine Verstuyft",
+  "Family/Entry": "Familie Penninck | Aannemingen Penninck",
+  "Role": "Bestuurder",
+  "Company": "Aannemingen Penninck",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Familie Croes",
+  "Family/Entry": "Familie Croes | Croes",
+  "Role": "Eigenaar",
+  "Company": "Croes (grondwerken)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jozef Van Remoortel",
+  "Family/Entry": "Familie Van Remoortel | Remo-Frit",
+  "Role": "Oprichter",
+  "Company": "Remo-Frit / Group Van Remoortel",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Frieda Apers",
+  "Family/Entry": "Familie Van Remoortel | Remo-Frit",
+  "Role": "Echtgenote oprichter",
+  "Company": "Remo-Frit",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Vincent De Gryse",
+  "Family/Entry": "Vincent De Gryse | Stop & Shop",
+  "Role": "Eigenaar",
+  "Company": "Stop & Shop",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lien Haerhout",
+  "Family/Entry": "Vincent De Gryse | Stop & Shop",
+  "Role": "Bestuurder",
+  "Company": "Stop & Shop",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Huyzentruyt",
+  "Family/Entry": "Familie Paul Huyzentruyt | Bouw Paul Huyzentruyt",
+  "Role": "Eigenaar",
+  "Company": "Bouw Paul Huyzentruyt / Woningbureau Paul Huyzentruyt",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Geert Vanhalst",
+  "Family/Entry": "Familie Vanhalst | Supra Bazar",
+  "Role": "Bestuurder",
+  "Company": "Supra Bazar",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nadine Vanhalst",
+  "Family/Entry": "Familie Vanhalst | Supra Bazar",
+  "Role": "Bestuurder",
+  "Company": "Supra Bazar",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Marcel Vanhalst",
+  "Family/Entry": "Familie Vanhalst | Supra Bazar",
+  "Role": "Oprichter (overleden)",
+  "Company": "Supra Bazar",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francis Heyse",
+  "Family/Entry": "Familie Francis Heyse | STAS",
+  "Role": "Eigenaar",
+  "Company": "STAS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Willy Heyse",
+  "Family/Entry": "Familie Francis Heyse | STAS",
+  "Role": "Voorgaande generatie",
+  "Company": "STAS",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Etienne Orens",
+  "Family/Entry": "Familie Etienne Orens | PIT",
+  "Role": "Oprichter/Zaakvoerder",
+  "Company": "PIT (Professional Innovation Techniques)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Temmerman",
+  "Family/Entry": "Peter Temmerman | Alheembouw",
+  "Role": "CEO/Eigenaar",
+  "Company": "Beehive (Alheembouw, Steenoven, ALB France)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Johan Heemeryck",
+  "Family/Entry": "Peter Temmerman | Alheembouw",
+  "Role": "Voormalig eigenaar",
+  "Company": "Alheembouw / Steenoven",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Geert Bert",
+  "Family/Entry": "Geert Bert | Kinepolis",
+  "Role": "Aandeelhouder",
+  "Company": "Kinepolis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Albert Bert",
+  "Family/Entry": "Geert Bert | Kinepolis",
+  "Role": "Stichter",
+  "Company": "Kinepolis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joost Bert",
+  "Family/Entry": "Geert Bert | Kinepolis",
+  "Role": "Management",
+  "Company": "Kinepolis",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Francis Hendrickx",
+  "Family/Entry": "Francis Hendrickx | Resolve",
+  "Role": "CEO",
+  "Company": "Resolve",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eddy Van Arwegen",
+  "Family/Entry": "Francis Hendrickx | Resolve",
+  "Role": "Partner",
+  "Company": "Resolve",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christ'l Joris",
+  "Family/Entry": "Familie Joris | ETAP",
+  "Role": "Voorzitter",
+  "Company": "ETAP",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Norbert Joris",
+  "Family/Entry": "Familie Joris | ETAP",
+  "Role": "Oprichter (overleden)",
+  "Company": "ETAP",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thierry Dehaeck",
+  "Family/Entry": "Thierry Dehaeck en Anne-Marie Delmulle | Pidy",
+  "Role": "Voormalig eigenaar",
+  "Company": "Pidy",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "André Dehaeck",
+  "Family/Entry": "Thierry Dehaeck en Anne-Marie Delmulle | Pidy",
+  "Role": "Oprichter",
+  "Company": "Pidy",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maurice Lippens",
+  "Family/Entry": "Familie Maurice Lippens | Ex-Fortis",
+  "Role": "Ex-voorzitter Fortis",
+  "Company": "Compagnie Het Zoute",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Leopold Lippens",
+  "Family/Entry": "Familie Maurice Lippens | Ex-Fortis",
+  "Role": "Burgemeester/Bestuurder",
+  "Company": "Compagnie Het Zoute",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Claude Gathon",
+  "Family/Entry": "Familie Gathon | Soco",
+  "Role": "Eigenaar",
+  "Company": "Soco / Mondial Immo",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean-Paul Depraetere",
+  "Family/Entry": "Familie Depraetere | Escolys",
+  "Role": "Gedelegeerd bestuurder",
+  "Company": "Escolys (Depraetere Industries)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Van Moerzeke",
+  "Family/Entry": "Luc Van Moerzeke | Vulpia",
+  "Role": "Oprichter/Eigenaar",
+  "Company": "Vulpia (Vulpia Care, Vulpia Real Estate)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maria Kesdekoglu-Kestekides",
+  "Family/Entry": "Familie Kestekidou | Leonidas",
+  "Role": "Leiding",
+  "Company": "Leonidas",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dimitrios Kestekoglou",
+  "Family/Entry": "Familie Kestekidou | Leonidas",
+  "Role": "Bestuurder",
+  "Company": "Leonidas",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Vassiliki Kestekidou",
+  "Family/Entry": "Familie Kestekidou | Leonidas",
+  "Role": "Bestuurder",
+  "Company": "Leonidas",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ben Van Loo",
+  "Family/Entry": "Ben Van Loo | A-Star Group",
+  "Role": "Oprichter",
+  "Company": "A-Star Group (ex-Xior Student Housing)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christian Theunissen",
+  "Family/Entry": "Ben Van Loo | A-Star Group",
+  "Role": "CEO",
+  "Company": "Xior Student Housing",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Wim Verhaeghe",
+  "Family/Entry": "Familie Verhaeghe (Hyboma)Hyboma",
+  "Role": "Bestuurder",
+  "Company": "Hyboma / Terra² / Zee & Polder",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Daniel Verhaeghe",
+  "Family/Entry": "Familie Verhaeghe (Hyboma)Hyboma",
+  "Role": "Oprichter",
+  "Company": "Hyboma",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guido Peleman",
+  "Family/Entry": "Familie Peleman | Unibind",
+  "Role": "Oprichter",
+  "Company": "Unibind",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Brigitte Peleman",
+  "Family/Entry": "Familie Peleman | Unibind",
+  "Role": "Bestuurder",
+  "Company": "Unibind",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Arnold Dewulf",
+  "Family/Entry": "Familie Dewulf | Power",
+  "Role": "Eigenaar (overleden)",
+  "Company": "Power",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Daniël Dewulf",
+  "Family/Entry": "Familie Dewulf | Power",
+  "Role": "Oprichter",
+  "Company": "Power",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Stefaan Brauwers",
+  "Family/Entry": "Familie Brauwers | Marva Parken",
+  "Role": "Hoofd bedrijf",
+  "Company": "Marva Parken",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Lucien Brauwers",
+  "Family/Entry": "Familie Brauwers | Marva Parken",
+  "Role": "Oprichter",
+  "Company": "Marva Parken / Shoppingcenter Middelkerke",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Vandeputte",
+  "Family/Entry": "Familie Vandeputte (olieslagerij)Vandeputte",
+  "Role": "Laboratoriumdeskundige",
+  "Company": "Vandeputte (olieslagerij)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christian Vandeputte",
+  "Family/Entry": "Familie Vandeputte (olieslagerij)Vandeputte",
+  "Role": "Financieel",
+  "Company": "Vandeputte (olieslagerij)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Vandeputte",
+  "Family/Entry": "Familie Vandeputte (olieslagerij)Vandeputte",
+  "Role": "Commercieel",
+  "Company": "Vandeputte (olieslagerij)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gustave Vandeputte",
+  "Family/Entry": "Familie Vandeputte (olieslagerij)Vandeputte",
+  "Role": "Oprichter",
+  "Company": "Vandeputte (olieslagerij)",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Vulsteke",
+  "Family/Entry": "Familie Luc Vulsteke | Vulsteke Bedrijfsgebouwen",
+  "Role": "Oprichter, actief sinds 1979",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nickolas Vulsteke",
+  "Family/Entry": "Familie Luc Vulsteke | Vulsteke Bedrijfsgebouwen",
+  "Role": "Tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Raymond Libeert",
+  "Family/Entry": "De familie Libeert | Libeco-Lagae",
+  "Role": "Managing Director, vierde generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Catherine Libeert",
+  "Family/Entry": "De familie Libeert | Libeco-Lagae",
+  "Role": "Medeeigenaar",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Libeert",
+  "Family/Entry": "De familie Libeert | Libeco-Lagae",
+  "Role": "Medeeigenaar (neef)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Philippe Winssinger",
+  "Family/Entry": "Familie Winssinger | Onbekend",
+  "Role": "Vastgoedexpert, oprichter DTZ Winssinger-Tie Leung",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gregor Thissen",
+  "Family/Entry": "Familie Thissen | Scabal",
+  "Role": "Sterke man, tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Peter Thissen",
+  "Family/Entry": "Familie Thissen | Scabal",
+  "Role": "Voorzitter Scabal",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Martin Mol",
+  "Family/Entry": "De familie Mol | Mol",
+  "Role": "CEO, leidde bedrijf 47 jaar, verkocht in 2022",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Herbert Hoeben",
+  "Family/Entry": "Familie Hoeben-Claes | Gondella",
+  "Role": "Eigenaar sinds 1988",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Johan Vandendriessche",
+  "Family/Entry": "Familie Vandendriessche | Massimo Dutti",
+  "Role": "Ondernemer mode en vastgoed",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Declerck",
+  "Family/Entry": "Familie Declerck-Allegaert | KLD",
+  "Role": "Oprichter Klinisch laboratorium (1994), verkocht in 2015",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alain De Laet",
+  "Family/Entry": "Familie De Laet-Huyghe | Brouwerij Huyghe",
+  "Role": "Vierde generatie, CEO Brouwerij Huyghe",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean De Laet",
+  "Family/Entry": "Familie De Laet-Huyghe | Brouwerij Huyghe",
+  "Role": "Derde generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hubert Van Houwaert",
+  "Family/Entry": "Familie Van Houwaert | Elite Paloumé Forwarders",
+  "Role": "Controleert 36% van Elite Paloumé Forwarders",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ignace De Brabandere",
+  "Family/Entry": "Familie De Brabandere | Bavik",
+  "Role": "Gedelegeerd bestuurder, vierde generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Bert De Brabandere",
+  "Family/Entry": "Familie De Brabandere | Bavik",
+  "Role": "Vijfde generatie, nam roer over in 2014",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Thomas Vermaelen",
+  "Family/Entry": "Thomas Vermaelen | Rode Duivel -",
+  "Role": "Profvoetballer, ex-Arsenal, FC Barcelona",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jan Bauwens",
+  "Family/Entry": "Familie Bauwens | Bauwens Beernem",
+  "Role": "Tweede generatie, leidde uitbouw (verkocht bedrijf in 2017)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicojan Bauwens",
+  "Family/Entry": "Familie Bauwens | Bauwens Beernem",
+  "Role": "Derde generatie, zoon van Jan",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jannic Bauwens",
+  "Family/Entry": "Familie Bauwens | Bauwens Beernem",
+  "Role": "Derde generatie, dochter van Jan",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Freddy Van Mechelen",
+  "Family/Entry": "Familie Van Mechelen | Sint-Joris",
+  "Role": "Vader, eerste generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Raf Van Mechelen",
+  "Family/Entry": "Familie Van Mechelen | Sint-Joris",
+  "Role": "Zoon, tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ruud Van Mechelen",
+  "Family/Entry": "Familie Van Mechelen | Sint-Joris",
+  "Role": "Zoon, tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alain Tytgadt",
+  "Family/Entry": "Familie Alain Tytgadt | Metalunion",
+  "Role": "Eigenaar Metalunion, ex-bestuurder KBC",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Didier Tytgadt",
+  "Family/Entry": "Familie Alain Tytgadt | Metalunion",
+  "Role": "Broer van Alain",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Karl Neyrinck",
+  "Family/Entry": "Familie Neyrinck | Bouwbedrijf EEG",
+  "Role": "Eigenaar EEG Group",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Griet Delporte",
+  "Family/Entry": "Familie Neyrinck | Bouwbedrijf EEG",
+  "Role": "Echtgenote van Karl",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Neyrinck",
+  "Family/Entry": "Familie Neyrinck | Bouwbedrijf EEG",
+  "Role": "Oprichter in 1936",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Rudi Gilen",
+  "Family/Entry": "Familie Gilen | Gilen Woonprojecten",
+  "Role": "Derde generatie, CEO",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Laurens Gilen",
+  "Family/Entry": "Familie Gilen | Gilen Woonprojecten",
+  "Role": "Vierde generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Ben Geybels",
+  "Family/Entry": "De familie Geybels | Group-GTS",
+  "Role": "CEO Group-GTS, kleinzoon van oprichter",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Vital Geybels",
+  "Family/Entry": "De familie Geybels | Group-GTS",
+  "Role": "Vader van Ben",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Karel Geybels",
+  "Family/Entry": "De familie Geybels | Group-GTS",
+  "Role": "Grootvader, oprichter jaren '50",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Sophie Vandoorne",
+  "Family/Entry": "Familie Vandoorne | Het Veer",
+  "Role": "CEO/Afgevaardigd bestuurder Het Veer",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eric Demets",
+  "Family/Entry": "Familie Gaby-Demets | Grondplatform.be",
+  "Role": "Tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Geert Gaby",
+  "Family/Entry": "Familie Gaby-Demets | Grondplatform.be",
+  "Role": "Echtgenoot van Tamara Demets, derde generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tamara Demets",
+  "Family/Entry": "Familie Gaby-Demets | Grondplatform.be",
+  "Role": "Derde generatie, dochter van Dirk",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nestor Vandoorselaere",
+  "Family/Entry": "Familie Vandoorselaere | Wonima",
+  "Role": "Eigenaar Wonima, Wondelgemse Bandencentrale",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jeremy Le Van",
+  "Family/Entry": "Jeremy Le Van | Onbekend",
+  "Role": "Oprichter Sunrise (verkocht aan Microsoft), Building Riva Medical",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre Valade",
+  "Family/Entry": "Jeremy Le Van | Onbekend",
+  "Role": "Medeoprichter Sunrise",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maurice Velge",
+  "Family/Entry": "Familie Maurice Velge | Havenondernemer en lid van de familie Bekaert",
+  "Role": "Baron, havenondernemer, overleden oktober 2020",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Carmine Loriente",
+  "Family/Entry": "Familie Loriente | Facozinc",
+  "Role": "Oprichter eind jaren '80",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Vittorio Loriente",
+  "Family/Entry": "Familie Loriente | Facozinc",
+  "Role": "Broer van Carmine",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Julien Mortier",
+  "Family/Entry": "Familie Mortier | Morti",
+  "Role": "Oprichter in 1965",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Luc Mortier",
+  "Family/Entry": "Familie Mortier | Morti",
+  "Role": "Tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Guy Mortier",
+  "Family/Entry": "Familie Mortier | Morti",
+  "Role": "Tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Koen Mortier",
+  "Family/Entry": "Familie Mortier | Morti",
+  "Role": "Tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jo Mortier",
+  "Family/Entry": "Familie Mortier | Morti",
+  "Role": "Tweede generatie",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Michel Counson",
+  "Family/Entry": "Familie Counson | EVS",
+  "Role": "Founder, CTO Hardware, Managing Director",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Laurent Minguet",
+  "Family/Entry": "Familie Counson | EVS",
+  "Role": "Co-founder (left company)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pierre L'Hoest",
+  "Family/Entry": "Familie Counson | EVS",
+  "Role": "Co-founder (left company)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maurice Meyer",
+  "Family/Entry": "Familie Meyer | Mayerline",
+  "Role": "Founder, former CEO (85% sold to JBC in 2012, family retains 15%)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Patrik Geurts",
+  "Family/Entry": "Familie Meyer | Mayerline",
+  "Role": "CEO (since 2009, son-in-law of Maurice Meyer)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Jean de Broux",
+  "Family/Entry": "Familie de Broux | Onbekend",
+  "Role": "Former CEO AG Insurance (1981-1983)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Eddy Vermeersch",
+  "Family/Entry": "Familie Vermeersch | Auberge du Pecheur",
+  "Role": "Founder (deceased 2014)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Serge Vermeersch",
+  "Family/Entry": "Familie Vermeersch | Auberge du Pecheur",
+  "Role": "Son, continuing construction and horeca activities",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dimitri Vermeersch",
+  "Family/Entry": "Familie Vermeersch | Auberge du Pecheur",
+  "Role": "Son, continuing construction and horeca activities",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Edgard Vermeersch",
+  "Family/Entry": "Familie Vermeersch | Auberge du Pecheur",
+  "Role": "Son, Founder & CEO Itineris",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Dieter Kuijl",
+  "Family/Entry": "Familie Kuijl | St. Paul",
+  "Role": "CEO and co-founder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Margo Kuijl",
+  "Family/Entry": "Familie Kuijl | St. Paul",
+  "Role": "Co-founder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christian Lefort",
+  "Family/Entry": "Familie Lefort | Presses et cisailles Lefort",
+  "Role": "Current manager (third generation)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nestor Lefort",
+  "Family/Entry": "Familie Lefort | Presses et cisailles Lefort",
+  "Role": "Founder (1947)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Yvon Lefort",
+  "Family/Entry": "Familie Lefort | Presses et cisailles Lefort",
+  "Role": "Second generation, took over from father",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Pascal Feryn",
+  "Family/Entry": "Familie Feryn | Feryn",
+  "Role": "Current manager (second generation)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Tania Feryn",
+  "Family/Entry": "Familie Feryn | Feryn",
+  "Role": "Second generation, active in business",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Cedric Feryn",
+  "Family/Entry": "Familie Feryn | Feryn",
+  "Role": "Third generation",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicola Feryn",
+  "Family/Entry": "Familie Feryn | Feryn",
+  "Role": "Third generation",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Willy Feryn",
+  "Family/Entry": "Familie Feryn | Feryn",
+  "Role": "Founder (1969, still active daily)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nico Daenens",
+  "Family/Entry": "Familie Nico Daenens | Dienstenaanhuis en Makkie",
+  "Role": "Founder & CEO",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Joris Brantegem",
+  "Family/Entry": "Familie Brantegem | Sobradis",
+  "Role": "CEO Sobradis, former CEO Brantano",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "André Brantegem",
+  "Family/Entry": "Familie Brantegem | Sobradis",
+  "Role": "Founder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Paul Kumpen",
+  "Family/Entry": "Familie Kumpen | Kumpen -",
+  "Role": "Former owner/manager (sold to Willemen in 2016)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Anthony Kumpen",
+  "Family/Entry": "Familie Kumpen | Kumpen -",
+  "Role": "Son, race driver, former commercial director Ridley",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Oliver Kumpen",
+  "Family/Entry": "Familie Kumpen | Kumpen -",
+  "Role": "Son, active in real estate",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Christopher Kumpen",
+  "Family/Entry": "Familie Kumpen | Kumpen -",
+  "Role": "Son, active in real estate",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nina Kumpen",
+  "Family/Entry": "Familie Kumpen | Kumpen -",
+  "Role": "Daughter, lawyer",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicolas Lombaerts",
+  "Family/Entry": "Nicolas Lombaerts | Rode Duivel -",
+  "Role": "Former professional footballer",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Olivier Herpain",
+  "Family/Entry": "Familie Herpain | Herpain",
+  "Role": "Administrateur délégué (Managing Director)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Roger Lambrecht",
+  "Family/Entry": "Familie Lambrecht | Lambrecht Nummer 1, Q Team, Speedy",
+  "Role": "Founder (deceased 2022)",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Maarten Michielssens",
+  "Family/Entry": "Maarten Michielssens | Energy | Vision",
+  "Role": "Founder & CEO",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Koen Delcourt",
+  "Family/Entry": "Maarten Michielssens | Energy | Vision",
+  "Role": "Co-founder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Hassan Mourhit",
+  "Family/Entry": "Maarten Michielssens | Energy | Vision",
+  "Role": "Co-founder",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Daniel Janssen",
+  "Family/Entry": "Familie Janssen",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Charles-Antoine Janssen",
+  "Family/Entry": "Familie Janssen",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicolas Janssen",
+  "Family/Entry": "Familie Janssen",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Raf Van Gorp",
+  "Family/Entry": "Familie Roussis – Van Gorp",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Theo Roussis (Theodoros Roussis)",
+  "Family/Entry": "Familie Roussis – Van Gorp",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Gunhilde Van Gorp",
+  "Family/Entry": "Familie Roussis – Van Gorp",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Axel Roussis",
+  "Family/Entry": "Familie Roussis – Van Gorp",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Werner de Spoelberch",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Elinor de Haas de Teichen",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Nicolas de Spoelberch",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Grégoire de Spoelberch",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "",
+  "Company": "",
+  "LinkedIn": "",
+  "Email": ""
+ },
+ {
+  "Person": "Alexis de Spoelberch",
+  "Family/Entry": "Familie Werner de Spoelberch",
+  "Role": "",
+  "Company": "",
   "LinkedIn": "",
   "Email": ""
  }
