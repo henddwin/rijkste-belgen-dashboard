@@ -156,6 +156,9 @@ async function boot() {
   buildSidebar();
 }
 
+const SCROLL_POS = {};
+function stateKey(s) { return s.type ? s.view+'/'+s.type : s.id ? s.view+'/'+s.id : s.view; }
+
 function route() {
   const h = location.hash.slice(1);
   if (!h) { STATE = {view:'home', id:null}; }
@@ -170,7 +173,10 @@ function route() {
   updateSidebarActive();
 }
 
-function nav(hash) { location.hash = hash; }
+function nav(hash) {
+  if (STATE.view) SCROLL_POS[stateKey(STATE)] = window.scrollY;
+  location.hash = hash;
+}
 
 // ═══════════════════════════════════════
 // SIDEBAR
@@ -245,7 +251,8 @@ function render() {
   else el.innerHTML = '<div class="text-center py-20 text-slate-400">Page not found</div>';
 
   lucide.createIcons();
-  window.scrollTo(0, 0);
+  const saved = SCROLL_POS[stateKey(STATE)];
+  setTimeout(() => window.scrollTo(0, saved || 0), 0);
 }
 
 // ── Helpers ──
@@ -370,7 +377,7 @@ function filterList(type) {
       <div class="card overflow-hidden">
         <table class="wiki-table">
           <thead><tr><th>#</th><th>Family</th><th>Location</th><th>Wealth</th><th>Companies</th><th>Contacts</th></tr></thead>
-          <tbody>${items.slice(0,200).map(f => `
+          <tbody>${items.map(f => `
             <tr class="cursor-pointer" onclick="nav('family/${f.id}')">
               <td class="font-mono text-slate-500 text-xs">${f.rank}</td>
               <td><span class="wiki-link">${f.name}</span></td>
@@ -381,7 +388,7 @@ function filterList(type) {
             </tr>
           `).join('')}</tbody>
         </table>
-        <div class="p-2 text-center text-xs text-slate-500">${items.length} results${items.length>200?' (showing 200)':''}</div>
+        <div class="p-2 text-center text-xs text-slate-500">${items.length} results</div>
       </div>`;
   } else if (type === 'companies') {
     let items = G.companies.filter(c => !q || c.name.toLowerCase().includes(q));
